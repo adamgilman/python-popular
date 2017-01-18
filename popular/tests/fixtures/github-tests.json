@@ -1,0 +1,47 @@
+interactions:
+- request:
+    body: null
+    headers:
+      Accept: ['*/*']
+      Accept-Encoding: ['gzip, deflate']
+      Connection: [keep-alive]
+      User-Agent: [python-requests/2.12.5]
+    method: GET
+    uri: https://raw.githubusercontent.com/kennethreitz/requests/master/requirements.txt
+  response:
+    body:
+      string: !!binary |
+        H4sIAAAAAAAAA02RPW/EIAyGd/+XokA+TjewdOhwUqVKGTqTxJejIZACuV7y62tIW3XD9uvXj40y
+        qlMhopeyYCd2hmfVoZFSsJJV0BvdT1I27AS9G7B391QpWE3hHb0aUcoqK1PRq+h8ShSMcxhcv0Zt
+        QjLmJePwYlSYciTguto+6JGKnNQCbjEunbapWrMC9EzWQe94UHHQMQzKjujdmg1FBRdtP5RIPGea
+        /6r8tC6tuuYWUcLsEnmCLWDpfBrE83tLT4IW8LaNM9oYkoyzkuKWmjJTQysuW8QQpSzzwkf09HOC
+        KjvlzD90Otpv9hjP8zaU2qmp4A0hgMfPlRTHVHKCoB9/dMG6r04ZQz8yz5ipSQXtctP2cfhxeEc/
+        7biO+ZbUWMM3TJNNaMYBAAA=
+    headers:
+      accept-ranges: [bytes]
+      access-control-allow-origin: ['*']
+      cache-control: [max-age=300]
+      connection: [keep-alive]
+      content-encoding: [gzip]
+      content-length: ['302']
+      content-security-policy: [default-src 'none'; style-src 'unsafe-inline']
+      content-type: [text/plain; charset=utf-8]
+      date: ['Wed, 18 Jan 2017 17:51:25 GMT']
+      etag: ['"82af21ccddea116d1b0ab77c7d2a15a00c72f587"']
+      expires: ['Wed, 18 Jan 2017 17:56:25 GMT']
+      source-age: ['234']
+      strict-transport-security: [max-age=31536000]
+      vary: ['Authorization,Accept-Encoding']
+      via: [1.1 varnish]
+      x-cache: [HIT]
+      x-cache-hits: ['1']
+      x-content-type-options: [nosniff]
+      x-fastly-request-id: [7033073067f8dd87a24317b7fe6d05cfa46eee21]
+      x-frame-options: [deny]
+      x-geo-block-list: ['']
+      x-github-request-id: ['0946:41BD:653CA:6BA0C:587FAA32']
+      x-served-by: [cache-lhr6324-LHR]
+      x-timer: ['S1484761885.342042,VS0,VE0']
+      x-xss-protection: [1; mode=block]
+    status: {code: 200, message: OK}
+version: 1

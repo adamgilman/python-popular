@@ -1,0 +1,15 @@
+{
+	"top100": [{
+		"name": "Example",
+		"github": "http://",
+		"total_references": 1231231,
+		"versions": [{
+			"version": "1.1",
+			"references": 1231
+		}, {
+			"version": "1.2",
+			"references": 2231
+		}]
+	}],
+	"futureELO": false
+}
