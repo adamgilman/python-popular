@@ -67,7 +67,7 @@ class PyPiDeps(object):
     @property
     def reqs(self):
         pypi_info = requests.get("https://pypi.python.org/pypi/%s/json" % self.package_name).json()
-
+        release_url = None
         for downloadable in pypi_info['releases'][pypi_info['info']['version']]:
             if 'tar.gz' in downloadable['url']:
                 archive_type = 'tar.gz'
@@ -77,7 +77,8 @@ class PyPiDeps(object):
                 if ('zip' in downloadable['url']) or ('whl' in downloadable['url']):
                     archive_type = 'zip'
                     release_url = downloadable['url']
-
+        if release_url is None:
+            return []
         package = requests.get(release_url)
         arc_file = StringIO(package.content)
         content = self._extract_setup_content(arc_file, archive_type)

@@ -6,6 +6,12 @@ class TestGetRequires(unittest.TestCase):
     def setUp(self):
         pass
     
+    def test_PyWaves(self):
+        self.ppd = PyPiDeps('PyWaves')
+        #pypi has no releases 
+        self.assertItemsEqual( self.ppd.reqs, [] )
+    
+    
     def test_inceptron(self):
         self.ppd = PyPiDeps('inceptron')
         self.assertItemsEqual( self.ppd.reqs, [] )

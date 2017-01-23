@@ -1,7 +1,7 @@
 import luigi
+import cPickle as pickle
 
 from pypideps import PyPiDeps
-import xmlrpclib
 
 class GetRepoRequirements(luigi.Task):
     package = luigi.Parameter()
@@ -15,12 +15,24 @@ class GetRepoRequirements(luigi.Task):
     def output(self):
         return luigi.LocalTarget('./datastore/%s/required' % self.package)
         
+
+class GetRepoInfo(luigi.Task):
+    pickled_packages = luigi.Parameter()
+    def requires(self):
+        packages = pickle.loads(self.pickled_packages)
+        yield [GetRepoRequirements(p) for p in packages]
+    def run(self): pass
+
 class GatherAllRepoInfo(luigi.Task):
     def requires(self):
         # only one api server so we'll use the deutschland mirror for downloading
-        client = xmlrpclib.ServerProxy('https://pypi.python.org/pypi')
-        packages = client.list_packages()
-        return [GetRepoRequirements(p) for p in packages[:100]]
+        packages = open('package.list', 'r').read().split("\n")
+        #return [GetRepoRequirements(p) for p in packages]
+        step = 10
+        for i in range(0, len(packages), step):
+            package_slice = packages[i:i+step]
+            wire_data = pickle.dumps(package_slice)
+            yield GetRepoInfo(wire_data)
         
     def run(self):
         pass
