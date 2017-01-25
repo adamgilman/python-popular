@@ -25,3 +25,11 @@ class TestCleaner(unittest.TestCase):
         
         reqs = ['line for line in open(requirements.txt)', '']
         self.assertEqual(_clean_requirements(reqs), [])
+        
+        reqs = ['', 'gocept.httpserverlayer >= 2.0.dev0', 'httpagentparser', 'plone.testing', 'selenium !=2.53.0', '!=2.53.1', '!=2.53.2,<3.0', 'Pillow', 'setuptools', '']
+        clean = ['gocept.httpserverlayer', 'httpagentparser', 'plone.testing', 'selenium', 'Pillow', 'setuptools']
+        self.assertEqual(_clean_requirements(reqs), clean)
+        
+        reqs = ["<3.0.0", '-))', '==dev', 'a.strip()']
+        self.assertEqual(_clean_requirements(reqs), [])
+        
