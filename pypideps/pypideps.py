@@ -66,7 +66,11 @@ class PyPiDeps(object):
     
     @property
     def reqs(self):
-        pypi_info = requests.get("https://pypi.python.org/pypi/%s/json" % self.package_name).json()
+        response = requests.get("https://pypi.python.org/pypi/%s/json" % self.package_name)
+        try:
+            pypi_info = response.json()
+        except ValueError: #no JSON in response
+            import pdb; pdb.set_trace()
         release_url = None
         for downloadable in pypi_info['releases'][pypi_info['info']['version']]:
             if 'tar.gz' in downloadable['url']:
