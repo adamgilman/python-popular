@@ -1,8 +1,7 @@
-import luigi, os
-import cPickle as pickle
+import luigi, os, json
+import os, requirements as reqq, simplejson, datetime, pickle, cPickle as pickle
 from pypideps import PyPiDeps, _clean_requirements
-import requirements as reqq
-import simplejson, datetime
+
 
 class GetRepoRequirements(luigi.Task):
     package = luigi.Parameter()
@@ -54,7 +53,17 @@ class GenerateRepoUtilisation(luigi.Task):
             out_content = simplejson.dumps(json_out, default=date_handler)
             out.write(out_content)
             out.close()
-            
+        
+        #generate a file with the most popular packages
+        popfile = open('./output/_popular.json', 'w')
+        popular_output = sorted( output_required_by.items(), key=lambda k: len(k[1]), reverse=True)
+        popfile.write( json.dumps(popular_output[:25]) )
+        popfile.close()
+        
+        
+        
+        #pickle.dump(output_required_by, open('output_required_by.pckl', 'w') )    
+        #pickle.dump(output_requires, open('output_requires.pckl', 'w') )
             
 '''
             requirements = _clean_requirements(requirements)
