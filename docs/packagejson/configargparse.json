@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.061369", "required_by": ["scriptabit", "corefgraph", "cti-toolkit", "okerrclient", "compiletools", "pynYNAB", "igv_plotter", "gwf", "pypez", "pyLanguagetool", "awscurl"], "requires": [], "package": "configargparse"}

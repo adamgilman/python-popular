@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.846855", "required_by": ["pyhsmm", "pylds", "pyslds", "autoregressive"], "requires": ["numpy", "scipy", "matplotlib", "nose", "future"], "package": "pybasicbayes"}

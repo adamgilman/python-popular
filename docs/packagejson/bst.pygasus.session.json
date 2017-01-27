@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.989886", "required_by": ["bst.pygasus.security"], "requires": ["setuptools"], "package": "bst.pygasus.session"}

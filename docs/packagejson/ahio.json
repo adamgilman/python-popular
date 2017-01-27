@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.705736", "required_by": ["moirai"], "requires": ["pySerial", "python-snap7"], "package": "ahio"}

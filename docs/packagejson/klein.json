@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.707087", "required_by": ["vxtwinio", "go-optouts", "aludel", "junebug", "txghserf", "bmu", "mimic", "marathon-acme", "congredi", "xwot-yadp", "haddock", "vumi-http-retry-api"], "requires": ["six", "Twisted", "werkzeug", "incremental"], "package": "klein"}

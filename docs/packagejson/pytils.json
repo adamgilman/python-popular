@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.020538", "required_by": ["django_blogposts", "jinja2-pluralize-filter", "tools", "asv_utils", "pybb", "elastic-trade-server.product_catalog", "virtenviro", "dartcms", "django-migrate-mail", "django-ckeditor-fc", "django-cked-fc", "asv_meta", "sensei2", "holydate", "miniature-ironman"], "requires": [], "package": "pytils"}

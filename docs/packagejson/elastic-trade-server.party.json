@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.365555", "required_by": ["elastic-trade-server.delivery", "elastic-trade-server.organization", "elastic-trade-server.stock"], "requires": ["django-autocomplete-light", "django-tastypie", "lxml", "defusedxml", "django-filer", "django-mptt", "elastic-trade-server.address"], "package": "elastic-trade-server.party"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.007971", "required_by": ["django-rosetta-grappelli2", "django-rosetta-inpage", "starterkit", "cyclope3", "o2w_web", "djangocms-rosetta", "django-xls2po", "o2w_cms", "twentytab-customadmin", "django-po2xls"], "requires": ["six", "Django", "requests", "polib", "microsofttranslator"], "package": "django-rosetta"}

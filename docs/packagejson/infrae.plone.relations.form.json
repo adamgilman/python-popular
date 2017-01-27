@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.134863", "required_by": ["collective.cmisquery"], "requires": ["infrae.plone.relations.schema", "setuptools"], "package": "infrae.plone.relations.form"}

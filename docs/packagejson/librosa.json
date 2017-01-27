@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.934482", "required_by": ["kapre", "aupyom", "muda", "amen", "expy", "acousticsim", "vmo", "radiotool"], "requires": ["audioread", "numpy", "scipy", "scikit-learn", "matplotlib", "joblib", "decorator", "six", "resampy"], "package": "librosa"}

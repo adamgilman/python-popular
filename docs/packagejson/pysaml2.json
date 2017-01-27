@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.267895", "required_by": ["djangosaml2-bernii", "djangosaml2-dj16", "ipquery", "tgapp-samlauth", "djangosaml2_tenant", "SATOSA", "djangosaml2", "djangosaml2-knaperek"], "requires": ["decorator", "requests", "future", "paste", "zope.interface", "repoze.who", "pycryptodomex", "pytz", "pyOpenSSL", "python-dateutil", "six"], "package": "pysaml2"}

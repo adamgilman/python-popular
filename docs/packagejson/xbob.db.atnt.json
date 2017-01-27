@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.750697", "required_by": ["xbob.example.faceverify"], "requires": ["setuptools", "bob", "xbob.db.verification.utils"], "package": "xbob.db.atnt"}

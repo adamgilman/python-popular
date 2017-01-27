@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.779253", "required_by": ["flask-restless-swagger", "opentaxforms", "groundwork-web", "flask-restless-swagger-2", "smalisca", "Flask-Marcos"], "requires": [], "package": "Flask-Restless"}

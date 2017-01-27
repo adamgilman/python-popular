@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.048629", "required_by": ["django-intranet", "coop_html_editor", "django-floppy-gumby", "mapentity", "samklang-utils", "apidev-djaloha", "django-djam", "django-select2light", "django-cruditor", "django-jam", "django-floppymodelforms", "django-admin-backend", "Djaloha", "coop-geo"], "requires": [], "package": "django-floppyforms"}

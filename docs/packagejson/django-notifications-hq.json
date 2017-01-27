@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.826878", "required_by": ["aristotle-metadata-registry"], "requires": ["django", "django-model-utils", "jsonfield", "pytz"], "package": "django-notifications-hq"}

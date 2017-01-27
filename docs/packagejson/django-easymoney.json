@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.431433", "required_by": ["django-ptree"], "requires": ["django", "babel", "six"], "package": "django-easymoney"}

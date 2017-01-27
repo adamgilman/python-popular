@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.478720", "required_by": ["shub", "scrapinghub-entrypoint-scrapy", "scrapy-hcf"], "requires": ["requests", "retrying", "six"], "package": "scrapinghub"}

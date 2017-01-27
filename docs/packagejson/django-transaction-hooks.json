@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.049339", "required_by": ["django-transactional-cleanup"], "requires": ["django"], "package": "django-transaction-hooks"}

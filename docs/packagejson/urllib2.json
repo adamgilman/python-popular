@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.963994", "required_by": ["yfinanceapi", "slacken", "odata1c", "django-sprites", "uniprot_mapper", "SooVee", "logline", "tjueweb", "pyechonest"], "requires": [], "package": "urllib2"}

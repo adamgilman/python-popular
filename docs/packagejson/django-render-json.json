@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.947275", "required_by": ["django-auth-json"], "requires": ["django"], "package": "django-render-json"}

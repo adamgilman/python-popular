@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.487005", "required_by": ["django-cached-hitcount", "djstopie", "user-agents", "django_access_logs", "django-zesty-metrics", "Slingr", "django-safety"], "requires": [], "package": "ua-parser"}

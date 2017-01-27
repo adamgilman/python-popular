@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.102978", "required_by": ["django-fluent-comments", "django-viewform", "django_coffee_table", "django-bootstrap-ui", "sigmacms-fluent-pages", "django-fluent-blogs", "cdn_assets", "django-polymorphic-tree", "django-fluent-faq", "django-fluent-contents", "django-fluent-pages"], "requires": [], "package": "django-tag-parser"}

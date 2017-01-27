@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.994449", "required_by": ["slc.calendarfetcher", "vs.event", "Products.SimpleCalendar", "p4a.plonecalendar"], "requires": ["setuptools", "dateable.kalends"], "package": "dateable.chronos"}

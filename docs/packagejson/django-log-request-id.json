@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.662760", "required_by": ["log4django"], "requires": ["django"], "package": "django-log-request-id"}

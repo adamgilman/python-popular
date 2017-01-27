@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.029129", "required_by": ["Mopidy-Iris", "lastcast", "voiceplay", "Mopidy-Scrobbler", "Mopidy-Spotmop", "MPD-Album-Art", "horse-lastfm", "jmbo-music", "panya-music", "playmusiccl"], "requires": ["six"], "package": "pylast"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.229038", "required_by": ["OQToolsUI", "openquake.engine"], "requires": ["mock", "h5py", "nose", "numpy", "scipy", "psutil", "shapely", "docutils", "decorator"], "package": "openquake.hazardlib"}

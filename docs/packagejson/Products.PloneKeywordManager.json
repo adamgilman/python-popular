@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.195227", "required_by": ["Products.PloneOrg", "inqbus.tagging", "vnccollab.portal"], "requires": ["setuptools", "plone.api"], "package": "Products.PloneKeywordManager"}

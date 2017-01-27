@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.702004", "required_by": ["collective.collage.imagetags"], "requires": ["setuptools", "collective.js.jqueryui", "plone.app.registry"], "package": "collective.imagetags"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.638217", "required_by": ["django-uri", "django-rlog", "django-ip", "django-detect"], "requires": [], "package": "django-six"}

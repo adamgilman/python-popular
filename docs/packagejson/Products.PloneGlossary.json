@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.868642", "required_by": ["zest.ploneglossaryhighlight"], "requires": ["setuptools", "wicked"], "package": "Products.PloneGlossary"}

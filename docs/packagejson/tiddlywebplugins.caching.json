@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.985627", "required_by": ["tiddlywebplugins.etagcache"], "requires": ["setuptools", "tiddlyweb", "python-memcached"], "package": "tiddlywebplugins.caching"}

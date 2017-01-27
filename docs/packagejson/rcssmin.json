@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.032826", "required_by": ["dry", "django_compressor", "gocept.recipe.bowerstaticbundler", "snowflake-css", "hyhyhy", "selfcontain"], "requires": [], "package": "rcssmin"}

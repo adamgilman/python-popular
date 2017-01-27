@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.668008", "required_by": ["inigo.templer", "ZopeSkel", "templer.plone"], "requires": ["setuptools", "templer.core", "templer.buildout"], "package": "templer.zope"}

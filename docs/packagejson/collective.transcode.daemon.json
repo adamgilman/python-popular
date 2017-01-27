@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.677233", "required_by": ["collective.transcode.recipe"], "requires": ["pycrypto", "Twisted", "pyasn1"], "package": "collective.transcode.daemon"}

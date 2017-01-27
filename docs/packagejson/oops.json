@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.979422", "required_by": ["oops_dictconfig", "oops_datedir_repo", "oops_wsgi", "oops_timeline", "oops_amqp", "oops_celery", "txpkgupload"], "requires": ["pytz"], "package": "oops"}

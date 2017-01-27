@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.675407", "required_by": ["flask_github_proxy"], "requires": ["Flask", "requests"], "package": "GitHub-Flask"}

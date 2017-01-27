@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.113861", "required_by": ["spacy"], "requires": ["numpy", "murmurhash", "cymem", "preshed", "tqdm", "cytoolz", "plac", "six", "flexmock"], "package": "thinc"}

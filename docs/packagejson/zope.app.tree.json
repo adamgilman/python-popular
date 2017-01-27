@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.238797", "required_by": ["zope.app.apidoc", "zope.app.preference", "gocept.zope3instance"], "requires": ["setuptools", "zope.container", "zope.component", "zope.interface", "zope.location", "zope.publisher", "zope.schema", "zope.security", "zope.traversing"], "package": "zope.app.tree"}

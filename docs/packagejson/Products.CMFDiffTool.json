@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.868522", "required_by": ["plone.app.upgrade", "Products.CMFEditions", "collective.dexteritydiff"], "requires": ["setuptools", "zope.interface", "Products.CMFCore", "Products.GenericSetup", "Acquisition", "Zope2"], "package": "Products.CMFDiffTool"}

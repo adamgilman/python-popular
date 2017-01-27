@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.852470", "required_by": ["battalion", "pyversion", "pyul", "setuptools.autocythonize", "waybill", "django-alexa"], "requires": ["pbr", "pyversion"], "package": "pyversion"}

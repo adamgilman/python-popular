@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.101322", "required_by": ["skywise-platform", "skywise-historical-obs", "skywise-insight", "skywise-model"], "requires": ["arrow", "geojson", "gevent", "grequests", "requests", "voluptuous"], "package": "skywise-rest-client"}

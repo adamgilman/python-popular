@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.467526", "required_by": ["service-platform", "oriole", "oriole-service"], "requires": ["nameko", "sqlalchemy"], "package": "nameko-sqlalchemy"}

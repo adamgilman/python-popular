@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.617417", "required_by": ["django-wamp-client", "rest_channels", "aristotle-metadata-registry", "django-haystack-channels", "django-channels-panel", "channels_api", "django-parakeet", "channelsrestframework", "django-knocker"], "requires": ["Django", "asgiref", "daphne"], "package": "channels"}

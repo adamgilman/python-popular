@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.050000", "required_by": ["datatype"], "requires": ["pytest", "pytest-cov"], "package": "doctools"}

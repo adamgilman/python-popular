@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.838011", "required_by": ["norduniclient", "prov-db-connector", "neomodel", "neo4ast"], "requires": [], "package": "neo4j-driver"}

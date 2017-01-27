@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.918986", "required_by": ["bst.pygasus.core"], "requires": ["setuptools", "Paste", "PasteDeploy", "waitress", "transaction"], "package": "bst.pygasus.wsgi"}

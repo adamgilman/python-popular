@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.331055", "required_by": ["score.svg"], "requires": ["score.webassets", "score.tpl", "libsass"], "package": "score.css"}

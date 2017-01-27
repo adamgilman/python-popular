@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.103741", "required_by": ["phlawg", "logmatic-python", "microcosm-logging", "epicurus", "scutils", "tipsi_tools", "log-to-kafka", "scrapekit", "flask_github_proxy", "webcommon", "tag2env"], "requires": ["setuptools"], "package": "python-json-logger"}

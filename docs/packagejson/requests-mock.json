@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.831982", "required_by": ["battlecat", "planet", "itcsmsgwclient", "django-bulbs", "lex4py", "mock-services", "pytest-ubersmith"], "requires": ["pbr"], "package": "requests-mock"}

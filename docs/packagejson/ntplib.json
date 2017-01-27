@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.922887", "required_by": ["kron", "pyp2p", "SinaL2", "joes-ntpdate", "collectd-ntp", "NetStorageKit", "dHydra"], "requires": [], "package": "ntplib"}

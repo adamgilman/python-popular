@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.600810", "required_by": ["cchen224-ec2", "thebot-instagram", "mezzanine-instagram-quickphotos", "emencia-django-socialaggregator", "django-instagram-api", "djangocms-instagram", "django-quick-photos", "django_social_followers", "collagram", "mezzanine_instagram"], "requires": ["simplejson", "httplib2", "six"], "package": "python-instagram"}

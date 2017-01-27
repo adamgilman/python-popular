@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.229533", "required_by": ["zope.app.pythonpage"], "requires": ["setuptools", "zope.interface"], "package": "zope.app.interpreter"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.058669", "required_by": ["collective.venue"], "requires": ["setuptools", "plone.api", "plone.app.textfield", "plone.autoform", "plone.behavior", "plone.indexer", "plone.supermodel", "Products.CMFPlone", "pycountry", "zope.i18nmessageid", "zope.interface", "zope.schema"], "package": "collective.address"}

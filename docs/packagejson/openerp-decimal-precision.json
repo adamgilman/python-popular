@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.160434", "required_by": ["openerp-analytic", "openerp-hr-payroll", "openerp-product", "openerp-hr-recruitment", "openerp-marketing-campaign"], "requires": ["openerp-core"], "package": "openerp-decimal-precision"}

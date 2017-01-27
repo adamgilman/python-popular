@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.894656", "required_by": ["resolwe"], "requires": ["six"], "package": "django-versionfield2"}

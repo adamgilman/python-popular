@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.181703", "required_by": ["horse-forecastio", "horse-nonsense", "horse-lastfm"], "requires": ["six", "websocket-client", "requests", "sqlobject", "flask"], "package": "horse"}

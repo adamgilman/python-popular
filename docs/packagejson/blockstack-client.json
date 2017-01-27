@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.436543", "required_by": ["blockstack-gpg", "blockstack-server", "blockstack-core", "blockstack-file"], "requires": ["virtualchain", "protocoin", "blockstack-profiles", "pybitcoin", "blockstack-zones", "defusedxml", "keylib", "mixpanel", "pycrypto", "simplejson", "jsonschema", "basicrpc", "boto"], "package": "blockstack-client"}

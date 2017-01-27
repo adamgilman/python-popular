@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.918963", "required_by": ["dsc"], "requires": ["psutil", "fasteners", "pyyaml", "pygments", "nbformat", "nbconvert", "ipython", "notebook", "ptpython", "spyder", "networkx", "pydotplus"], "package": "sos"}

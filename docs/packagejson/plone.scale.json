@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.957178", "required_by": ["ftw.avatar", "kotti_image_gallery", "kotti_image", "plone.app.blob"], "requires": ["setuptools", "six"], "package": "plone.scale"}

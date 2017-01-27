@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.660000", "required_by": ["rattail_locsms"], "requires": ["upyodbc", "uSQLAlchemy"], "package": "pyLOCSMS"}

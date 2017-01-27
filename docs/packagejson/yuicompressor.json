@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.040617", "required_by": ["django-datebook", "web_skeleton", "django-versioned-static", "minify", "blogdegins", "AssetPackager"], "requires": [], "package": "yuicompressor"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.976127", "required_by": ["geomeppy"], "requires": ["munch", "beautifulsoup4", "pytest", "tinynumpy", "six", "decorator"], "package": "eppy"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.020633", "required_by": ["dm.zope.rpc", "dm.zope.saml2", "dm.zope.reseller"], "requires": ["zope.schema", "dm.reuse", "decorator"], "package": "dm.zope.schema"}

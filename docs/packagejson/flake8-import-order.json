@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.825086", "required_by": ["kwalitee", "imps", "kagiso_flake8", "polysquare-setuptools-lint"], "requires": ["pycodestyle"], "package": "flake8-import-order"}

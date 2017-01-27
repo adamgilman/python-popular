@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.316535", "required_by": ["invenio-github"], "requires": ["Flask-BabelEx", "Flask-Login", "Flask", "SQLAlchemy-Continuum", "SQLAlchemy-Utils[encrypted"], "package": "invenio-deposit"}

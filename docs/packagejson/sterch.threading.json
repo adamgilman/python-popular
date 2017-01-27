@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.744024", "required_by": ["sterch.conveyor"], "requires": ["setuptools", "zope.interface", "zope.schema", "zope.configuration", "zope.component", "zope.security"], "package": "sterch.threading"}

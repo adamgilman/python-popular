@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.732518", "required_by": ["rattail", "rattail_cognitive", "rattail_livnat", "rattail_locsms", "rattail_brdata"], "requires": ["psycopg2", "rattail", "Tailbone"], "package": "rattail"}

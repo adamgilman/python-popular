@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.320683", "required_by": ["twentytab-choicesfilter"], "requires": ["Django", "django-appconf"], "package": "twentytab-select2"}

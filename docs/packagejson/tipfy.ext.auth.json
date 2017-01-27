@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.285677", "required_by": ["tipfy.ext.auth.rpx", "tipfy.ext.auth.openid", "tipfy.ext.auth.facebook", "tipfy.ext.auth.oauth"], "requires": ["tipfy", "tipfy.ext.session"], "package": "tipfy.ext.auth"}

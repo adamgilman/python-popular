@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.021952", "required_by": ["vectortools", "cyrss", "talon", "simple-site-crawler", "invenio-previewer", "scrapybox", "charlesbot", "cockatiel", "learnbysubs", "flanker", "framewirc", "django-versioned-static-url"], "requires": [], "package": "cchardet"}

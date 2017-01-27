@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.914121", "required_by": ["django-secure-auth", "wheelcms_comments", "cyclope3", "mezzcaptcha", "django-richtext-blog", "sveeaccounts", "cmsplugin-feedback", "django-super-cms"], "requires": ["setuptools", "six", "Django", "Pillow"], "package": "django-simple-captcha"}

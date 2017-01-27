@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.808918", "required_by": ["ChatExchange", "OpenAddresses-Machine", "django-bulbs", "django-hhypermap", "pyiss", "django-registry", "billomat", "aqizh"], "requires": ["requests"], "package": "httmock"}

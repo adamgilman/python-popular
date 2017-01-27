@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.771852", "required_by": ["collective.megaphonesql", "collective.megaphonecicerolookup"], "requires": ["setuptools", "z3c.form", "Plone", "plone.z3cform", "plone.app.z3cform", "Products.PloneFormGen", "Products.TemplateFields", "collective.z3cform.wizard", "plone.app.jquerytools", "uuid"], "package": "collective.megaphone"}

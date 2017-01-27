@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.077145", "required_by": ["breaker"], "requires": ["pyyaml", "sherlock", "fundamentals", "astrocalc", "neddy", "sloancone", "HMpTy", "numpy"], "package": "qub-sherlock"}

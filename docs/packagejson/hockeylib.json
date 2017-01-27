@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.947819", "required_by": ["hanotify"], "requires": ["pycurl", "logging"], "package": "hockeylib"}

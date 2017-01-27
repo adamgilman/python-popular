@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.870138", "required_by": ["agx.generator.uml"], "requires": ["setuptools", "agx.core", "node.ext.xmi", "node.ext.uml"], "package": "agx.transform.xmi2uml"}

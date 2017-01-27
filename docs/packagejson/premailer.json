@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.579907", "required_by": ["emili", "frasco-emails", "agsci.blognewsletter", "django-classymail", "django-maja-newsletter", "emails", "django-constant-contact", "bpbroker", "munch-core", "longboard", "live-premailer", "moya"], "requires": ["lxml", "cssselect", "cssutils", "requests"], "package": "premailer"}

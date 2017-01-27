@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.086451", "required_by": ["polysquare-setuptools-lint"], "requires": ["flake8", "pydocstyle", "flake8-polyfill"], "package": "flake8-docstrings"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.793875", "required_by": ["collective.idashboard"], "requires": ["setuptools", "collective.js.jqueryui"], "package": "collective.alerts"}

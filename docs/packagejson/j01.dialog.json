@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.818848", "required_by": ["j01.wizard", "j01.searcher", "j01.form"], "requires": ["setuptools", "j01.jsonrpc", "z3c.jsonrpc", "z3c.template", "zope.interface", "zope.publisher"], "package": "j01.dialog"}

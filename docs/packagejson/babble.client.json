@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.174164", "required_by": ["actionbar.babble"], "requires": ["setuptools", "simplejson", "babble.server", "Products.CMFPlone", "five.grok", "plone.app.dexterity", "plone.app.referenceablebehavior", "plone.app.portlets"], "package": "babble.client"}

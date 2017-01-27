@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.775487", "required_by": ["plone.app.deco"], "requires": ["setuptools", "lxml", "zope.component", "zope.viewlet", "zope.i18nmessageid", "zope.browsermenu", "zope.interface", "zope.traversing", "plone.memoize", "plone.tiles", "Acquisition", "plone.app.widgets", "Products.CMFPlone", "plone.app.registry"], "package": "plone.app.toolbar"}

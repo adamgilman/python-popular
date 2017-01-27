@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.341601", "required_by": ["enaml-extensions", "angr-management"], "requires": ["distribute", "atom", "kiwisolver", "ply"], "package": "enaml"}

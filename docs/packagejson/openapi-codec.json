@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.209164", "required_by": ["django-rest-swagger-docstring", "django-rest-swagger", "drf-swagger-extras"], "requires": ["coreapi"], "package": "openapi-codec"}

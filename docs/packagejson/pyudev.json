@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.921501", "required_by": ["rivalcfg", "rshell", "rtslib-fb", "gamepadinfo", "easy_phi", "ioschedd", "KiTT", "pg_pybench", "solaar", "hwd", "pydevDAG"], "requires": ["six"], "package": "pyudev"}

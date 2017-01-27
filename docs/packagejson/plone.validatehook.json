@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.845498", "required_by": ["collective.readunread", "collective.portlet.usertrack"], "requires": ["setuptools", "zope.event", "zope.interface", "zope.component"], "package": "plone.validatehook"}

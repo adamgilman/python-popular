@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.094876", "required_by": ["collective.multilingualtools"], "requires": [], "package": "plone.app.multilingual[dexterity"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.141123", "required_by": ["chembl_assay_network", "chembl_migration_model", "chembl_business_model", "chembl_compatibility"], "requires": [], "package": "chembl-core-model"}

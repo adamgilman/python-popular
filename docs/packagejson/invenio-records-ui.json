@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.015797", "required_by": ["invenio-previewer", "invenio-marc21", "invenio-base"], "requires": ["Flask-BabelEx", "Flask", "invenio-pidstore", "invenio-records"], "package": "invenio-records-ui"}

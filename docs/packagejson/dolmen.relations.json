@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.046434", "required_by": ["silva.core.references"], "requires": ["grokcore.component", "setuptools", "zc.relation", "zope.component", "zope.container", "zope.event", "zope.i18nmessageid", "zope.interface", "zope.intid", "zope.lifecycleevent", "zope.schema"], "package": "dolmen.relations"}

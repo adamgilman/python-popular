@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.589166", "required_by": ["basicnnets", "scnn", "theano-word2vec", "deepmodels", "deepsurv"], "requires": [], "package": "lasagne"}

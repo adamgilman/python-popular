@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.292943", "required_by": ["onegov.org", "onegov.event"], "requires": ["more.webassets", "onegov.core", "onegov.form"], "package": "onegov.gis"}

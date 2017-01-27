@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.957060", "required_by": ["snpy", "kabuki", "multichain_mcmc", "sortseq_tools", "kcbo", "gimmemotifs", "cvxstoc", "pymcdream", "sortseq", "MPAthic"], "requires": [], "package": "pymc"}

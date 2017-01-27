@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.379544", "required_by": ["tempodb-archive"], "requires": ["python-dateutil", "requests", "simplejson", "pytz", "sphinx"], "package": "tempodb"}

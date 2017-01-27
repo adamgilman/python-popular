@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.874530", "required_by": ["dolmen.app.authentication"], "requires": ["setuptools", "grokcore.component", "zope.component", "zope.container", "zope.i18nmessageid", "zope.interface", "zope.location", "zope.pluggableauth", "zope.schema", "zope.security"], "package": "dolmen.authentication"}

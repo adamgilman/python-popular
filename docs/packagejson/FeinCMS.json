@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.091897", "required_by": ["feincms-photos", "pennyblack", "feincms-grid", "feincms-elephantblog", "feincms-articles", "feincms-pagepermissions", "feincms-banners", "feincms-jobs", "incuna-videos", "woodstock"], "requires": ["Django", "django-mptt", "Pillow", "pytz"], "package": "FeinCMS"}

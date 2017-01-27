@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.874428", "required_by": ["pp.client-plone"], "requires": ["setuptools", "logbook", "paramiko", "dropboxfs", "dropbox", "mechanize", "splinter", "lxml", "fs", "boto"], "package": "pp.core"}

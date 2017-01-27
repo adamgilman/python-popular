@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.270839", "required_by": ["glue-synapse"], "requires": ["pyopengl", "glueviz"], "package": "glue-vispy-viewers"}

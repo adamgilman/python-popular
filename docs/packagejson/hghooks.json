@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.036512", "required_by": ["yaco.hghooks", "githooks"], "requires": ["setuptools"], "package": "hghooks"}

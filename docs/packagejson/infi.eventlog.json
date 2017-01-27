@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.737793", "required_by": ["infi.logs_collector"], "requires": ["Brownie", "infi.cwrap", "infi.pyutils", "infi.wioctl", "setuptools", "xmltodict"], "package": "infi.eventlog"}

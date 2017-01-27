@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.980186", "required_by": ["queries", "seed-auth-api"], "requires": ["six"], "package": "psycopg2cffi"}

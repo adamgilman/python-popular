@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.927599", "required_by": ["aiobottle", "aio-pika", "movie-info-downloader", "pymobile", "djwebsockets", "aiopipes", "twunnel3", "bkmaker", "aioevents", "rainfall", "AtomicPuppy", "pubkey", "async-signal", "tasklocals", "ktail", "engel", "grapy", "jcn", "Superdesk-Core"], "requires": [], "package": "asyncio"}

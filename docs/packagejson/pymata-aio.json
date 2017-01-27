@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.061163", "required_by": ["s2aiomulti", "s2aio", "xideco"], "requires": ["pyserial", "websockets"], "package": "pymata-aio"}

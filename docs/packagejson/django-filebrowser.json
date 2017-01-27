@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.887005", "required_by": ["finch-cms", "mezzanine-grappelli", "Ximpia", "o2w_web", "django-tailordev-cms", "django-richtext-blog", "pixelcms-server", "django-unisender", "o2w_cms", "django-pages"], "requires": ["django-grappelli"], "package": "django-filebrowser"}

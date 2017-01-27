@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.670779", "required_by": ["nodeconductor", "ipgeobase-importer", "nodeconductor-openstack", "django-dynamicstatics", "MonkeyCommons", "django-oscar-adyen", "lrn_click", "GitHubSyncPlugin", "kcli"], "requires": [], "package": "iptools"}

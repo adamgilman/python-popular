@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.866236", "required_by": ["circlator", "ariba"], "requires": ["pyfastaq"], "package": "pymummer"}

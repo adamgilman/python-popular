@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.448436", "required_by": ["pyannote.db.gameofthrones", "pyannote.algorithms", "pyannote.db.etape", "pyannote.db.repere", "pyannote.server", "pyannote.db.odessa.ami"], "requires": ["pyannote.core", "pysrt", "six"], "package": "pyannote.parser"}

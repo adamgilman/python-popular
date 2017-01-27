@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.707978", "required_by": ["OortPub"], "requires": ["rdflib", "setuptools"], "package": "Oort"}

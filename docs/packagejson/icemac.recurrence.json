@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.766221", "required_by": ["icemac.ab.calendar"], "requires": ["gocept.month", "grokcore.component", "setuptools", "zope.cachedescriptors", "zope.component", "zope.globalrequest", "zope.i18nmessageid", "zope.interface"], "package": "icemac.recurrence"}

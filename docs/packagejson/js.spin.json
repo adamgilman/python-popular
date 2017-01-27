@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.948781", "required_by": ["js.jquery_spin"], "requires": ["fanstatic", "js.jquery", "setuptools"], "package": "js.spin"}

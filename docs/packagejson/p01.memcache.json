@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.418716", "required_by": ["p01.session"], "requires": ["setuptools", "zope.component", "zope.configuration", "zope.interface", "zope.schema", "zope.security"], "package": "p01.memcache"}

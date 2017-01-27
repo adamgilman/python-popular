@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.524139", "required_by": ["elastalert"], "requires": ["requests"], "package": "aws-requests-auth"}

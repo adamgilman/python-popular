@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.172639", "required_by": ["ztfy.ldap", "ldapgroups", "gum"], "requires": ["ZODB3", "ldapadapter", "setuptools", "zope.pluggableauth", "zope.container", "zope.i18nmessageid", "zope.interface", "zope.schema"], "package": "ldappas"}

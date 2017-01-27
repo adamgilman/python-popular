@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.780017", "required_by": ["cone.ugm"], "requires": ["setuptools", "yafowil", "bda.intellidatetime"], "package": "yafowil.widget.datetime"}

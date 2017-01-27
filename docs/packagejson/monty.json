@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.003846", "required_by": ["SSHCustodian", "flamyngo", "pymatgen-db", "twod_materials", "mpcontribs", "pymatgen", "pymatgen-diffusion", "custodian", "FireWorks"], "requires": ["six"], "package": "monty"}

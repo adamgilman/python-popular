@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.557119", "required_by": ["BoxOfficeMojo", "vcrpy-unittest", "django-bulbs", "nose-detecthttp", "django-debug-toolbar-http-client", "k2catalogue", "BeautifulRequests", "constructor-io"], "requires": ["PyYAML", "wrapt", "six"], "package": "vcrpy"}

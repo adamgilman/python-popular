@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.325254", "required_by": ["marcx", "marc2bib", "pdw", "marcdb", "siskin", "xgitberg"], "requires": ["six"], "package": "pymarc"}

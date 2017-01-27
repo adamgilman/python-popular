@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.117550", "required_by": ["ztfy.i18n", "z3c.language.negotiator", "ztfy.myams"], "requires": ["setuptools", "zope.app.generations", "zope.component", "zope.interface", "zope.publisher", "zope.session"], "package": "z3c.language.session"}

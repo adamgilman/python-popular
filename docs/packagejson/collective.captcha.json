@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.079228", "required_by": ["garbas.forum", "sc.apyb.pythonbrasil6"], "requires": ["setuptools", "skimpyGimpy", "plone.keyring"], "package": "collective.captcha"}

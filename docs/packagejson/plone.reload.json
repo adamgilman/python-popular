@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.028601", "required_by": ["collective.autorestart"], "requires": ["setuptools", "zope.component", "zope.interface", "zope.processlifetime", "zope.publisher", "zope.site", "zope.testing", "Zope2"], "package": "plone.reload"}

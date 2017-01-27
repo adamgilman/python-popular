@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.457440", "required_by": ["vcab", "piriti"], "requires": ["Flask", "uwsgi"], "package": "Flask-uWSGI-WebSocket"}

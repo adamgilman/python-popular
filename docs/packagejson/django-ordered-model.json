@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.070030", "required_by": ["django-homebanking", "django-yaat", "django-plans"], "requires": [], "package": "django-ordered-model"}

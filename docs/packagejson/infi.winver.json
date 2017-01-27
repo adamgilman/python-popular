@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.963000", "required_by": ["infi.run_as", "infi.wmpio"], "requires": ["infi.cwrap", "infi.instruct", "infi.registry", "setuptools"], "package": "infi.winver"}

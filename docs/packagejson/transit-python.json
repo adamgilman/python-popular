@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.612906", "required_by": ["Flask-Transit", "sanity-nupic"], "requires": ["python-dateutil", "msgpack-python"], "package": "transit-python"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.438112", "required_by": ["prettyplotlib", "discoursegraphs", "plumbing", "root_optimize", "topicexplorer", "fscLVM", "phylotoast", "auromat", "PlotDraw", "ggplot", "mpltex"], "requires": [], "package": "brewer2mpl"}

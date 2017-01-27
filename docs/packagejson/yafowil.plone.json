@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.826556", "required_by": ["collective.folderorder", "collective.awstats", "pas.plugins.ldap", "collective.gmaplocation"], "requires": ["setuptools", "Products.CMFPlone", "yafowil", "yafowil.yaml"], "package": "yafowil.plone"}

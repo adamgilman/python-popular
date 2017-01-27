@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.873126", "required_by": ["django-cached-hitcount", "apache-log-parser", "s3-log-parser", "cloudfront-log-parser", "dj-analytics", "elb-log-parser", "django-zesty-metrics", "django-user_agents", "pyramid_useragent"], "requires": ["ua-parser"], "package": "user-agents"}

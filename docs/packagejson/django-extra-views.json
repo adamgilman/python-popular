@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.650225", "required_by": ["PO-Projects", "django-skwissh", "django-admin2", "dartcms", "cyw-bogus-0.1.95"], "requires": ["Django", "six"], "package": "django-extra-views"}

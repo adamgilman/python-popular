@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.694921", "required_by": ["hot", "5minute", "hastexo-xblock"], "requires": ["pbr"], "package": "python-heatclient"}

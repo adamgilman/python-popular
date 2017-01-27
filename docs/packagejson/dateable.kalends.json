@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.706121", "required_by": ["dateable.chronos", "vs.event", "Products.SimpleCalendar", "p4a.plonecalendar", "p4a.ploneevent"], "requires": ["setuptools"], "package": "dateable.kalends"}

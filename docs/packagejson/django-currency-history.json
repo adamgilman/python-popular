@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.650880", "required_by": ["django-account-keeping"], "requires": ["django", "django-libs", "simplejson", "requests", "beautifulsoup4"], "package": "django-currency-history"}

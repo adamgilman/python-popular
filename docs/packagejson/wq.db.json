@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.979184", "required_by": ["vera", "wq", "data-wizard"], "requires": ["Django", "djangorestframework", "django-mustache", "html-json-forms", "natural-keys", "swapper", "Markdown"], "package": "wq.db"}

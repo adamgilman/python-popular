@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.112985", "required_by": ["x84", "rokucli", "redterm", "timber", "lacli", "icheck", "mux-twitter", "pocketwalk", "xalc", "keybox", "ebimporter.py", "django-q", "ptee"], "requires": [], "package": "blessed"}

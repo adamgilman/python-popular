@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.929309", "required_by": ["plone.app.deco"], "requires": ["setuptools", "zope.schema", "zope.i18nmessageid", "plone.directives.form", "plone.tiles", "plone.app.z3cform", "plone.app.tiles"], "package": "plone.app.texttile"}

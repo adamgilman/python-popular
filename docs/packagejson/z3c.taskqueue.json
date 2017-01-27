@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.955052", "required_by": ["five.taskqueue", "horae.core"], "requires": ["setuptools", "zope.interface", "zope.component", "zope.schema", "zope.configuration", "zope.container", "zc.queue", "zope.app.publication"], "package": "z3c.taskqueue"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.407663", "required_by": ["WTForms-Components", "wishbone_function_twitterbookmark", "SQLAlchemy-Searchable", "satnogsclient", "img-dl", "ffire", "pnc-cli", "plankton", "QAD", "eReuse-DeviceHub", "search_engine_app", "sbd", "spam-lists", "naval", "gtool", "git-webhook"], "requires": ["six", "decorator"], "package": "validators"}

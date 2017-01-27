@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.132018", "required_by": ["skosprovider", "Flask-Potion", "Agora-Fountain", "flex", "post-qa", "django-cpe", "ocds-extension-tester", "tentd", "cider"], "requires": ["regex"], "package": "rfc3987"}

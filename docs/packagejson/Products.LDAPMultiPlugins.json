@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.071384", "required_by": ["collective.genericsetup.ldap", "vs.genericsetup.ldap", "Products.PloneLDAP"], "requires": ["setuptools", "python-ldap", "Products.LDAPUserFolder", "Products.PluggableAuthService"], "package": "Products.LDAPMultiPlugins"}

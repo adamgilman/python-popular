@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.766206", "required_by": ["AIKIF", "restflow", "barmanapi", "dockerfly", "lifepim", "expfactory", "flask-zeus", "telepathy", "BigchainDB"], "requires": [], "package": "flask-restful"}

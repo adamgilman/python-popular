@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.603467", "required_by": ["burp-ui-sql", "invenio-oauthclient", "invenio-records", "panoramix", "CryDeer", "caravel", "creavel", "Flask-Admin-Utils", "onegov.file", "Active-Alchemy", "sqlalchemy-diff", "invenio-sequencegenerator", "superset_hand", "viralata", "superset_tddv", "superset"], "requires": [], "package": "sqlalchemy-utils"}

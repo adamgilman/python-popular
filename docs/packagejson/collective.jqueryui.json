@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.239938", "required_by": ["collective.z3cform.datepicker", "archetypes.searchwidget"], "requires": ["setuptools"], "package": "collective.jqueryui"}

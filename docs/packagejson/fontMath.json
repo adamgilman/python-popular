@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.997332", "required_by": ["MutatorMath"], "requires": ["fonttools", "ufoLib"], "package": "fontMath"}

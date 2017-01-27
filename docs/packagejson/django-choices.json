@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.371100", "required_by": ["battlecat", "django-kb", "django-label-templates"], "requires": [], "package": "django-choices"}

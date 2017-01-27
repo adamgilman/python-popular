@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.554823", "required_by": ["eea.facetednavigationtaxonomiccheckbox"], "requires": ["setuptools", "z3c.jbot", "plone.browserlayer", "plone.indexer", "plone.app.vocabularies", "plone.app.z3cform", "Products.CMFPlone"], "package": "redomino.advancedkeyword"}

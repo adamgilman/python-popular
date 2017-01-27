@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.369301", "required_by": ["plone.app.openid"], "requires": ["setuptools", "python-openid", "transaction", "Acquisition", "Products.PluggableAuthService", "ZODB3", "Zope2"], "package": "plone.openid"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.128754", "required_by": ["smithery.app"], "requires": ["setuptools", "zc.buildout", "Cheetah", "Chameleon"], "package": "smithery.recipe.smiths"}

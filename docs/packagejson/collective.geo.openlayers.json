@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.443796", "required_by": ["ftw.contentpage", "collective.geo.mapwidget", "collective.geo.geopoint", "ftw.topics", "ftw.geo", "ftw.openlayerhotfix", "seantis.dir.base", "collective.geo.mapcontent"], "requires": ["setuptools", "Products.CMFCore"], "package": "collective.geo.openlayers"}

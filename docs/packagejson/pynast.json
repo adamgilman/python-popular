@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.071910", "required_by": ["qiime"], "requires": ["numpy", "cogent"], "package": "pynast"}

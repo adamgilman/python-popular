@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.294403", "required_by": ["megrok.traject", "collective.trajectory"], "requires": ["setuptools", "zope.interface"], "package": "traject"}

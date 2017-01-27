@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.187005", "required_by": ["dataTXT", "Products.ZSPARQLMethod"], "requires": ["eventlet"], "package": "sparql-client"}

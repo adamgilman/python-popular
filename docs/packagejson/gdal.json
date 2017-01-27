@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.760167", "required_by": ["PGeo", "pygis", "vmap", "pygeotools", "rivamap", "pygmi", "PyGeoC", "datacube", "demcoreg", "lrdgdal", "geoio", "imview", "python-geotrellis"], "requires": [], "package": "gdal"}

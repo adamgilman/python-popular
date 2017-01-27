@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.749220", "required_by": ["sentry-taiga"], "requires": ["requests", "six", "python-dateutil", "pyjwkest"], "package": "python-taiga"}

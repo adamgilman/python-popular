@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.053253", "required_by": ["onegov.org", "onegov.event", "onegov.people", "onegov.gis", "onegov.ticket", "onegov.recipient", "onegov.file", "onegov.page", "onegov.foundation", "onegov.activity", "onegov.libres", "onegov.shared", "onegov.user", "onegov.search"], "requires": [], "package": "onegov.core"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.928051", "required_by": ["cc.licenserdf"], "requires": ["setuptools", "rdflib", "html5lib", "pyRdfa"], "package": "rdfadict"}

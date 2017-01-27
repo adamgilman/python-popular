@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.016782", "required_by": ["Flask-Arangodb"], "requires": ["requests", "six"], "package": "python-arango"}

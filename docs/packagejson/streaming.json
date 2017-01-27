@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.134798", "required_by": ["scintillations"], "requires": ["cython", "cytoolz", "multipledispatch", "numpy", "noisy"], "package": "streaming"}

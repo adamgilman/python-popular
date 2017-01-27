@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.844952", "required_by": ["collective.googlemodifycontent"], "requires": ["setuptools", "collective.googleauthentication", "iw.fss"], "package": "collective.googlesystemstorage"}

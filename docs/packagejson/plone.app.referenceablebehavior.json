@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.665990", "required_by": ["ftw.topics", "s17.taskmanager", "ftw.mail", "fsd.core", "babble.client", "ftw.contacts", "dexterity.membrane"], "requires": ["setuptools", "plone.app.locales", "plone.behavior", "plone.dexterity", "plone.indexer", "plone.uuid", "Products.Archetypes"], "package": "plone.app.referenceablebehavior"}

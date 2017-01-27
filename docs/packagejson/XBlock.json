@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.990870", "required_by": ["xblock-image-modal", "ubcpi-xblock", "prrt-xblock", "hastexo-xblock", "xblock-openedx-utils", "proctoru-xblock", "edx-sga"], "requires": ["lxml", "webob", "pytz", "python-dateutil"], "package": "XBlock"}

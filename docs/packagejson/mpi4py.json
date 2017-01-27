@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.776393", "required_by": ["pmesh", "ASAPTools", "pnumpy", "hybridLFPy", "affbio", "pyLBM", "pyfr", "tools4py", "batchOpenMPI", "gpuda", "mpi4py_test", "brainiak", "oBB", "pboost", "MLZ", "pyProCT", "expectra", "abed", "PyReshaper", "mulpro", "pyAverager"], "requires": [], "package": "mpi4py"}

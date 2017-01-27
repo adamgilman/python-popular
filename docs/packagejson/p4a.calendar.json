@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.837187", "required_by": ["slc.calendarfetcher"], "requires": ["setuptools", "p4a.common", "p4a.z2utils"], "package": "p4a.calendar"}

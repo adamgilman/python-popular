@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.635406", "required_by": ["django-report-scaffold", "django-admin-export"], "requires": ["django", "six"], "package": "django-report-utils"}

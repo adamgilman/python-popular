@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.127844", "required_by": ["collective.captionmanager"], "requires": ["setuptools", "beautifulsoup4"], "package": "captionstransformer"}

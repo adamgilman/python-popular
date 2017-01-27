@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.355438", "required_by": ["django-asset-convoy"], "requires": ["django-storages", "boto3"], "package": "django-s3-folder-storage"}

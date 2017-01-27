@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.202322", "required_by": ["BicycleDataProcessor", "BicycleParameters", "GaitAnalysisToolKit"], "requires": ["numpy", "scipy", "matplotlib"], "package": "DynamicistToolKit"}

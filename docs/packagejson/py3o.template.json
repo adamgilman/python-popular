@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.327576", "required_by": ["tgext.odt", "sqla_inspect", "pyf.components.consumers.ooowriter", "ringo_printtemplate", "py3o.fusion"], "requires": ["setuptools", "six", "lxml", "genshi", "pyjon.utils"], "package": "py3o.template"}

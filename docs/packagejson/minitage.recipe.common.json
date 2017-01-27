@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.058973", "required_by": ["buildout.minitagificator", "minitage.recipe", "minitage.recipe.du", "minitage.recipe.egg", "minitage.recipe.fetch", "minitage.recipe.cmmi"], "requires": ["zc.buildout", "setuptools", "minitage.core", "iniparse"], "package": "minitage.recipe.common"}

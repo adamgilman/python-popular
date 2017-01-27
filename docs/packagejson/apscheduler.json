@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.850014", "required_by": ["agora", "custos", "spx", "slack-alert", "scrapydd", "metarmonitor", "VLCTVStation", "Gecko", "Flask-APScheduler-fork", "onyx", "infozuild", "shipane-sdk", "light-core", "cronsingleton", "helga-meet", "Flask-APScheduler", "krux-scheduler", "django-eggnog"], "requires": [], "package": "apscheduler"}

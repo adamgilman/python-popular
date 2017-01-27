@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.736820", "required_by": ["mykatlas", "variantannotation", "gvcf2bed", "afplot", "vdw", "smashbenchmarking", "varify"], "requires": [], "package": "pyvcf"}

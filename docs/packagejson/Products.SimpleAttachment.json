@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.336892", "required_by": ["Products.Ploneboard", "Products.RichDocument"], "requires": ["setuptools", "archetypes.schemaextender", "plone.app.blob"], "package": "Products.SimpleAttachment"}

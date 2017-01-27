@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.737147", "required_by": ["DecentLogs", "patience", "PyGeometry", "QuickApp", "ConfTools", "compmake", "pltk", "reprep", "PyVehicles", "procgraph", "comptests"], "requires": ["pyparsing", "decorator", "six"], "package": "PyContracts"}

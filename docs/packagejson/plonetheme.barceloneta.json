@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.800499", "required_by": ["plonetheme.persona"], "requires": ["setuptools", "plone.app.theming", "plone.batching"], "package": "plonetheme.barceloneta"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.266462", "required_by": ["pyslices_ipynb_conversion", "nbsphinx", "ipyrmd", "invenio-previewer", "jgscm", "cytoflow", "lektor-jupyter", "nbview", "hyperas", "notedown", "jds_write", "gsExport", "rickpy", "sos", "nbexamples"], "requires": [], "package": "nbformat"}

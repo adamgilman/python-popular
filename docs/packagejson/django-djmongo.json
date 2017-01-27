@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.695900", "required_by": ["django-providerregistry"], "requires": ["django", "pymongo", "django-widget-tweaks", "django-bootstrap-form", "django-cors-headers", "jdt", "jsonschema", "django-localflavor"], "package": "django-djmongo"}

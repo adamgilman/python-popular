@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.335060", "required_by": ["django-shop-payer-backend"], "requires": ["lxml"], "package": "python-payer-api"}

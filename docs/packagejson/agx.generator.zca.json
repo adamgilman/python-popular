@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.205151", "required_by": ["agx.generator.plone"], "requires": ["setuptools", "node.ext.zcml", "agx.generator.pyegg"], "package": "agx.generator.zca"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.629641", "required_by": ["thealot-quote", "thealot-excuse", "thealot-compendium", "thealot-links", "thealot-alot"], "requires": ["irc", "sqlalchemy"], "package": "thealot"}

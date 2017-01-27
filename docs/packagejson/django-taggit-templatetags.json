@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.638882", "required_by": ["djangocms-blog", "django-flickr", "django-vellum", "qgis-plugins", "djangocms-blog-martin"], "requires": ["django", "django-taggit", "django-templatetag-sugar"], "package": "django-taggit-templatetags"}

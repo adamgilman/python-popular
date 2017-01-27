@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.352425", "required_by": ["Products.ZSQLMethods", "Products.MailHost", "ZServer", "Products.ExternalMethod", "Products.Sessions", "Products.ZCatalog", "AccessControl", "ftw.mobile", "Products.BTreeFolder2", "Zope2", "ftw.simplelayout"], "requires": ["ExtensionClass", "persistent"], "package": "Persistence"}

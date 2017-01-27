@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.101857", "required_by": ["collective.local.workspace", "collective.local.sentmail"], "requires": ["setuptools", "collective.local.userlisting", "plone.api", "plone.behavior"], "package": "collective.local.sendto"}

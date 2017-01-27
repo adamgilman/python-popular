@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.030906", "required_by": ["django-allauth-djrill", "djrillcelery"], "requires": ["requests", "django"], "package": "djrill"}

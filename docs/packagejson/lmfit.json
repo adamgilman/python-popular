@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.744651", "required_by": ["scraps", "fuefit", "pybroom", "radd", "pypge", "kglib", "pycorrfit", "gullikson-scripts", "omnifit", "phoebe", "neutronpy", "scipy-data_fitting", "PyRhO", "pastas", "fretbursts", "co2mpas"], "requires": ["numpy", "scipy"], "package": "lmfit"}

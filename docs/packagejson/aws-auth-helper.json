@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.818013", "required_by": ["findawspeers", "aws-rds-manager"], "requires": ["boto3"], "package": "aws-auth-helper"}

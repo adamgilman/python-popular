@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.408682", "required_by": ["plone.introspector"], "requires": ["setuptools", "grokcore.component", "grokcore.view", "zope.interface", "zope.component", "zope.location", "zope.introspector", "z3c.autoinclude"], "package": "zope.introspectorui"}

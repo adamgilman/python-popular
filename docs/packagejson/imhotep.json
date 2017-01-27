@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.292182", "required_by": ["imhotep_jscs", "imhotep_bandit", "imhotep_eslint"], "requires": ["requests", "six"], "package": "imhotep"}

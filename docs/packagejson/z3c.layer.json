@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.754135", "required_by": ["z3c.boston", "ice.template", "z3c.formjsdemo", "zcontact", "z3c.rotterdam", "z3c.skin.pagelet"], "requires": ["setuptools", "z3c.pagelet", "zope.app.http", "zope.app.form", "zope.app.publisher", "zope.configuration", "zope.traversing"], "package": "z3c.layer"}

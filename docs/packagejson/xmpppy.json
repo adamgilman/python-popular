@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.972544", "required_by": ["jabber-roster", "alfredo", "Seshat", "hermes-chat", "starzel.whoiscalling", "ahc", "continuous-services", "gocept.bender", "hermes", "djabberdjaw", "OTRXMPPLogger", "nagios-notification-jabber", "gitnotifs", "xmpp_logging_handler", "OTRXMPPChannel"], "requires": [], "package": "xmpppy"}

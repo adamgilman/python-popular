@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.841037", "required_by": ["slc.mindmap", "p4a.audio", "sc.base.hotsites", "cs.autotranslate", "slc.calendarfetcher", "slc.aggregation", "p4a.image", "p4a.plonevideo", "slc.publications", "collective.subscribablesections"], "requires": ["setuptools", "p4a.z2utils"], "package": "p4a.subtyper"}

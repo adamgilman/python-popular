@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.456813", "required_by": ["yadage"], "requires": ["jsonref", "pyyaml", "requests[security"], "package": "yadage-schemas"}

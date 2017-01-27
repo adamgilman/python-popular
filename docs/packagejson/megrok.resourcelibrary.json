@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.589329", "required_by": ["megrok.yui", "megrok.tinymce"], "requires": ["setuptools", "grok", "zc.resourcelibrary"], "package": "megrok.resourcelibrary"}

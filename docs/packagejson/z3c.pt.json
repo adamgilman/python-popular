@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.251935", "required_by": ["z3c.form", "megrok.chameleon", "z3c.ptcompat", "five.pt", "NuPlone", "ztfy.webapp", "Zope2", "grokcore.chameleon"], "requires": ["setuptools", "six", "zope.interface", "zope.component", "zope.i18n", "zope.traversing", "zope.contentprovider", "Chameleon"], "package": "z3c.pt"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.756454", "required_by": ["leip", "toMaKe", "kea"], "requires": ["PyYAML", "requests"], "package": "fantail"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.397112", "required_by": ["mypypi", "p01.fswidget", "p01.accelerator"], "requires": ["setuptools", "uuid", "pytz", "zope.app.appsetup", "zope.component", "zope.configuration", "zope.i18nmessageid", "zope.interface", "zope.schema"], "package": "p01.tmp"}

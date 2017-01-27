@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.428069", "required_by": ["humbledb", "pyimpact", "s3peat", "pyconfig", "pyKISSmetrics", "urlshots-api"], "requires": ["simplejson", "six"], "package": "pytool"}

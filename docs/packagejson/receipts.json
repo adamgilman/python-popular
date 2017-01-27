@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.723129", "required_by": ["django-receipts"], "requires": ["pyjwt-mozilla", "requests", "argparse"], "package": "receipts"}

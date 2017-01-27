@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.967936", "required_by": ["custodia", "pyetcdlock", "insights", "aio_etcd", "keyard", "python-etcd-lock", "docker-events", "sherlock"], "requires": ["urllib3", "dns"], "package": "python-etcd"}

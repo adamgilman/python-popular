@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.076184", "required_by": ["autocheck", "rednose", "sniffer", "pea"], "requires": ["setuptools"], "package": "python-termstyle"}

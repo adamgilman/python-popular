@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.642776", "required_by": ["celery-bungiesearch"], "requires": ["django", "elasticsearch-dsl", "elasticsearch", "python-dateutil", "six"], "package": "bungiesearch"}

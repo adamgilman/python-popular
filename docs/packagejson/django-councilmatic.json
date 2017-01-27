@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.189424", "required_by": ["django-councilmatic-notifications"], "requires": ["requests", "pytz", "django-haystack", "Django", "pysolr", "python-dateutil", "SQLAlchemy", "psycopg2"], "package": "django-councilmatic"}

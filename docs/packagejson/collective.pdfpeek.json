@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.959949", "required_by": ["collective.pdftransform"], "requires": ["setuptools", "PyPDF2", "plone.app.registry", "plone.browserlayer", "plone.rfc822", "Pillow", "plone.api"], "package": "collective.pdfpeek"}

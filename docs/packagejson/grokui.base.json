@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.546305", "required_by": ["grokui.admin"], "requires": ["fanstatic", "grok", "grokcore.layout", "grokcore.message", "megrok.menu", "setuptools", "zope.authentication", "zope.browsermenu", "zope.component", "zope.fanstatic", "zope.interface", "zope.location", "zope.publisher", "zope.site", "zope.traversing"], "package": "grokui.base"}

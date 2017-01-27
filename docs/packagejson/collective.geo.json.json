@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.492701", "required_by": ["collective.geo.polymaps", "collective.geo.leaflet"], "requires": ["setuptools", "collective.geo.geographer", "collective.geo.settings", "collective.geo.contentlocations", "geojson", "pygeoif", "plone.api"], "package": "collective.geo.json"}

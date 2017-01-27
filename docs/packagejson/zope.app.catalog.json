@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.153588", "required_by": ["zope.app.fssync", "zgeo.spatialindex", "zopeproject", "z3c.multifieldindex", "vice.outbound", "ztfy.thesaurus", "ice.adverlet", "ztfy.webapp", "collective.singing"], "requires": ["setuptools", "zope.catalog"], "package": "zope.app.catalog"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.194444", "required_by": ["hamms", "pytest-httpbin"], "requires": ["Flask", "MarkupSafe", "decorator", "itsdangerous", "six"], "package": "httpbin"}

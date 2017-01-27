@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.823057", "required_by": ["django_hstore_flattenfields"], "requires": ["psycopg2"], "package": "django-orm-extensions"}

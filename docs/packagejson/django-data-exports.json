@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.115988", "required_by": ["cyw-bogus-0.1.95"], "requires": ["Django", "django-inspect-model"], "package": "django-data-exports"}

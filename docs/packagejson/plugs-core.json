@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.601726", "required_by": ["plugs-auth", "plugs-mail", "plugs-media"], "requires": ["django", "djangorestframework", "djangorestframework-jwt", "requests", "PyJWT", "factory-boy"], "package": "plugs-core"}

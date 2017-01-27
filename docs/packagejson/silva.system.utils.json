@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.528452", "required_by": ["silva.core.upgrade"], "requires": ["Zope2", "Products.Silva", "argparse", "infrae.wsgi", "setuptools", "silva.core.xml", "silva.core.interfaces", "silva.core.services", "zope.component", "zope.location", "zope.security", "zope.publisher", "zope.site"], "package": "silva.system.utils"}

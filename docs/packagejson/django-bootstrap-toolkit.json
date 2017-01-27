@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.767952", "required_by": ["s3filesmanager", "django_authstrap", "DeploymentTool", "django_reform", "django_hstore_flattenfields", "olhoneles"], "requires": [], "package": "django-bootstrap-toolkit"}

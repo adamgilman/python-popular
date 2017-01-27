@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.900429", "required_by": ["jukeboxmaya"], "requires": ["pyside", "configobj", "django", "psycopg2", "jukedj"], "package": "jukebox-core"}

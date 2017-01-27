@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.465010", "required_by": ["gwgen"], "requires": ["funcargparse", "six", "pyyaml", "docrep", "fasteners"], "package": "model-organization"}

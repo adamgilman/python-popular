@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.484994", "required_by": ["openerp-portal-claim", "openerp-claim-from-delivery"], "requires": ["openerp-crm"], "package": "openerp-crm-claim"}

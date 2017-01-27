@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.673884", "required_by": ["collective.amberjack.plonetour", "collective.amberjack.portlet"], "requires": ["setuptools", "plone.app.layout", "Products.GenericSetup", "collective.js.jqueryui", "i18ndude", "plone.registry"], "package": "collective.amberjack.core"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.772723", "required_by": ["appeus.theme"], "requires": ["setuptools", "z3c.jbot", "plone.browserlayer", "collective.js.bootstrap"], "package": "plonetheme.bootstrap"}

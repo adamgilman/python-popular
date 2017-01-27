@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.059310", "required_by": ["egopowerflow"], "requires": ["sqlalchemy", "keyring", "shapely", "psycopg2", "keyrings.alt", "pandas"], "package": "oemof.db"}

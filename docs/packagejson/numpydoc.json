@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.699457", "required_by": ["deepTools", "PyOpenWorm", "isambard", "gdsctools", "maidenhair-jasco-parser", "colormap", "biokit", "python-git-package", "VCheck", "openmdao", "sequana"], "requires": ["sphinx"], "package": "numpydoc"}

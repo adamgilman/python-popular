@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.057022", "required_by": ["lcd2usb", "adb", "ITI1480A-linux", "digimat.blink1", "proteusisc", "adb3", "ak-adb"], "requires": [], "package": "libusb1"}

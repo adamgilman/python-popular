@@ -60,7 +60,9 @@ class GenerateRepoUtilisation(luigi.Task):
         popfile.write( json.dumps(popular_output[:25]) )
         popfile.close()
         
-        
+        package_list = open('./output/_packagelist.json', 'w')
+        package_list.write( json.dumps( known_packages ) )
+        package_list.close()
         
         #pickle.dump(output_required_by, open('output_required_by.pckl', 'w') )    
         #pickle.dump(output_requires, open('output_requires.pckl', 'w') )

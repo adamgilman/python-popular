@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.949330", "required_by": ["leselys"], "requires": ["celery", "pymongo"], "package": "celery-with-mongodb"}

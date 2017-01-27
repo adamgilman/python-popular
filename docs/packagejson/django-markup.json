@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.711599", "required_by": ["django-tastypie-simple-api-doc", "djangorestframework-apidoc", "django-nadb", "django-vellum", "pretix"], "requires": ["django", "six"], "package": "django-markup"}

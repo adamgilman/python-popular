@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.986730", "required_by": ["collective.viewlet.pythonscript"], "requires": ["Products.CMFCore", "Products.CMFPlone", "Products.GenericSetup", "Products.statusmessages", "setuptools", "zope.interface", "zope.schema"], "package": "collective.portlet.pythonscript"}

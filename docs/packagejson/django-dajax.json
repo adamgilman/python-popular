@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.926386", "required_by": ["fileclusters"], "requires": ["django-dajaxice"], "package": "django-dajax"}

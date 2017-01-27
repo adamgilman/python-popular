@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.082552", "required_by": ["cmsplugin-porticus"], "requires": ["Django", "django-filebrowser-no-grappelli", "django-mptt", "django-tagging"], "package": "porticus"}

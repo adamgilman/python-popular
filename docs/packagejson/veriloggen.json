@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.658442", "required_by": ["crecomp"], "requires": ["pyverilog", "Jinja2"], "package": "veriloggen"}

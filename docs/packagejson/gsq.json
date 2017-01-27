@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.894586", "required_by": ["pcalg"], "requires": ["scipy", "numpy"], "package": "gsq"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.868148", "required_by": ["gugle.bot"], "requires": ["setuptools", "ZODB3"], "package": "gugle.storage"}

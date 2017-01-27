@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.902279", "required_by": ["collective.slideshowfolder"], "requires": ["setuptools"], "package": "Products.slideshowfolder"}

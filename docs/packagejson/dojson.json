@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.620213", "required_by": ["invenio-marc21", "cds-dojson", "invenio-oaiserver"], "requires": ["click", "lxml", "simplejson", "six"], "package": "dojson"}

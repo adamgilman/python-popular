@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.431974", "required_by": ["nflfan", "nflvid", "nflcmd"], "requires": ["nflgame", "psycopg2", "enum34", "pytz"], "package": "nfldb"}

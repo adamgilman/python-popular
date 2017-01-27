@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.119299", "required_by": ["edd", "vturra", "insights", "ecopy", "pyquant-ms", "gpfanova", "grmpy", "dexpy", "eemeter", "rhessysworkflows", "HDDM", "forward", "jmpy", "bss", "category_encoders", "heteromotility", "ggplot", "CosmoPhotoz"], "requires": ["six", "numpy"], "package": "patsy"}

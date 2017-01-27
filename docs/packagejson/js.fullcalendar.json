@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.766901", "required_by": ["kotti_calendar", "js.angular_ui_calendar"], "requires": ["fanstatic", "js.jquery", "js.momentjs", "setuptools"], "package": "js.fullcalendar"}

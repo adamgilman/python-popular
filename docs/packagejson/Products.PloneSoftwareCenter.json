@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.358382", "required_by": ["Products.PloneOrg", "sc.psc.policy"], "requires": ["setuptools", "Products.ArchAddOn", "Products.AddRemoveWidget", "Products.DataGridField", "cioppino.twothumbs", "plone.contentratings"], "package": "Products.PloneSoftwareCenter"}

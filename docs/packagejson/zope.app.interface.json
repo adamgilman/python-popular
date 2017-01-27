@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.538020", "required_by": ["silva.core.layout", "zope.app.externaleditor", "zope.app.zapi"], "requires": ["ZODB3", "setuptools", "zodbcode", "zope.app.content", "zope.componentvocabulary", "zope.security"], "package": "zope.app.interface"}

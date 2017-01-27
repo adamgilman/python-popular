@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.129858", "required_by": ["azuresshconfig", "appscale-tools"], "requires": ["msrest", "keyring", "adal"], "package": "msrestazure"}

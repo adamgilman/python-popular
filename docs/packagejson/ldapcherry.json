@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.574982", "required_by": ["lcppolicy_cracklib"], "requires": ["CherryPy", "python-ldap", "PyYAML", "Mako"], "package": "ldapcherry"}

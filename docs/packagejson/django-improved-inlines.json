@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.090710", "required_by": ["django-servee-gallery"], "requires": ["beautifulsoup"], "package": "django-improved-inlines"}

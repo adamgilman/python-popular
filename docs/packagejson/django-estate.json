@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.417075", "required_by": ["django-estate-cms", "django-estate-crm"], "requires": ["Django"], "package": "django-estate"}

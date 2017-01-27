@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.960216", "required_by": ["collective.ATClamAV", "collective.classifieds", "collective.itvalidators", "Products.ATContentTypes", "prdg.plone.util", "Products.Archetypes"], "requires": ["setuptools", "zope.i18n", "zope.i18nmessageid", "zope.interface", "Acquisition", "DateTime", "Zope2"], "package": "Products.validation"}

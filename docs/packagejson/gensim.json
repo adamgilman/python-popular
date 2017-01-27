@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.581666", "required_by": ["textsift", "memail", "shorttext", "word2vec-wikification-py", "word2veckeras", "fowler.corpora", "ShallowLearn", "rlwsd", "wordfish", "brocas-lm", "ts_chinese_poem_generator", "wanabrain", "nlpy", "activedetect"], "requires": ["numpy"], "package": "gensim"}

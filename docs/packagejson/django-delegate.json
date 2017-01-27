@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.715451", "required_by": ["django-twemoir", "django-docfield-couchdb", "django-signalqueue"], "requires": [], "package": "django-delegate"}

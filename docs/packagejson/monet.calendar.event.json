@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.679070", "required_by": ["monet.calendar.location", "monet.calendar.star", "monet.calendar.portlet", "monet.calendar.criteria", "monet.recurring_event", "monet.calendar.extensions"], "requires": ["setuptools", "Products.CMFPlone", "rt.calendarinandout", "archetypes.schemaextender", "plone.app.blob"], "package": "monet.calendar.event"}

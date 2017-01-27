@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.051399", "required_by": ["pybald", "onegov.org", "jsinclude", "django_compressor", "gocept.recipe.bowerstaticbundler", "hyhyhy", "django-asset-convoy", "selfcontain"], "requires": [], "package": "rjsmin"}

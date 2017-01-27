@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.988019", "required_by": ["mongo-mail-web", "flask-musers", "tentd", "apibuilder", "eventum", "mneme"], "requires": ["Flask", "Flask-WTF", "mongoengine", "six"], "package": "flask-mongoengine"}

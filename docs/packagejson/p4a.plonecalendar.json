@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.969573", "required_by": ["slc.calendarfetcher"], "requires": ["setuptools", "Products.CMFPlone", "plone.memoize", "dateable.chronos", "dateable.kalends", "p4a.common", "p4a.z2utils", "Products.PloneTestCase", "zope.globalrequest"], "package": "p4a.plonecalendar"}

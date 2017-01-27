@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.282019", "required_by": ["collective.easytemplate"], "requires": ["setuptools", "zope.interface"], "package": "collective.templateengines"}

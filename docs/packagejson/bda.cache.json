@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.636965", "required_by": ["bda.ldap", "pas.plugins.ldap", "node.ext.ldap", "Products.UserAndGroupSelectionWidget"], "requires": ["setuptools", "python-memcached", "zope.component"], "package": "bda.cache"}

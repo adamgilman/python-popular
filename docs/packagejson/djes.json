@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.657068", "required_by": ["djes-file-fields", "djesrf"], "requires": ["elasticsearch-dsl", "django"], "package": "djes"}

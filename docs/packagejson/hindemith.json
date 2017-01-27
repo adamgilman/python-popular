@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.071758", "required_by": ["stencil_code"], "requires": ["ctree", "pycl", "numpy"], "package": "hindemith"}

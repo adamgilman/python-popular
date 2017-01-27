@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.799396", "required_by": ["bottlerocket"], "requires": ["six", "requests"], "package": "pystaggregator"}

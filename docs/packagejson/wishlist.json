@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.673093", "required_by": ["watchlist"], "requires": ["captain", "beautifulsoup4", "selenium", "pyvirtualdisplay", "requests"], "package": "wishlist"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.342918", "required_by": ["collective.takeaportrait", "wildcard.foldercontents", "tomcom.adapters.updateactualurl", "redturtle.monkey", "collective.xmpp.core", "tomcom.plone.mediasearch", "tomcom.plone.base", "jarn.xmpp.core"], "requires": ["setuptools"], "package": "jarn.jsi18n"}

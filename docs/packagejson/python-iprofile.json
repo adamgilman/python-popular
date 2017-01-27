@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.303943", "required_by": ["django-iprofile"], "requires": ["click", "glob2", "ipython", "python-slugify", "PyYAML", "six"], "package": "python-iprofile"}

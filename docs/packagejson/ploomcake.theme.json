@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.132550", "required_by": ["ploomcake.core", "ploomcake.theme_collection_accessibility", "ploomcake.xhtmlstrict_theme"], "requires": ["setuptools", "redomino.breadcrumbsbrain", "redomino.css3theme"], "package": "ploomcake.theme"}

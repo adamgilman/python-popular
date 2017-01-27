@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.646684", "required_by": ["pynYNAB"], "requires": ["six", "toolz", "enum34", "schematics", "dateparser"], "package": "pynab"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.386515", "required_by": ["oommfc"], "requires": ["pandas", "openpyxl", "xlrd", "xlwt"], "package": "oommfodt"}

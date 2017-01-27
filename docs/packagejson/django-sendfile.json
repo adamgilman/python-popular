@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.846521", "required_by": ["m3-example-app", "django-datadownloader", "emencia-django-bazar", "xelpaste"], "requires": ["Django"], "package": "django-sendfile"}

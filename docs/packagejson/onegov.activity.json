@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.490284", "required_by": ["onegov.feriennet"], "requires": ["onegov.core", "onegov.user", "sedate", "sortedcontainers"], "package": "onegov.activity"}

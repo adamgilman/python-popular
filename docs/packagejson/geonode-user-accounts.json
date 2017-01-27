@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.711323", "required_by": ["geoshape-geonode"], "requires": ["django-appconf", "pytz"], "package": "geonode-user-accounts"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.567491", "required_by": ["p4a.plonevideoembed", "nmd.plonelinkasvideoembed", "p4a.plonevideo", "collective.videolink"], "requires": ["setuptools"], "package": "p4a.videoembed"}

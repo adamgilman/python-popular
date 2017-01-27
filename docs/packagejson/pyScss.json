@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.516364", "required_by": ["wq.app", "ftw.theming", "myjscss", "kiss.py", "grace", "django-pipeline-compass", "django-shrink", "ligament-scss", "Flask-Scss", "pyramid_scss", "pyramid_scss2", "django-pyscss", "django-sassy-coffee", "rapydcss", "django-assets-toolkit"], "requires": ["six"], "package": "pyScss"}

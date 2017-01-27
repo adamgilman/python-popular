@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.075813", "required_by": ["sigmacms-fluent-pages", "django-fluent-blogs", "fluentcms-emailtemplates", "django-fluent-faq", "django-fluent-contents", "django-fluent-pages"], "requires": [], "package": "django-fluent-utils"}

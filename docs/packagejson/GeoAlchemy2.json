@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.648149", "required_by": ["papyrus", "sqlalchemy-geonames", "c2c.sqlalchemy.rest", "GeoFormAlchemy2", "wtforms-geo"], "requires": ["SQLAlchemy"], "package": "GeoAlchemy2"}

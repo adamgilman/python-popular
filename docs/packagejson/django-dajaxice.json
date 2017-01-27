@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.349290", "required_by": ["fileclusters", "django-dajax", "mreorg", "django-pci-auth"], "requires": ["Django"], "package": "django-dajaxice"}

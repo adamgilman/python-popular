@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.039212", "required_by": ["vumi-go", "vxtwinio", "go-optouts", "junebug", "vxvas2nets", "vxsandbox", "vxyowsup", "vumi-http-api", "vxtwitter", "vxblastsms", "vxfreeswitch", "vxaat", "vumi-message-store", "vumi-wikipedia", "vxpolls"], "requires": [], "package": "vumi"}

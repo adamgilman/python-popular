@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.309272", "required_by": ["django-banner-simple", "django-richtemplates", "alphabetic-simple", "django-disco"], "requires": [], "package": "django-native-tags"}

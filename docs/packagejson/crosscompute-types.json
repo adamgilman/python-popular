@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.102013", "required_by": ["crosscompute-notebook-extensions"], "requires": ["crosscompute", "crosscompute-integer", "crosscompute-text", "crosscompute-table", "crosscompute-image", "crosscompute-geotable"], "package": "crosscompute-types"}

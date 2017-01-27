@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.278475", "required_by": ["plone.multilingualbehavior"], "requires": ["setuptools", "plone.uuid", "plone.app.uuid"], "package": "plone.multilingual"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.981503", "required_by": ["niteoweb.clickbank"], "requires": ["zope.interface", "Sphinx", "setuptools"], "package": "repoze.sphinx.autointerface"}

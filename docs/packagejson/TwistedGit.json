@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.989883", "required_by": ["CydraTwistedGit"], "requires": ["twisted", "pycrypto", "passlib", "pyasn1"], "package": "TwistedGit"}

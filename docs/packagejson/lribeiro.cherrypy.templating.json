@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.823832", "required_by": ["lribeiro.cherrypy.templating.mako", "lribeiro.cherrypy.templating.genshi"], "requires": ["CherryPy"], "package": "lribeiro.cherrypy.templating"}

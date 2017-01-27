@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.864425", "required_by": ["zope.app.zcmlfiles", "collective.recipe.bluebream", "ztfy.webapp", "horae.core"], "requires": ["setuptools", "zope.i18nmessageid", "zope.interface"], "package": "zope.app.locales"}

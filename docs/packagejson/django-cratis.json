@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.952560", "required_by": ["django-cratis-cms", "django-cratis-base", "django-cratis-admin", "django-cratis-i18n", "django-cratis-common", "django-cratis-filer", "django-cratis-admin-suit"], "requires": [], "package": "django-cratis"}

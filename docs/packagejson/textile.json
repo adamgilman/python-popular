@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.979106", "required_by": ["giki", "fluid-nexus", "django-tastypie-simple-api-doc", "django-garage", "cyclope3", "socrates", "handroll", "CBlog", "Pypeline", "Impression-CMS", "vnccollab.theme", "vnccollab.redmine"], "requires": ["six"], "package": "textile"}

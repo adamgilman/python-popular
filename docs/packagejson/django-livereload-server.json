@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.810312", "required_by": ["django-transcrypt-exp"], "requires": ["django", "beautifulsoup4", "tornado", "six"], "package": "django-livereload-server"}

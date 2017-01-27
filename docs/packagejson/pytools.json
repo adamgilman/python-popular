@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.485173", "required_by": ["MeshPy", "codepy", "montblanc", "modepy", "pyfr", "pyopencl", "genpy", "pyvisfile", "loo.py", "cgen", "openre", "pymbolic", "pycuda", "synoptic", "nervanagpu"], "requires": ["decorator", "appdirs", "six", "numpy"], "package": "pytools"}

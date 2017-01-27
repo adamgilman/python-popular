@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.993420", "required_by": ["django-leetchi"], "requires": ["django", "django-countries"], "package": "django-iban"}

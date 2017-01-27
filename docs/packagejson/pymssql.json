@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.665800", "required_by": ["Flask-SAPB1", "django-pymssql", "peewee-mssql", "mssql_cli", "collective.pfg.sqlformadapter", "digimat.db", "cavaconn", "mssqlcli"], "requires": [], "package": "pymssql"}

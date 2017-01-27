@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.180674", "required_by": ["Products.EnhancedNewsItemImage", "Products.SoundMirror"], "requires": ["setuptools"], "package": "Products.PatchPloneContent"}

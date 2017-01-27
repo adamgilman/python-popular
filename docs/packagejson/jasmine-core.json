@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.170133", "required_by": ["gocept.jasmine"], "requires": ["glob2", "ordereddict"], "package": "jasmine-core"}

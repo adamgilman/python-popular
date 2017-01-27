@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.219556", "required_by": ["Products.QuillsRemoteBlogging", "Products.QuillsEnabledRemoteBlogging"], "requires": ["setuptools"], "package": "Products.MetaWeblogPASPlugin"}

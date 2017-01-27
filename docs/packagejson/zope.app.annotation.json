@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.053242", "required_by": ["vs.event", "getpaid.paymentech"], "requires": ["zope.annotation", "zope.interface", "zope.deprecation"], "package": "zope.app.annotation"}

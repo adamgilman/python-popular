@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.625176", "required_by": ["jobexcel", "mETL", "databaker", "m3-example-app", "pyexcel_render", "jobspider", "terapy", "ONSdatabaker", "make_excel"], "requires": ["xlrd", "xlwt"], "package": "xlutils"}

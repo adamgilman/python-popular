@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.510401", "required_by": ["btsbots-wallet", "gae-flightdeck", "django-socketio", "pyramid_socketio", "Gnotty", "socketio-server", "GitBanshee", "tgext.socketio", "airypi", "django-socketio-alt", "fabric-bolt"], "requires": [], "package": "gevent-socketio"}

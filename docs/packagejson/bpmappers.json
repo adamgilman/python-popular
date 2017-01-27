@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.161480", "required_by": ["rebecca.todict_bpmappers", "django-spine"], "requires": ["six"], "package": "bpmappers"}

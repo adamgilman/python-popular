@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.900770", "required_by": ["z3c.resourceinclude"], "requires": ["setuptools", "Chameleon"], "package": "chameleon.zpt"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.899442", "required_by": ["py_zipkin", "articlemetaapi", "grove", "citedbyapi", "yaoguang-python-client", "archer", "streamparse", "ctec_thrift_client", "yelp-clog", "parquet"], "requires": ["ply"], "package": "thriftpy"}

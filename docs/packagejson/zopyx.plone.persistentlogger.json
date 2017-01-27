@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.857786", "required_by": ["xmldirector.crex", "xmldirector.plonecore"], "requires": ["setuptools", "plone.api"], "package": "zopyx.plone.persistentlogger"}

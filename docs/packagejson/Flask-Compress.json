@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.592726", "required_by": ["landmarkerio-server", "capitains-nautilus", "flarecast-service", "shiva"], "requires": ["Flask"], "package": "Flask-Compress"}

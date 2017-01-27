@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.680020", "required_by": ["mdemos.server", "wsgioauth.zodb", "PapyDVD", "hiringpond", "libacr", "acr", "repoze.bfg", "busmon"], "requires": ["transaction"], "package": "repoze.tm2"}

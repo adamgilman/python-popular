@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.736957", "required_by": ["nflvid", "nfldb"], "requires": ["pytz", "httplib2", "beautifulsoup4"], "package": "nflgame"}

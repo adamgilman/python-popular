@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.944273", "required_by": ["zope.app.security", "z3c.profiler", "dolmen.app.authentication", "z3c.authenticator", "bst.pygasus.security"], "requires": ["setuptools", "zope.authentication", "zope.component", "zope.interface", "zope.password", "zope.security"], "package": "zope.principalregistry"}

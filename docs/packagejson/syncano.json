@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.680018", "required_by": ["syncanoforum", "syncano-cli", "parse2syncano"], "requires": ["requests", "certifi", "ndg-httpsclient", "pyasn1", "pyOpenSSL", "python-slugify", "six", "validictory"], "package": "syncano"}

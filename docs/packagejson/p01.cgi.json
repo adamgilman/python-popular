@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.082686", "required_by": ["p01.publisher", "p01.accelerator", "m01.publisher"], "requires": ["setuptools", "zope.interface"], "package": "p01.cgi"}

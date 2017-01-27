@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.636227", "required_by": ["mycurl", "boilerpipy", "hot"], "requires": ["recordtype"], "package": "urlparse2"}

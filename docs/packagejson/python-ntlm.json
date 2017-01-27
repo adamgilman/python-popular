@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.741501", "required_by": ["Flask-Upload", "Flask-Kits", "zopyx.sharepoint", "scrypture", "v1pysdk-unofficial", "haufe.sharepoint", "haufe.sharepoint.extended", "ewsclient"], "requires": [], "package": "python-ntlm"}

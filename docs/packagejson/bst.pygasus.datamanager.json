@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.744800", "required_by": ["bst.pygasus.core"], "requires": ["setuptools", "zope.interface", "zope.schema"], "package": "bst.pygasus.datamanager"}

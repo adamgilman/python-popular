@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.852649", "required_by": ["horae.layout", "silva.core.references", "ftw.topics", "gocept.lms", "z3c.relationfield", "dolmen.relations"], "requires": ["ZODB3", "zope.interface", "setuptools", "zope.testing"], "package": "zc.relation"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.914793", "required_by": ["interlegis.portalmodelo.policy"], "requires": ["Plone", "collective.z3cform.widgets", "raptus.autocompletewidget", "rdflib", "setuptools", "zope.component", "z3c.form", "zope.interface"], "package": "brasil.gov.vcge"}

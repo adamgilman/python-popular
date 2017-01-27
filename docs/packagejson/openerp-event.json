@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.068009", "required_by": ["openerp-event-sale", "openerp-association", "openerp-portal-event", "openerp-event-moodle"], "requires": ["openerp-base-setup", "openerp-board", "openerp-email-template"], "package": "openerp-event"}

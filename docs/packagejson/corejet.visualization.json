@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.757636", "required_by": ["corejet.testrunner"], "requires": ["setuptools", "lxml", "corejet.core", "unittest2"], "package": "corejet.visualization"}

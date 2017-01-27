@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.171388", "required_by": ["embellish"], "requires": ["Jinja2", "hamlpy", "Pygments"], "package": "jinja2-hamlpy"}

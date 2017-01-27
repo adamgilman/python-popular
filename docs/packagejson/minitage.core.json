@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.289311", "required_by": ["minitage.recipe.scripts", "minitage.recipe", "minitage.recipe.du", "minitage.recipe.egg", "minitage.recipe.fetch", "minitage.recipe.common", "minitage.recipe.wsgi", "minitage.recipe.cmmi"], "requires": ["minitage"], "package": "minitage.core"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.601115", "required_by": ["monet.calendar.location", "vs.org"], "requires": ["plone.api", "setuptools"], "package": "Products.MasterSelectWidget"}

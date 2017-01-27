@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.706034", "required_by": ["moesifdjango"], "requires": ["requests", "jsonpickle", "python-dateutil", "isodatetimehandler"], "package": "moesifapi"}

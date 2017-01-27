@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.761904", "required_by": ["Products.LDAPConnector", "dataflake.ldapconnection"], "requires": ["setuptools", "zope.interface"], "package": "dataflake.cache"}

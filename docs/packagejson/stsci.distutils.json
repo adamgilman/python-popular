@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.622334", "required_by": ["stsci.tools", "pyfits"], "requires": ["d2to1"], "package": "stsci.distutils"}

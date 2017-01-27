@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.590264", "required_by": ["cyclope3"], "requires": ["Django", "django-mptt"], "package": "django-mptt-tree-editor"}

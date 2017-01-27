@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.511938", "required_by": ["seed-control-interface-service", "seed-identity-store", "seed-service-rating"], "requires": ["Django", "requests"], "package": "django-rest-hooks"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.028818", "required_by": ["plone.app.relationfield", "collective.formwidget.uberselect", "plone.formwidget.autocomplete", "plone.principalsource", "plone.app.z3cform"], "requires": ["setuptools", "z3c.form", "zope.interface", "zope.schema", "zope.component", "zope.i18nmessageid"], "package": "z3c.formwidget.query"}

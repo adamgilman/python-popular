@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.223654", "required_by": ["GeobricksDistribution"], "requires": ["watchdog", "flask", "flask-cors", "fiona", "GeobricksCommon", "GeobricksProj4ToEPSG"], "package": "GeobricksGISVector"}

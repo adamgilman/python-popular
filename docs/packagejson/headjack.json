@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.460217", "required_by": ["headjack"], "requires": ["pyyaml", "headjack", "fundamentals", "pypolyglot", "markdown", "pyperclip"], "package": "headjack"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.428115", "required_by": ["klue-client-server", "recommendation", "pyramid_swagger", "bravado-bitjws"], "requires": ["jsonschema[format"], "package": "bravado-core"}

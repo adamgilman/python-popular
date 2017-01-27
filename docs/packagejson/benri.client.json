@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.949328", "required_by": ["benri", "stellaris.client"], "requires": ["httplib2", "simplejson"], "package": "benri.client"}

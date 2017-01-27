@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.753754", "required_by": ["ploneintranet"], "requires": ["setuptools", "plone.app.dexterity", "plone.formwidget.autocomplete"], "package": "collective.workspace"}

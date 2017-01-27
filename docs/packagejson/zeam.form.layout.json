@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.958231", "required_by": ["dolmen.forms.crud", "dolmen.forms.base"], "requires": ["setuptools", "zope.component", "zope.publisher", "grokcore.component", "grokcore.layout", "grokcore.chameleon", "zeam.form.base", "zeam.form.composed", "megrok.pagetemplate"], "package": "zeam.form.layout"}

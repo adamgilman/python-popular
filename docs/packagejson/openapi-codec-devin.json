@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.469402", "required_by": ["django_rest_schemas"], "requires": ["coreapi-devin"], "package": "openapi-codec-devin"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.761235", "required_by": ["powerline-kubernetes"], "requires": ["importlib", "uuid", "PyYAML", "requests"], "package": "kubernetes-py"}

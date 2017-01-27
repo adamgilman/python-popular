@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.981423", "required_by": ["djangocms-markdown", "correctiv-sortabletable", "django-blog-sl"], "requires": ["markdown2"], "package": "django-markdown-deux"}

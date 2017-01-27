@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.819995", "required_by": ["seed.tensor"], "requires": ["Twisted", "PyYaml", "protobuf", "construct", "pysnmp"], "package": "tensor"}

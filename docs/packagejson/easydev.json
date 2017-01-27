@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.364812", "required_by": ["reports", "cno", "gdsctools", "spectrum", "cellnopt.data", "colormap", "cellnopt.wrapper", "sequoia", "pymeigo", "msdas", "biokit", "rtools", "cellnopt.core", "cellnopt.admin", "sequana"], "requires": ["colorama", "pexpect"], "package": "easydev"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.627173", "required_by": ["django-entity-event-slack", "django-newrelic-plugin-agent"], "requires": ["django"], "package": "django-db-mutex"}

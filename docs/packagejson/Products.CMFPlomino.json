@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.792382", "required_by": ["Plomino", "plomino.leaflet", "plomino.tablib"], "requires": ["plone.api", "setuptools", "plone.app.dexterity", "jsonutil", "collective.instancebehavior"], "package": "Products.CMFPlomino"}

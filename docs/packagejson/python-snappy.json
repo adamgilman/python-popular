@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.494408", "required_by": ["distributed-frontera", "pghoard", "DynDNSLogClient", "Thinkpol", "syncrypt", "djrtime", "telemetry-tools", "parquet", "dossier.store"], "requires": [], "package": "python-snappy"}

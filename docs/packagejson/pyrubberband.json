@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.865059", "required_by": ["muda"], "requires": ["six", "pysoundfile"], "package": "pyrubberband"}

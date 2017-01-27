@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.798912", "required_by": ["invenio-deposit", "invenio-oauth2server"], "requires": [], "package": "SQLAlchemy-Utils[encrypted"}

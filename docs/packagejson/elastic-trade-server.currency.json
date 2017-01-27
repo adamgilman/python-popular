@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.812860", "required_by": ["elastic-trade-server.organization"], "requires": ["django", "django-tastypie", "lxml", "defusedxml"], "package": "elastic-trade-server.currency"}

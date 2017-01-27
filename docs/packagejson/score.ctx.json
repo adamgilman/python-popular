@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.177326", "required_by": ["score.ws", "score.auth", "score.jsapi"], "requires": ["score.init", "transaction"], "package": "score.ctx"}

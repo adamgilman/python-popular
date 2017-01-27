@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.396914", "required_by": ["arartekomaps"], "requires": ["python-social-auth", "django-registration-redux", "tweepy", "facebook-sdk"], "package": "cssocialuser"}

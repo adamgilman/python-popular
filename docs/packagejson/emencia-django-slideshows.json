@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.740059", "required_by": ["cmsplugin-slideshows"], "requires": ["Django", "django-filebrowser-no-grappelli"], "package": "emencia-django-slideshows"}

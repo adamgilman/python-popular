@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.376984", "required_by": ["cassandra-dataset-manager"], "requires": ["cassandra-driver", "docopt", "pyparsing", "colorama"], "package": "firehawk"}

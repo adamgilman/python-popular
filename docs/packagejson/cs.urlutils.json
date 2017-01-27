@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.844262", "required_by": ["cs.app.beyonwiz"], "requires": ["lxml", "beautifulsoup4", "cs.excutils", "cs.lex", "cs.logutils", "cs.rfc2616", "cs.threads", "cs.py3", "cs.obj"], "package": "cs.urlutils"}

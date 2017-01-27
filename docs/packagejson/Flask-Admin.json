@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.214860", "required_by": ["thumbor-web", "sqmpy", "pg-discuss", "mongo-mail-web", "groundwork-web", "home", "flask-xadmin", "CDS", "bull", "invenio-admin", "sandman", "ShelfCMS", "sandman2"], "requires": ["Flask", "wtforms"], "package": "Flask-Admin"}

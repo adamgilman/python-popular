@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.528061", "required_by": ["Flask-MarcoPolo", "pg-discuss", "frasco-emails", "invenio-mail", "invenio-userprofiles", "Flask-Pilot", "Superdesk-Server", "Flask-Security-Fork", "enerpi", "Impression-CMS", "Flask-User", "bull", "webcommon", "viralata", "Flask-ErrorMail"], "requires": ["Flask", "blinker"], "package": "Flask-Mail"}

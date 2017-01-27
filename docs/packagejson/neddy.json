@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.022790", "required_by": ["neddy", "breaker", "qub-sherlock"], "requires": ["pyyaml", "neddy", "fundamentals", "astrocalc"], "package": "neddy"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.096275", "required_by": ["Flask-DebugToolbar-LineProfilerPanel", "Glask", "mongo-mail-web", "Flask-DebugToolbar-Mongo", "Fulfil-Shop", "flask-xxl", "Flask-Debug-API", "assentio", "fdt-sqlalchemy", "flask-debugtb-elasticsearch"], "requires": ["Flask", "Blinker", "itsdangerous", "werkzeug"], "package": "Flask-DebugToolbar"}

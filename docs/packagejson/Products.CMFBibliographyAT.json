@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.911519", "required_by": ["humboldt.cmfbibliographyat"], "requires": ["setuptools", "bibliograph.core", "bibliograph.parsing", "bibliograph.rendering", "Products.ATExtensions", "zope.app.schema", "pyisbn"], "package": "Products.CMFBibliographyAT"}

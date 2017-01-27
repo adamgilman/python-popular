@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.782745", "required_by": ["revolver", "niteoweb.fabfile", "ficloud", "fog_client", "brick_wall_build", "bbq", "cuisine-postgresql", "basebox", "frycook", "cuisine_sweet", "Cubric"], "requires": ["fabric"], "package": "cuisine"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.908872", "required_by": ["holmes", "fakebook_server", "tornado_angular", "bzz"], "requires": ["argparse", "derpconf", "tornado", "webassets", "six"], "package": "cow-framework"}

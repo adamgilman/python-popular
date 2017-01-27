@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.107673", "required_by": ["zc.comment", "z3c.menu", "z3c.securitytool", "z3c.skin.pagelet", "zc.objectlog"], "requires": ["setuptools", "zope.app.interface", "zope.app.publisher", "zope.component", "zope.deprecation", "zope.interface", "zope.traversing"], "package": "zope.app.zapi"}

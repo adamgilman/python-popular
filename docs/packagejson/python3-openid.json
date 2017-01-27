@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.883438", "required_by": ["Flask-OpenID", "taiga-contrib-fas-openid-auth"], "requires": ["defusedxml"], "package": "python3-openid"}

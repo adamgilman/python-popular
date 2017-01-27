@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.998610", "required_by": ["pytest-pudb", "rpudb", "root_optimize", "iperflexer", "theape", "nose-pudb"], "requires": ["urwid", "pygments"], "package": "pudb"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.869096", "required_by": ["manhattan_forms"], "requires": ["blinker", "fake-factory", "pymongo"], "package": "MongoFrames"}

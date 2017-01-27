@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.927948", "required_by": ["django-river", "shams", "pytest-salt-containers", "plugs-core", "django-monitoring-ahernp", "wagtail-factories", "django-dmcm", "factory-rest", "django-feedreader", "mogwai"], "requires": [], "package": "factory-boy"}

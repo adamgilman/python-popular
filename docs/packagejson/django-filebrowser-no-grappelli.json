@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.944633", "required_by": ["porticus", "emencia-django-slideshows", "virtenviro", "emencia-django-socialaggregator", "django-rshop", "django-rforum", "django-rwiki"], "requires": [], "package": "django-filebrowser-no-grappelli"}

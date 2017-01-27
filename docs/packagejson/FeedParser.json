@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.846348", "required_by": ["typepadapp", "django-richtext-blog", "mimir", "collective.portlet.accuweather", "Downpour", "collective.portlet.feedmixer", "feedstail"], "requires": [], "package": "FeedParser"}

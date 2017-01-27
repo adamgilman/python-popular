@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.850702", "required_by": ["plone.app.async"], "requires": ["ZODB3", "pytz", "rwproperty", "setuptools", "uuid", "zc.queue", "zc.dict", "zc.twist", "Twisted", "zope.bforest", "zope.component", "zope.event", "zope.i18nmessageid", "zope.interface", "zope.minmax", "zope.testing", "rwproperty"], "package": "zc.async"}

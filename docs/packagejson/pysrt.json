@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.929926", "required_by": ["autosub", "Titley", "pyannote.parser", "learnbysubs", "cerebrum", "videodigest", "collective.subrip2html", "subhd.py", "pysrttranslator"], "requires": [], "package": "pysrt"}

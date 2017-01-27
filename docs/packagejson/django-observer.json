@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.222446", "required_by": ["django-object-permission"], "requires": ["distribute", "setuptools-git", "django"], "package": "django-observer"}

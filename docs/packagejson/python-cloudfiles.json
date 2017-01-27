@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.038454", "required_by": ["wnyc_backup", "pg2cf", "cloudydict", "Flask-Storage-Helpers", "pycloudfuse", "django-softlayer", "cfping", "cf"], "requires": [], "package": "python-cloudfiles"}

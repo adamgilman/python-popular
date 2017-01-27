@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.197605", "required_by": ["mls.fabfile", "propertyshelf.fabfile.plone"], "requires": ["setuptools", "Fabric", "PyChef"], "package": "propertyshelf.fabfile.common"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.387306", "required_by": ["cold-start-recommender-webapp"], "requires": ["numpy", "pandas"], "package": "cold-start-recommender"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.009241", "required_by": ["collective.shibboleth"], "requires": ["setuptools", "Products.PlonePAS"], "package": "Products.AutoUserMakerPASPlugin"}

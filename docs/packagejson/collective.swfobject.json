@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.888221", "required_by": ["collective.js.nomensamediaplayer", "collective.dewplayer"], "requires": ["setuptools"], "package": "collective.swfobject"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.647541", "required_by": ["django-entity-event-slack"], "requires": ["cached-property", "Django", "django-entity", "jsonfield", "six"], "package": "django-entity-event"}

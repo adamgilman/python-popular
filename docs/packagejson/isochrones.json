@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.833760", "required_by": ["kglib", "gullikson-scripts", "VESPA", "starutils"], "requires": ["pandas", "astropy", "emcee", "numpy", "tables", "asciitree", "corner"], "package": "isochrones"}

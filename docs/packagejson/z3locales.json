@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.573315", "required_by": ["silva.app.news", "Products.SilvaFind", "Products.SilvaNews", "Products.SilvaPoll"], "requires": ["zope.i18n", "DateTime"], "package": "z3locales"}

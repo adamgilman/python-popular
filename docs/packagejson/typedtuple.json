@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.805696", "required_by": ["hieratic"], "requires": ["voluptuous", "six"], "package": "typedtuple"}

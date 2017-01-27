@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.937888", "required_by": ["vnccollab.theme"], "requires": ["setuptools", "zope.catalog", "zc.catalog", "plone.principalsource", "plone.directives.form", "plone.app.textfield", "plone.formwidget.autocomplete", "plone.app.dexterity", "python-dateutil"], "package": "collective.notices"}

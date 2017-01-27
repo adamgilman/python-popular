@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.867435", "required_by": ["openerp-analytic-contract-hr-expense", "openerp-hr-payroll-account"], "requires": ["openerp-hr", "openerp-account-voucher", "openerp-account-accountant"], "package": "openerp-hr-expense"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.037162", "required_by": ["fio_payment_gateway_authorize_net", "openlabs_payment_gateway_authorize_net"], "requires": [], "package": "py-authorize"}

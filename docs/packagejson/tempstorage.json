@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.859935", "required_by": ["Products.TemporaryFolder"], "requires": ["setuptools", "ZODB", "zope.testing"], "package": "tempstorage"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.351076", "required_by": ["gax-google-cloud-speech-v1"], "requires": ["oauth2client", "grpcio", "googleapis-common-protos"], "package": "grpc-google-cloud-speech-v1"}

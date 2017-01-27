@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.690340", "required_by": ["maskattack.study", "maskattack.lbp"], "requires": ["setuptools", "bob"], "package": "xbob.db.maskattack"}

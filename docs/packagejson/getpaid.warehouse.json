@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.402764", "required_by": ["getpaid.report"], "requires": ["setuptools", "getpaid.core"], "package": "getpaid.warehouse"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.169930", "required_by": ["django-formset-js-improved", "django-formset-js"], "requires": ["Django"], "package": "django-jquery-js"}

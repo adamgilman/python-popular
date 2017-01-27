@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.671507", "required_by": ["mailprocess", "mailman-hyperkitty"], "requires": ["aiosmtpd", "alembic", "atpublic", "dnspython", "falcon", "flufl.bounce", "flufl.i18n", "flufl.lock", "httplib2", "lazr.config", "passlib", "requests", "sqlalchemy", "zope.component", "zope.configuration", "zope.event", "zope.interface"], "package": "mailman"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.875466", "required_by": ["sqre-uservice-buildstatus", "sqre-uservice-status", "sqre-uservice-metricdeviation", "sqre-uservice-productstatus"], "requires": ["Flask", "future"], "package": "sqre-apikit"}

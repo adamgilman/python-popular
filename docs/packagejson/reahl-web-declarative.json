@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.513801", "required_by": ["reahl-domainui", "reahl-domain", "reahl-doc"], "requires": ["reahl-sqlalchemysupport", "reahl-web", "reahl-component"], "package": "reahl-web-declarative"}

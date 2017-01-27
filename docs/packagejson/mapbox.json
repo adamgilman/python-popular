@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.904989", "required_by": ["mapboxcli"], "requires": ["boto3", "cachecontrol", "click", "click-plugins", "cligj", "iso3166", "requests", "polyline", "uritemplate"], "package": "mapbox"}

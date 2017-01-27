@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.489277", "required_by": ["invenio-accounts-rest", "invenio-webhooks"], "requires": ["Flask-BabelEx", "Flask-Breadcrumbs", "Flask-Login", "Flask-OAuthlib", "Flask-WTF", "Flask", "SQLAlchemy-Utils[encrypted"], "package": "invenio-oauth2server"}

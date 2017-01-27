@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.128330", "required_by": ["django-layers-hr"], "requires": ["django"], "package": "django-crum"}

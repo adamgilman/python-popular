@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.185303", "required_by": ["vnccollab.zimbra", "vnccollab.theme", "vnccollab.redmine", "vnccollab.portal"], "requires": ["setuptools", "plone.app.jquery", "five.grok", "plone.api", "collective.js.jqueryui"], "package": "vnccollab.common"}

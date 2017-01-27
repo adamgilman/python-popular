@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.983594", "required_by": ["service-platform", "m3-example-app", "rssmailer", "StudDP", "tlsenum", "newscraper", "urlextract", "email_validator", "digURLExtractor"], "requires": [], "package": "idna"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.934423", "required_by": ["dm.zopepatches.xmlrpc", "Products.ManagableIndex", "dm.zdoc", "dm.zope.schema", "dm.pdb", "Products.TrustedExecutables", "dm.zope.reseller"], "requires": [], "package": "dm.reuse"}

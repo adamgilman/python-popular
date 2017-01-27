@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.612907", "required_by": ["five.grok", "icemac.ab.calendar", "grok"], "requires": ["ZODB3", "grokcore.component", "martian", "setuptools", "zope.annotation", "zope.component", "zope.container", "zope.interface"], "package": "grokcore.annotation"}

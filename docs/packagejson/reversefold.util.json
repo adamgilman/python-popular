@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.215029", "required_by": ["shinkansen-python"], "requires": ["colorama", "docopt", "lockfile", "python-daemon", "psutil", "watchdog"], "package": "reversefold.util"}

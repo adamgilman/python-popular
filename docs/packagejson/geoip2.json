@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.782187", "required_by": ["doko", "3xsd", "stockton", "django-tracking-analyzer", "bts_tools", "shoal-server", "glocate", "timezones", "django-safety"], "requires": [], "package": "geoip2"}

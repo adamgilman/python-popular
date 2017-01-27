@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.685250", "required_by": ["pyobjc-framework-Automator"], "requires": ["pyobjc-framework-Automator", "pyobjc-framework-Cocoa"], "package": "pyobjc-framework-Automator"}

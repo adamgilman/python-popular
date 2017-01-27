@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.932957", "required_by": ["hostout.ubuntu", "hostout.cloud", "hostout.supervisor", "hostout.overridedeploy"], "requires": ["zc.recipe.egg", "setuptools", "Fabric", "paramiko"], "package": "collective.hostout"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.314562", "required_by": ["paano"], "requires": ["requests", "Flask-Login"], "package": "Flask-GoogleLogin"}

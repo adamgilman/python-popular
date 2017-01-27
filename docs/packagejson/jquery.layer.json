@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.212228", "required_by": ["z3c.boston", "z3c.boston", "z3c.formjs", "z3c.formjsdemo", "zcontact", "ztfy.skin", "z3c.rotterdam", "z3c.rotterdam"], "requires": ["setuptools", "zope.publisher", "zope.viewlet"], "package": "jquery.layer"}

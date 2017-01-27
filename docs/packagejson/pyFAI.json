@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.104533", "required_by": ["xicam"], "requires": ["numpy", "h5py", "fabio", "matplotlib", "scipy"], "package": "pyFAI"}

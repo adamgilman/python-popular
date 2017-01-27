@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.660866", "required_by": ["went", "granary", "ronkyuu", "oauth-dropins"], "requires": ["html5lib", "requests", "BeautifulSoup4"], "package": "mf2py"}

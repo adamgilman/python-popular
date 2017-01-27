@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.705011", "required_by": ["zope.app.fssync"], "requires": ["setuptools", "ZODB3", "zope.annotation", "zope.app.publication", "zope.app.preview", "zope.app.testing", "zope.container", "zope.documenttemplate", "zope.filerepresentation", "zope.interface", "zope.schema", "zope.security", "zope.traversing"], "package": "zope.app.dtmlpage"}

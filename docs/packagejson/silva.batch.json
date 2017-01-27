@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.164546", "required_by": ["Products.SilvaForum", "Products.SilvaFind", "silva.security.overview"], "requires": ["setuptools", "zeam.utils.batch", "silva.core.views", "grokcore.component"], "package": "silva.batch"}

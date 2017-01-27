@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.717288", "required_by": ["django-comments-moderation"], "requires": ["django-crispy-forms", "django-tag-parser", "django-contrib-comments", "python-akismet"], "package": "django-fluent-comments"}

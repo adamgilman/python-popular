@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.471444", "required_by": ["jmbo-generic", "django-googleplay-api", "panya-contact", "jmbo", "panya-music", "panya-banner", "panya-chart"], "requires": ["django"], "package": "django-preferences"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.987718", "required_by": ["YASGG"], "requires": ["Jinja2", "MarkupSafe", "Pillow", "YASGG", "beautifulsoup4", "docopt", "jac", "pycrypto", "tendo", "wsgiref"], "package": "YASGG"}

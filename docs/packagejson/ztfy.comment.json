@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.070439", "required_by": ["ztfy.workflow"], "requires": ["setuptools", "z3c.template", "zope.annotation", "zope.component", "zope.dublincore", "zope.event", "zope.i18n", "zope.interface", "zope.lifecycleevent", "zope.publisher", "zope.schema", "zope.security", "ztfy.security", "ztfy.skin", "ztfy.utils"], "package": "ztfy.comment"}

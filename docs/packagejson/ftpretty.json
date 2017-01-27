@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.435376", "required_by": ["craftbuildtools", "cabu"], "requires": ["python-dateutil"], "package": "ftpretty"}

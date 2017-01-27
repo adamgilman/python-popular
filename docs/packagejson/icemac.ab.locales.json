@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.256439", "required_by": ["icemac.ab.importer"], "requires": ["setuptools", "zope.i18n"], "package": "icemac.ab.locales"}

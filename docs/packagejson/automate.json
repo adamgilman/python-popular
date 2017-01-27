@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.070778", "required_by": ["automate-arduino", "automate-wsgi", "automate-rpio", "automate-rpc"], "requires": ["traits", "croniter", "pyinotify", "ipython", "ansiconv", "colorlog"], "package": "automate"}

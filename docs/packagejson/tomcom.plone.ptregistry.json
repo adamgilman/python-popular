@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.906811", "required_by": ["tomcom.plone.easyvoc", "tomcom.bootstrap.navbar", "tomcom.plone.mediasearch", "tomcom.plone.base"], "requires": ["setuptools"], "package": "tomcom.plone.ptregistry"}

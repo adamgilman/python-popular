@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.085876", "required_by": ["frasco-tasks", "tahoe"], "requires": ["celery", "redis"], "package": "celery-with-redis"}

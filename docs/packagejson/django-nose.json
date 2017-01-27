@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.965087", "required_by": ["lizard-map", "lizard-structure", "FoneAstra", "simple-article", "geoshape-geonode", "redrover", "django-standbydb-router", "django-nose-qunit", "django-multidb-router", "nensskel", "django-cache-management", "django-webdriver"], "requires": ["nose"], "package": "django-nose"}

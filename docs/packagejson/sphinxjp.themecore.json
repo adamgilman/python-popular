@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.420622", "required_by": ["sphinxjp.themes.solarized", "sphinx.plonetheme", "sphinxjp.themes.trstyle", "sphinxjp.themes.tinkerpress", "sphinxjp.themes.htmlslide"], "requires": ["setuptools", "docutils", "sphinx"], "package": "sphinxjp.themecore"}

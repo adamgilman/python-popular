@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.534830", "required_by": ["palvin"], "requires": ["setuptools", "SQLAlchemy"], "package": "SQLAlchemy-Enum34"}

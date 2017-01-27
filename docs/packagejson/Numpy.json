@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.166146", "required_by": ["barvocuc", "PyMeasure", "halla", "MCREPOGEN", "python-safe", "pyMPM", "epipy", "WellApplication", "gpsdio-density"], "requires": [], "package": "Numpy"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.075218", "required_by": ["plone.app.collection", "plone.app.standardtiles"], "requires": ["setuptools", "plone.app.querystring"], "package": "plone.formwidget.querystring"}

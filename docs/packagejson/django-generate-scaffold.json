@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.334264", "required_by": ["django-subcommand"], "requires": ["Django"], "package": "django-generate-scaffold"}

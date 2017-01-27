@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.661775", "required_by": ["radicale-remind"], "requires": ["configobj", "python-card-me"], "package": "abook"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.840442", "required_by": ["teamvault", "django-swingers", "django-remote-auth-ldap", "doi-site", "sentry-ldap-auth", "django-ldap-group-mapper", "cabot"], "requires": ["django"], "package": "django-auth-ldap"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.411347", "required_by": ["django-twitter-api", "django-twitter-api", "django-instagram-api", "django-facebook-photos", "django-vkontakte-wall", "django-facebook-posts", "django-vkontakte-groups", "django-odnoklassniki-groups"], "requires": ["django"], "package": "django-m2m-history"}

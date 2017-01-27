@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.852529", "required_by": ["distributed-frontera"], "requires": ["six", "w3lib"], "package": "frontera"}

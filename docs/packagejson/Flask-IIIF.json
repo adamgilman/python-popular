@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.700939", "required_by": ["CDS"], "requires": ["Flask", "Flask-RESTful", "blinker", "six", "pillow"], "package": "Flask-IIIF"}

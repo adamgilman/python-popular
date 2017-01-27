@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.266895", "required_by": ["bst.pygasus.core"], "requires": ["setuptools", "zope.vocabularyregistry"], "package": "bst.pygasus.scaffolding"}

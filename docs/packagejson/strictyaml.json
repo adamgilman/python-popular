@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.277388", "required_by": ["hitchhttp", "hitchstory", "hitchselenium"], "requires": ["ruamel.yaml", "python-dateutil"], "package": "strictyaml"}

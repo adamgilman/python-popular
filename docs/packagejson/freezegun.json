@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.605270", "required_by": ["moto-ext", "django-bulbs", "behave-models-steps", "django-datawatch", "ureactme", "hotdate", "behave-web-api-extended", "seed-service-rating"], "requires": ["six"], "package": "freezegun"}

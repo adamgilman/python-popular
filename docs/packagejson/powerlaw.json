@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.083787", "required_by": ["avalanchetoolbox"], "requires": ["scipy", "numpy", "matplotlib", "mpmath"], "package": "powerlaw"}

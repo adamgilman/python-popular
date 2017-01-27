@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.485816", "required_by": ["collective.smsauthenticator"], "requires": ["six", "django-nine"], "package": "ska"}

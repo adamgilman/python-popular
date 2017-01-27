@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.284083", "required_by": ["wazimap", "django-gov", "geoshape", "tai5_uan5_gian5_gi2_tsu1_liau7_khoo3", "django-fhir", "spud", "openunipay", "tai5-uan5_gian5-gi2_phing5-tai5", "django-djmongo", "django-mobile-framework", "django-fwdform", "django-simpleapi", "google_oauthclient"], "requires": [], "package": "django-cors-headers"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.188243", "required_by": ["prometheus-couchbase-exporter", "prometheus-mysql-exporter", "Flask-Prometheus"], "requires": [], "package": "prometheus-client"}

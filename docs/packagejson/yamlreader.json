@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.049337", "required_by": ["aws-monocyte", "afp-cli", "cbas"], "requires": ["PyYAML", "six"], "package": "yamlreader"}

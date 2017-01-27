@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.927426", "required_by": ["medialog.hidetitle", "collective.flag", "adi.workingcopyflag", "collective.bloggingmaps", "collective.blogging", "medialog.newsitemview", "medialog.summaryview"], "requires": ["setuptools", "archetypes.schemaextender", "Products.Archetypes", "zope.interface"], "package": "archetypes.markerfield"}

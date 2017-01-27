@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.712125", "required_by": ["atreal.richfile.streaming", "atreal.richfile.metadata", "atreal.richfile.qualifier", "atreal.richfile.image"], "requires": ["setuptools"], "package": "atreal.filestorage.common"}

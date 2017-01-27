@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.573212", "required_by": ["wsgioauth.zodb"], "requires": ["webob", "oauth2", "httplib2"], "package": "wsgioauth"}

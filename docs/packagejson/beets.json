@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.817036", "required_by": ["bbc-radio-tracklisting-downloader", "beets-copyartifacts", "beets-follow", "Mopidy-BeetsLocal", "beets-artistcountry"], "requires": ["six", "mutagen", "munkres", "unidecode", "musicbrainzngs", "pyyaml", "jellyfish"], "package": "beets"}

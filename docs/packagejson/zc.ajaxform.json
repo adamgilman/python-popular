@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.738349", "required_by": ["zc.dojoform"], "requires": ["ClientForm", "rwproperty", "setuptools", "simplejson", "zc.form", "zope.html", "zope.testbrowser"], "package": "zc.ajaxform"}

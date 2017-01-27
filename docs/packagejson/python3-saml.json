@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.121206", "required_by": ["taiga-contrib-saml-auth"], "requires": ["isodate", "xmlsec"], "package": "python3-saml"}

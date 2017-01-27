@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.196375", "required_by": ["microcosm_daemon", "microcosm-logging", "microcosm-flask", "microcosm-elasticsearch", "microcosm_pubsub", "microcosm-dynamodb"], "requires": ["contextdecorator", "inflection", "lazy"], "package": "microcosm"}

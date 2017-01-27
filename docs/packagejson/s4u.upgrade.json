@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.608674", "required_by": ["s4u.image"], "requires": ["setuptools", "venusian"], "package": "s4u.upgrade"}

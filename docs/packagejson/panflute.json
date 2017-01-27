@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.042262", "required_by": ["pandoc-latex-barcode", "pantable"], "requires": ["pyyaml", "future", "shutilwhich"], "package": "panflute"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.435510", "required_by": ["port"], "requires": ["Jinja2", "Markdown", "click", "gfm", "html2text", "lxml", "py-gfm", "watchdog", "Pygments"], "package": "nom"}

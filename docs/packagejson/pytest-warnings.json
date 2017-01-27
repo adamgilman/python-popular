@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.053339", "required_by": ["django-oscar"], "requires": ["pytest"], "package": "pytest-warnings"}

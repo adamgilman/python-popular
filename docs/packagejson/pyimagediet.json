@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.789138", "required_by": ["image-diet2", "lektor-minification"], "requires": ["PyYAML", "python-magic", "Click"], "package": "pyimagediet"}

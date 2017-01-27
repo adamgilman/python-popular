@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.668342", "required_by": ["openerp-account-analytic-plans"], "requires": ["openerp-sale-stock"], "package": "openerp-account-analytic-default"}

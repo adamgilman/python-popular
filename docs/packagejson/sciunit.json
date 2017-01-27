@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.068647", "required_by": ["neuronunit"], "requires": ["cypy", "quantities", "pandas", "ipython", "bs4"], "package": "sciunit"}

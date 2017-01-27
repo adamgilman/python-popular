@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.485220", "required_by": ["hangups", "kaggle-cli"], "requires": ["requests", "beautifulsoup4", "six"], "package": "MechanicalSoup"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.604450", "required_by": ["zamplugin.sitemanager", "z3c.securitytool", "zcontact", "ice.adverlet", "z3c.skin.pagelet"], "requires": [], "package": "zope.app.twisted"}

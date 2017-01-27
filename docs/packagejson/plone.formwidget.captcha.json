@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.868588", "required_by": ["ploomcake.core"], "requires": ["setuptools", "skimpyGimpy", "plone.keyring", "plone.z3cform"], "package": "plone.formwidget.captcha"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.048319", "required_by": ["Products.PASGroupsFromLDAP"], "requires": ["setuptools", "python-ldap", "zodict", "bda.cache"], "package": "bda.ldap"}

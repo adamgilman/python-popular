@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.961409", "required_by": ["mbed-host-tests", "pyairview", "mbed-greentea", "msrx", "ledtable"], "requires": [], "package": "PySerial"}

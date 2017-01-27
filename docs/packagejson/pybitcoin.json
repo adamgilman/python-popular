@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.262432", "required_by": ["blockstack", "jwtpy", "blockstack-utxo", "blockstack-client", "virtualchain", "onename", "blockchainauth", "idauth"], "requires": ["requests", "ecdsa", "commontools", "utilitybelt", "python-bitcoinrpc", "keychain", "bitcoin"], "package": "pybitcoin"}

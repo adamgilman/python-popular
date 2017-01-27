@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.904821", "required_by": ["invenio-records-rest", "invenio-indexer", "invenio-opendefinition", "invenio-oaiserver", "invenio-base"], "requires": ["Flask", "pyPEG2", "elasticsearch", "elasticsearch-dsl", "invenio-query-parser", "requests"], "package": "invenio-search"}

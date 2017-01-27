@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.771527", "required_by": ["pyplate", "satnogsclient", "Sundowner", "datesuninfo", "auromat", "PAL2", "mpcorbget", "geoio", "mclearn", "SWHT"], "requires": [], "package": "ephem"}

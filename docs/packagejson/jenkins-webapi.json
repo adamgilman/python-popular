@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.919280", "required_by": ["jenkins-autojobs"], "requires": ["requests"], "package": "jenkins-webapi"}

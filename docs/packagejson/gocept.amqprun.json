@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.885691", "required_by": ["gocept.amqparchive"], "requires": ["ZConfig", "pika", "setuptools", "transaction", "zope.component[zcml"], "package": "gocept.amqprun"}

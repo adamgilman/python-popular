@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.470675", "required_by": ["remind-caldav", "remind", "abook"], "requires": ["python-dateutil"], "package": "python-card-me"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.481271", "required_by": ["zc.authorizedotnet"], "requires": ["zope.testing", "setuptools"], "package": "zc.creditcard"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.067826", "required_by": ["jarn.jenkins", "collective.recipe.hudson", "iw.recipe.sendmail"], "requires": ["setuptools", "zope.testing", "zc.buildout", "Cheetah"], "package": "iw.recipe.template"}

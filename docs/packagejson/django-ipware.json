@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.912138", "required_by": ["djangocms-forms", "django-warmama", "django-secure-auth", "pixelcms-shop-server", "Django-G11N", "django-ipapi", "django-tracking-analyzer", "django-dynamicstatics", "quickstartup", "munch-core", "wagtailpolls", "django-payu-payments", "django-shop", "django-auditware"], "requires": [], "package": "django-ipware"}

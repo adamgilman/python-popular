@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.890247", "required_by": ["django-livesettings3"], "requires": ["django"], "package": "django-keyedcache3"}

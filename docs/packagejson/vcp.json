@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.207847", "required_by": ["vcab"], "requires": ["prettytable", "argcomplete", "voidpp-tools", "PyYAML", "GitPython", "virtualenv-api"], "package": "vcp"}

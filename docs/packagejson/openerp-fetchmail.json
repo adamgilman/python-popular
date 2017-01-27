@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.096126", "required_by": ["openerp-hr-recruitment", "openerp-crm"], "requires": ["openerp-mail"], "package": "openerp-fetchmail"}

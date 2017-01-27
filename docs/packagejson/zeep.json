@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.094223", "required_by": ["fensterbrief", "trytond_stock_package_shipping_dpd", "tsgettoolbox", "correios_lib"], "requires": ["appdirs", "cached-property", "defusedxml", "isodate", "lxml", "requests", "six", "pytz"], "package": "zeep"}

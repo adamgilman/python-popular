@@ -1,0 +1,235 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Python's Popular Packages</title>
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=423447c9b3322bcebb5d550b2c36e6d0cd647545">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="/">Python's Popular Packages</a></h1>
+        <p>By examining every package on <a href="https://pypi.python.org/pypi">PyPi</a> and 
+           inspecting every setup.py file I could find, I've made a list of the most
+           referenced and required Python packages there are. Showing what are the most
+           popular and critical packages in use today. 
+        </p>
+
+        
+          <p class="view"><a href="http://github.com/adamgilman/python-popular">View the Project on GitHub <small></small></a></p>
+        
+
+        
+
+      </header>
+      <section id='content' style="display:none">
+
+          <h2 id="most-required-packages-in-pypi-distributions">Most ‘required’ packages in PyPi distributions</h2>
+<ol>
+
+  <li>
+    <a href="/package/?setuptools">
+      setuptools -- referenced by 6638 of packages
+    </a>
+  </li>
+
+  <li>
+    <a href="/package/?requests">
+      requests -- referenced by 6011 of packages
+    </a>
+  </li>
+
+  <li>
+    <a href="/package/?six">
+      six -- referenced by 2968 of packages
+    </a>
+  </li>
+
+  <li>
+    <a href="/package/?numpy">
+      numpy -- referenced by 2774 of packages
+    </a>
+  </li>
+
+  <li>
+    <a href="/package/?Django">
+      Django -- referenced by 1792 of packages
+    </a>
+  </li>
+
+  <li>
+    <a href="/package/?django">
+      django -- referenced by 1554 of packages
+    </a>
+  </li>
+
+  <li>
+    <a href="/package/?scipy">
+      scipy -- referenced by 1166 of packages
+    </a>
+  </li>
+
+  <li>
+    <a href="/package/?lxml">
+      lxml -- referenced by 1158 of packages
+    </a>
+  </li>
+
+  <li>
+    <a href="/package/?python-dateutil">
+      python-dateutil -- referenced by 955 of packages
+    </a>
+  </li>
+
+  <li>
+    <a href="/package/?click">
+      click -- referenced by 934 of packages
+    </a>
+  </li>
+
+  <li>
+    <a href="/package/?Flask">
+      Flask -- referenced by 911 of packages
+    </a>
+  </li>
+
+  <li>
+    <a href="/package/?PyYAML">
+      PyYAML -- referenced by 904 of packages
+    </a>
+  </li>
+
+  <li>
+    <a href="/package/?zope.interface">
+      zope.interface -- referenced by 902 of packages
+    </a>
+  </li>
+
+  <li>
+    <a href="/package/?matplotlib">
+      matplotlib -- referenced by 900 of packages
+    </a>
+  </li>
+
+  <li>
+    <a href="/package/?pandas">
+      pandas -- referenced by 837 of packages
+    </a>
+  </li>
+
+  <li>
+    <a href="/package/?pyyaml">
+      pyyaml -- referenced by 832 of packages
+    </a>
+  </li>
+
+  <li>
+    <a href="/package/?pbr">
+      pbr -- referenced by 798 of packages
+    </a>
+  </li>
+
+  <li>
+    <a href="/package/?beautifulsoup4">
+      beautifulsoup4 -- referenced by 773 of packages
+    </a>
+  </li>
+
+  <li>
+    <a href="/package/?docopt">
+      docopt -- referenced by 706 of packages
+    </a>
+  </li>
+
+  <li>
+    <a href="/package/?simplejson">
+      simplejson -- referenced by 690 of packages
+    </a>
+  </li>
+
+  <li>
+    <a href="/package/?argparse">
+      argparse -- referenced by 687 of packages
+    </a>
+  </li>
+
+  <li>
+    <a href="/package/?pytz">
+      pytz -- referenced by 669 of packages
+    </a>
+  </li>
+
+  <li>
+    <a href="/package/?zope.component">
+      zope.component -- referenced by 649 of packages
+    </a>
+  </li>
+
+  <li>
+    <a href="/package/?nose">
+      nose -- referenced by 559 of packages
+    </a>
+  </li>
+
+  <li>
+    <a href="/package/?jinja2">
+      jinja2 -- referenced by 522 of packages
+    </a>
+  </li>
+
+</ol>
+
+
+      </section>
+      <footer>
+        
+        <p>This project is maintained by <a href="http://github.com/adamgilman">adamgilman</a></p>
+        
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="/assets/js/scale.fix.js"></script>
+
+
+  
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  <script>
+    var debug = "";
+    $( document ).ready(function() {
+        if (window.location.pathname.includes("/package/")){
+            $.ajax({
+                dataType: "json",
+                url: '/packagejson/'+location.href.split("?")[1]+'.json',
+                success: function(data){
+                    debug = data;
+                    template = document.getElementById("content").innerHTML;
+                    
+                    template = template.replace("%PACKAGE%", data['package']);
+                    template = template.replace("%REQ_COUNT%", data['required_by'].length);
+                    
+                    li_replace = "";
+                    for (var p in data['required_by']){
+                        li_replace += "<li><a href='/package/?"+data['required_by'][p]+"'>"+data['required_by'][p]+"</li>"
+                    }
+                    template = template.replace("%LI%", li_replace);
+
+                    document.getElementById("content").innerHTML = template;
+                    $("#content").show();
+                }
+            });    
+        }
+        else{
+            $("#content").show();
+        }
+    });
+
+  </script>
+  
+  </body>
+</html>

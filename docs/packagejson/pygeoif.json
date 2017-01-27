@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.074528", "required_by": ["collective.geo.contentlocations", "czml", "collective.geo.json", "gbdxtools", "fastkml", "collective.geo.behaviour"], "requires": [], "package": "pygeoif"}

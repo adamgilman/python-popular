@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.080570", "required_by": ["KegLogin", "KegBouncer"], "requires": ["arrow", "Flask-WTF", "Keg", "pytz", "WTForms-Alchemy", "cryptography"], "package": "KegElements"}

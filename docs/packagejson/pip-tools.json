@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.793076", "required_by": ["jlle", "zops.requirements-directory", "hitchrun"], "requires": ["click", "first", "six"], "package": "pip-tools"}

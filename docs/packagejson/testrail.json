@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.959961", "required_by": ["testrail_reporter"], "requires": ["requests", "singledispatch", "pyyaml", "future", "retry"], "package": "testrail"}

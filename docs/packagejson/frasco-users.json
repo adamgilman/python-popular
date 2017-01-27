@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.896757", "required_by": ["frasco-users-ldap", "frasco-trello", "frasco-github", "frasco-api", "frasco-twitter", "frasco-users-avatar", "frasco-slack", "frasco-facebook"], "requires": ["frasco", "frasco-forms", "frasco-models", "Flask-Login", "Flask-Bcrypt", "Flask-OAuthlib"], "package": "frasco-users"}

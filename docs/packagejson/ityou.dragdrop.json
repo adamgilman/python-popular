@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.184157", "required_by": ["ityou.ESI"], "requires": ["setuptools", "ityou.esi.theme", "sqlalchemy", "psycopg2"], "package": "ityou.dragdrop"}

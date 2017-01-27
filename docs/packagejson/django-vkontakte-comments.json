@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.911114", "required_by": ["django-vkontakte-video"], "requires": ["django-vkontakte-api"], "package": "django-vkontakte-comments"}

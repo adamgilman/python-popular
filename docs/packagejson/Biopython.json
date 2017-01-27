@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.256771", "required_by": ["MotifAnalysisPackage", "mykatlas", "metasort", "tral", "ContactVis", "paired-end-debarcoder", "pyutilsnrw", "PeptideBuilder", "Pyvolve", "mibig-tools", "riboSeed", "Geeneus"], "requires": [], "package": "Biopython"}

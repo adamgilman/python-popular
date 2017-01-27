@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.992406", "required_by": ["kii-blog"], "requires": ["django", "markdown", "six", "django-guardian", "djangorestframework", "django-mptt", "django-polymorphic", "django-markupfield", "django-extensions", "django-filter", "django-activity-stream", "django-autocomplete-light"], "package": "kii"}

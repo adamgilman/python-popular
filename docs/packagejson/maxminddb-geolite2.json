@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.688891", "required_by": ["bts_tools"], "requires": ["maxminddb"], "package": "maxminddb-geolite2"}

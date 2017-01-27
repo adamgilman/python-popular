@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.927107", "required_by": ["phoenix-py", "sqlalchemy-phoenix"], "requires": ["protobuf"], "package": "phoenixdb"}

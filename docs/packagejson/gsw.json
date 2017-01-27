@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.897416", "required_by": ["sphereTS", "ctd"], "requires": ["numpy", "nose"], "package": "gsw"}

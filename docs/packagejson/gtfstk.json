@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.987116", "required_by": ["gtfsrtk"], "requires": ["Shapely", "pandas", "utm"], "package": "gtfstk"}

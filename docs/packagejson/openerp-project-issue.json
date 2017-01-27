@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.800746", "required_by": ["openerp-portal-project-issue", "openerp-project-issue-sheet"], "requires": ["openerp-base-status", "openerp-crm", "openerp-project"], "package": "openerp-project-issue"}

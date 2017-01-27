@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.077261", "required_by": ["ecache", "py-mysql-elasticsearch-sync", "mysqlbinlog2blinker", "pymysqlblinker"], "requires": ["pymysql"], "package": "mysql-replication"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.977085", "required_by": ["Django-UserService", "UW-RestClients"], "requires": ["Django", "setuptools"], "package": "AuthZ-Group"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.918119", "required_by": ["eea.relations", "Products.ATTalesExpressionCriterion", "uwosh.pfg.d2c", "Products.salesforcepfgadapter", "Products.PloneFormGen"], "requires": ["setuptools"], "package": "Products.TALESField"}

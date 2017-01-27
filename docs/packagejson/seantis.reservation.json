@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.963503", "required_by": ["izug.seantis.reservation", "seantis.dir.facility"], "requires": ["alembic", "byteplay", "collective.autopermission", "collective.js.fullcalendar", "collective.js.jqueryui", "collective.js.underscore", "isodate", "libres", "mock", "ordereddict", "plone.api"], "package": "seantis.reservation"}

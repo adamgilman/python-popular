@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.972803", "required_by": ["aws-certificate-management", "pybuilder_aws_plugin"], "requires": ["boto3", "click", "gitpython", "jmespath", "networkx", "prettytable", "pyyaml", "six"], "package": "cfn-sphere"}

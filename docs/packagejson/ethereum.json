@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.898708", "required_by": ["EtherTDD", "eth-testrpc", "ethjsonrpc", "ethereum-tester-client", "pyepm"], "requires": ["pytest-runner"], "package": "ethereum"}

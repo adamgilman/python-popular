@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.909744", "required_by": ["pynamical", "brisk", "lightcurve", "pycephes", "amplikyzer2", "DisneyDisp", "numbamisc", "netrics", "pygmi", "amplikyzer", "poliastro", "VESPA", "dolo", "simetuc"], "requires": ["llvmlite", "numpy"], "package": "numba"}

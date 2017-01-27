@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.911139", "required_by": ["djangocms-disqus", "django-disqus-sync", "collective.disqus"], "requires": ["simplejson"], "package": "disqus-python"}

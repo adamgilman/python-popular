@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.717848", "required_by": ["megrok.z3cform.tabular", "megrok.z3cform.composed", "megrok.z3cform.crud", "megrok.z3cform.layout"], "requires": ["setuptools", "grokcore.component", "grokcore.viewlet", "grokcore.view", "grokcore.formlib", "z3c.form", "megrok.pagetemplate", "rwproperty"], "package": "megrok.z3cform.base"}

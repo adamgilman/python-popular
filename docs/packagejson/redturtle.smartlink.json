@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.182285", "required_by": ["collective.stringinterp.smartlink"], "requires": ["setuptools", "plone.app.imaging"], "package": "redturtle.smartlink"}

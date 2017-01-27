@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.179356", "required_by": ["ebas-uploader", "opbeat_python_urllib3"], "requires": ["urllib3", "certifi"], "package": "opbeat"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.658043", "required_by": ["django-rax", "thumbor_rackspace", "object_storage", "serverondemand", "thumbor_no_result", "django-cumulus", "datastore.cloudfiles", "cloud_dns_cli"], "requires": ["python-novaclient", "rackspace-novaclient", "keyring", "requests", "six"], "package": "pyrax"}

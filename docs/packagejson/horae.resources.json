@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.389718", "required_by": ["horae.planning"], "requires": ["setuptools", "grok", "z3c.relationfield", "hurry.query", "horae.auth", "horae.core", "horae.groupselect", "horae.layout", "horae.properties", "horae.ticketing", "horae.timeaware"], "package": "horae.resources"}

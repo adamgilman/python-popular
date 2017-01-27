@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.158376", "required_by": ["unleash", "s3stat", "ActivePapers.Py", "polysquare-travis-container", "pimp", "latex"], "requires": [], "package": "tempdir"}

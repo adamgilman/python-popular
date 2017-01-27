@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.688083", "required_by": ["gwaportalpipeline", "SNPmatch"], "requires": ["numpy", "scipy", "h5py", "matplotlib"], "package": "PyGWAS"}

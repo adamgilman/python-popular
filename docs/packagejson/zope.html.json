@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.888289", "required_by": ["zc.dojoform", "zc.ajaxform"], "requires": ["pytz", "setuptools", "zc.resourcelibrary", "ZODB3", "zope.annotation", "zope.component", "zope.event", "zope.file", "zope.formlib", "zope.i18nmessageid", "zope.interface", "zope.lifecycleevent", "zope.mimetype", "zope.publisher", "zope.schema"], "package": "zope.html"}

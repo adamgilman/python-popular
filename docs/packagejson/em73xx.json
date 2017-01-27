@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.830290", "required_by": ["xsms"], "requires": ["unittest2", "pyserial", "python-dateutil"], "package": "em73xx"}

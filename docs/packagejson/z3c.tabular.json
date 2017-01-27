@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.815708", "required_by": ["megrok.z3cform.tabular", "mypypi", "p01.zmi", "p01.remote"], "requires": ["setuptools", "z3c.form", "z3c.formui", "z3c.table", "z3c.template", "zope.i18nmessageid", "zope.interface"], "package": "z3c.tabular"}

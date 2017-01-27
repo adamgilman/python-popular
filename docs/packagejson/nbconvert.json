@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.777862", "required_by": ["nbsphinx", "invenio-previewer", "lektor-jupyter", "nbview", "hyperas", "notedown", "jds_write", "sphinx-nbexamples", "gsExport", "sos", "nbexamples"], "requires": [], "package": "nbconvert"}

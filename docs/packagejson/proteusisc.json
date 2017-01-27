@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.655212", "required_by": ["adaptisc"], "requires": ["libusb1", "bitarray", "bs4", "requests"], "package": "proteusisc"}

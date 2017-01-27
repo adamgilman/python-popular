@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.316704", "required_by": ["djorm-ext-pggeom", "djorm-ext-hstore", "djorm-ext-expressions"], "requires": [], "package": "djorm-ext-core"}

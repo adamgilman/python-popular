@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.286380", "required_by": ["shub-image"], "requires": ["click", "pip", "requests", "PyYAML", "scrapinghub", "six", "docker-py", "retrying"], "package": "shub"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.530926", "required_by": ["PRIM"], "requires": ["matplotlib", "numpy"], "package": "mpldatacursor"}

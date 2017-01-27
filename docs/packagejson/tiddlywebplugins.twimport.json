@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.244465", "required_by": ["tiddlywebplugins.ibuilder", "tiddlywebplugins.wimporter", "tiddlywebplugins.devstore2", "tiddlywebplugins.devstore", "tiddlywebplugins.instancer"], "requires": ["setuptools", "tiddlyweb", "tiddlywebplugins.utils", "html5lib"], "package": "tiddlywebplugins.twimport"}

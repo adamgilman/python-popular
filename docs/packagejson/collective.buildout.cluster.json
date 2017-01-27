@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.626322", "required_by": ["plone.controller"], "requires": ["setuptools", "zc.buildout", "iniparse"], "package": "collective.buildout.cluster"}

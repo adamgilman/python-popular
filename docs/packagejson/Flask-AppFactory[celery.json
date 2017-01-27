@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.093894", "required_by": ["Flask-AppFactory"], "requires": [], "package": "Flask-AppFactory[celery"}

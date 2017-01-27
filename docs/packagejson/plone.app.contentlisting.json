@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.904097", "required_by": ["ftw.solr", "osha.quizzes", "plone.app.search", "plone.app.querystring", "plone.app.standardtiles", "ibme.persondirectory", "hexagonit.virtualgallery"], "requires": ["setuptools", "Products.CMFPlone"], "package": "plone.app.contentlisting"}

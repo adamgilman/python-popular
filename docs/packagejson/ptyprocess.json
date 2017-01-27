@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.026443", "required_by": ["pexpect", "sisqo", "word2color", "octogrid", "factotum", "sshmux", "nlring", "cord", "remote-docker", "terminado", "sm"], "requires": [], "package": "ptyprocess"}

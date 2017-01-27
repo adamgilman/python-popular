@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.698421", "required_by": ["django-milcam", "django-geodz"], "requires": [], "package": "django-geoposition"}

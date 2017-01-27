@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.375824", "required_by": ["dexterity.localrolesfield"], "requires": ["Plone", "plone.api", "borg.localrole", "collective.z3cform.datagridfield", "five.grok", "plone.app.dexterity", "setuptools"], "package": "dexterity.localroles"}

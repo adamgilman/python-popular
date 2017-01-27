@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.646829", "required_by": ["speedrack", "satnogsclient", "ckanserviceprovider", "carrier", "deck-chores", "hemlock", "guardiancl", "ztfy.scheduler"], "requires": ["setuptools", "six", "pytz", "tzlocal"], "package": "APScheduler"}

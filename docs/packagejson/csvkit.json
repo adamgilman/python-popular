@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.285008", "required_by": ["dbt", "nyt-docket", "nyt-clerk", "sqlnosql", "checklists"], "requires": ["agate", "agate-excel", "agate-dbf", "agate-sql", "six"], "package": "csvkit"}

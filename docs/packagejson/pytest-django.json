@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.726559", "required_by": ["pytest-config", "pytest-django-haystack", "sentry", "django-bulbs", "pytest-django-sqlcounts", "pytest-dolphin", "django-livechat", "django-oscar"], "requires": ["pytest"], "package": "pytest-django"}

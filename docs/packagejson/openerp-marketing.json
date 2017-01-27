@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.865407", "required_by": ["openerp-marketing-campaign"], "requires": ["openerp-core", "openerp-base-setup", "openerp-crm"], "package": "openerp-marketing"}

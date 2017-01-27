@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.655700", "required_by": ["edd", "connman-dispatcher", "nagiosharder", "slash", "grove", "cobe-act", "entityd", "http-butler", "sbackup2", "pytest-logbook", "gmvault", "hivy", "tartpy", "infi.logging", "dowser-py3", "telepathy"], "requires": [], "package": "Logbook"}

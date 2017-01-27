@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.836794", "required_by": ["scikit-chainer", "zChainer", "chainer-cuda-deps", "etra", "room", "deel", "fauxtograph", "PreTrainingChain", "knmt"], "requires": ["filelock", "nose", "numpy", "protobuf", "six"], "package": "chainer"}

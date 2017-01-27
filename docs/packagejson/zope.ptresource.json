@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.581591", "required_by": ["zope.app.publisher", "grokcore.view"], "requires": ["setuptools", "zope.browserresource", "zope.interface", "zope.pagetemplate", "zope.publisher", "zope.security"], "package": "zope.ptresource"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.802864", "required_by": ["silva.ui", "silva.core.references", "zeam.form.silva", "silva.core.layout", "silva.core.contentlayout", "Products.SilvaExternalSources", "infrae.rest"], "requires": ["setuptools", "zope.interface", "martian"], "package": "zeam.component"}

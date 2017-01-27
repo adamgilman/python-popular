@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.221470", "required_by": ["paired-end-debarcoder", "votedperceptron", "opencafe", "metalang", "cvxpy", "genetic", "syntax_sugar"], "requires": ["dill"], "package": "multiprocess"}

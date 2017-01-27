@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.644177", "required_by": ["Products.PloneSubSkins"], "requires": ["setuptools", "plonetheme.classic", "Products.PloneSubSkins", "Pillow"], "package": "medialog.subskins"}

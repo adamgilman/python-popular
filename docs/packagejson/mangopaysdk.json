@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.428632", "required_by": ["django-mangopay"], "requires": ["requests", "simplejson", "blinker", "six", "fasteners"], "package": "mangopaysdk"}

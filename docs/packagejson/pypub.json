@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.109267", "required_by": ["reddit2ebook"], "requires": ["beautifulsoup4", "jinja2", "requests"], "package": "pypub"}

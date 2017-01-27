@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.986014", "required_by": ["django-shop-richcatalog"], "requires": ["Django", "image", "django-cms", "django-treebeard"], "package": "django-shop-richproduct"}

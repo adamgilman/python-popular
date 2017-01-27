@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.148567", "required_by": ["two_cents", "ledger-autosync", "bdgt", "jaraco.financial", "ofxclient"], "requires": [], "package": "ofxparse"}

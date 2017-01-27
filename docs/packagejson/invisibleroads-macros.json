@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.761438", "required_by": ["invisibleroads", "invisibleroads-uploads", "invisibleroads-repositories"], "requires": ["attrs", "simplejson", "six"], "package": "invisibleroads-macros"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.906110", "required_by": ["pyvod.pluzz"], "requires": ["pyvod.pluzz", "pyvod", "lxml", "setuptools"], "package": "pyvod.pluzz"}

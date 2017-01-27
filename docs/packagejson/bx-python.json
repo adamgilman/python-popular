@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.162613", "required_by": ["SASE_hunter", "fastinterval", "capsid", "haystack_bio", "regsnp-intron"], "requires": ["nose"], "package": "bx-python"}

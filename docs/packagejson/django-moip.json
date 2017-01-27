@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.387235", "required_by": ["lfs-moip"], "requires": ["Django", "furl"], "package": "django-moip"}

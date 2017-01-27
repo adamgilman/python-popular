@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.835807", "required_by": ["elephas"], "requires": ["keras", "hyperopt", "entrypoints", "jupyter", "nbformat", "nbconvert"], "package": "hyperas"}

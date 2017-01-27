@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.028907", "required_by": ["dolmen.widget.image"], "requires": ["dolmen.file", "grokcore.component", "grokcore.view", "setuptools", "zope.interface", "zope.size", "zope.i18n", "zope.location", "zope.traversing", "zeam.form.base", "zeam.form.ztk", "zope.i18nmessageid"], "package": "dolmen.widget.file"}

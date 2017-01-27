@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.909400", "required_by": ["gs.form"], "requires": ["setuptools", "pytz"], "package": "gs.core"}

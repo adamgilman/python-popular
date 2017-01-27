@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.044895", "required_by": ["nfg.ratedreactions", "slc.rdbploneformgenadapter", "Products.sqlpfgadapter"], "requires": ["setuptools", "SQLAlchemy"], "package": "collective.lead"}

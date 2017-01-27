@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.728091", "required_by": ["gocept.datetimewidget"], "requires": ["pytz", "setuptools", "zc.i18n", "zc.resourcelibrary", "zope.formlib", "zope.component", "zope.datetime", "zope.interface", "zope.publisher", "zope.schema"], "package": "zc.datetimewidget"}

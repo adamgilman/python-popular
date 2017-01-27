@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.501491", "required_by": ["humilis-elasticache", "humilis-es", "humilis-firehose", "humilis-vpc", "humilis-streams", "humilis-bastion", "humilis-security", "humilis-secrets-vault"], "requires": ["PyYAML", "Click", "boto3", "s3keyring", "boto3facade", "jinja2"], "package": "humilis"}

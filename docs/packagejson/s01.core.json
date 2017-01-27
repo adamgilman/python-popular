@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.434604", "required_by": ["s01.worker"], "requires": ["setuptools", "transaction", "m01.mongo", "m01.remote"], "package": "s01.core"}

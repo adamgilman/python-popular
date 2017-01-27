@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.054289", "required_by": ["Toucan", "Webmaster", "Congo", "WebPortfolio", "Portfolio-py"], "requires": ["SQLAlchemy", "PyMySQL", "pg8000", "Paginator", "inflection", "arrow", "sqlalchemy-utils"], "package": "Active-Alchemy"}

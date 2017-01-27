@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.786179", "required_by": ["videodigest"], "requires": ["docopt", "breadability", "nltk", "requests"], "package": "sumy"}

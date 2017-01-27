@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.038808", "required_by": ["grokcore.layout"], "requires": ["setuptools", "zope.component", "zope.i18n", "zope.i18nmessageid", "zope.interface", "zope.publisher", "zope.security"], "package": "zope.errorview"}

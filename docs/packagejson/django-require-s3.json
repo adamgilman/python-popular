@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.321715", "required_by": ["django-herokuapp"], "requires": ["django-require", "django-storages", "boto"], "package": "django-require-s3"}

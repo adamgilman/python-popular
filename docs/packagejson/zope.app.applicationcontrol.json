@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.180595", "required_by": ["zope.app.server", "zope.app.zcmlfiles", "p01.zmi"], "requires": ["setuptools", "ZODB3", "zope.applicationcontrol", "zope.component", "zope.i18n", "zope.i18nmessageid", "zope.interface", "zope.size", "zope.traversing"], "package": "zope.app.applicationcontrol"}

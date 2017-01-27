@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.787870", "required_by": ["vckube", "historybash", "locatebash", "reposmon", "cmdssh", "httpdebug", "openmacapp", "k8svag", "unittester"], "requires": ["ujson", "future"], "package": "consoleprinter"}

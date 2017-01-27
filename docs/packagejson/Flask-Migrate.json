@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.719900", "required_by": ["burp-ui-sql", "haralyzer-api", "Flask-Scaffold", "anti", "EVE-SRP", "Impression-CMS", "home", "pikka-bird-server"], "requires": ["Flask", "Flask-SQLAlchemy", "alembic", "Flask-Script"], "package": "Flask-Migrate"}

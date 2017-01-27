@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.905870", "required_by": ["django-entity-event", "django-entity-subscription", "django-entity-history"], "requires": ["Django", "django-activatable-model", "django-manager-utils", "celery", "jsonfield", "python3-utils"], "package": "django-entity"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.358478", "required_by": ["django-disbi", "x84", "phash", "basebot", "fowler.corpora", "iloveck101", "mwcites", "pugbot_ng", "Quandl"], "requires": ["six"], "package": "more-itertools"}

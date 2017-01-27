@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.918589", "required_by": ["keras-rtst"], "requires": ["h5py", "Keras", "numpy", "Pillow", "PyYAML", "scipy", "scikit-learn", "six"], "package": "keras-vgg-buddy"}

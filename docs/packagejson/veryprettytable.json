@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.205000", "required_by": ["pirate-get", "linsharecli"], "requires": ["termcolor", "colorama"], "package": "veryprettytable"}

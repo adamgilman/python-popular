@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.869329", "required_by": ["collective.dms.mailcontent", "collective.contact.core", "iwwb.eventlist"], "requires": ["setuptools", "DateTime", "Products.CMFPlone", "plone.app.jquerytools", "pytz", "zope.i18nmessageid", "zope.interface", "plone.app.locales"], "package": "plone.formwidget.datetime"}

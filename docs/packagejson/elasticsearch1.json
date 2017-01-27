@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.296928", "required_by": ["elasticsearch1-dsl"], "requires": ["urllib3"], "package": "elasticsearch1"}

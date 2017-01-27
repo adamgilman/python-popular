@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.263508", "required_by": ["climstats"], "requires": ["netCDF4", "numpy"], "package": "cfunits"}

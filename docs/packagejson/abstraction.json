@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.369972", "required_by": ["distributed_wellbeing"], "requires": ["bs4", "dataset", "datavision", "flask", "numpy", "matplotlib", "praw", "propyte", "pyprel", "skflow", "sklearn", "shijian", "technicolor", "tonescale"], "package": "abstraction"}

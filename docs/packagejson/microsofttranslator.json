@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.311135", "required_by": ["strsync", "django-rosetta"], "requires": ["requests", "six"], "package": "microsofttranslator"}

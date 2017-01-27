@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.158114", "required_by": ["interlegis.portalmodelo.policy"], "requires": ["Acquisition", "collective.watcherlist", "collective.z3cform.datagridfield", "five.grok", "interlegis.portalmodelo.api", "plone.api", "plone.app.content"], "package": "interlegis.portalmodelo.ombudsman"}

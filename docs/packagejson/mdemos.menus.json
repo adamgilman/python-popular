@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.354227", "required_by": ["mdemos.all"], "requires": ["moksha.wsgi", "moksha.hub"], "package": "mdemos.menus"}

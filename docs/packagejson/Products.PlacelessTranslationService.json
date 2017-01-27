@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.328302", "required_by": ["Products.Archetypes"], "requires": ["setuptools", "python-gettext", "zope.annotation", "zope.component", "zope.deferredimport", "zope.deprecation", "zope.i18n", "zope.interface", "zope.publisher", "Acquisition", "DateTime", "ExtensionClass", "ZODB3", "Zope2"], "package": "Products.PlacelessTranslationService"}

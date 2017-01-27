@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.820933", "required_by": ["psj.policy"], "requires": ["setuptools", "argparse", "beautifulsoup4", "cssutils", "Routes", "six", "WebOb", "Paste", "PasteDeploy"], "package": "ulif.openoffice"}

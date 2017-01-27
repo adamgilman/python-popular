@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.752380", "required_by": ["django-activities", "django-umanage"], "requires": ["django"], "package": "django-core"}

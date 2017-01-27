@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.198684", "required_by": ["chanjo-report"], "requires": ["Flask", "WeasyPrint"], "package": "Flask-WeasyPrint"}

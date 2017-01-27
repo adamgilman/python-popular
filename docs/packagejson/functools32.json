@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.474688", "required_by": ["skymonitor", "mdat", "wps-remote", "lltk", "openapscontrib.predict", "ur1", "thingking", "yadage", "mettle", "glb", "ghizmo", "metautils", "python_moztelemetry", "instaclone", "paasta-tools", "parquet2hive"], "requires": [], "package": "functools32"}

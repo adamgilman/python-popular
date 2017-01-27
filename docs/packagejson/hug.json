@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.692671", "required_by": ["hug_sentry", "hug_explainable", "hug-raven", "hugpee", "hug_yaml", "hug_peewee", "hug_peewee_connect", "hug_authentication_ldap", "hug_store_redis", "hug-middleware-cors", "lyricfool", "concentration"], "requires": ["falcon", "requests"], "package": "hug"}

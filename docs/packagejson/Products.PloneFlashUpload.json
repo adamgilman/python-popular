@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.304580", "required_by": ["collective.realestatebroker"], "requires": ["setuptools", "plone.i18n", "z3c.widgets.flashupload"], "package": "Products.PloneFlashUpload"}

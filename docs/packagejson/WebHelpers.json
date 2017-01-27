@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.713324", "required_by": ["Minimatic", "MinificationWebHelpers", "BootstrapPy", "HTConsole", "Pylons", "BlueChips", "blueberry", "WeBIAS", "TaskTracker", "pysform", "pysmvt", "zcms", "Pyll"], "requires": ["MarkupSafe"], "package": "WebHelpers"}

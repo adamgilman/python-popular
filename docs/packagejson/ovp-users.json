@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.936305", "required_by": ["ovp-uploads", "ovp-search", "ovp-projects", "ovp-organizations"], "requires": ["Django", "djangorestframework", "djangorestframework-jwt", "python-dateutil", "codecov", "coverage", "ovp-core", "ovp-uploads"], "package": "ovp-users"}

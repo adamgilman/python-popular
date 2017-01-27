@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.888211", "required_by": ["proso-geography-analysis"], "requires": ["numpy", "pandas"], "package": "proso-geography-data"}

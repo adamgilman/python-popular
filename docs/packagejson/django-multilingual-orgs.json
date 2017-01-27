@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.040079", "required_by": ["django-multilingual-initiatives"], "requires": ["Django", "South", "django-libs", "django-filer", "Pillow", "django-people", "django-localized-names"], "package": "django-multilingual-orgs"}

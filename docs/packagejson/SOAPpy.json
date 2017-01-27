@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.903358", "required_by": ["Ibid", "IM", "GRobot", "eyefi", "debrfstats", "SmartyBot", "python-subreg", "servicenow", "isk-daemon", "PyUPnP", "appscale-tools", "pyzimbra"], "requires": ["wstools", "defusedxml"], "package": "SOAPpy"}

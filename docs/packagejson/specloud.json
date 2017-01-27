@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.972944", "required_by": ["ogr_utils", "videoShot", "googl"], "requires": ["nose", "figleaf", "pinocchio"], "package": "specloud"}

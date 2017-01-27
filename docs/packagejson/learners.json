@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.750497", "required_by": ["explorers"], "requires": ["scicfg", "numpy", "scipy", "scikit-learn"], "package": "learners"}

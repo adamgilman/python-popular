@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.925090", "required_by": ["landmarkerio-server", "menpofit", "menpo3d"], "requires": ["numpy", "scipy", "matplotlib", "pillow"], "package": "menpo"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.933167", "required_by": ["zopyx.smartprintng.lite", "zopyx.smartprintng.core", "zopyx.smartprintng.plone"], "requires": ["setuptools", "elementtree", "BeautifulSoup", "pisa", "reportlab", "pypdf", "html5lib"], "package": "zopyx.convert2"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.666515", "required_by": ["catimg", "seltest", "img-dl", "imgur-cli", "imgur-uploader", "django-imgur", "yapybot"], "requires": ["requests"], "package": "imgurpython"}

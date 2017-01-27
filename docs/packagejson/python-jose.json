@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.000654", "required_by": ["httpie-f5-auth", "apicore", "Flask-PAM", "django-auth-oidc", "furs_fiscal", "restipy", "mozilla-django-oidc", "mysqlbinlog2gpubsub", "datawire-cloudtools", "signingworker"], "requires": [], "package": "python-jose"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.792625", "required_by": ["masheryclient"], "requires": ["requests"], "package": "requests-auth-mashery"}

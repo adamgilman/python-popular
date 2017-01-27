@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.869536", "required_by": ["collective.blog.star"], "requires": ["setuptools", "Plone"], "package": "collective.blog.view"}

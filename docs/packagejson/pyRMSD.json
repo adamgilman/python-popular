@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.087887", "required_by": ["affbio", "pyProCT"], "requires": ["numpy"], "package": "pyRMSD"}

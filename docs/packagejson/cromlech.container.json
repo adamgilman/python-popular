@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.702115", "required_by": ["dolmen.container", "dolmen.content"], "requires": ["setuptools", "zope.interface", "zope.component", "zope.dottedname", "zope.event", "zope.i18nmessageid", "zope.lifecycleevent", "zope.location", "zope.schema", "zope.size"], "package": "cromlech.container"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.890352", "required_by": ["Catwalk", "mdemos.server", "hiringpond", "tgapp-flatpages", "acr"], "requires": ["setuptools", "tgext.crud"], "package": "tgext.admin"}

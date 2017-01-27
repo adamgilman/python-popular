@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.365330", "required_by": ["classipy", "ConcordanceCrawler"], "requires": ["regex"], "package": "segtok"}

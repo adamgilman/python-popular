@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.729662", "required_by": ["mfabrik.webandmobile"], "requires": ["setuptools", "lxml"], "package": "mobile.htmlprocessing"}

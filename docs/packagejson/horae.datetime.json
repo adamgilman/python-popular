@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.804321", "required_by": ["horae.layout", "horae.dashboard"], "requires": ["setuptools", "fanstatic", "zope.fanstatic", "js.jquery", "js.jqueryui"], "package": "horae.datetime"}

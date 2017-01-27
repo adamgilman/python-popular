@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.567892", "required_by": ["django-hyperadmin", "cloudengine", "delicious-cake", "RESTinpy", "djubby", "claun", "pythonkc-meetups", "krankshaft", "django-datastream", "django-simple-rest", "eulcommon", "log4django"], "requires": [], "package": "mimeparse"}

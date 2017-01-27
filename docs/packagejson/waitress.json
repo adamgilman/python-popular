@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.735663", "required_by": ["niconico-translator", "pyblue", "django-herokuapp", "WebTest", "invisibleroads-posts", "clok", "EarthReader-Web", "aiowsgi", "hellowebapp-deploy", "DjangoDevKit", "gwisp", "turnip", "rawgithub", "el-aap", "bst.pygasus.wsgi", "Zope2", "gplayproxy"], "requires": [], "package": "waitress"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.144204", "required_by": ["collective.langdet", "p01.stemmer", "snowwhite"], "requires": [], "package": "guess-language"}

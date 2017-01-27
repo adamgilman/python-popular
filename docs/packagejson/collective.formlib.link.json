@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.958530", "required_by": ["collective.portlet.rich"], "requires": ["setuptools"], "package": "collective.formlib.link"}

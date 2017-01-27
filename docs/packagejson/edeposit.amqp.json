@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.827585", "required_by": ["edeposit.amqp.meta"], "requires": ["setuptools", "python-daemon", "edeposit.amqp.serializers", "pika", "sh"], "package": "edeposit.amqp"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.809307", "required_by": ["sc.base.uploader"], "requires": ["setuptools"], "package": "collective.zipfiletransport"}

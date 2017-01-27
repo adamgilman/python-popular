@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.217859", "required_by": ["wallaby-plugin-couchdb"], "requires": ["wallaby-backend-http"], "package": "wallaby-backend-couchdb"}

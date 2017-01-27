@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.110955", "required_by": ["Products.PortalTransforms", "collective.discussionplus"], "requires": ["setuptools"], "package": "plone.intelligenttext"}

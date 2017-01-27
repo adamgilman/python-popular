@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.764352", "required_by": ["craftbuildtools", "pytest-cookies", "dtool", "Matador", "lisa-api", "docku.build", "NVDA-addonTemplate", "cookiepatcher", "reacto", "briefcase", "paasta-tools"], "requires": [], "package": "cookiecutter"}

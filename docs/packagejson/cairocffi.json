@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.766263", "required_by": ["chanjo-report", "gizeh", "CairoSVG", "spinnaker_spinner", "Luna", "graphite-api", "chembl_business_model", "pymaze", "cairomovie", "htmloverpdf", "gelutils", "templado", "rig-par-diagram", "BuildbotEightStatusShields"], "requires": [], "package": "cairocffi"}

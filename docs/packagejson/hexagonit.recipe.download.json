@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.996647", "required_by": ["gp.recipe.phantomjs", "collective.recipe.solrinstance", "bodleian.recipe.fedorainstance", "collective.recipe.seleniumrc", "rubygemsrecipe", "slapos.recipe.cmmi", "hexagonit.recipe.cmmi"], "requires": ["zc.buildout", "setuptools"], "package": "hexagonit.recipe.download"}

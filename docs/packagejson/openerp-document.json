@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.310647", "required_by": ["openerp-document-webdav", "openerp-document-ftp", "openerp-marketing-campaign", "openerp-google-docs"], "requires": ["openerp-knowledge"], "package": "openerp-document"}

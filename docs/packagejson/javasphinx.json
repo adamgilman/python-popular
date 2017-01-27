@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.306569", "required_by": ["motechjavasphinx"], "requires": ["javalang", "lxml", "beautifulsoup4", "future"], "package": "javasphinx"}

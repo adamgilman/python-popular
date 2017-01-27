@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.663706", "required_by": ["sxsdiff", "django-history", "aristotle-metadata-registry", "cotidia-import-export", "html-diff-wrapper", "django-import-export", "vdw", "varify", "steem", "django-rwiki", "gnowsys-studio"], "requires": [], "package": "diff-match-patch"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.823332", "required_by": ["Products.CMFCore", "ftw.upgrade", "plone.folder", "Products.orderedbtreefolder"], "requires": ["setuptools", "AccessControl", "Acquisition", "BTrees", "ExtensionClass", "Persistence", "Zope2", "zope.container", "zope.event", "zope.lifecycleevent"], "package": "Products.BTreeFolder2"}

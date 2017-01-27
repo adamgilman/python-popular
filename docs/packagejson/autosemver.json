@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.740490", "required_by": ["inspire-crawler", "python-foreman", "hepcrawl", "inspire-schemas", "isbnid_fork"], "requires": ["dulwich"], "package": "autosemver"}

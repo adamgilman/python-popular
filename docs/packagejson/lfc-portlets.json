@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.272645", "required_by": ["django-lfc"], "requires": ["setuptools", "django-portlets"], "package": "lfc-portlets"}

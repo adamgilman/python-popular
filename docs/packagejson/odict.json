@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.930642", "required_by": ["bda.awstatsparser", "tentacles", "node", "zodict", "incf.dai", "pas.plugins.ldap", "bp.tagging", "silvuple", "mrs.developer"], "requires": ["setuptools"], "package": "odict"}

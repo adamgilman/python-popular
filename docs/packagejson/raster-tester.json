@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.110316", "required_by": ["nodata"], "requires": ["click", "rasterio"], "package": "raster-tester"}

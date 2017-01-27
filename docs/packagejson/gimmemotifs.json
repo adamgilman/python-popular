@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.473422", "required_by": ["pita"], "requires": ["setuptools", "numpy", "scipy", "matplotlib", "jinja2", "pyyaml", "pybedtools", "statsmodels", "pymc", "scikit-learn", "sklearn-contrib-lightning", "seaborn", "pysam"], "package": "gimmemotifs"}

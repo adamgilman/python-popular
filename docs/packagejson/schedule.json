@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.790279", "required_by": ["kibitzer", "webwatcher", "cachet-url-monitor", "spotify-ripper-morgaroth", "dss", "spotify-ripper-fix", "bbot", "django-robust", "idiotic", "upd89", "kibitzr", "collective.schedule"], "requires": [], "package": "schedule"}

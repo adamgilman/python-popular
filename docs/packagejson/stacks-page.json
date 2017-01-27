@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.477667", "required_by": ["stacks-textblock", "stacks-contentgroup", "stacks-featuredlink", "stacks-image", "stacks-snippet", "stacks-twitter", "stacks-embed"], "requires": ["django-versatileimagefield", "django-textplusstuff", "Fabric"], "package": "stacks-page"}

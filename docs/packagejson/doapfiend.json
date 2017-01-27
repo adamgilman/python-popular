@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.143152", "required_by": ["DoapViewPlugin", "doapfiend-html"], "requires": ["setuptools", "RDFAlchemy"], "package": "doapfiend"}

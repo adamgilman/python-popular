@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.519855", "required_by": ["zamplugin.control", "zope.app.generations", "zope.app.applicationcontrol", "grokui.admin"], "requires": ["setuptools", "zope.interface", "zope.component", "zope.location", "zope.security", "zope.traversing"], "package": "zope.applicationcontrol"}

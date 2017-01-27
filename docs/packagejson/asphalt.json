@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.592894", "required_by": ["asphalt-mailer", "asphalt-redis", "asphalt-py4j", "asphalt-memcached", "asphalt-templating", "asphalt-mongodb", "asphalt-sqlalchemy", "asphalt-influxdb", "asphalt-serialization"], "requires": [], "package": "asphalt"}

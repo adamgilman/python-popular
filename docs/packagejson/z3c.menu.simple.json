@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.280512", "required_by": ["ztfy.blog", "ztfy.skin"], "requires": ["setuptools", "z3c.i18n", "zope.app.component", "zope.browserpage", "zope.schema", "zope.traversing", "zope.viewlet"], "package": "z3c.menu.simple"}

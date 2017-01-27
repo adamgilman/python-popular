@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.685824", "required_by": ["ivona_api"], "requires": ["requests"], "package": "requests-aws4auth"}

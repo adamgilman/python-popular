@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.884051", "required_by": ["dolmen.app.layout"], "requires": ["fanstatic", "grokcore.viewlet", "setuptools", "zope.schema", "zope.viewlet"], "package": "megrok.resourceviewlet"}

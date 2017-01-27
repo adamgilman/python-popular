@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.681045", "required_by": ["tw2.rrd", "moksha.wsgi"], "requires": ["tw2.core", "tw2.jquery", "genshi", "mako", "tw2.sqla", "sqlalchemy", "BeautifulSoup"], "package": "tw2.jit"}

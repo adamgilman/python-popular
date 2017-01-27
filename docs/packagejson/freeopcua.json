@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.340272", "required_by": ["opcua-widgets", "opcua-client", "opcua-modeler"], "requires": ["python-dateutil", "enum34", "trollius", "futures", "pytz"], "package": "freeopcua"}

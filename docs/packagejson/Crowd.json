@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.542613", "required_by": ["sentry-auth-crowd", "nginxauthdaemon", "crowd_pam"], "requires": ["requests", "lxml"], "package": "Crowd"}

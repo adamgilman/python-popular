@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.791731", "required_by": ["django-bigbuild"], "requires": ["six", "boto"], "package": "django-bakery"}

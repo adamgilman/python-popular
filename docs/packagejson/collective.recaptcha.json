@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.629590", "required_by": ["collective.captchacontactinfo", "Products.PloneOrg", "appeus.theme", "cirb.blog", "collective.contactauthor"], "requires": ["setuptools", "norecaptcha", "Plone"], "package": "collective.recaptcha"}

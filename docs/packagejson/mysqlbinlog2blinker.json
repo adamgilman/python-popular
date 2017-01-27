@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.741128", "required_by": ["mysqlbinlog2gpubsub"], "requires": ["PyMySQL", "mysql-replication", "blinker"], "package": "mysqlbinlog2blinker"}

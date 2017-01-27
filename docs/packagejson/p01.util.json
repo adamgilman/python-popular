@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.796679", "required_by": ["p01.sampledata", "p01.vocabulary.language", "p01.vocabulary.country"], "requires": ["setuptools", "zope.component"], "package": "p01.util"}

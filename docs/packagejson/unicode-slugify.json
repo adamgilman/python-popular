@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.859314", "required_by": ["jinja2-slug", "django-sayit", "pinax-teams", "Flask-Pyco"], "requires": ["six", "unidecode"], "package": "unicode-slugify"}

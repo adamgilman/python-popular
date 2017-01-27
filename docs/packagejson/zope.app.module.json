@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.983968", "required_by": ["zope.app.fssync"], "requires": ["setuptools", "zope.interface", "zope.component", "zope.container", "zope.schema", "zope.filerepresentation", "ZODB3", "zodbcode"], "package": "zope.app.module"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.631514", "required_by": ["edition1.twitterportletfix", "collective.blog.star"], "requires": ["setuptools", "python-twitter", "simplejson"], "package": "collective.twitterportlet"}

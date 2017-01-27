@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.150900", "required_by": ["51degrees-mobile-detector-v3-trie-wrapper", "51degrees-mobile-detector-lite-pattern-wrapper", "51degrees-mobile-detector-trie-wrapper", "51degrees-mobile-detector-v3-wrapper"], "requires": ["distribute"], "package": "51degrees-mobile-detector"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.570498", "required_by": ["olap.rest"], "requires": ["olap", "suds", "requests"], "package": "xmla"}

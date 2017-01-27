@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.410994", "required_by": ["j01.searcher"], "requires": ["setuptools", "m01.mongo", "p01.session", "zope.i18nmessageid", "zope.interface", "zope.location", "zope.schema", "zope.security"], "package": "m01.searcher"}

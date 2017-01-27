@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.102762", "required_by": ["wagtail"], "requires": ["pytz"], "package": "django-modelcluster"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.861493", "required_by": ["adnd2e-combat-simulator", "legos.dice"], "requires": ["docopt", "pyparsing"], "package": "dice"}

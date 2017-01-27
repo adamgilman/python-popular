@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.317455", "required_by": ["voiceplay", "strikepackage", "clancy", "dl-skel", "git-aggregator"], "requires": ["PyYAML"], "package": "kaptan"}

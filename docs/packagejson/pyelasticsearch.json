@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.770772", "required_by": ["bungee", "django-hhypermap", "django-hhypermap", "holmes", "yasd", "geoshape-geonode", "pyelastictest", "LBIndex", "oracle_river", "django-elasticmodels"], "requires": ["certifi", "elasticsearch", "urllib3", "simplejson", "six"], "package": "pyelasticsearch"}

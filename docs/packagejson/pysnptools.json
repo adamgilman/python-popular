@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.803694", "required_by": ["GWAS_benchmark", "WarpedLMM"], "requires": ["scipy", "numpy", "pandas"], "package": "pysnptools"}

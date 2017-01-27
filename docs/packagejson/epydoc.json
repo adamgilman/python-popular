@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.682441", "required_by": ["ChatExchange", "sphinx-autoapi", "epyparse", "setuptools-epydoc", "z3c.recipe.epydoc", "pydoctor"], "requires": [], "package": "epydoc"}

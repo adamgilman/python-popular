@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.020416", "required_by": ["blog.policy", "cirb.blog"], "requires": ["setuptools", "plone.api"], "package": "collective.contentrules.yearmonth"}

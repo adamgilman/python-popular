@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.586471", "required_by": ["ztfy.media", "ztfy.scheduler"], "requires": ["setuptools", "pyzmq", "zope.i18nmessageid", "zope.interface"], "package": "ztfy.zmq"}

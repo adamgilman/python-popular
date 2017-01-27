@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.050023", "required_by": ["ckanrdf", "unstats_rdf", "eurostat_rdf"], "requires": ["Paste", "setuptools", "rdflib", "pairtree"], "package": "ordf"}

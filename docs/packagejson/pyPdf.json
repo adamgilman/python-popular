@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.094346", "required_by": ["LaZy_NT", "luca", "PyBooklet", "pdftools.pdfposter", "cmsplugin-pdf", "VTIXyTemplate", "PDFutils", "mwlib", "seissuite", "HWFormatter", "metapdf", "SpiderBOY", "pdfcropper", "seis-suite"], "requires": [], "package": "pyPdf"}

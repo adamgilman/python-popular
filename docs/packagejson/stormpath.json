@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.248979", "required_by": ["Flask-Stormpath", "Flask-Stormpath-Plus", "Flask-Stormpath-test", "stormpath-cli", "stormpath-seed", "django-stormpath", "stormpath-migrate", "stormpath-export"], "requires": ["PyJWT", "oauthlib", "requests", "six", "python-dateutil", "pydispatcher", "isodate"], "package": "stormpath"}

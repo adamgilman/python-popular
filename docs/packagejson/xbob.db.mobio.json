@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.597003", "required_by": ["xfacereclib.paper.IET2014", "estimate.gender"], "requires": ["setuptools", "six", "bob", "xbob.db.verification.utils"], "package": "xbob.db.mobio"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.655545", "required_by": ["Agora-Fragments", "Agora-Curator", "Fragment-Service-Provider"], "requires": ["pika", "rdflib", "Agora-Client"], "package": "Agora-Stoa-Client"}

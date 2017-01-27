@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.652352", "required_by": ["lck.django", "moya", "langacore.kit.django", "django-misc"], "requires": ["setuptools"], "package": "postmarkup"}

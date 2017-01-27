@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.873291", "required_by": ["pixelcms-server", "django-rest-framework-social-oauth2"], "requires": [], "package": "social-auth-app-django"}

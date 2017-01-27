@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.426330", "required_by": ["collective.geo.contentlocations", "collective.geo.behaviour"], "requires": ["setuptools", "collective.geo.mapwidget"], "package": "collective.z3cform.mapwidget"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.516856", "required_by": ["horae.workflow", "horae.auth", "horae.properties", "horae.search", "horae.ticketing", "horae.core"], "requires": ["setuptools", "plone.memoize", "grok"], "package": "horae.cache"}

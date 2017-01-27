@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.998618", "required_by": ["ztfy.utils", "ztfy.security", "ztfy.i18n", "ztfy.sendit", "ztfy.blog", "ztfy.captcha", "ztfy.media", "ztfy.skin", "ztfy.thesaurus", "ztfy.file", "ztfy.scheduler"], "requires": ["setuptools", "fanstatic"], "package": "ztfy.jqueryui"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.658773", "required_by": ["buildbot-junit", "autobot", "chevah-buildbot-configuration-builder", "anybox.buildbot.openerp", "collective.buildbot"], "requires": [], "package": "buildbot"}

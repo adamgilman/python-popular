@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.938752", "required_by": ["QHangups", "HangupsBot"], "requires": ["ConfigArgParse", "aiohttp", "appdirs", "readlike", "requests", "ReParser", "protobuf", "urwid", "MechanicalSoup"], "package": "hangups"}

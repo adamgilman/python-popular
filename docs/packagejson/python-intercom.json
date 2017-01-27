@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.369841", "required_by": ["django-intercom-email-backend"], "requires": ["requests", "inflection", "certifi", "six", "pytz"], "package": "python-intercom"}

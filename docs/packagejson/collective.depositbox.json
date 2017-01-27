@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.570981", "required_by": ["collective.confirmableforms"], "requires": ["setuptools"], "package": "collective.depositbox"}

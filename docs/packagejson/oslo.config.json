@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.975959", "required_by": ["VMAgent", "routes_demo", "hot", "plato_cat", "hastexo-xblock", "stackctl"], "requires": ["pbr"], "package": "oslo.config"}

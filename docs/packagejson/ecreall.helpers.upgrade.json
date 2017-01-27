@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.834557", "required_by": ["collective.contentrules.comingsoon", "collective.contact.core", "collective.contact.facetednav", "collective.contact.membrane"], "requires": ["setuptools"], "package": "ecreall.helpers.upgrade"}

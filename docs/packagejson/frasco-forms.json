@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.515134", "required_by": ["frasco-users"], "requires": ["frasco", "Flask-WTF", "inflection"], "package": "frasco-forms"}

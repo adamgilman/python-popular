@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.241972", "required_by": ["agx.generator.pyegg"], "requires": ["setuptools", "agx.core", "node.ext.directory"], "package": "agx.transform.uml2fs"}

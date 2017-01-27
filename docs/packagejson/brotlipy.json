@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.720954", "required_by": ["fity", "HTTPolice", "pywb", "django-brotli"], "requires": ["cffi"], "package": "brotlipy"}

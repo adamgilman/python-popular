@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.693422", "required_by": ["nameko-cloudant", "cloudantdb"], "requires": [], "package": "cloudant"}

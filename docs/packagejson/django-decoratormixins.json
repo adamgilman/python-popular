@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.904228", "required_by": ["django-verified-email"], "requires": ["Django"], "package": "django-decoratormixins"}

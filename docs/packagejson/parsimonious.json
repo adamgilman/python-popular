@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.337733", "required_by": ["pyhaystack", "erl_terms", "EvidentialToolBus", "jass_interpreter", "Treepace", "pysd", "ingreedypy", "imap-detach", "py-stl"], "requires": ["six"], "package": "parsimonious"}

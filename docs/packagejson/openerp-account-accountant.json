@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.025438", "required_by": ["openerp-hr-expense", "openerp-account-followup"], "requires": ["openerp-account-voucher"], "package": "openerp-account-accountant"}

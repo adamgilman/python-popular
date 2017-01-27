@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.933655", "required_by": ["skitaid"], "requires": ["jinja2", "h2", "aquests"], "package": "skitai"}

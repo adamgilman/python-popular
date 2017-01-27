@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.002265", "required_by": ["gocept.form"], "requires": ["setuptools", "zope.viewlet", "zc.resourcelibrary"], "package": "gocept.mochikit"}

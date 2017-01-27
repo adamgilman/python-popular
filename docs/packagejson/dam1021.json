@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.536927", "required_by": ["Mopidy-dam1021"], "requires": ["pyserial", "xmodem"], "package": "dam1021"}

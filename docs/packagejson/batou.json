@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.999012", "required_by": ["batou_scm"], "requires": ["Jinja2", "requests", "setuptools", "execnet", "py"], "package": "batou"}

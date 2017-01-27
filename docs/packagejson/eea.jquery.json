@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.118409", "required_by": ["eea.tags", "eea.progressbar", "eea.facetednavigation", "eea.relations", "eea.app.visualization", "eea.annotator", "collective.z3cform.select2"], "requires": ["setuptools", "collective.js.jqueryui"], "package": "eea.jquery"}

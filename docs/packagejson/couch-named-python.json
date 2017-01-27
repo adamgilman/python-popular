@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.277829", "required_by": ["habitat"], "requires": ["PyYAML", "couchdbkit"], "package": "couch-named-python"}

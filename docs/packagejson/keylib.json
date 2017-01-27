@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.339743", "required_by": ["blockstack", "blockstack-schema", "blockstack-client", "blockstack-profiles", "jsontokens"], "requires": ["requests", "ecdsa", "utilitybelt"], "package": "keylib"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.748785", "required_by": ["mongo-mail-web", "ukmdb_settings", "mongo-mail-server", "ukmdb_cli"], "requires": [], "package": "python-decouple"}

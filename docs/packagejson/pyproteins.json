@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.191404", "required_by": ["pyproteinsExt"], "requires": ["bs4", "biopython", "numpy", "paramiko", "lxml"], "package": "pyproteins"}

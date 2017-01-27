@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.873569", "required_by": ["pogo", "wikimon", "i2py"], "requires": ["python-geoip"], "package": "python-geoip-geolite2"}

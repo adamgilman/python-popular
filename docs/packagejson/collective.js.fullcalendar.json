@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.969149", "required_by": ["slc.facetedcalendar", "collective.calendarview", "seantis.dir.facility", "seantis.reservation", "Solgema.fullcalendar"], "requires": ["setuptools"], "package": "collective.js.fullcalendar"}

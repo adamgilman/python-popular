@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.069348", "required_by": ["tipfyrecipes", "jb.recipe.supervisor", "jsb.recipes.jsonbot", "dowser-py3", "infi.recipe.console_scripts"], "requires": ["zc.buildout", "zc.recipe.egg", "setuptools"], "package": "z3c.recipe.scripts"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.706065", "required_by": ["jenkins_job_builder_brakeman", "jenkins_job_builder_clamav", "schmenkins", "jenkins-jobs-fail-the-build"], "requires": ["pbr"], "package": "jenkins-job-builder"}

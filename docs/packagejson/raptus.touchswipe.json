@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.869227", "required_by": ["raptus.inlinelightbox", "raptus.article.slideshow", "raptus.article.mediagallery"], "requires": ["setuptools"], "package": "raptus.touchswipe"}

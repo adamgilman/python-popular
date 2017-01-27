@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.111637", "required_by": ["mfabrik.webandmobile", "wsgi-ua-mapper", "molly"], "requires": ["python-Levenshtein"], "package": "pywurfl"}

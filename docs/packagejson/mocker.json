@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.859369", "required_by": ["plone.mocktestcase", "lazr.testing", "piped.contrib.zmq", "piped.contrib.database", "launchkey-pyramid", "collective.recipe.hudsonjob"], "requires": [], "package": "mocker"}

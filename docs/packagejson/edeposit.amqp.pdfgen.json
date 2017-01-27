@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.722950", "required_by": ["edeposit.amqp.meta"], "requires": ["setuptools", "rst2pdf", "pyqrcode", "pypng"], "package": "edeposit.amqp.pdfgen"}

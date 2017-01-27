@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.347864", "required_by": ["pyensembl", "topiary"], "requires": ["numpy", "pandas"], "package": "gtfparse"}

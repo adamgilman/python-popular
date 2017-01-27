@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.860129", "required_by": ["ClueMapper"], "requires": ["setuptools", "Paste", "repoze.who", "TracUserManagerPlugin", "TracAccountManager", "TracCustomFieldAdmin"], "package": "ClueMapperSecure"}

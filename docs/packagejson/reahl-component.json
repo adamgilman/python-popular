@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.864739", "required_by": ["reahl-dev", "reahl-webdev", "reahl-sqlitesupport", "reahl-sqlalchemysupport", "reahl-web", "reahl-domainui", "reahl-domain", "reahl-web-declarative", "reahl-postgresqlsupport", "reahl-mailutil", "reahl-doc"], "requires": ["six", "Babel", "python-dateutil", "wrapt"], "package": "reahl-component"}

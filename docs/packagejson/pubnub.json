@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.059821", "required_by": ["pubnub-console", "resin-sdk", "pubnubsub-handler", "tapblue", "ringcentral", "rcsdk"], "requires": ["pycryptodomex", "requests", "six"], "package": "pubnub"}

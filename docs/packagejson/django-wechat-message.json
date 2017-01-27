@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.794289", "required_by": ["django-wechat-qrcode"], "requires": ["django-wechat-base"], "package": "django-wechat-message"}

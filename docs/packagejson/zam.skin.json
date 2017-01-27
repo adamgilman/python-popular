@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.693616", "required_by": ["zamplugin.control"], "requires": ["setuptools", "z3c.jsonrpc", "z3c.pagelet", "zam.api", "zope.app.component", "zope.component", "zope.interface", "zope.publisher", "zope.traversing", "zope.viewlet"], "package": "zam.skin"}

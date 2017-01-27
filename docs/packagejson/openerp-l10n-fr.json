@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.743762", "required_by": ["openerp-l10n-fr-hr-payroll"], "requires": ["openerp-base-iban", "openerp-account", "openerp-account-chart", "openerp-base-vat", "openerp-l10n-fr-rib"], "package": "openerp-l10n-fr"}

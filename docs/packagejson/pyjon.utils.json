@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.173152", "required_by": ["tgext.odt", "pyf.components.producers.descriptorfromfolder", "pyf.dataflow", "pyf.componentized", "any2csv", "py3o.template", "pyf.splitter", "any2fixed", "py3o.renderclient", "pyf.transport"], "requires": ["setuptools"], "package": "pyjon.utils"}

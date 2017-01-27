@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.743445", "required_by": ["Agora-Scholar", "Agora-Curator"], "requires": ["shortuuid", "pika", "flask", "Flask-Negotiate", "redis", "hiredis", "networkx", "Agora-Client", "pymongo"], "package": "Agora-Stoa"}

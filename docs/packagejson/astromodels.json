@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.076625", "required_by": ["threeML"], "requires": ["numpy", "PyYAML", "astropy", "scipy", "numdifftools"], "package": "astromodels"}

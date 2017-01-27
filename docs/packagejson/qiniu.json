@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.031733", "required_by": ["django-zqiniu", "qiniufops", "leancloud-sdk", "cporter", "qiniu4blog", "qiniu_upload", "django-qiniu-storage", "Flask-qiniu", "docbook", "django-qiniu", "qnupload", "qiniufs", "leancloud-sdk-ng", "qiniu4blog-mk", "scrapy-qiniu", "Flask-Zero"], "requires": ["requests"], "package": "qiniu"}

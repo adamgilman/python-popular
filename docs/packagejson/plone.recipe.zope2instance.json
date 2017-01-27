@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.762827", "required_by": ["collective.runhook", "collective.recipe.filestorage", "collective.recipe.zope2wsgi", "collective.recipe.zope2cluster"], "requires": ["zc.buildout", "setuptools", "mailinglogger", "zc.recipe.egg", "Zope2", "ZODB3"], "package": "plone.recipe.zope2instance"}

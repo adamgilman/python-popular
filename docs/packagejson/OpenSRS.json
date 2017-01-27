@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.807189", "required_by": ["opensrscli"], "requires": ["httplib2", "certifi"], "package": "OpenSRS"}

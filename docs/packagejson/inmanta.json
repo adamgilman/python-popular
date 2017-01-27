@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.221694", "required_by": ["pytest-inmanta"], "requires": ["cliff", "execnet", "tornado", "colorlog", "urllib3", "python-dateutil", "ply", "ruamel.yaml", "virtualenv", "motorengine", "pymongo", "blessings"], "package": "inmanta"}

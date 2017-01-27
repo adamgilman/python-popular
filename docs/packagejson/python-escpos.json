@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.708241", "required_by": ["zeropos", "python-escpos-xml"], "requires": ["pyusb", "Pillow", "qrcode", "pyserial", "six", "appdirs", "pyyaml", "argparse", "argcomplete"], "package": "python-escpos"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.321555", "required_by": ["collective.psc.externalstorage", "Products.PloneOrg", "raptus.mercurialstorage"], "requires": ["setuptools"], "package": "Products.ExternalStorage"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.260646", "required_by": ["collective.cdn.coral", "collective.cdn.multiplehostnames", "collective.cdn.alternatehostname"], "requires": ["setuptools"], "package": "collective.cdn.core"}

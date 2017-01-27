@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.787763", "required_by": ["lava-scheduler", "django-secure-auth", "django-tables2-column-shifter", "django-bigfoot", "django-exordium", "transmanager", "django-cruditor", "django-html-sweatshop", "django-tables2-simplefilter", "fabric-bolt", "djangoautoconf", "RapidSMS"], "requires": ["Django"], "package": "django-tables2"}

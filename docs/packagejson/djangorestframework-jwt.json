@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.962178", "required_by": ["rest_framework_auth0", "plugs-core", "pixelcms-server", "ovp-users", "ovp-projects", "munch-core", "railguns", "webpartners-users", "edx-drf-extensions", "pyreststore"], "requires": ["PyJWT"], "package": "djangorestframework-jwt"}

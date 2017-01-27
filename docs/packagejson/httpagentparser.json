@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.147631", "required_by": ["django-secure-auth", "browser_compare", "mixpanel_django", "gocept.selenium", "yahi", "cherrypy-cors", "browser_vulnerabilities", "recapturedocs", "django-badbrowser", "django-metaredirect"], "requires": [], "package": "httpagentparser"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.194549", "required_by": ["ajenti-dev-multitool", "negotiator-guest", "nsot_sync", "brite_etl", "auto-adjust-display-brightness", "dwim", "okcupyd", "koodous-py", "grass", "tumbler", "GitflowDennis", "cerda", "apache-manager", "sorna-manager", "ebimporter.py", "jeev", "negotiator-host"], "requires": [], "package": "coloredlogs"}

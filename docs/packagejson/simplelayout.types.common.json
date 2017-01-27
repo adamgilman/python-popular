@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.286480", "required_by": ["onegov.edu", "simplelayout.types.news"], "requires": ["setuptools", "ftw.upgrade"], "package": "simplelayout.types.common"}

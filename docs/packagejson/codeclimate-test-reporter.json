@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.791311", "required_by": ["pyArubaCloud"], "requires": ["coverage", "requests"], "package": "codeclimate-test-reporter"}

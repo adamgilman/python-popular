@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.968420", "required_by": ["service-registry-cli"], "requires": ["python-dateutil", "requests", "apache-libcloud"], "package": "service-registry"}

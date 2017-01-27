@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.846586", "required_by": ["cbagent"], "requires": ["couchbase", "decorator", "logger", "numpy", "requests", "twisted"], "package": "spring"}

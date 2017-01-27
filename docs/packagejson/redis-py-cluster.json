@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.777843", "required_by": ["dj_rcc", "django-redis-cluster"], "requires": ["redis"], "package": "redis-py-cluster"}

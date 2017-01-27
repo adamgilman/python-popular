@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.483233", "required_by": ["djangocms-forms", "teamvault", "djangocms-disqus", "djangocms-responsive-wrapper", "pixelcms-shop-server", "django-hashid-field", "djangorestframework-serializer-extensions", "django-urlbrevity", "cutil", "zinnia-url-shortener-hashids", "django-fwdform"], "requires": [], "package": "hashids"}

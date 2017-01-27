@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.180752", "required_by": ["Islykill2"], "requires": ["lxml", "defusedxml", "eight", "cryptography", "pyOpenSSL", "certifi"], "package": "signxml"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.962029", "required_by": ["sampleProject123", "python-bioformats", "cellprofiler", "python-weka-wrapper", "python-weka-wrapper3"], "requires": ["numpy"], "package": "javabridge"}

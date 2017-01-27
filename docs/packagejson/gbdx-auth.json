@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.992782", "required_by": ["gbdxtools", "gbdx-cloud-harness", "gbdxcli"], "requires": ["requests[security"], "package": "gbdx-auth"}

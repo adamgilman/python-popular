@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.676157", "required_by": ["MMM-Savings-Rate"], "requires": ["requests", "xmltodict"], "package": "mintapi"}

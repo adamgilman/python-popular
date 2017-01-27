@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.700892", "required_by": ["cyclosible", "djangorestframework-reactive"], "requires": ["setuptools", "redis", "gevent", "greenlet", "six"], "package": "django-websocket-redis"}

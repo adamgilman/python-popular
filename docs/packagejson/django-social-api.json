@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.906394", "required_by": ["django-facebook-api", "django-instagram-api", "django-odnoklassniki-api", "django-vkontakte-api"], "requires": ["django", "distributedlock", "requests"], "package": "django-social-api"}

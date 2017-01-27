@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.997820", "required_by": ["groundwork-web", "groundwork", "groundwork-database"], "requires": ["groundwork", "pytest-runner", "sphinx", "gitpython"], "package": "groundwork"}

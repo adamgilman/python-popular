@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.868373", "required_by": ["pycjflab"], "requires": ["swhlab", "webinspect", "numpy", "matplotlib", "swhlog"], "package": "PyOriginTools"}

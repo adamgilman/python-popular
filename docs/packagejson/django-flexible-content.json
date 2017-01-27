@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.056563", "required_by": ["django-flexible-content-ckeditor"], "requires": ["Django", "django-model-utils", "requests"], "package": "django-flexible-content"}

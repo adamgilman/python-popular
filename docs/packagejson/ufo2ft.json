@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.598980", "required_by": ["trufont", "fontmake"], "requires": ["fonttools", "ufoLib", "defcon", "cu2qu", "compreffor"], "package": "ufo2ft"}

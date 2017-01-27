@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.839418", "required_by": ["agx.transform.uml2fs", "agx.transform.xmi2uml"], "requires": ["setuptools", "node", "zope.configuration"], "package": "agx.core"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.477626", "required_by": ["zope.app.error", "zope.app.wsgi", "grokcore.error", "p01.publisher", "zope.app.publication", "p01.zmi", "zamplugin.error", "zope.app.appsetup"], "requires": ["setuptools", "zope.exceptions", "zope.interface", "zope.location", "persistent", "six"], "package": "zope.error"}

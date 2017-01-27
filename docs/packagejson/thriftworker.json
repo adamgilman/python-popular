@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.245061", "required_by": ["thriftpool"], "requires": ["pyuv", "thrift", "six", "greenlet"], "package": "thriftworker"}

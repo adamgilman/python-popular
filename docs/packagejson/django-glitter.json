@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.744593", "required_by": ["django-glitter-news", "django-glitter-documents"], "requires": ["Django", "django-mptt", "django-mptt-admin", "sorl-thumbnail"], "package": "django-glitter"}

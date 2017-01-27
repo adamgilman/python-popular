@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.922618", "required_by": ["weppy-Assets", "weppy-REST", "weppy-Sentry", "weppy-BS3", "weppy-Haml"], "requires": ["click", "pyaes", "pyDAL", "pyyaml", "udatetime"], "package": "weppy"}

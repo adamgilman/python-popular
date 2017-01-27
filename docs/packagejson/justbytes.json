@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.630874", "required_by": ["printdevDAG", "pydevDAG", "justbytes-gui"], "requires": ["justbases", "six"], "package": "justbytes"}

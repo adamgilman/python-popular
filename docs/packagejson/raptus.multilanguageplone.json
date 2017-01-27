@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.724084", "required_by": ["raptus.article.multilanguagefields", "raptus.multilanguagepfg", "raptus.multilanguageconstraint"], "requires": ["setuptools", "raptus.multilanguagefields", "archetypes.schemaextender"], "package": "raptus.multilanguageplone"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.504554", "required_by": ["granary"], "requires": ["gdata", "google-api-python-client", "httplib2", "oauth2client", "oauthlib", "python-tumblpy", "requests", "requests-oauthlib", "requests-toolbelt", "tweepy", "beautifulsoup4", "mf2py", "mf2util", "urllib3"], "package": "oauth-dropins"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.989430", "required_by": ["openerp-l10n-be"], "requires": ["openerp-account-voucher", "openerp-base-iban", "openerp-l10n-be-invoice-bba"], "package": "openerp-l10n-be-coda"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.720344", "required_by": ["headjack", "pypolyglot"], "requires": ["pyyaml", "pypolyglot", "fundamentals", "requests", "pyopenssl", "ndg-httpsclient", "pyasn1"], "package": "pypolyglot"}

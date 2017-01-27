@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.660394", "required_by": ["roboticia-horse", "poppy-ergo-jr", "heol-humanoid", "poppy-creature", "roboticia-first", "poppy-humanoid", "poppy-4dof-arm-mini", "poppy-torso"], "requires": ["numpy", "pyserial", "tornado", "scipy", "ikpy", "bottle"], "package": "pypot"}

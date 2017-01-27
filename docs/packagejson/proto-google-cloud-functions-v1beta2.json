@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.400916", "required_by": ["gapic-google-cloud-functions-v1beta2"], "requires": ["oauth2client", "grpcio", "googleapis-common-protos[grpc"], "package": "proto-google-cloud-functions-v1beta2"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.458699", "required_by": ["testrepository", "nose-subunit", "txpkgme", "concurrencytest", "subunitdetails", "olstests", "ucitests", "pytest-subunit"], "requires": [], "package": "python-subunit"}

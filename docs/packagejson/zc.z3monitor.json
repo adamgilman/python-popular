@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.420711", "required_by": ["ztfy.monitor", "plone.app.async", "zc.monitorcache", "five.z2monitor", "collective.monitor"], "requires": ["setuptools", "zc.monitor", "ZODB3", "zope.component", "zope.publisher", "zope.app.appsetup", "zope.testing", "mock"], "package": "zc.z3monitor"}

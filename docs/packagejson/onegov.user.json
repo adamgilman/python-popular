@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.722761", "required_by": ["onegov.org", "onegov.ticket", "onegov.activity"], "requires": ["click", "onegov.core", "onegov.form", "sqlalchemy", "yubico-client"], "package": "onegov.user"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.916955", "required_by": ["codefurther", "twentytab-gmaps-places"], "requires": ["requests", "pytz"], "package": "python-gmaps"}

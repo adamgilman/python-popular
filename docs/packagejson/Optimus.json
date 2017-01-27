@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.603226", "required_by": ["Optimus_foundation", "Optimus_foundation_5"], "requires": ["docutils", "argh", "pathtools", "watchdog", "Jinja2", "Babel", "webassets"], "package": "Optimus"}

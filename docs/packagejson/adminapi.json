@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.909365", "required_by": ["nephoria"], "requires": ["paramiko", "boto", "argparse", "kazoo", "pywinrm", "requests", "prettytable", "python-dateutil", "dnspython", "midonetclient"], "package": "adminapi"}

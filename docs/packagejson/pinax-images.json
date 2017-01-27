@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.015428", "required_by": ["pinax-blog"], "requires": ["django-appconf", "django-imagekit", "pilkit", "pillow", "pytz"], "package": "pinax-images"}

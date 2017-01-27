@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.041286", "required_by": ["contrail-api-cli-extra", "nxpydot", "rlstm", "pyagrum", "bpmn_python", "discoursegraphs", "adage", "depy", "py2cytoscape", "visualize_logs", "pkg-deps", "sos", "cppdep", "callysto"], "requires": [], "package": "pydotplus"}

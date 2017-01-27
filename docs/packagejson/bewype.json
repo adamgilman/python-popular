@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.906551", "required_by": ["bewype.foo.bar"], "requires": ["Babel", "Genshi", "Importing", "zope.interface", "Twisted", "Nevow", "pyOpenSSL", "PyYAML", "recaptcha-client", "simplejson", "sqlalchemy-migrate", "TurboMail"], "package": "bewype"}

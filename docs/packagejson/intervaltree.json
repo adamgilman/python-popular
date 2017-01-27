@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.709293", "required_by": ["telescope-ngs", "co", "bgscripts", "python-pyqt5-hexview", "gff_toolkit", "intervaltree_bio", "ebb-lint", "tag", "labella", "varlens", "python-cim", "PyAFF4"], "requires": ["sortedcontainers"], "package": "intervaltree"}

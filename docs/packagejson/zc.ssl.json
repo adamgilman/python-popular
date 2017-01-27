@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.030930", "required_by": ["zc.authorizedotnet", "getpaid.paymentech", "getpaid.pxpay"], "requires": ["setuptools", "zope.testing"], "package": "zc.ssl"}

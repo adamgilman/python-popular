@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.825280", "required_by": ["Euphorie", "collective.solr", "dexterity.membrane"], "requires": ["setuptools", "plone.app.testing", "unittest2", "zope.container", "zope.event", "zope.lifecycleevent", "zope.publisher", "Zope2"], "package": "collective.indexing"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.317408", "required_by": ["django-fluent-blogs"], "requires": ["django-mptt", "django-parler"], "package": "django-categories-i18n"}

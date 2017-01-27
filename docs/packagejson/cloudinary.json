@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.939399", "required_by": ["python-markdown-cloudinary", "django-cloudinary-storage"], "requires": ["six", "urllib3"], "package": "cloudinary"}

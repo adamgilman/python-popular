@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.148792", "required_by": ["qsctl"], "requires": ["requests", "PyYAML"], "package": "qingstor-sdk"}

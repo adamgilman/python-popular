@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.117402", "required_by": ["collective.genericsetup.ldap", "vs.genericsetup.ldap", "simplon.plone.ldap"], "requires": ["setuptools", "Products.PlonePAS", "Products.LDAPMultiPlugins", "Products.LDAPUserFolder"], "package": "Products.PloneLDAP"}

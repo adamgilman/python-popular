@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.753973", "required_by": ["django-webid-auth"], "requires": ["python-webid"], "package": "django-webid-provider"}

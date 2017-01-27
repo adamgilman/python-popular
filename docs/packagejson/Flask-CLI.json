@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.692628", "required_by": ["invenio-records-rest", "invenio-documents", "invenio-oaiharvester"], "requires": ["Flask", "click"], "package": "Flask-CLI"}

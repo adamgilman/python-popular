@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.979504", "required_by": ["numpy-sugar", "limix-inference"], "requires": ["cffi"], "package": "ncephes"}

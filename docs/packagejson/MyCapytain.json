@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.108140", "required_by": ["capitains-nautilus", "HookTest"], "requires": ["requests", "six", "lxml", "future"], "package": "MyCapytain"}

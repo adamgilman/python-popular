@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.200603", "required_by": ["pyProCT-GUI"], "requires": ["pyRMSD", "pyScheduler", "fastcluster", "ProDy", "numpy", "scipy", "scikit-learn", "Pillow", "matplotlib", "mpi4py"], "package": "pyProCT"}

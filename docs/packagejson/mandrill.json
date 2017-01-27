@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.264944", "required_by": ["django-yutils", "opencanary-correlator", "trac.por", "penelope.trac", "community_mailbot", "django-mandrill", "donkey_kong", "plantain", "hanotify"], "requires": ["requests", "docopt"], "package": "mandrill"}

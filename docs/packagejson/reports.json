@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.282534", "required_by": ["sequana"], "requires": ["easydev", "pandas", "colormap", "jinja2"], "package": "reports"}

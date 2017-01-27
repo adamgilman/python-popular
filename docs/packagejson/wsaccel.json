@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.874964", "required_by": ["ava", "django-websocket-channel", "pyfora", "pyrainbow", "django-flow"], "requires": [], "package": "wsaccel"}

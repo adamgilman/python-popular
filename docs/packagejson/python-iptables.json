@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.335893", "required_by": ["docker-ipsec", "swabber", "tcpstat"], "requires": [], "package": "python-iptables"}

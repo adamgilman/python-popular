@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.929173", "required_by": ["interlegis.intranetmodelo.policy", "Products.PloneSoftwareCenter", "vnccollab.theme"], "requires": ["Plone", "plone.behavior", "setuptools"], "package": "cioppino.twothumbs"}

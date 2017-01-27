@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.554598", "required_by": ["xbob.paper.tpami2013", "estimate.gender", "xspear.fast_plda", "xbob.gender.bimodal", "xbob.db.voxforge"], "requires": ["setuptools", "six", "bob", "xbob.db.verification.utils"], "package": "xbob.db.verification.filelist"}

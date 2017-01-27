@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.810848", "required_by": ["gnucash-utilities", "gnucash-to-beancount"], "requires": ["SQLAlchemy", "SQLAlchemy-Utils", "pytz", "enum-compat", "tzlocal"], "package": "piecash"}

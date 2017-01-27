@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.574561", "required_by": ["Pyramid-Classy", "pyramid_mongo_session", "pyramid_cron", "pyramid-jsroutes", "pyramid_frontend", "pyramid_uniform", "pyramid_file_session"], "requires": [], "package": "Pyramid"}

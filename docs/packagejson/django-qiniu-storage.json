@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.085169", "required_by": ["django-qiniu", "filebrowser_safe_mixin_qiniu"], "requires": ["qiniu", "six", "requests"], "package": "django-qiniu-storage"}

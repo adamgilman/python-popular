@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.793419", "required_by": ["collective.contact.core"], "requires": ["five.grok", "setuptools", "plone.api", "plone.formwidget.contenttree", "plone.formwidget.autocomplete", "z3c.relationfield"], "package": "collective.contact.widget"}

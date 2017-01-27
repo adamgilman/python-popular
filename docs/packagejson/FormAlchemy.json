@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.774127", "required_by": ["GeoFormAlchemy", "annotater", "pyramid_formalchemy", "GeoFormAlchemy2"], "requires": ["SQLAlchemy", "Tempita", "WebHelpers2", "WebOb", "MarkupSafe", "six"], "package": "FormAlchemy"}

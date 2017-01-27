@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.082864", "required_by": ["series"], "requires": ["requests", "amino", "golgi", "tek", "lxml", "ThePirateBay", "pyquery", "cfscrape"], "package": "tek-utils"}

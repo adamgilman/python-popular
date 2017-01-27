@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.718545", "required_by": ["yadtreceiver"], "requires": ["Twisted", "autobahn"], "package": "yadtbroadcast-client"}

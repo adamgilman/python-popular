@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.763446", "required_by": ["dtool", "django-actionlog", "bufferapp-logger", "logcollection", "celery-tracker", "gitmesh", "Flask-fluentd"], "requires": ["msgpack-python"], "package": "fluent-logger"}

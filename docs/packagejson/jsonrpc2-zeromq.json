@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.470273", "required_by": ["spectrumwars"], "requires": ["setuptools", "pyzmq", "future"], "package": "jsonrpc2-zeromq"}

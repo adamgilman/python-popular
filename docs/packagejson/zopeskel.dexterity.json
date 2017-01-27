@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.095063", "required_by": ["CodeSkel"], "requires": ["setuptools", "PasteScript", "PasteDeploy", "Paste", "ZopeSkel"], "package": "zopeskel.dexterity"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.175570", "required_by": ["node.ext.template", "archgenxml", "zope.app.dtmlpage", "zope.app.sqlscript"], "requires": ["setuptools", "zope.structuredtext"], "package": "zope.documenttemplate"}

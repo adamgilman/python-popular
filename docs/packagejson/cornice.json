@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.109928", "required_by": ["vaurien", "olap.rest", "turnip", "rawgithub", "djehuty", "gplayproxy"], "requires": ["pyramid", "simplejson"], "package": "cornice"}

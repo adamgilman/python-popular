@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.065314", "required_by": ["dolmen.app.content"], "requires": ["dolmen.content", "grokcore.site", "setuptools", "zope.interface"], "package": "dolmen.app.site"}

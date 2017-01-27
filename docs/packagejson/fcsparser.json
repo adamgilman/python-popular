@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.931255", "required_by": ["cytoflow", "fcmcmp"], "requires": ["setuptools"], "package": "fcsparser"}

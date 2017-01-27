@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.987757", "required_by": ["blogger-to-puput", "zinnia-to-puput"], "requires": ["Django", "django-compressor", "wagtail", "django-el-pagination"], "package": "puput"}

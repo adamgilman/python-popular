@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.890252", "required_by": ["irc-pyhole", "yahoofinance-cli", "jhBacktestMini"], "requires": ["pytz", "simplejson"], "package": "yahoo-finance"}

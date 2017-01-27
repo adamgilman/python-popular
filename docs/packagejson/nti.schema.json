@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.732050", "required_by": ["nti.site"], "requires": ["Acquisition", "six", "setuptools", "zope.event", "zope.schema", "zope.i18n", "zope.i18nmessageid", "zope.vocabularyregistry", "zope.deferredimport"], "package": "nti.schema"}

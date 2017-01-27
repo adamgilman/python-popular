@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.680366", "required_by": ["typepadapp-moderation"], "requires": ["Django", "typepad", "FeedParser", "iso8601"], "package": "typepadapp"}

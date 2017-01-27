@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.484554", "required_by": ["barmanapi", "flask_profiler", "sandman", "sandman2"], "requires": ["Flask"], "package": "Flask-HTTPAuth"}

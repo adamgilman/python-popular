@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.987810", "required_by": ["spinnaker_spinner", "flake8_strict", "piecash", "enocean", "i3-workspace-rollback", "spalloc", "zeroconf", "rig", "i3ipc"], "requires": [], "package": "enum-compat"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.642816", "required_by": ["sorna"], "requires": ["ConfigArgParse", "coloredlogs", "pyzmq", "aiozmq", "aiohttp", "aioredis", "msgpack-python", "namedlist", "SQLAlchemy", "asyncpg", "asyncpgsa", "python-dateutil", "simplejson", "uvloop", "sorna-common"], "package": "sorna-manager"}

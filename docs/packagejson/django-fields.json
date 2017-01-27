@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.160589", "required_by": ["django-ios-notifications", "django-eggplant", "django-vcs-watch"], "requires": ["pycrypto"], "package": "django-fields"}

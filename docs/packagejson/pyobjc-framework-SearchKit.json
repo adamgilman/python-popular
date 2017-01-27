@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.589828", "required_by": ["pyobjc-framework-SearchKit"], "requires": ["py2app", "pyobjc-framework-Cocoa", "pyobjc-framework-SearchKit"], "package": "pyobjc-framework-SearchKit"}

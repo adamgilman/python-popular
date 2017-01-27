@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.886572", "required_by": ["grok", "grokcore.formlib", "dolmen.app.authentication", "grokcore.xmlrpc"], "requires": ["setuptools", "ZODB3", "grokcore.component", "zope.annotation", "zope.container", "zope.interface", "zope.lifecycleevent"], "package": "grokcore.content"}

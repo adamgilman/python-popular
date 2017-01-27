@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.986424", "required_by": ["python-operative", "django-ftpserver", "ftp-cloudfs", "soloftpd", "pyftpdlib-ustcblog", "infi.app_repo", "lab-django-ftpserver", "unweb.recipe.ploneftp", "plumiftp", "ftpservx"], "requires": [], "package": "pyftpdlib"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.933579", "required_by": ["siskin"], "requires": ["pymarc", "jsonpath-rw", "ply"], "package": "marcx"}

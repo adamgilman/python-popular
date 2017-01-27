@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.677982", "required_by": ["octohat"], "requires": ["requests", "simplejson", "gitpython"], "package": "octohatrack"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.805846", "required_by": ["i3menu", "i3-workspace-rollback", "i3-dstatus"], "requires": ["enum-compat"], "package": "i3ipc"}

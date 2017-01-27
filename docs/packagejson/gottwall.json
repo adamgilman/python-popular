@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.861014", "required_by": ["gottwall-storage-redis", "gottwall-backend-redis"], "requires": ["redis", "tornado", "python-dateutil", "tornado-redis", "commandor", "SQLAlchemy", "alembic", "Jinja2"], "package": "gottwall"}

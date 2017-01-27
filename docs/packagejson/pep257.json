@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.210507", "required_by": ["pytest-pep257", "kwalitee", "flake8-pep257", "concept-py", "polysquare-setuptools-lint"], "requires": [], "package": "pep257"}

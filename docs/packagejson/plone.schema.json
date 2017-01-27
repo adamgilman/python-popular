@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.899006", "required_by": ["plone.app.users", "collective.easyform"], "requires": ["setuptools", "plone.app.z3cform", "z3c.form", "zope.component", "zope.i18nmessageid", "zope.interface", "zope.schema"], "package": "plone.schema"}

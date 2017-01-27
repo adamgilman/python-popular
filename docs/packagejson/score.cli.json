@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.542551", "required_by": ["score.deploy", "score.uwsgi", "score.projects"], "requires": ["click", "score.init"], "package": "score.cli"}

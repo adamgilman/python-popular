@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.100045", "required_by": ["invenio-oauthclient", "zenodo-accessrequests"], "requires": ["Flask", "Flask-Mail"], "package": "invenio-mail"}

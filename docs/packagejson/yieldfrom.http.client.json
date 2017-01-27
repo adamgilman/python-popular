@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.068013", "required_by": ["yieldfrom.botocore", "yieldfrom.urllib3", "yieldfrom.requests"], "requires": ["setuptools"], "package": "yieldfrom.http.client"}

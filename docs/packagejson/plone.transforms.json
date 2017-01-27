@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.219839", "required_by": ["vudo.cmf"], "requires": ["setuptools", "zope.component", "zope.configuration", "zope.dottedname", "zope.i18nmessageid", "zope.interface", "zope.security", "zope.testing", "ZODB3"], "package": "plone.transforms"}

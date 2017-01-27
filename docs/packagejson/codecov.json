@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.140693", "required_by": ["pyinseq", "ovp-uploads", "ovp-core", "ovp-search", "ovp-users", "ltz-slack", "ovp-projects", "ovp-organizations"], "requires": ["requests", "coverage", "argparse"], "package": "codecov"}

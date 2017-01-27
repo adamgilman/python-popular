@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.116172", "required_by": ["Products.CMFCore", "Products.DCWorkflow", "Products.CMFDefault", "collective.deletepermission"], "requires": ["setuptools", "AccessControl", "Acquisition", "DateTime", "DocumentTemplate", "RestrictedPython", "zExceptions", "Zope2"], "package": "Products.PythonScripts"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.290415", "required_by": ["trytond_nereid_chimp", "wm.chimpimport"], "requires": ["simplejson"], "package": "chimpy"}

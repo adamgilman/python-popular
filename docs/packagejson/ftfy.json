@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.963293", "required_by": ["motivation", "latexfixer", "luminoso-api"], "requires": ["html5lib", "wcwidth"], "package": "ftfy"}

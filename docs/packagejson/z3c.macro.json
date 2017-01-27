@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.784792", "required_by": ["z3c.profiler", "z3c.securitytool", "z3c.formui", "p01.pagelet", "z3c.skin.pagelet"], "requires": ["setuptools", "zope.component", "zope.configuration", "zope.interface", "zope.pagetemplate", "zope.publisher", "zope.schema", "zope.tales"], "package": "z3c.macro"}

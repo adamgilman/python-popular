@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.851350", "required_by": ["zope.app.apidoc", "z3c.saconfig", "hurry.custom"], "requires": ["setuptools"], "package": "zope.hookable"}

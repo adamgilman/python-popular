@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.044279", "required_by": ["ratatosk", "gluish", "siskin", "mariobros", "luigi-monkey-patch", "ratatosk.ext.scilife", "sciluigi", "luigi-swf", "luigi-slack", "arbalest"], "requires": ["tornado", "python-daemon"], "package": "luigi"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.117665", "required_by": ["niconico-translator", "domcheck", "django_discovery", "letsencrypt-remote", "machinae", "aio_etcd", "score.geoip", "guv", "easyzone3", "munch-core", "clientsubnetoption", "plumb-util"], "requires": ["dnspython"], "package": "dnspython3"}

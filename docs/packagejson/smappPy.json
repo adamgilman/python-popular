@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.009583", "required_by": ["smapp-toolkit"], "requires": ["tweepy", "bson", "urllib", "simplejson", "matplotlib"], "package": "smappPy"}

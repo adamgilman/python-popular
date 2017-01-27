@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.690042", "required_by": ["pyplexus"], "requires": ["requests"], "package": "http-hmac-python"}

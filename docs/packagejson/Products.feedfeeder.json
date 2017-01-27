@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.922483", "required_by": ["collective.collage.feedfeeder"], "requires": ["setuptools", "feedparser", "beautifulsoup4"], "package": "Products.feedfeeder"}

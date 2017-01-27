@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.099183", "required_by": ["SIDEKIT", "keras-rtst", "basicnnets", "passage", "CompyledFunc", "CorpFin", "TheanoLM", "nolearn", "mozi", "Kregistrar", "scikit-neuralnetwork", "neural-image-analogies"], "requires": ["numpy", "scipy", "six"], "package": "Theano"}

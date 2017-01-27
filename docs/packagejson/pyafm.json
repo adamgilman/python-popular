@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.791604", "required_by": ["unfold-protein"], "requires": ["pypiezo", "stepper", "h5config", "scipy"], "package": "pyafm"}

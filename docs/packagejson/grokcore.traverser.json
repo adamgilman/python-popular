@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.923048", "required_by": ["grokcore.rest", "grokcore.xmlrpc"], "requires": ["setuptools", "grokcore.component", "grokcore.security", "grokcore.view", "grokcore.rest", "martian", "zope.component", "zope.interface", "zope.publisher"], "package": "grokcore.traverser"}

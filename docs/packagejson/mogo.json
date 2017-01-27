@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.238787", "required_by": ["service-platform", "oriole", "oriole-service"], "requires": ["pymongo", "six"], "package": "mogo"}

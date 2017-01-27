@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.701690", "required_by": ["voeventdb.server"], "requires": ["astropy", "lxml", "iso8601", "orderedmultidict", "pytz", "six"], "package": "voevent-parse"}

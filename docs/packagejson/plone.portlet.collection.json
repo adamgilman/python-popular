@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.354249", "required_by": ["collective.portlet.contentleadimage", "collective.carousel", "hexagonit.portletstyle", "collective.portlet.collectionmultiview", "collective.portlet.colorcollection"], "requires": ["setuptools", "plone.memoize", "plone.portlets", "plone.app.portlets", "plone.app.vocabularies"], "package": "plone.portlet.collection"}

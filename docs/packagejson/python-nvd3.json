@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.996112", "required_by": ["cmsplugin-nvd3", "abel-airflow", "sphinxcontrib.nvd3"], "requires": ["python-slugify", "Jinja2"], "package": "python-nvd3"}

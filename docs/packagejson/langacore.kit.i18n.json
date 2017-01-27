@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.958523", "required_by": ["langacore.kit.django"], "requires": ["setuptools", "polib", "Sphinx", "langacore.kit.common"], "package": "langacore.kit.i18n"}

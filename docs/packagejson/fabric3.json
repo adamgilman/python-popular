@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.774917", "required_by": ["Mroylib", "Enuma_Elish", "autodeploy", "django-deployment-sm", "streamparse", "wfcli"], "requires": [], "package": "fabric3"}

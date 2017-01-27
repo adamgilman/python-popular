@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.751079", "required_by": ["mirrors", "django-encrypted-pgjson"], "requires": [], "package": "django-pgjson"}

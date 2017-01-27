@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.716647", "required_by": ["vecc", "pyfacebook", "wagtailsocialfeed", "fandjango", "django-facebook_gallery", "facebookinsights", "zuckup", "django-fairepart", "django-social-poster"], "requires": ["requests", "six"], "package": "facepy"}

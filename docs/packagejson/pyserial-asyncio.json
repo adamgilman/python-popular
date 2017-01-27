@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.982908", "required_by": ["rflink", "mpf", "dsmr-parser", "emonpi-sensors", "dsc-it100"], "requires": ["pyserial"], "package": "pyserial-asyncio"}

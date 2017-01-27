@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.014632", "required_by": ["collective.pfg.soup"], "requires": ["setuptools", "Products.CMFPlone", "souper"], "package": "souper.plone"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.610348", "required_by": ["fmn.consumer", "fmn.web"], "requires": ["SQLAlchemy", "beautifulsoup4", "fmn.rules", "docutils", "markupsafe", "six"], "package": "fmn.lib"}

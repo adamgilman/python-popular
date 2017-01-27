@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.643054", "required_by": ["z3c.davapp.zopelocking", "zope.locking", "zc.datetimewidget"], "requires": ["setuptools", "zope.i18n", "zope.i18nmessageid", "zope.interface"], "package": "zc.i18n"}

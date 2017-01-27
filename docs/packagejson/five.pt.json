@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.225752", "required_by": ["ftw.chameleon", "NuPlone", "tutorial.todoapp"], "requires": ["setuptools", "sourcecodegen", "z3c.pt", "zope.pagetemplate", "Chameleon"], "package": "five.pt"}

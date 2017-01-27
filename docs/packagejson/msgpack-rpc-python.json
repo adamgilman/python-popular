@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.835974", "required_by": ["stampery", "rlwsd", "jubatus"], "requires": ["msgpack-python", "tornado"], "package": "msgpack-rpc-python"}

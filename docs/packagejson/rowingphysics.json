@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.647652", "required_by": ["rowingdata"], "requires": ["numpy", "scipy", "matplotlib", "pandas"], "package": "rowingphysics"}

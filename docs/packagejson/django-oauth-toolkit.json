@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.701466", "required_by": ["django-fhir", "SilentDune-Server", "django-mobile-framework", "mezzanine-api", "django-rest-framework-social-oauth2"], "requires": ["django", "django-braces", "oauthlib", "six"], "package": "django-oauth-toolkit"}

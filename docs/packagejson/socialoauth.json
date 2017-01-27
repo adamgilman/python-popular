@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.543554", "required_by": ["django-siteuser", "django-social-login"], "requires": [], "package": "socialoauth"}

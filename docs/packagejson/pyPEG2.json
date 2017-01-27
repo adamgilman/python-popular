@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.790291", "required_by": ["thingscoop", "pytsdl", "cmakelists_parsing", "amlang", "parse_cmake", "invenio-search"], "requires": ["lxml"], "package": "pyPEG2"}

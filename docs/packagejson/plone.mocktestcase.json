@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.040397", "required_by": ["niteoweb.clickbank"], "requires": ["setuptools", "mocker", "zope.proxy"], "package": "plone.mocktestcase"}

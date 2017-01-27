@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.767267", "required_by": ["Products.IntelliDateTime"], "requires": ["setuptools", "zope.i18n", "zope.tales"], "package": "van.timeformat"}

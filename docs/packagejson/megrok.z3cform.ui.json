@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.681802", "required_by": ["megrok.z3cform.tabular"], "requires": ["setuptools", "grok", "z3c.formui"], "package": "megrok.z3cform.ui"}

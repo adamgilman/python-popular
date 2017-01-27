@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.751438", "required_by": ["pyf.componentized", "pyf.warehouse", "pyf.transport"], "requires": ["setuptools", "six", "pyjon.utils"], "package": "pyf.splitter"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.929707", "required_by": ["collective.checktranslated"], "requires": ["setuptools", "Plone", "plone.app.registry", "beautifulsoup4"], "package": "collective.jekyll"}

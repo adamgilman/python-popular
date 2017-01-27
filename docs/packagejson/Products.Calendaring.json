@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.666777", "required_by": ["slc.calendarfetcher"], "requires": ["setuptools", "icalendar", "python-dateutil"], "package": "Products.Calendaring"}

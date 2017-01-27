@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.674018", "required_by": ["ps.plone.mlstiles"], "requires": ["setuptools", "collective.z3cform.widgets", "mls.apiclient", "plone.api", "plone.app.dexterity", "plone.mls.listing", "ps.plone.realestatefont"], "package": "ps.plone.mls"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.916128", "required_by": ["kegbot-pycore"], "requires": ["kegbot-pyutils", "python-gflags", "protobuf", "requests"], "package": "kegbot-api"}

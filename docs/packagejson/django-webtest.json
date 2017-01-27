@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.995817", "required_by": ["DjangoPluggableApp", "django-functest", "django-viewflow", "django-yandex-money", "django-pluggable-apps", "DjangoDevKit", "django-oscar-testsupport", "django_ginger", "django-oscar"], "requires": ["webtest"], "package": "django-webtest"}

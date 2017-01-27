@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.399721", "required_by": ["iotile-transport-bled112", "iotile-gateway"], "requires": ["decorator", "pyparsing", "six", "crcmod", "ws4py", "msgpack-python", "python-dateutil", "pyreadline", "python-dateutil"], "package": "iotile-core"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.079515", "required_by": ["horae.planning"], "requires": ["setuptools", "fanstatic", "js.jquery"], "package": "horae.js.jqplot"}

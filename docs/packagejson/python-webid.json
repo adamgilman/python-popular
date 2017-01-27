@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.568192", "required_by": ["django-webid-provider"], "requires": ["M2Crypto", "rdflib", "rdfextras", "requests", "html5lib"], "package": "python-webid"}

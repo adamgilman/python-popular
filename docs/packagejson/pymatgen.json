@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.382842", "required_by": ["mpinterfaces", "pymatgen-db", "twod_materials", "matminer", "pymatgen-diffusion", "MAST", "kumaresh_package"], "requires": ["numpy", "six", "requests", "pyyaml", "monty", "scipy", "pydispatcher", "tabulate", "spglib", "matplotlib", "palettable"], "package": "pymatgen"}

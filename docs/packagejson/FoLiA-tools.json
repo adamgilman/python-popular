@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.754662", "required_by": ["foliadocserve"], "requires": ["pynlpl", "lxml", "docutils"], "package": "FoLiA-tools"}

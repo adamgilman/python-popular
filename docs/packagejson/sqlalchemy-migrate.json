@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.724814", "required_by": ["sudosh-replay", "mdemos.server", "ownpaste", "scrapydd", "bewype", "OpenElectrophy", "mig", "svargaext.sqlamigrate", "hiringpond", "Flask-DBMigrate", "benchbuild", "etlalchemy", "synoptic", "gtdzen"], "requires": ["pbr"], "package": "sqlalchemy-migrate"}

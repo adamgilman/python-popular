@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.962692", "required_by": ["antispoofing.eyeblink"], "requires": ["setuptools", "six", "bob", "antispoofing.utils"], "package": "xbob.db.replay"}

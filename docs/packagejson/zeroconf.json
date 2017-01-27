@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.261643", "required_by": ["zeropos", "flask-daapserver", "stak", "localshare", "zget", "touchosc2midi", "z42", "netdisco", "Showtime-Python", "NetRNG", "remotefreebox"], "requires": ["enum-compat", "netifaces", "six"], "package": "zeroconf"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.738977", "required_by": ["vnccollab.zimbra", "vnccollab.theme"], "requires": ["setuptools", "collective.autopermission"], "package": "wsapi4plone.core"}

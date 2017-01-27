@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.914624", "required_by": ["django-jquery-qtip", "django-jrac", "django-jquery-lightbox", "django-jquery-ui", "django-jquery-tablesorter", "rapid-router", "django-jquery-tipsy", "django-jquery-autosuggest"], "requires": [], "package": "django-jquery"}

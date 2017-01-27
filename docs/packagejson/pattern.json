@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.881035", "required_by": ["textsift", "regex4dummies", "plaster-spring-boot", "tf-core", "thingscoop", "profilegrab", "general_feeds_extract"], "requires": [], "package": "pattern"}

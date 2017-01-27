@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.999861", "required_by": ["sj", "OpenAddresses-Machine", "django-representatives", "django-representatives-votes", "snowflake-connector-python", "cxio", "i3-dstatus"], "requires": [], "package": "ijson"}

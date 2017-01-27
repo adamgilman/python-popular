@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.926696", "required_by": ["repoze.whoplugins.zodb", "wsgioauth.zodb", "eye"], "requires": ["setuptools", "transaction", "persistent", "ZConfig", "ZODB", "ZEO"], "package": "repoze.zodbconn"}

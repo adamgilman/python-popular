@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.797303", "required_by": ["score.php", "score.css", "score.html"], "requires": ["score.init"], "package": "score.tpl"}

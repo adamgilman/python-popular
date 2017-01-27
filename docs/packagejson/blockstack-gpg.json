@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.691473", "required_by": ["blockstack-file"], "requires": ["blockstack-client", "python-gnupg"], "package": "blockstack-gpg"}

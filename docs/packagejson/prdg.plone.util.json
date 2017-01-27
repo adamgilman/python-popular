@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.777558", "required_by": ["prdg.plone.testing", "prdg.ploneio"], "requires": ["setuptools", "prdg.util", "prdg.zope.permissions", "Products.validation"], "package": "prdg.plone.util"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.039527", "required_by": ["eventlet_inotifyx", "nosier", "gevent_inotifyx"], "requires": [], "package": "inotifyx"}

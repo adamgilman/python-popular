@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.637232", "required_by": ["izug.seantis.reservation"], "requires": ["setuptools", "Plone", "plone.app.dexterity", "seantis.dir.base", "seantis.reservation", "collective.js.underscore", "collective.js.fullcalendar"], "package": "seantis.dir.facility"}

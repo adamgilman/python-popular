@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.958179", "required_by": ["ripozo-oasis"], "requires": ["ripozo", "SQLAlchemy"], "package": "ripozo-sqlalchemy"}

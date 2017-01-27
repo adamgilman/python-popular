@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.707087", "required_by": ["ufo2ft", "defcon", "defconQt", "booleanOperations", "cu2qu", "fontMath", "trufont", "MutatorMath", "ufo-extractor"], "requires": ["fonttools"], "package": "ufoLib"}

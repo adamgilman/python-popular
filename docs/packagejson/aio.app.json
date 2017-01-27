@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.747253", "required_by": ["aio.manhole.server", "aio.http", "aio.http.server"], "requires": ["distribute", "aio.signals", "aio.config", "python-daemon", "zope.dottedname"], "package": "aio.app"}

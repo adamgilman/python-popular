@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.787474", "required_by": ["vdt.versionplugin.wheel", "vdt.versionplugin.hotfix"], "requires": ["setuptools", "vdt.version", "vdt.versionplugin.default", "pip"], "package": "vdt.versionplugin.debianize"}

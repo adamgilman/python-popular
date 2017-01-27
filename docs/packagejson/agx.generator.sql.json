@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.271186", "required_by": ["agx.dev"], "requires": ["setuptools", "interlude", "agx.generator.pyegg"], "package": "agx.generator.sql"}

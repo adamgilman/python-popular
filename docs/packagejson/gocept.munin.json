@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.979821", "required_by": ["munin.zope", "munin.plone", "redturtle.munin", "munin.async"], "requires": ["setuptools"], "package": "gocept.munin"}

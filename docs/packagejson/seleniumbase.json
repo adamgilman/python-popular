@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.479252", "required_by": ["masterqa"], "requires": ["pip", "setuptools", "selenium", "nose", "pytest", "six", "flake8", "requests", "urllib3", "BeautifulSoup", "unittest2", "chardet", "simplejson", "boto", "ipdb", "pyvirtualdisplay"], "package": "seleniumbase"}

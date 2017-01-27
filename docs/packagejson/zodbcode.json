@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.865733", "required_by": ["zope.app.module", "zope.app.interface"], "requires": ["ZODB3", "zope.interface"], "package": "zodbcode"}

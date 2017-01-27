@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.992849", "required_by": ["waffle", "pykka-injector", "cask", "klimalogger", "blitzortung", "Flask-Injector"], "requires": ["setuptools", "typing"], "package": "injector"}

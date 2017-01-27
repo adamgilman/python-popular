@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.875124", "required_by": ["djangocms-blog", "wagtail-metadata-mixin", "django-meta-mixin", "django-knocker", "djangocms-blog-martin", "django-clever-pages"], "requires": [], "package": "django-meta"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.842935", "required_by": ["django-profilebase", "django-aislug", "django-pgindex"], "requires": [], "package": "django-stringfield"}

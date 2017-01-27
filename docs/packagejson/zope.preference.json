@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.694977", "required_by": ["z3c.preference", "zope.app.preference"], "requires": ["setuptools", "BTrees", "zope.annotation", "zope.component", "zope.container", "zope.schema", "zope.security", "zope.traversing"], "package": "zope.preference"}

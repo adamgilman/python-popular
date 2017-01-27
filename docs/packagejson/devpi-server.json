@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.300924", "required_by": ["devpi-auth-gitlab", "devpi-web", "devpi-ldap", "devpi-slack", "devpi-jenkins", "devpi-rss", "devpi-findlinks", "devpi"], "requires": [], "package": "devpi-server"}

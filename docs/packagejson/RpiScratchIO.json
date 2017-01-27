@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.514755", "required_by": ["BrickPi"], "requires": ["scratchpy", "spidev", "RPi.GPIO"], "package": "RpiScratchIO"}

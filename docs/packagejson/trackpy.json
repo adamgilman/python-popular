@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.950891", "required_by": ["ca_tracker"], "requires": ["numpy", "scipy", "six", "pandas", "pims", "pyyaml", "matplotlib"], "package": "trackpy"}

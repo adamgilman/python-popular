@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.982667", "required_by": ["ProbabPyReason"], "requires": ["FrozenDict", "HelpyFuncs", "MathDict", "MathFunc", "SciPy", "SymPy"], "package": "ProbabPy"}

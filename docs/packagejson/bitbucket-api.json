@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.052626", "required_by": ["bb"], "requires": ["requests", "sh", "requests-oauthlib"], "package": "bitbucket-api"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.632357", "required_by": ["pyvod.cplus"], "requires": ["pyvod.cplus", "pyvod", "lxml", "setuptools"], "package": "pyvod.cplus"}

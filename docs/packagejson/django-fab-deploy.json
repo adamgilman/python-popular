@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.330282", "required_by": ["deploy_utils"], "requires": ["Fabric", "jinja2"], "package": "django-fab-deploy"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.076313", "required_by": ["django-things", "django-zen", "django-simple-help"], "requires": ["setuptools"], "package": "django-wysiwyg-redactor"}

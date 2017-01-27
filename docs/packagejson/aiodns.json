@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.573894", "required_by": ["simple-site-crawler", "poezio", "irisett"], "requires": ["pycares"], "package": "aiodns"}

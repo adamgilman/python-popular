@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.974627", "required_by": ["collective.geo.contentlocations", "collective.geo.leaflet", "ftw.geo", "collective.geo.json", "collective.geo.kml", "seantis.dir.base", "collective.geo.behaviour"], "requires": ["setuptools", "Products.CMFCore"], "package": "collective.geo.geographer"}

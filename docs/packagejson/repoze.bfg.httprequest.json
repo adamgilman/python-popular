@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.976626", "required_by": ["vudo.cmf"], "requires": ["setuptools", "repoze.bfg", "zope.interface", "zope.component", "zope.security", "zope.testing"], "package": "repoze.bfg.httprequest"}

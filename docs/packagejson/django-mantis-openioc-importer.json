@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.992828", "required_by": ["django-mantis-stix-importer"], "requires": ["django", "django-dingos", "django-mantis-core"], "package": "django-mantis-openioc-importer"}

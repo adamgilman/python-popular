@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.491721", "required_by": ["zodb.py3migrate", "MyCluster", "indexedzodb"], "requires": ["setuptools"], "package": "zodbpickle"}

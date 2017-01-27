@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.227867", "required_by": ["craigslist-rental-market", "django-safari-notifications", "metapensiero.tool.tinject", "autopwn", "speedyio", "cinemaflix", "createbucket", "inception"], "requires": ["blessings", "readchar"], "package": "inquirer"}

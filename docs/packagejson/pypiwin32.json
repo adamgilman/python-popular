@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.751256", "required_by": ["qcri", "pywinauto", "vycro", "HtmlToWord", "crawlermaster", "TDTPy", "typy", "pytest-winnotify", "active_directory", "mountwizzard", "pypowerworld"], "requires": [], "package": "pypiwin32"}

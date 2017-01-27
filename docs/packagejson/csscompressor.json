@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.936991", "required_by": ["trackdeps", "pelican-minification", "d3flux", "jidoka", "django-easyasset", "isass", "IceVolt", "django-minifiedstorage", "onegov.foundation", "ginger", "django-sassy-coffee", "pretix"], "requires": [], "package": "csscompressor"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.979867", "required_by": ["aristotle-metadata-registry"], "requires": ["Django", "channels", "django-haystack"], "package": "django-haystack-channels"}

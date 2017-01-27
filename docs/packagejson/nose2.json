@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.120028", "required_by": ["mailmerge", "nose2-spark", "digani", "vzzual", "nose2dep", "nose2-django", "rhizom", "digPhoneExtractor", "pyConTextNLP", "planterbox", "easygae", "wtframework", "nose2-cov"], "requires": [], "package": "nose2"}

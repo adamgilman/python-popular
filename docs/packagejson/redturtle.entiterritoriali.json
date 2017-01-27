@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.506380", "required_by": ["monet.calendar.location"], "requires": ["setuptools", "pysqlite", "sqlsoup", "SQLAlchemy"], "package": "redturtle.entiterritoriali"}

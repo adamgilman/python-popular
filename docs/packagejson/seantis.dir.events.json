@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.451093", "required_by": ["izug.seantis.dir.events", "vbeo.seantis.dir.events"], "requires": ["setuptools", "Plone", "python-dateutil", "plone.app.event[dexterity"], "package": "seantis.dir.events"}

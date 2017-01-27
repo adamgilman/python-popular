@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.958333", "required_by": ["peepdf", "scrypture", "admin_scripts"], "requires": ["six", "editorconfig"], "package": "jsbeautifier"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.073285", "required_by": ["pretix"], "requires": ["Django", "django-jquery-js"], "package": "django-formset-js-improved"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.932364", "required_by": ["dms_tools", "stanity"], "requires": ["Cython", "numpy"], "package": "pystan"}

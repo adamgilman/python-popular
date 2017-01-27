@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.375745", "required_by": ["selena", "django-powerdns-dnssec"], "requires": ["lck.common", "lck.i18n", "distribute", "django", "dj.chain", "dj.choices", "null", "postmarkup", "Pillow", "python-memcached"], "package": "lck.django"}

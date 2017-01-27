@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.104296", "required_by": ["Photofile", "pennyblack", "Django-Photofile", "SimpleCV", "wheelwright", "django-dummyimage", "pygauss", "PILEx", "autograph", "django-imaging", "lxxl", "django-async-gt", "image_converter", "sc2reader", "pillowcase", "watermarker", "esgfpy-publish", "experimentdb", "strobo"], "requires": [], "package": "pil"}

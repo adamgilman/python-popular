@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.737745", "required_by": ["django-profile", "django-photologue-addons", "cmsplugin-phlog", "django-atlas", "django-metaimage", "csnews_multilingual", "django-pressroom", "jmbo", "csnews", "django-userprofile", "panya", "redsolutioncms.django-photologue"], "requires": [], "package": "django-photologue"}

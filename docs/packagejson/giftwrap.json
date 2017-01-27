@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.017453", "required_by": ["hapicake", "gtwpy"], "requires": ["requests", "grequests", "grabbag"], "package": "giftwrap"}

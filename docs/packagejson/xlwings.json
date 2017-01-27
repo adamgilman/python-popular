@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.088744", "required_by": ["fuefit", "wltp", "effectus"], "requires": ["comtypes"], "package": "xlwings"}

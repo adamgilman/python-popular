@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.359084", "required_by": ["webpack", "django-webpack", "nodejs", "react", "js-host", "npm", "autoprefixer", "django-react"], "requires": [], "package": "optional-django"}

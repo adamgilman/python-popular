@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.691853", "required_by": ["izug.seantis.dir.events", "izug.seantis.reservation"], "requires": ["setuptools", "collective.geo.mapwidget"], "package": "collective.geo.zugmap"}

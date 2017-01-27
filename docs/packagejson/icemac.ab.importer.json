@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.679374", "required_by": ["icemac.ab.importxls"], "requires": ["gocept.cache", "icemac.ab.locales", "icemac.addressbook", "icemac.truncatetext", "pytz", "setuptools", "z3c.wizard", "zc.sourcefactory", "zope.container", "zope.generations", "zope.interface", "zope.schema", "zope.securitypolicy"], "package": "icemac.ab.importer"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.491662", "required_by": ["infi.winver", "infi.wmpio", "infi.logging"], "requires": ["munch", "setuptools", "six"], "package": "infi.registry"}

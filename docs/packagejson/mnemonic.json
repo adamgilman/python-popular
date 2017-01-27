@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.549719", "required_by": ["keepkey", "two1", "blocktrail-sdk-beta", "trezor"], "requires": ["pbkdf2"], "package": "mnemonic"}

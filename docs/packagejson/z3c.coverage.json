@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.627076", "required_by": ["tha.coverage", "createzopecoverage"], "requires": ["setuptools", "coverage"], "package": "z3c.coverage"}

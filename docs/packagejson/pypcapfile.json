@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.082717", "required_by": ["docker-netowrk-capture", "docker-network-capture"], "requires": [], "package": "pypcapfile"}

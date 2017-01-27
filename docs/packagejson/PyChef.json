@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.403518", "required_by": ["propertyshelf.fabfile.common", "mossh", "chef-ssh", "cheffab"], "requires": ["six", "requests"], "package": "PyChef"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.578074", "required_by": ["sqlalchemy-models", "DeSW"], "requires": ["setuptools", "sqlalchemy", "jsonschema", "strict-rfc3339", "isodate", "pytz"], "package": "alchemyjsonschema"}

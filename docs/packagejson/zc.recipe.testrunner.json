@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.801715", "required_by": ["zc.cacheheaders", "z3c.recipe.compattest", "zc.recipe.macro", "gocept.exttest", "zc.recipe.wrapper"], "requires": ["zc.buildout", "zope.testrunner", "setuptools", "zc.recipe.egg"], "package": "zc.recipe.testrunner"}

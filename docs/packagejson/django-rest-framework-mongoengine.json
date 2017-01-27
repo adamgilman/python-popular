@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.056614", "required_by": ["drf-mongo-filters"], "requires": ["mongoengine", "djangorestframework"], "package": "django-rest-framework-mongoengine"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.745829", "required_by": ["munch-core"], "requires": ["djangorestframework", "six", "unicodecsv"], "package": "djangorestframework-csv"}

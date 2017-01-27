@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.377835", "required_by": ["bambu-saas", "bambu-comments", "bambu-dataportability", "bambu-signup", "bambu-enquiries", "bambu-payments"], "requires": ["Django", "bambu-markup", "httplib2"], "package": "bambu-mail"}

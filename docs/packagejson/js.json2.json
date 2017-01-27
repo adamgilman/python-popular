@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.100759", "required_by": ["js.raven", "js.jquery_jstorage"], "requires": ["fanstatic", "setuptools"], "package": "js.json2"}

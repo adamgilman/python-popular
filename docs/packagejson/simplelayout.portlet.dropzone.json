@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.809048", "required_by": ["ftw.contentpage"], "requires": ["setuptools", "plone.app.portlets", "simplelayout.base"], "package": "simplelayout.portlet.dropzone"}

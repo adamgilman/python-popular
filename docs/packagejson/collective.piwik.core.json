@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.354417", "required_by": ["collective.piwik.pageviews", "collective.piwik.flowplayer", "collective.piwik.mediaelement"], "requires": ["setuptools", "plone.app.registry"], "package": "collective.piwik.core"}

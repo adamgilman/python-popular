@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.678214", "required_by": ["tgext.admin", "tgapp-smallpress", "tgapp-flatpages", "tgapp-photos", "tgapp-turbopress"], "requires": ["TurboGears2", "sprox"], "package": "tgext.crud"}

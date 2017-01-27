@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.219665", "required_by": ["wasgehtengine.import"], "requires": ["setuptools", "lxml", "BeautifulSoup", "collective.transmogrifier"], "package": "transmogrify.pathsorter"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.021969", "required_by": ["PymarMongo", "PymarSQL"], "requires": ["pika"], "package": "pymar"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.009540", "required_by": ["hy454"], "requires": ["hyphy-python", "Cython", "fakemp"], "package": "hppy"}

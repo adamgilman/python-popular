@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.480399", "required_by": ["tipfyrecipes", "pytest-redis", "pywkher", "leastbot", "yamltypes", "pywkher-new-params", "secsgem", "hgrecipe", "spnav"], "requires": [], "package": "Mock"}

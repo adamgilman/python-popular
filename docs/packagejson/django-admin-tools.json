@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.949005", "required_by": ["django-intranet", "django-fluent-dashboard", "nodeconductor", "cyclope3", "jmb.core", "django-admintools-bootstrap", "zbx-dashboard"], "requires": [], "package": "django-admin-tools"}

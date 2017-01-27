@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.925254", "required_by": ["tlsauth"], "requires": ["M2Crypto", "pyasn1"], "package": "pyspkac"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.985059", "required_by": ["Products.plonehrm"], "requires": ["setuptools", "collective.autopermission"], "package": "plonehrm.notes"}

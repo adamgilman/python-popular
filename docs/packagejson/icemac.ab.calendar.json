@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.515583", "required_by": ["icemac.ab.calexport"], "requires": ["Pyphen", "decorator", "gocept.month", "grokcore.annotation", "grokcore.component", "icemac.addressbook", "icemac.recurrence", "js.classy", "setuptools", "z3c.form", "zope.cachedescriptors", "zope.securitypolicy"], "package": "icemac.ab.calendar"}

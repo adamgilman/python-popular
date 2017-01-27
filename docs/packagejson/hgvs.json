@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.779389", "required_by": ["metavariant", "leiden", "uta"], "requires": ["biopython", "bioutils", "configparser", "ipython", "parsley", "psycopg2", "recordtype", "requests"], "package": "hgvs"}

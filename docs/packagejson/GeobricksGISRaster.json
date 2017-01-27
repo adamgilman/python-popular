@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.255356", "required_by": ["GeobricksDistribution", "GeobricksGeostatistics"], "requires": ["watchdog", "flask", "flask-cors", "rasterio", "GeobricksCommon", "GeobricksProj4ToEPSG"], "package": "GeobricksGISRaster"}

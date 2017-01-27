@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.767661", "required_by": ["datastore.aws", "datastore.redis", "datastore.objects", "datastore.git", "datastore.leveldb", "datastore.pylru", "datastore.mongo", "datastore.cloudfiles", "datastore.memcached", "dronestore"], "requires": ["smhasher"], "package": "datastore"}

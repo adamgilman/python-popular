@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.954894", "required_by": ["gax-google-pubsub-v1", "gapic-google-pubsub-v1"], "requires": ["oauth2client", "grpcio", "googleapis-common-protos[grpc"], "package": "grpc-google-pubsub-v1"}

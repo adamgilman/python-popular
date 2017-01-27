@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.719696", "required_by": ["impaf-flashmsg", "impaf-alembic", "impaf-auth", "impaf-formskit", "impaf-sqlalchemy", "impaf-fanstatic"], "requires": [], "package": "impaf"}

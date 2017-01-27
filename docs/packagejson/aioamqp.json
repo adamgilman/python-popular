@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.804434", "required_by": ["confluo", "asyncio-rabbitmq-consumer", "waspy", "Henson-AMQP", "piqq"], "requires": [], "package": "aioamqp"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.387482", "required_by": ["jupyter-sphinx-theme"], "requires": ["docutils", "jinja2", "nbconvert", "traitlets", "nbformat", "sphinx"], "package": "nbsphinx"}

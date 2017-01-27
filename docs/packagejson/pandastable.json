@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.490924", "required_by": ["Dero"], "requires": ["numpy", "matplotlib", "pandas", "numexpr", "xlrd", "future"], "package": "pandastable"}

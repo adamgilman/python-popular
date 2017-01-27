@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.241208", "required_by": ["collective.perseoschema"], "requires": ["setuptools", "collective.monkeypatcher", "collective.js.jqueryui"], "package": "collective.perseo"}

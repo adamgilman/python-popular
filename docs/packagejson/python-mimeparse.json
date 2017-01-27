@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.855168", "required_by": ["django-restlayer", "armet", "Aerate", "RestAuth", "tapioca", "django-tastypie-legacy", "django-tastypie", "giotto"], "requires": [], "package": "python-mimeparse"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.843202", "required_by": ["django-sparkle-1.5", "django-sparkle-external"], "requires": ["django"], "package": "django-absolute"}

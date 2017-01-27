@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.295675", "required_by": ["plone.app.robotframework", "Products.CMFCore", "Products.CMFDefault"], "requires": ["setuptools", "AccessControl", "Acquisition", "DateTime", "DocumentTemplate", "ExtensionClass", "Persistence", "Zope2", "zope.deferredimport", "zope.interface", "zope.sendmail"], "package": "Products.MailHost"}

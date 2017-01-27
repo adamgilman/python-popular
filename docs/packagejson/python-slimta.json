@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.942524", "required_by": ["python-slimta-diskstorage", "python-slimta-lookup", "python-slimta-piperelay", "munch-core", "python-slimta-redisstorage", "python-slimta-spf", "python-slimta-cloudstorage", "python-slimta-celeryqueue"], "requires": ["gevent", "pysasl", "pycares"], "package": "python-slimta"}

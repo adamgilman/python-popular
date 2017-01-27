@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.540034", "required_by": ["zc.freeze", "zc.vault", "zc.objectlog"], "requires": ["setuptools", "zope.copy", "zope.copypastemove", "zope.location"], "package": "zc.copy"}

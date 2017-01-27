@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.484637", "required_by": ["ntc-ansible"], "requires": ["requests", "jsonschema", "future", "netmiko", "paramiko", "pynxos", "coverage", "mock", "terminal"], "package": "pyntc"}

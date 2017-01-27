@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.951975", "required_by": ["satchless", "koalaecommerce", "django-prices", "django-prices-openexchangerates", "ShelfCMS"], "requires": [], "package": "prices"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.025535", "required_by": ["django-federal-reserve"], "requires": ["Django"], "package": "django-data-mirror"}

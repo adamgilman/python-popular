@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.366345", "required_by": ["bravado-core", "paasta-tools"], "requires": [], "package": "jsonschema[format"}

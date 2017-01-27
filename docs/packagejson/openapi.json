@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.835588", "required_by": ["microcosm-flask"], "requires": ["inflection", "jsonschema"], "package": "openapi"}

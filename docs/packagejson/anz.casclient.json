@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.137010", "required_by": ["ewb_case.casclient", "jalon.policy"], "requires": ["setuptools", "ZODB3", "zope.proxy", "zope.bforest", "requests"], "package": "anz.casclient"}

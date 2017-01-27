@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.725525", "required_by": ["epigrass", "dbf2csv", "agate-dbf", "PySUS", "megadex"], "requires": [], "package": "dbfread"}

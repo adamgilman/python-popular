@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.885794", "required_by": ["opcua-client", "opcua-modeler"], "requires": ["freeopcua"], "package": "opcua-widgets"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.437433", "required_by": ["openerp-hr-evaluation", "openerp-hr-recruitment"], "requires": ["openerp-mail"], "package": "openerp-survey"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.602113", "required_by": ["beastling", "pycldf", "segments", "pyconcepticon", "pyglottolog", "cdstarcat", "pyclpa"], "requires": ["six", "python-dateutil", "configparser", "tabulate"], "package": "clldutils"}

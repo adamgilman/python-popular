@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.728417", "required_by": ["pymcache-fdw", "py-ugs3client", "torweb-for-3", "torweb", "workertier", "dogpile-elasticache", "djmemcache", "Memcached-cli", "django-pymemcache", "Cachual", "glim-extensions", "Flask-PyMemcache", "memcachier-django-ascii"], "requires": ["six"], "package": "pymemcache"}

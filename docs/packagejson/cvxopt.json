@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.379256", "required_by": ["svmpy", "scikit-survival", "dunshire", "pydsm", "KF", "oBB", "portfolioopt", "smcp", "MKLpy"], "requires": [], "package": "cvxopt"}

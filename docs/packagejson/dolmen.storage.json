@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.553077", "required_by": ["dolmen.thumbnailer"], "requires": ["ZODB3", "grokcore.component", "setuptools", "zope.annotation", "zope.component", "zope.container", "zope.interface", "zope.location", "zope.schema"], "package": "dolmen.storage"}

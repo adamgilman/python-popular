@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.514114", "required_by": ["Cydra", "Flask-Mitten"], "requires": ["Flask"], "package": "flask-csrf"}

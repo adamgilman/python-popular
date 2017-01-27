@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.984482", "required_by": ["pdf-image-to-text", "pdftables.six", "amendments-bundle-parser", "ChemDataExtractor", "pdfjinja"], "requires": ["six", "chardet"], "package": "pdfminer.six"}

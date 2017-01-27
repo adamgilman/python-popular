@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.373682", "required_by": ["sw-rest-utils", "django-time-logger", "django-park-keeper"], "requires": ["django", "sqlparse"], "package": "sw-django-utils"}

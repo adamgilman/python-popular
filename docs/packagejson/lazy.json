@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.898005", "required_by": ["ploy_ezjail", "mr.awsome.ezjail", "ploy_ec2", "django-viewpack", "ploy_virtualbox", "telstra.mobile", "mr.awsome.virtualbox", "klimalogger", "mr.awsome.ec2", "mr.awsome.openvz", "jarn.mkrelease", "ibmdbpy", "benchbuild", "phabulous", "hisparc-sapphire", "ploy", "microcosm"], "requires": [], "package": "lazy"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.329803", "required_by": ["babbage_fiscal", "ckanext-datapackager", "economics", "metatab", "budgetdatapackage"], "requires": ["six", "requests", "jsonschema", "unicodecsv", "jsontableschema", "tabulator"], "package": "datapackage"}

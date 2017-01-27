@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.535833", "required_by": ["Products.Ploneboard", "borg.project", "onegov.edu", "plone.app.iterate", "Plone"], "requires": ["setuptools", "zope.component", "zope.interface", "zope.i18nmessageid", "Products.CMFCore", "Products.CMFPlone", "Products.GenericSetup"], "package": "Products.CMFPlacefulWorkflow"}

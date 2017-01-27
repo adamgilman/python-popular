@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.904797", "required_by": ["score.mustache"], "requires": ["score.init", "werkzeug", "webob"], "package": "score.http"}

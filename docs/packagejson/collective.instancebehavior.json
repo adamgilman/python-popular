@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.858223", "required_by": ["Products.CMFPlomino", "ploneintranet"], "requires": ["setuptools", "simplejson", "Plone", "plone.dexterity"], "package": "collective.instancebehavior"}

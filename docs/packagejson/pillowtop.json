@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.042678", "required_by": ["pillowfluff"], "requires": ["restkit", "jsonobject-couchdbkit", "simplejson", "requests", "gevent", "greenlet", "rawes", "elasticsearch", "django", "dimagi-utils", "psycopg2", "fakecouch"], "package": "pillowtop"}

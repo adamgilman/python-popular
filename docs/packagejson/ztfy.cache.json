@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.409215", "required_by": ["ztfy.ldap", "ztfy.captcha"], "requires": ["setuptools", "lovely.memcached", "zope.annotation", "zope.component", "zope.componentvocabulary", "zope.configuration", "zope.container", "zope.i18nmessageid", "zope.interface", "zope.lifecycleevent", "zope.ramcache", "zope.schema"], "package": "ztfy.cache"}

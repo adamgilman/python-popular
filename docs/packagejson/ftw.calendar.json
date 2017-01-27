@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.104977", "required_by": ["onegov.edu", "ftw.workspace", "ftw.calendarexport"], "requires": ["Plone", "setuptools", "simplejson", "plone.api"], "package": "ftw.calendar"}

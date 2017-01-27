@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.948306", "required_by": ["XlsXcessive", "paradocx"], "requires": ["lxml", "six", "jaraco.collections"], "package": "openpack"}

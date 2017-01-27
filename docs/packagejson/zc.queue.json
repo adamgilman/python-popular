@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.888745", "required_by": ["ftw.publisher.sender", "collective.linkcheck", "gocept.lms", "z3c.taskqueue", "lovely.remotetask", "zc.async", "collective.singing", "p01.remote"], "requires": ["setuptools", "ZODB", "persistent", "zope.interface"], "package": "zc.queue"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.526456", "required_by": ["taskreport", "pretix"], "requires": ["cssutils", "lxml", "requests"], "package": "inlinestyler"}

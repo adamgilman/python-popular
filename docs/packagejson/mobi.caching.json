@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.351178", "required_by": ["mobi.rendering"], "requires": ["repoze.lru"], "package": "mobi.caching"}

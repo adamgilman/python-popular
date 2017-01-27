@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.142866", "required_by": ["latex"], "requires": ["six", "decorator", "funcsigs"], "package": "data"}

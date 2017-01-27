@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.050986", "required_by": ["Products.MailHost", "Products.PythonScripts", "Products.MIMETools", "Products.ZCatalog", "Zope2"], "requires": ["AccessControl", "Acquisition", "ExtensionClass", "RestrictedPython", "six", "zExceptions", "zope.sequencesort", "zope.structuredtext"], "package": "DocumentTemplate"}

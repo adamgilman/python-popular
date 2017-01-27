@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.854207", "required_by": ["djangocms-blog", "djangocms-blog-martin"], "requires": ["django-meta", "django-sekizai"], "package": "django-meta-mixin"}

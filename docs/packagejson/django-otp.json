@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.902549", "required_by": ["django-otp-twilio", "django-otp-yubikey", "django-otp-agents", "django-otp-sms", "django-secure-js-login", "pretix"], "requires": ["django"], "package": "django-otp"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.097487", "required_by": ["fluentcms-campaign"], "requires": ["django-fluent-contents", "django-fluent-utils", "django-appconf", "django-parler", "beautifulsoup4", "html2text"], "package": "fluentcms-emailtemplates"}

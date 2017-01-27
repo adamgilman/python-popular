@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.282539", "required_by": ["zope.app.zcmlfiles", "zcontact", "collective.recipe.bluebream", "ztfy.webapp"], "requires": ["setuptools", "zope.component", "zope.error", "zope.publisher", "zope.traversing"], "package": "zope.app.error"}

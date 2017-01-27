@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.570624", "required_by": ["collective.fsdsimplifier", "Products.FacultyStaffDirectory"], "requires": ["setuptools", "archetypes.schemaextender", "Products.FacultyStaffDirectory"], "package": "Products.FacultyStaffDirectory"}

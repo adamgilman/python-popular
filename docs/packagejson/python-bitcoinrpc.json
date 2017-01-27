@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.244994", "required_by": ["DeSW-Bitcoin", "bittray", "pybitcoin", "DeSW-Dash", "coinkit", "sqlchain", "django-cc", "coinrpc"], "requires": [], "package": "python-bitcoinrpc"}

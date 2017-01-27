@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.464055", "required_by": ["qi.xmpp.admin"], "requires": ["setuptools", "twisted"], "package": "qi.xmpp.client"}

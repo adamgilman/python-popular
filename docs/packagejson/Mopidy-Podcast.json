@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.752699", "required_by": ["Mopidy-Podcast-gpodder.net", "Mopidy-Podcast-iTunes"], "requires": ["setuptools", "Mopidy", "Pykka", "cachetools", "uritools"], "package": "Mopidy-Podcast"}

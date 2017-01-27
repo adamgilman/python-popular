@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.071864", "required_by": ["pytest-config", "manifestor"], "requires": ["pytest-cache", "pytest", "pep8"], "package": "pytest-pep8"}

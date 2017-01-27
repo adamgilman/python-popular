@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.826031", "required_by": ["lim"], "requires": ["scipy", "ncephes", "numpy", "numpy-sugar", "optimix", "cachetools", "tqdm"], "package": "limix-inference"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.951400", "required_by": ["blacktie", "omics", "insights", "EMMSA", "makimono", "pyculiarity", "dsc", "cgptoolbox", "pannenkoek", "cellnopt.wrapper", "pymeigo", "AGEpy", "biomartpy", "keres", "PySCUBA", "django-rpy2", "rtools", "discern", "pyggplot", "r2_kernel"], "requires": ["six"], "package": "rpy2"}

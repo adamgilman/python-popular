@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.599451", "required_by": ["collective.cart.shopping"], "requires": ["collective.cart.stock", "plone.behavior", "setuptools"], "package": "collective.behavior.stock"}

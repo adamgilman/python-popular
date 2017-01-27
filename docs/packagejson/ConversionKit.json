@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.424465", "required_by": ["StringConvert", "FormConvert", "RecordConvert", "NestedRecord", "RedisPipe"], "requires": ["BareNecessities"], "package": "ConversionKit"}

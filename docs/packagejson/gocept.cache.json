@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.021177", "required_by": ["icemac.ab.importer", "gocept.collmex", "haufe.eggserver"], "requires": ["decorator", "setuptools", "transaction", "zope.testing"], "package": "gocept.cache"}

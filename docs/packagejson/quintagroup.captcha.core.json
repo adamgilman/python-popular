@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.655639", "required_by": ["quintagroup.z3cform.captcha", "quintagroup.formlib.captcha", "quintagroup.plonecaptchas", "quintagroup.pfg.captcha"], "requires": ["setuptools"], "package": "quintagroup.captcha.core"}

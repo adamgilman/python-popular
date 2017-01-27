@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.747556", "required_by": ["django-privatesite", "django-grappelli-extensions", "django-extended-admin", "django-grappelli-navbar", "django-things", "django-moderator", "django-papertrail"], "requires": [], "package": "django-apptemplates"}

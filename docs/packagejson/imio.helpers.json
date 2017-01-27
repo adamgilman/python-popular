@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.200123", "required_by": ["collective.contact.plonegroup", "collective.task"], "requires": ["plone.api", "plone.dexterity", "setuptools"], "package": "imio.helpers"}

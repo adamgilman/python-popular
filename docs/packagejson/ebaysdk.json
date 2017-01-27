@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.075995", "required_by": ["fio_ebay", "trytond_ebay"], "requires": ["lxml", "requests"], "package": "ebaysdk"}

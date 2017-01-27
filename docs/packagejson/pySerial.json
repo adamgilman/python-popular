@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.989047", "required_by": ["pyClients", "teleceptor", "pyCY21", "atduinotest", "gpssim", "TanTan", "pyR256", "pyVC0706", "ahio"], "requires": [], "package": "pySerial"}

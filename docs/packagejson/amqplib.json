@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.693930", "required_by": ["infi.amqp", "AMQPDeliver", "zamqp", "eea.graylogger", "amqpservices", "rabbitfixture", "django-hhypermap", "django-registry", "oops_amqp", "hiveary-agent", "carrot", "queuetools", "syseleven.carrot", "amqpctl", "amqplib_thrift"], "requires": [], "package": "amqplib"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.092728", "required_by": ["aria-tosca", "vcp"], "requires": ["six", "virtualenv"], "package": "virtualenv-api"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.309863", "required_by": ["tiddlywebplugins.hoster"], "requires": ["setuptools", "tiddlyweb", "tiddlywebplugins.utils", "tiddlywebplugins.templates"], "package": "tiddlywebplugins.register"}

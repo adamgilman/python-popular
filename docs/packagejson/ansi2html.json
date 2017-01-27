@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.640682", "required_by": ["func-inventory-notifier", "django-ansi2html-filter"], "requires": ["six"], "package": "ansi2html"}

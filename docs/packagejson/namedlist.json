@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.861821", "required_by": ["mutabletuple", "kaviar", "metapensiero.reactive", "sorna-client", "pytest-allure-adaptor", "robotframework-allurereport", "sorna-manager"], "requires": [], "package": "namedlist"}

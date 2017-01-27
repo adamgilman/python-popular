@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.097149", "required_by": ["z3c.davapp.zopelocking", "z3c.davapp.zopefile", "z3c.davapp.zopeappfile"], "requires": ["setuptools", "z3c.etree", "z3c.conditionalviews", "zope.app.zcmlfiles", "zope.securitypolicy"], "package": "z3c.dav"}

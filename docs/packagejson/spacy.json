@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.268927", "required_by": ["spacy-thrift", "sense2vec", "grammaregex", "scattertext", "textpipeliner", "WillPy"], "requires": ["numpy", "murmurhash", "cymem", "preshed", "thinc", "plac", "six", "cloudpickle", "pathlib", "sputnik", "ujson"], "package": "spacy"}

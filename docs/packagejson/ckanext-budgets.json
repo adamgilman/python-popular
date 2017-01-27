@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.935357", "required_by": ["ckanext-openspending"], "requires": ["unicodecsv", "requests", "six", "py-dateutil", "budgetdatapackage"], "package": "ckanext-budgets"}

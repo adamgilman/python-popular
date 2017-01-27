@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.786506", "required_by": ["lunatic", "lunatic", "django-geventpool", "mettle", "django-ddp", "sqlrest", "munch-core", "cabot", "django-db-geventpool", "djangorestframework-reactive"], "requires": [], "package": "psycogreen"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.641022", "required_by": ["royfit", "rainbowalga"], "requires": ["cython", "docopt", "matplotlib", "mock", "numpy", "pandas", "pytz", "scipy", "six", "tables", "tornado", "urwid", "websocket-client", "statsmodels"], "package": "km3pipe"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.027639", "required_by": ["livebridge-scribblelive", "livebridge-liveblog", "livebridge-tickaroo", "livebridge-slack"], "requires": ["aiohttp", "asynctest", "bleach", "PyYAML", "aiobotocore", "boto3", "websockets", "sqlalchemy-aio", "python-dateutil"], "package": "livebridge"}

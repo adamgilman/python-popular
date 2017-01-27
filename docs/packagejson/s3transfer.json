@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.920051", "required_by": ["aws-tagger", "boto3", "tfwrapper", "ecs-deploy-py", "awscli", "lektor-s3", "opsutils"], "requires": ["botocore"], "package": "s3transfer"}

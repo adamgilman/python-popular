@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.398274", "required_by": ["dolmen.blob"], "requires": ["setuptools", "zope.interface"], "package": "dolmen.builtins"}

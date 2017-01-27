@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.569163", "required_by": ["processor"], "requires": ["twiggy", "pytz", "six"], "package": "twiggy-goodies"}

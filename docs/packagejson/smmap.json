@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.512453", "required_by": ["notes-cli", "pyolite", "buster", "wordfish", "taskwarrior-timesheets", "krux-stdlib", "gitdb-speedups"], "requires": [], "package": "smmap"}

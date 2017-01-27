@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.762224", "required_by": ["tdwrapper", "easyci", "b-logcat", "spiny", "gaedevhelper", "epitran", "instaclone", "tigerhost", "py_oathtool"], "requires": [], "package": "subprocess32"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.149002", "required_by": ["niteoweb.clickbank"], "requires": ["setuptools", "zc.buildout", "zc.recipe.egg", "docutils", "Sphinx"], "package": "collective.recipe.sphinxbuilder"}

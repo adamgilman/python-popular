@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.318240", "required_by": ["ratatosk.ext.scilife"], "requires": ["drmaa", "mock", "simplejson", "pyyaml", "tornado", "luigi", "nose", "nose-timer", "cement", "pysam", "pygraphviz", "PIL"], "package": "ratatosk"}

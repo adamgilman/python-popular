@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.293854", "required_by": ["PyOpenWorm", "Agora-Service-Provider", "djubby", "rdflib-sparqlstore", "quepy", "sparqlkernel", "ontospy", "SPADE", "ipython_sparql", "xgitberg", "Fragment-Service-Provider"], "requires": [], "package": "SPARQLWrapper"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.245538", "required_by": ["horae.resources"], "requires": ["setuptools", "zope.schema", "zope.formlib"], "package": "horae.groupselect"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.011010", "required_by": ["dolmen.app.container", "dolmen.app.layout", "menhir.contenttype.photoalbum", "dolmen.app.search", "menhir.contenttype.document", "menhir.contenttype.file"], "requires": ["setuptools", "grok", "zope.interface"], "package": "dolmen.app.security"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.374490", "required_by": ["inglass", "braubuddy"], "requires": ["pyusb"], "package": "temperusb"}

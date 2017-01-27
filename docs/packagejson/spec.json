@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.907393", "required_by": ["pyolite", "django-oscar"], "requires": ["nose", "six"], "package": "spec"}

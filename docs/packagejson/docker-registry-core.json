@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.135198", "required_by": ["docker-registry-driver-sinastorage", "docker-registry-driver-fds", "docker-registry-driver-fdsstorage"], "requires": [], "package": "docker-registry-core"}

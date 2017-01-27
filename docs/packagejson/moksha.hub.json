@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.949036", "required_by": ["mdemos.server", "bugzilla2fedmsg", "mdemos.menus", "mdemos.metrics", "moksha", "narcissus.hub"], "requires": ["moksha.common", "Twisted", "pyzmq", "txZMQ", "txWS"], "package": "moksha.hub"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.769284", "required_by": ["Wicken"], "requires": ["netCDF4", "nose", "numpy", "lxml"], "package": "petulant-bear"}

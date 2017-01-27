@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.793231", "required_by": ["node", "node.ext.template", "node.ext.uml", "yafowil", "node.ext.ugm", "node.ext.directory"], "requires": ["setuptools"], "package": "plumber"}

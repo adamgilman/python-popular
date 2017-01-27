@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.773895", "required_by": ["nbwrapper", "pytest-ipynb", "nbserve", "callipy"], "requires": ["Jinja2", "Pygments", "ipython", "pyzmq"], "package": "runipy"}

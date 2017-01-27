@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.394900", "required_by": ["pipo", "SeedboxManager", "tvrenamer", "zest.releaser", "reahl-dev", "pep470", "tvdbapi_client", "CWR-API"], "requires": ["clint", "pkginfo", "requests", "requests-toolbelt", "setuptools"], "package": "twine"}

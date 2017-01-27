@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.602980", "required_by": ["z3c.pdftemplate", "z3c.rmldocument", "Products.PloneSurvey", "pyjon.reports", "itemize"], "requires": ["PyPDF2", "Pygments", "backports.tempfile", "lxml", "reportlab", "setuptools", "six", "zope.interface", "zope.schema"], "package": "z3c.rml"}

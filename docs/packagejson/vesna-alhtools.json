@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.284585", "required_by": ["vesna-alhauthproxy"], "requires": ["vesna-spectrumsensor", "numpy"], "package": "vesna-alhtools"}

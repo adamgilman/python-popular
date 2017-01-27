@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.797917", "required_by": ["pyphant.imageprocessing", "pyphant.fmf", "pyphant.statistics", "pyphant.osc", "pyphant.tools"], "requires": ["sogl", "paste", "simplejson", "matplotlib", "numpy", "scipy", "tables", "wxPython", "egenix-mx-base", "configobj"], "package": "pyphant"}

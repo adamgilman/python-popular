@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.221966", "required_by": ["swagger-marshmallow-codegen", "pyramid-swagger-router"], "requires": [], "package": "dictknife[load"}

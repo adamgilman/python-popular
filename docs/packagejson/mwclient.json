@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.826863", "required_by": ["fdroidserver", "CommonsDownloader", "leocornus.recipe.ci", "wikipedia_parser", "smw", "pyci", "leocornus.recipe.distribute"], "requires": [], "package": "mwclient"}

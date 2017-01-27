@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.957720", "required_by": ["openerp-account-analytic-analysis", "openerp-hr-timesheet-sheet", "openerp-project-timesheet"], "requires": ["openerp-account", "openerp-hr-timesheet"], "package": "openerp-hr-timesheet-invoice"}

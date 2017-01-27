@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.154962", "required_by": ["Mopidy-Material-Webclient", "geolocate"], "requires": ["setuptools", "pbkdf2"], "package": "wifi"}

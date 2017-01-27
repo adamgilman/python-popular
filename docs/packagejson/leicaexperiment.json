@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.459356", "required_by": ["leicaautomator"], "requires": ["pydebug", "Pillow", "fijibin", "lxml", "joblib"], "package": "leicaexperiment"}

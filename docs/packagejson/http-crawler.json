@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.219055", "required_by": ["django-amber"], "requires": ["lxml", "requests", "tinycss2"], "package": "http-crawler"}

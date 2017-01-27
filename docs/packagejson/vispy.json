@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.495587", "required_by": ["xicam", "qtplot"], "requires": ["numpy"], "package": "vispy"}

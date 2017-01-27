@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.586868", "required_by": ["skosprovider_atramhasis", "skosprovider_oe", "skosprovider_rdf", "pyramid_skosprovider", "skosprovider_getty", "skosprovider_heritagedata", "skosprovider_sqlalchemy"], "requires": ["language-tags", "rfc3987"], "package": "skosprovider"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.617852", "required_by": ["invocare", "python-boilerplate", "trireme", "40wt-common-tasks", "ablog", "basalt-tasks", "invoke-docker-flow", "security_monkey", "okcupyd", "invokebilizer", "invoke-tools", "jingtai", "django-zerodowntime", "ship_it", "virtualenvwrapper.tryton", "yak-yurt", "cql-shifter"], "requires": [], "package": "invoke"}

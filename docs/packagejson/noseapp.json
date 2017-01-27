@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.098778", "required_by": ["noseapp_daemon", "noseapp_alchemy", "noseapp_selenium", "noseapp_requests", "noseapp_workspace"], "requires": ["six", "nose"], "package": "noseapp"}

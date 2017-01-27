@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.889237", "required_by": ["pyannote.metrics", "glossia.comparator", "beets", "pong", "py_search", "ncvx", "pyannote.algorithms", "spsim", "panphon", "Christofides", "python-christofides", "pyannote.video"], "requires": [], "package": "munkres"}

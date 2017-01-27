@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.141876", "required_by": ["ftw.contentpage", "ftw.billboard", "izug.ticketbox", "ftw.file", "ftw.meeting", "ftw.calendarexport", "ftw.task"], "requires": ["setuptools", "collective.js.jqueryui", "Products.Archetypes"], "package": "ftw.calendarwidget"}

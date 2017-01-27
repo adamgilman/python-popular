@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.868880", "required_by": ["pd.prenotazioni", "rg.prenotazioni"], "requires": ["setuptools", "plone.contentrules"], "package": "collective.contentrules.mailfromfield"}

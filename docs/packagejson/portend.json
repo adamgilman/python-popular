@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.862066", "required_by": ["CherryPy", "jaraco.test", "jaraco.services", "jaraco.postgres"], "requires": ["tempora"], "package": "portend"}

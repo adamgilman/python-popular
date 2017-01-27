@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.935554", "required_by": ["django-socketio-events", "tago", "heraspy", "GitBanshee", "ripe.atlas.cousteau", "pyfora", "pyloopenergy", "PCloudCV"], "requires": ["requests", "six", "websocket-client"], "package": "socketIO-client"}

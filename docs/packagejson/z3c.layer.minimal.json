@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.862542", "required_by": ["z3c.securitytool", "z3c.layer.trusted"], "requires": ["setuptools", "zope.app.http", "zope.app.publisher", "zope.configuration", "zope.traversing", "zope.app.exception"], "package": "z3c.layer.minimal"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.911101", "required_by": ["pspec", "django-attest"], "requires": ["progressbar", "Pygments"], "package": "Attest"}

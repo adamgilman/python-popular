@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.171143", "required_by": ["luma.oled", "luma.lcd", "luma.led_matrix"], "requires": ["pillow", "smbus2", "spidev", "RPi.GPIO"], "package": "luma.core"}

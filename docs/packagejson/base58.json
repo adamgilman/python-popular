@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.098795", "required_by": ["cryptoconditions", "bitmerchant", "anoncreds-dev", "deadlock", "ava", "sovrin", "image2ipfs", "sovrin-dev-test1", "ipld", "two1", "bitjws", "crypto-test", "moneywagon", "anoncreds", "crypto-wallet", "sovrin-dev-test2", "sovrin-dev", "ava-key", "multimerchant"], "requires": [], "package": "base58"}

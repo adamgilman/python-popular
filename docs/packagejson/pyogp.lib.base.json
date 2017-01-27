@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.000523", "required_by": ["pyogp.lib.client"], "requires": ["setuptools", "uuid", "elementtree", "llbase", "WebOb", "wsgiref", "eventlet"], "package": "pyogp.lib.base"}

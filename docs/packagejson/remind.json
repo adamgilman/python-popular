@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.871980", "required_by": ["remind-caldav", "radicale-remind"], "requires": ["python-dateutil", "python-card-me"], "package": "remind"}

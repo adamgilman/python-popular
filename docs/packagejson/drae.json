@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.083057", "required_by": ["def_bot"], "requires": ["lxml", "BeautifulSoup4", "requests", "future"], "package": "drae"}

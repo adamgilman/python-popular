@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.900119", "required_by": ["django-vkontakte-groups-statistic", "django-vkontakte-board", "django-vkontakte-photos", "django-vkontakte-polls", "django-vkontakte-wall", "django-vkontakte-groups-migration"], "requires": ["django-vkontakte-api", "django-m2m-history"], "package": "django-vkontakte-groups"}

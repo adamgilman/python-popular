@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.583471", "required_by": ["tipfy.ext.auth.friendfeed", "tipfy.ext.auth.twitter", "tipfy.ext.auth.google"], "requires": ["tipfy.ext.auth"], "package": "tipfy.ext.auth.oauth"}

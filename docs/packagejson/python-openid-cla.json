@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.677991", "required_by": ["pyramid_fas_openid", "fmn.web", "taiga-contrib-fas-openid-auth"], "requires": ["six"], "package": "python-openid-cla"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.861030", "required_by": ["jupyter_gauche", "sparkmagic", "hdijupyterutils", "aimlbotkernel", "iarm", "sparqlkernel", "callisto", "IVisual-alt"], "requires": [], "package": "ipykernel"}

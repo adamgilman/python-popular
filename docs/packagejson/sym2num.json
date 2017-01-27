@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.058146", "required_by": ["ceacoest"], "requires": ["attrdict", "numpy", "pystache", "sympy"], "package": "sym2num"}

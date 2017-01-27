@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.047854", "required_by": ["collective.megaphonecicerolookup"], "requires": ["plone.registry", "plone.app.registry", "setuptools", "z3c.form", "z3c.suds", "zope.component", "zope.dottedname", "zope.interface", "zope.schema"], "package": "collective.cicero"}

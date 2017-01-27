@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.653032", "required_by": ["agx.generator.pyegg"], "requires": ["setuptools", "node.ext.directory"], "package": "node.ext.python"}

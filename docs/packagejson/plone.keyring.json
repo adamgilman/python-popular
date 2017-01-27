@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.505050", "required_by": ["plone.formwidget.captcha", "plone.app.protect", "plone.protect", "ore.tokenauth", "collective.captcha", "plone.session", "plone4.csrffixes"], "requires": ["setuptools", "ZODB3", "zope.container", "zope.interface", "zope.location"], "package": "plone.keyring"}

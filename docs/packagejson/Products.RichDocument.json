@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.871416", "required_by": ["Products.SimpleReference"], "requires": ["setuptools", "Products.SimpleAttachment"], "package": "Products.RichDocument"}

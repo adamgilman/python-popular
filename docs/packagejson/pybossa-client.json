@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.593998", "required_by": ["pybossa-pbs", "pybossa-raspberry-trapcamera", "enki"], "requires": ["requests"], "package": "pybossa-client"}

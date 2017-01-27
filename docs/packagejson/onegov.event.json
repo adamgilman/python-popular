@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.994124", "required_by": ["onegov.org"], "requires": ["bleach", "icalendar", "lxml", "onegov.core", "onegov.gis", "onegov.search", "onegov.server", "python-dateutil", "requests", "sedate"], "package": "onegov.event"}

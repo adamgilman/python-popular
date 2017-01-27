@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.201112", "required_by": ["foreman-host-builder", "swk_foreman"], "requires": ["autosemver", "requests", "six"], "package": "python-foreman"}

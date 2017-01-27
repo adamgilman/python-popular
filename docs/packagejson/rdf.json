@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.057513", "required_by": ["rdf.plugins.stores.iomemory", "rdf.plugins.parsers.n3p", "rdf.plugins.stores.memory", "rdf.plugins.parsers.rdfxml", "rdf.plugins.serializers.n3", "rdf.plugins.stores.sleepycat"], "requires": [], "package": "rdf"}

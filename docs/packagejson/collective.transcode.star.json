@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.432921", "required_by": ["plumi.app"], "requires": ["setuptools", "plone.app.registry", "plone.app.async", "five.intid", "collective.mediaelementjs", "pycrypto"], "package": "collective.transcode.star"}

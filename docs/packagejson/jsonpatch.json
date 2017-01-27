@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.378417", "required_by": ["internetarchive", "MuffinService", "RESTArt-Mongo", "sleipnir-restfulie", "invenio-records", "salesking", "jsonvcs", "elita", "drf-json-patch", "robotframework-httplibrary"], "requires": [], "package": "jsonpatch"}

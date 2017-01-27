@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.019755", "required_by": ["scales_datadog", "supercell", "pyramid_scales"], "requires": ["six"], "package": "scales"}

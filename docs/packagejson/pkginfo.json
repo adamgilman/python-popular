@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.889527", "required_by": ["lizard-map", "twine", "emspring", "PO-Projects-client", "dataflake.docbuilder", "pkgsync", "unleash", "gocept.package", "compoze", "sentry-wechat", "katversion", "tags2sdists", "cheddar", "djangopypi2", "simpypi", "djangopypi", "Gestus-client"], "requires": [], "package": "pkginfo"}

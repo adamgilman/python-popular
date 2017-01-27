@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.502806", "required_by": ["pyobjc-framework-CalendarStore"], "requires": ["py2app", "pyobjc-framework-CalendarStore", "pyobjc-framework-Cocoa"], "package": "pyobjc-framework-CalendarStore"}

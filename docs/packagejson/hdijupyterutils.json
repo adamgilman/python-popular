@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.129216", "required_by": ["sparkmagic", "autovizwidget"], "requires": ["ipython", "nose", "mock", "ipywidgets", "ipykernel", "jupyter", "pandas", "numpy", "notebook"], "package": "hdijupyterutils"}

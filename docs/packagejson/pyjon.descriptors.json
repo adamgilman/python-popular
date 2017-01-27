@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.181412", "required_by": ["xbus.file_emitter", "pyf.components.producers.descriptorfromfolder", "pyf.components.producers.descriptorzipfile", "pyf.components.producers.descriptorsource"], "requires": ["setuptools", "lxml", "six"], "package": "pyjon.descriptors"}

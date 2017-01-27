@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.982043", "required_by": ["dossier.web"], "requires": ["dossier.fc", "elasticsearch", "kvlayer", "pytest", "pytest-diffeo", "python-snappy", "regex", "streamcorpus", "yakonfig"], "package": "dossier.store"}

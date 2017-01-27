@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.960616", "required_by": ["infi.storagemodel"], "requires": ["infi.dtypes.hctl", "infi.instruct", "setuptools"], "package": "infi.sgutils"}

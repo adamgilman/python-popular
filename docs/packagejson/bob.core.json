@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.466680", "required_by": ["bob.palmvein", "xfacereclib.paper.IET2015", "antispoofing.fvcompetition_icb2015"], "requires": ["bob.extension", "bob.blitz"], "package": "bob.core"}

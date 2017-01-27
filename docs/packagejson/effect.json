@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.947704", "required_by": ["txeffect"], "requires": ["six", "attrs"], "package": "effect"}

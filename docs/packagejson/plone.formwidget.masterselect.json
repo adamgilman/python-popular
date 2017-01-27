@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.667061", "required_by": ["collective.contact.contactlist", "collective.contact.core", "collective.task"], "requires": ["z3c.form", "setuptools", "plone.supermodel", "plone.z3cform", "simplejson"], "package": "plone.formwidget.masterselect"}

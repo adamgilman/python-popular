@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.185330", "required_by": ["django-hhypermap", "django-registry", "django-tilebundler", "djmp"], "requires": ["PyYAML"], "package": "MapProxy"}

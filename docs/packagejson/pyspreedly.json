@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.105110", "required_by": ["django-spreedly"], "requires": ["requests", "pytz"], "package": "pyspreedly"}

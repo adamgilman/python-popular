@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.211111", "required_by": ["stucco_evolution", "ponzi_evolution"], "requires": ["setuptools", "zope.interface"], "package": "repoze.evolution"}

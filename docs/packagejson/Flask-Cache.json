@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.236152", "required_by": ["Fulfil-Shop", "Flask-Heroku-Cacheify", "Flask-SQLAlchemy-Cache", "ipquery", "gdash", "Impression-CMS", "realms-wiki", "capitains-nautilus", "carafe", "Flask-Cache-PyLibMC"], "requires": ["Flask"], "package": "Flask-Cache"}

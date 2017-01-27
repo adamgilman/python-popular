@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.854002", "required_by": ["slapdsock", "pbook", "libnfldap", "aedir"], "requires": [], "package": "ldap"}

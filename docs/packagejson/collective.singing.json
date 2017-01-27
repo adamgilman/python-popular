@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.442970", "required_by": ["collective.dancing", "collective.bouncing"], "requires": ["setuptools", "zope.sendmail", "zope.keyreference", "zope.app.keyreference", "zope.app.catalog", "zope.app.i18n", "zc.queue", "zc.lockfile", "plone.z3cform"], "package": "collective.singing"}

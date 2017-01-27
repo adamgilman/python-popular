@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.109025", "required_by": ["plone.app.themeeditor", "Products.Gloworm"], "requires": ["setuptools", "five.customerize", "plone.browserlayer", "plone.portlets", "zope.component", "zope.interface", "zope.publisher", "zope.viewlet", "Products.CMFCore", "Acquisition", "Zope2"], "package": "plone.app.customerize"}

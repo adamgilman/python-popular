@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.243025", "required_by": ["mqueue", "loggingd", "metaweb"], "requires": ["fixtures2", "six"], "package": "decorated"}

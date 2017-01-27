@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.183577", "required_by": ["openerp-marketing-campaign-crm-demo"], "requires": ["openerp-marketing", "openerp-document", "openerp-email-template", "openerp-decimal-precision"], "package": "openerp-marketing-campaign"}

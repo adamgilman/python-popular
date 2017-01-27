@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.985851", "required_by": ["statirator", "django-things"], "requires": ["django"], "package": "django-medusa"}

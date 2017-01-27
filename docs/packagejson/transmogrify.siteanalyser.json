@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.377306", "required_by": ["transmogrify.ploneremote"], "requires": ["setuptools", "lxml", "BeautifulSoup", "collective.transmogrifier"], "package": "transmogrify.siteanalyser"}

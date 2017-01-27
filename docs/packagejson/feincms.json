@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.880533", "required_by": ["FeinCMS-Blogs", "django-squeezemail", "FeinCMS-Code", "feincms-bounds", "django-treemenu", "django-zen", "FeinCMS-Template-Content", "django-clever-pages"], "requires": [], "package": "feincms"}

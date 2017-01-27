@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.969267", "required_by": ["collective.genericsetup.ldap", "vs.genericsetup.ldap", "Products.CMFLDAP", "Products.PloneLDAP", "Products.LDAPMultiPlugins"], "requires": ["setuptools", "Zope2", "dataflake.fakeldap", "python-ldap"], "package": "Products.LDAPUserFolder"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.455523", "required_by": ["Mantissa"], "requires": ["Twisted", "pyOpenSSL"], "package": "Vertex"}

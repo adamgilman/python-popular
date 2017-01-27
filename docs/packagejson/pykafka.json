@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.712049", "required_by": ["birding", "eslib", "json-transporter", "dhcpkit_kafka", "pykafka-tools", "xpaw"], "requires": ["six", "kazoo", "tabulate", "gevent"], "package": "pykafka"}

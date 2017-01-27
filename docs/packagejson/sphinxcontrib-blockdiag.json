@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.413362", "required_by": ["tibas.tt", "sphinxcontrib-cqlengine"], "requires": ["blockdiag", "Sphinx"], "package": "sphinxcontrib-blockdiag"}

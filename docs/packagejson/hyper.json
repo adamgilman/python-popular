@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.738060", "required_by": ["simpleavs", "apns2-client", "bfg", "applepush", "httpie-http2", "opentargets", "gobiko.apns", "pushkin"], "requires": ["h2", "hyperframe"], "package": "hyper"}

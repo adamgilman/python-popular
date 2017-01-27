@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.350492", "required_by": ["pycloudfuse", "sftp-cloudfs"], "requires": ["pyftpdlib", "python-swiftclient", "python-daemon", "python-memcached"], "package": "ftp-cloudfs"}

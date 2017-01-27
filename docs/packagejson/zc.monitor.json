@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.559115", "required_by": ["zc.reloadmonitor", "plone.app.async", "zc.monitorcache", "zc.monitorpdb", "zc.z3monitor", "five.z2monitor"], "requires": ["setuptools", "zc.ngi", "zope.component", "zope.testing"], "package": "zc.monitor"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.185752", "required_by": ["django-epic-sample"], "requires": ["django", "django-autocomplete-light", "django-bootstrap3-datetimepicker-2", "django-crispy-forms", "openpyxl"], "package": "django-epic"}

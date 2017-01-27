@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.660131", "required_by": ["rapid-django", "virtenviro"], "requires": ["django", "pytz"], "package": "django-datetime-widget"}

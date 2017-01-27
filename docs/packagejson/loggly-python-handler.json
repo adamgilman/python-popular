@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.996139", "required_by": ["microcosm-logging"], "requires": ["requests-futures"], "package": "loggly-python-handler"}

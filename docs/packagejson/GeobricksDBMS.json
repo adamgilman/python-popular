@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.541391", "required_by": ["GeobricksSpatialQuery"], "requires": ["watchdog", "flask", "flask-cors", "pymongo", "psycopg2", "simplejson"], "package": "GeobricksDBMS"}

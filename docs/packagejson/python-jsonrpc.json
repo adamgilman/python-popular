@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.178076", "required_by": ["coinbridge", "py-mms", "Tolk", "Absinthe", "Plutonium", "dubbo-client"], "requires": ["munch"], "package": "python-jsonrpc"}

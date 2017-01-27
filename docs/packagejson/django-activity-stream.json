@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.957587", "required_by": ["panya-social", "django-activity-stream-autoactor", "cyclope3", "djero", "kii", "geoshape-geonode", "jmbo-social"], "requires": [], "package": "django-activity-stream"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.258705", "required_by": ["slackminion-mysql", "slackminion-s3", "slackminion-redis"], "requires": ["Flask", "PyYAML", "requests", "six", "slackclient", "websocket-client"], "package": "slackminion"}

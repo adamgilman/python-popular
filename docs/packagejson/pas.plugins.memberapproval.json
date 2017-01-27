@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.325087", "required_by": ["collective.memberapproval", "collective.memberemails"], "requires": ["setuptools"], "package": "pas.plugins.memberapproval"}

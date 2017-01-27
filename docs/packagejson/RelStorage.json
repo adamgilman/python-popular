@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.798919", "required_by": ["relstorage_packer"], "requires": ["cffi", "perfmetrics", "zope.interface", "zc.lockfile"], "package": "RelStorage"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.495362", "required_by": ["arq", "asphalt-redis", "bachata", "plumbca", "subconscious", "aiocache", "cauldron", "echod", "aiorq", "sorna-manager", "django-redis-pubsub"], "requires": ["hiredis"], "package": "aioredis"}

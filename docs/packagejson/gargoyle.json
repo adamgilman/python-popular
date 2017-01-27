@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.712535", "required_by": ["django-cached-hitcount", "leaner"], "requires": ["django-modeldict", "nexus", "django-jsonfield"], "package": "gargoyle"}

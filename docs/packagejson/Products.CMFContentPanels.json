@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.036081", "required_by": ["sc.apyb.pythonbrasil6"], "requires": ["setuptools", "feedparser"], "package": "Products.CMFContentPanels"}

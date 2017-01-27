@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.744222", "required_by": ["rapido.souper", "ftw.activity", "souper.plone"], "requires": ["setuptools", "node.ext.zodb", "repoze.catalog"], "package": "souper"}

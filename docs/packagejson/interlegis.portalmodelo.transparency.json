@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.023021", "required_by": ["interlegis.portalmodelo.policy"], "requires": ["interlegis.portalmodelo.api", "lxml"], "package": "interlegis.portalmodelo.transparency"}

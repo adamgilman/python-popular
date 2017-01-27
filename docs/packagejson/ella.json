@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.988785", "required_by": ["Ella-Galleries", "ella-taggit", "Ella-Category-Subdomain", "Ella-Series", "ella-listingex", "Ella-Tagging", "ella_attachments", "ella-filer-galleries"], "requires": ["setuptools", "Django", "south", "pytz", "django-appdata"], "package": "ella"}

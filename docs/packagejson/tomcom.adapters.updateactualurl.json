@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.705126", "required_by": ["tomcom.plone.mediasearch"], "requires": ["setuptools", "jarn.jsi18n"], "package": "tomcom.adapters.updateactualurl"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.428460", "required_by": ["simplelayout.base"], "requires": ["setuptools", "collective.js.jqueryui"], "package": "simplelayout.ui.dragndrop"}

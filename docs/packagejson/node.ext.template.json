@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.489753", "required_by": ["agx.generator.pyegg"], "requires": ["setuptools", "node", "node.ext.directory", "plumber", "zope.interface", "zope.documenttemplate", "jinja2", "Chameleon"], "package": "node.ext.template"}

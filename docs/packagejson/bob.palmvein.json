@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.446648", "required_by": ["bob.paper.ICB2015"], "requires": ["setuptools", "bob.io.base", "bob.core", "bob.ip.base", "bob.ip.color", "bob.sp", "bob.io.matlab", "facereclib"], "package": "bob.palmvein"}

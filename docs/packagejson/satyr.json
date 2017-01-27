@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.695465", "required_by": ["dask.mesos"], "requires": ["cloudpickle", "kazoo", "futures"], "package": "satyr"}

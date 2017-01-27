@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.606951", "required_by": ["ldappy", "papaya", "Flask-SimpleLDAP", "pyldap_orm", "ssh-ldap-pubkey", "django-ldapdb-pyldap", "django-ldapdb", "django-adldap-sync"], "requires": ["setuptools"], "package": "pyldap"}

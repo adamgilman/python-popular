@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.724389", "required_by": ["collective.recipe.linktally", "plone.recipe.plone"], "requires": ["zc.buildout", "setuptools"], "package": "plone.recipe.distros"}

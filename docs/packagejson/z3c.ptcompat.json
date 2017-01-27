@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.900914", "required_by": ["z3c.form"], "requires": ["setuptools", "z3c.pt", "zope.pagetemplate", "zope.traversing"], "package": "z3c.ptcompat"}

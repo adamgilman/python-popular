@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.596318", "required_by": ["icemac.addressbook"], "requires": ["setuptools", "pycountry", "zope.i18nmessageid", "zc.sourcefactory", "zope.deferredimport"], "package": "gocept.country"}

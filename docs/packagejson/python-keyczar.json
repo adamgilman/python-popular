@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.742532", "required_by": ["tor_async_couchdb", "drf-otp-permissions", "django-encrypted-fields", "django-quickbooks-online", "pyoda", "django-encrypted-settings", "pindown_agent"], "requires": ["pycrypto", "pyasn1"], "package": "python-keyczar"}

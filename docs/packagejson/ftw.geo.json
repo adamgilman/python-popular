@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.609205", "required_by": ["ftw.contentpage"], "requires": ["setuptools", "geopy", "collective.geo.settings", "collective.geo.openlayers", "collective.geo.geographer", "collective.geo.contentlocations", "collective.geo.kml", "collective.geo.mapwidget", "plone.app.dexterity", "ftw.upgrade"], "package": "ftw.geo"}

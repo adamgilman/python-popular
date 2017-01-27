@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.097553", "required_by": ["microcosm-dynamodb"], "requires": ["cryptography", "boto3"], "package": "credstash"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.081132", "required_by": ["collective.filepreviewbehavior", "plone.app.relationfield", "plone.directives.form", "plone.dexterity", "collective.syndication", "plone.namedfile", "wildcard.media", "collective.pdfpeek"], "requires": ["setuptools", "zope.schema", "zope.component", "zope.interface", "python-dateutil"], "package": "plone.rfc822"}

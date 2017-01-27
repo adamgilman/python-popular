@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.308304", "required_by": ["django-wechat-message", "django-wechat-member", "django-wechat-pay", "django-wechat-menu"], "requires": ["future", "xmltodict"], "package": "django-wechat-base"}

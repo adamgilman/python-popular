@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.891106", "required_by": ["rpyc", "edsmodule", "drsync", "walt-common", "bdsync-manager", "INGInious", "bmu", "walt-client", "stitches", "walt-node", "saruman", "piefuzz", "benchbuild", "pulp-smash", "backupmanager", "pb_job_manager", "pyfzf", "cutools", "SyncHg"], "requires": [], "package": "plumbum"}

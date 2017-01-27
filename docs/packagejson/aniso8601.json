@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.545213", "required_by": ["flask-restplus", "Flask-Potion", "tincan", "electric", "scrypture", "Flask-Ask", "sa-flask-restful-resource", "imagefy", "shinkansen-python"], "requires": ["python-dateutil"], "package": "aniso8601"}

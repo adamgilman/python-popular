@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.773613", "required_by": ["rdflib-sqlite", "python-webid", "ferenda", "rdflib-sparqlstore", "agamemnon", "simple-virtuoso-migrate", "xwot-yadp", "nidmviewer"], "requires": ["rdflib", "pyparsing"], "package": "rdfextras"}

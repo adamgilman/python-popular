@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.698867", "required_by": ["edeposit.amqp.meta"], "requires": ["setuptools", "pyyaml", "httpkie", "pydhtmlparser", "edeposit.amqp.aleph"], "package": "edeposit.amqp.harvester"}

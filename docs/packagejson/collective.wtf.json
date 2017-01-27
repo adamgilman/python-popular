@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.682207", "required_by": ["collective.teamwork", "collective.workflowed", "ageliaco.tracker", "bika.health", "ageliaco.rd", "c2.sample.csvworkflow"], "requires": ["setuptools", "zope.interface", "zope.component", "Products.CMFCore", "Products.DCWorkflow", "Products.GenericSetup", "plone.memoize"], "package": "collective.wtf"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.714487", "required_by": ["zcontact", "z3c.skin.pagelet"], "requires": ["setuptools", "z3c.i18n", "z3c.viewlet", "zope.app.component", "zope.app.pagetemplate", "zope.app.publisher", "zope.app.zapi", "zope.component", "zope.contentprovider", "zope.interface", "zope.schema", "zope.viewlet"], "package": "z3c.menu"}

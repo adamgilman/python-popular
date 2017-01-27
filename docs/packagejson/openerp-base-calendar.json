@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.177278", "required_by": ["openerp-hr-evaluation", "openerp-hr-holidays", "openerp-hr-recruitment", "openerp-crm"], "requires": ["openerp-core", "openerp-base-status", "openerp-mail", "openerp-base-action-rule"], "package": "openerp-base-calendar"}

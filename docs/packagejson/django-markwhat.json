@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.919723", "required_by": ["cmsplugin-markdown", "django-pagetree"], "requires": ["Django"], "package": "django-markwhat"}

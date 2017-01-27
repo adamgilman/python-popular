@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.556742", "required_by": ["pylint-werkzeug", "pylint-django", "pylint-flask", "pylint-celery"], "requires": ["pylint", "astroid"], "package": "pylint-plugin-utils"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.887811", "required_by": ["zope.app.debugskin", "zope.app.boston"], "requires": ["setuptools", "zope.deprecation"], "package": "zope.app.skins"}

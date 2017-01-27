@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.734220", "required_by": ["kwalitee", "polysquare-setuptools-lint"], "requires": ["setuptools"], "package": "flake8-blind-except"}

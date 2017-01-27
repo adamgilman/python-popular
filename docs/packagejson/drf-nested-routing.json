@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.592019", "required_by": ["drf-tools"], "requires": ["django", "djangorestframework"], "package": "drf-nested-routing"}

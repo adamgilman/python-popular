@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.034038", "required_by": ["z3c.boston"], "requires": ["setuptools", "zope.app.basicskin", "zope.app.skins", "zope.app.testing", "zope.browsermenu", "zope.component", "zope.container", "zope.i18nmessageid", "zope.interface", "zope.publisher", "zope.viewlet"], "package": "zope.app.boston"}

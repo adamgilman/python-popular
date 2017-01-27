@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.899112", "required_by": ["collective.task"], "requires": ["setuptools", "plone.app.locales", "plone.behavior", "plone.dexterity", "plone.locking"], "package": "plone.app.lockingbehavior"}

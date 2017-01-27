@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.778238", "required_by": ["django-prospect"], "requires": ["django-admin-tools", "django-floppyforms", "django-bootstrap-forms", "django-guardian"], "package": "django-intranet"}

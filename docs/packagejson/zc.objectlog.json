@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.411585", "required_by": ["zc.vault"], "requires": ["setuptools", "zc.copy", "zc.table", "zope.app.keyreference", "zope.app.zapi", "zope.component", "zope.i18n", "zope.i18nmessageid", "zope.interface", "zope.location", "zope.proxy", "zope.publisher", "zope.schema"], "package": "zc.objectlog"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.788233", "required_by": ["tenyks-contrib"], "requires": ["jinja2", "pyzmq", "aiozmq"], "package": "tenyksservice"}

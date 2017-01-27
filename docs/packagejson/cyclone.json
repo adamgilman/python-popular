@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.749656", "required_by": ["sockjs-cyclone", "go_api", "bitwrap_pnml", "cyclone-wtforms", "piped.contrib.cyclone", "cyclone-sse", "protoweb", "nsi.sam"], "requires": ["twisted"], "package": "cyclone"}

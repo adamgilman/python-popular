@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.654760", "required_by": ["djangocms-lab-members"], "requires": ["Django", "django-filer", "django-friendly-tag-loader", "django-sekizai"], "package": "django-lab-members"}

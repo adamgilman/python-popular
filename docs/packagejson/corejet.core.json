@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.108743", "required_by": ["corejet.jira", "corejet.visualization", "corejet.testrunner", "corejet.robot", "corejet.pivotal"], "requires": ["setuptools", "lxml", "argparse", "python-dateutil", "unittest2", "zope.interface", "zope.schema"], "package": "corejet.core"}

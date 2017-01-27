@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.750213", "required_by": ["django-paperworks", "cmsplugin-pdf", "selenium-chrome-screenshot", "PySCUBA", "spreads", "jclubtool", "django-simple-resizer", "SQLAlchemy-ImageAttach"], "requires": [], "package": "Wand"}

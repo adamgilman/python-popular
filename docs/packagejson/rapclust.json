@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.970987", "required_by": ["grass"], "requires": ["PyYAML", "click", "networkx", "numpy", "pandas"], "package": "rapclust"}

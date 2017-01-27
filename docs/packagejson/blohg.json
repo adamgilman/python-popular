@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.696128", "required_by": ["blohg-tumblelog"], "requires": ["blinker", "click", "docutils", "Flask", "Flask-Babel", "Frozen-Flask", "Jinja2", "Mercurial", "PyYAML", "Pygments"], "package": "blohg"}

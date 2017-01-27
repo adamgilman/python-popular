@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.648041", "required_by": ["invenio-files-rest", "invenio-communities"], "requires": [], "package": "invenio-rest[cors"}

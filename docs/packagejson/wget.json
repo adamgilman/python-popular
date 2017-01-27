@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.875556", "required_by": ["pylinux", "biolite", "pyqt5-installer", "corpus-downloader", "topicexplorer", "pykcd", "pygco", "demcoreg", "huzhifeng", "DocDownloader", "ai.cdas", "glocate", "skelet3d", "pyatomdb"], "requires": [], "package": "wget"}

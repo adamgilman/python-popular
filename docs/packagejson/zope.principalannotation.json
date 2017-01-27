@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.652379", "required_by": ["mypypi", "ztfy.sendit", "horae.lifecycle", "zope.app.principalannotation"], "requires": ["persistent", "setuptools", "zope.annotation", "zope.component", "zope.interface", "zope.location", "zope.security", "zope.site"], "package": "zope.principalannotation"}

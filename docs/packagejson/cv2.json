@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.674263", "required_by": ["menu_parser", "camocomp", "SimpleCV", "specularity_removal", "camera_calibration", "robot2cam_calibration", "word2color", "samuroi", "StereoVision", "cv_utils", "platereader", "LiPyc"], "requires": [], "package": "cv2"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.478577", "required_by": ["perceval-mozilla", "grimoire-elk"], "requires": ["python-dateutil", "requests", "beautifulsoup4", "feedparser"], "package": "perceval"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.910384", "required_by": ["voiceplay", "eventmq", "Kuyruk", "redistools", "speedlimit", "CoolAMQP", "dronekit", "artisan_worker", "fasteners", "stackctl"], "requires": [], "package": "monotonic"}

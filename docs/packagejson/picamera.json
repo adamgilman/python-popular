@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.934906", "required_by": ["lookOver", "pybossa-raspberry-trapcamera", "distdrone3", "picctv", "mouse_record", "catsite"], "requires": [], "package": "picamera"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.140285", "required_by": ["tipfy.ext.adminfuncs"], "requires": ["tipfy", "jinja2"], "package": "tipfy.ext.jinja2"}

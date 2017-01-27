@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.836806", "required_by": ["panya-social", "jmbo-social"], "requires": ["oauth2", "python-openid", "mock"], "package": "django-socialregistration"}

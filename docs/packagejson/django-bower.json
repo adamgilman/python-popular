@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.708185", "required_by": ["bambu-bootstrap", "bambu-mapping", "django-era", "bambu-fileupload"], "requires": ["django", "six"], "package": "django-bower"}

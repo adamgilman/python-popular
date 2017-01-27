@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.472472", "required_by": ["ShelfCMS"], "requires": ["six", "SQLAlchemy"], "package": "SQLAlchemy-Defaults"}

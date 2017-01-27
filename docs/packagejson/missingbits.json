@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.973447", "required_by": ["isotoma.recipe.apache", "isotoma.buildout.basicauth", "isotoma.recipe.postdeploy", "isotoma.recipe.pound"], "requires": ["setuptools", "zc.buildout"], "package": "missingbits"}

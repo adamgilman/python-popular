@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.938969", "required_by": ["hexagonit.testing", "plone.app.robotframework", "ftw.testbrowser", "collective.betterbrowser", "gocept.selenium", "gocept.jasmine", "gocept.httpserverlayer", "collective.regexredirector"], "requires": ["setuptools", "zope.testing"], "package": "plone.testing"}

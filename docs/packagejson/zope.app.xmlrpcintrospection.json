@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.890064", "required_by": ["lovely.remotetask"], "requires": ["setuptools", "zope.component", "zope.interface", "zope.publisher"], "package": "zope.app.xmlrpcintrospection"}

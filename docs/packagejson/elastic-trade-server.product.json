@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.650050", "required_by": ["elastic-trade-server.product_catalog", "elastic-trade-server.stock"], "requires": ["django", "django-autocomplete-light", "django-tastypie", "lxml", "defusedxml", "django-mptt", "elastic-trade-server.country"], "package": "elastic-trade-server.product"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.106489", "required_by": ["python-textops", "proso-apps", "pdsimage", "python-nagios-helpers", "sphinx-autodoc-napoleon-typehints", "defopt", "pystrext", "pypond", "benchbuild"], "requires": [], "package": "sphinxcontrib-napoleon"}

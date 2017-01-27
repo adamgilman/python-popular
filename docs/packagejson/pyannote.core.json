@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.638909", "required_by": ["pyannote.metrics", "pyannote.parser", "pyannote.generators", "pyannote.features", "pyannote.algorithms", "pyannote.audio", "pyannote.server", "pyannote.video"], "requires": ["pyannote-banyan", "numpy", "pandas", "xarray", "numexpr", "bottleneck", "networkx", "simplejson", "six"], "package": "pyannote.core"}

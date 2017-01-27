@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.012111", "required_by": ["Flask-Heroku-RQify"], "requires": ["Flask", "rq"], "package": "Flask-RQ"}

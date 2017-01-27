@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.104720", "required_by": ["django-otto-admin", "pywizard-server", "farm-faq", "farm-news", "pywizard-manager", "django-cratis-suit", "fluentcms-suit", "django-suit-rq", "django-cratis-admin-suit"], "requires": [], "package": "django-suit"}

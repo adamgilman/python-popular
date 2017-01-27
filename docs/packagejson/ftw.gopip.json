@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.804194", "required_by": ["ftw.mobile"], "requires": ["Plone", "ftw.profilehook", "plone.api", "setuptools"], "package": "ftw.gopip"}

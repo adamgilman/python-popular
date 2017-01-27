@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.073631", "required_by": ["graphene-pynamodb", "dynamodb_utils"], "requires": ["Delorean", "six", "botocore"], "package": "pynamodb"}

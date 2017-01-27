@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.240204", "required_by": ["matplotlib2tikz", "betterbib", "meshio", "quadrature", "dedec", "watts", "pygmsh"], "requires": ["appdirs", "requests"], "package": "pipdated"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.860467", "required_by": ["OpenREM", "django-autoadmin", "django-resumator", "django_access_logs", "wagtail-global-settings"], "requires": [], "package": "django-solo"}

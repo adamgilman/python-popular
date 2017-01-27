@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.840584", "required_by": ["django-mqueue-livefeed", "django-presence"], "requires": ["cent"], "package": "django-instant"}

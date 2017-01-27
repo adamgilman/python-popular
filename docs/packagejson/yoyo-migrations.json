@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.556811", "required_by": ["catsnap", "biocommons.seqrepo"], "requires": ["python-slugify", "iniherit"], "package": "yoyo-migrations"}

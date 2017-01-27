@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.843353", "required_by": ["datreant.core", "word2color", "termius", "cord", "cms7", "refmanage"], "requires": ["six"], "package": "pathlib2"}

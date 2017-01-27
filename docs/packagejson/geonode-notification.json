@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.558243", "required_by": ["geoshape-geonode"], "requires": ["django"], "package": "geonode-notification"}

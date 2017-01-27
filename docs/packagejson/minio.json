@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.665733", "required_by": ["django-minio", "django-minio-storage"], "requires": [], "package": "minio"}

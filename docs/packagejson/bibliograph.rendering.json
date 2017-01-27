@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.669113", "required_by": ["Products.CMFBibliographyAT"], "requires": ["setuptools", "bibliograph.core"], "package": "bibliograph.rendering"}

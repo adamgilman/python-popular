@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.962595", "required_by": ["pypluzz"], "requires": ["pypluzz", "docopt", "lxml", "PyQtX", "requests", "setuptools"], "package": "pypluzz"}

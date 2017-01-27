@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.281011", "required_by": ["tiddlywebplugins.tiddlyspace"], "requires": ["setuptools", "tiddlyweb", "tiddlywebplugins.sqlalchemy3", "sqlalchemy", "MySQL-python"], "package": "tiddlywebplugins.mysql3"}

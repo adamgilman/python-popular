@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.145601", "required_by": ["scrapy-pagestorage"], "requires": ["Scrapy", "scrapinghub"], "package": "scrapinghub-entrypoint-scrapy"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.701908", "required_by": ["raptus.workflownotification", "vnccollab.content", "brasil.gov.vcge"], "requires": ["setuptools"], "package": "raptus.autocompletewidget"}

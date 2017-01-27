@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.136322", "required_by": ["agfusion", "mhctools", "isovar"], "requires": ["typechecks", "numpy", "pandas", "datacache", "memoized-property", "six", "gtfparse", "serializable", "tinytimer"], "package": "pyensembl"}

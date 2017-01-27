@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.164339", "required_by": ["Products.plonehrm"], "requires": ["setuptools", "Products.plonehrm"], "package": "plonehrm.absence"}

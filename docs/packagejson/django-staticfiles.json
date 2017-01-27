@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.834786", "required_by": ["lava-dashboard", "launch-control", "django-locking"], "requires": ["django-appconf"], "package": "django-staticfiles"}

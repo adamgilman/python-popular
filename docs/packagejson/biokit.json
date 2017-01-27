@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.980923", "required_by": ["cno", "sequana"], "requires": ["easydev", "suds-jurko", "pandas", "bioservices", "colormap", "scipy", "sphinx-gallery", "numpydoc"], "package": "biokit"}

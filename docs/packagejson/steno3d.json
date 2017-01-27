@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.629047", "required_by": ["steno3d_surfer", "steno3d_stl", "steno3d_obj"], "requires": ["future", "numpy", "pypng", "requests", "six", "traitlets"], "package": "steno3d"}

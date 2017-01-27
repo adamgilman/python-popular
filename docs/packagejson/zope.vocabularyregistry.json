@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.781872", "required_by": ["bst.pygasus.scaffolding", "nti.schema"], "requires": ["setuptools", "zope.component", "zope.interface", "zope.schema"], "package": "zope.vocabularyregistry"}

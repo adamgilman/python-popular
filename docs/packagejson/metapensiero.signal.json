@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.606203", "required_by": ["metapensiero.reactive"], "requires": ["pytest-runner"], "package": "metapensiero.signal"}

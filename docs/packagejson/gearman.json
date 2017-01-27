@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.021925", "required_by": ["django-gearman", "wishbone_input_gearman", "nagios-gearman-plugin", "django-gearman-commands", "gmtasks"], "requires": [], "package": "gearman"}

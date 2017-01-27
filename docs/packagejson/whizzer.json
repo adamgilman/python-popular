@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.551386", "required_by": ["wzmsgpackrpc"], "requires": ["pyev", "msgpack-python", "logbook"], "package": "whizzer"}

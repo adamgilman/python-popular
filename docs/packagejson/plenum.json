@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.976097", "required_by": ["sovringui", "sovrin", "sovrin-dev-test1", "sovrin-common", "sovrin-dev-test2", "sovrinnotifieremail"], "requires": ["pytest-runner"], "package": "plenum"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.759347", "required_by": ["rutermextract", "ta4", "epubsearcher", "djantimat", "twitterbot_utils"], "requires": ["dawg-python", "pymorphy2-dicts", "docopt"], "package": "pymorphy2"}

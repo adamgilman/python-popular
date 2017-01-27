@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.901762", "required_by": ["gis-metadata-parser"], "requires": ["defusedxml", "python-dateutil", "six"], "package": "parserutils"}

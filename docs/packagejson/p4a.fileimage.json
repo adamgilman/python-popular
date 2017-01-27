@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.119218", "required_by": ["p4a.audio", "p4a.image"], "requires": ["setuptools"], "package": "p4a.fileimage"}

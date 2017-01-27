@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.583162", "required_by": ["redisboard"], "requires": ["redis"], "package": "django-redisboard"}

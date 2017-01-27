@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.984809", "required_by": ["pInteServ", "clinacl", "pyaxo", "securesystemslib", "magic-wormhole", "partysig", "rfx", "saltpack", "rvo", "pithos", "Cryptonet", "spiral", "ucrypt"], "requires": [], "package": "pynacl"}

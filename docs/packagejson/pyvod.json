@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.855040", "required_by": ["pyvod.pluzz", "pyvod.cplus", "pyvod"], "requires": ["pyvod", "docopt", "lxml", "PyQtX", "requests", "setuptools"], "package": "pyvod"}

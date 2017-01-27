@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.091502", "required_by": ["collective.awstats"], "requires": ["setuptools", "odict"], "package": "bda.awstatsparser"}

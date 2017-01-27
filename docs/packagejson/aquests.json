@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.100066", "required_by": ["skitai"], "requires": ["redis", "pymongo", "h2", "protobuf", "psycopg2"], "package": "aquests"}

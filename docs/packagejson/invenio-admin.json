@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.662364", "required_by": ["CDS"], "requires": ["Flask", "Flask-Admin", "Flask-Login", "Flask-Principal", "invenio-db"], "package": "invenio-admin"}

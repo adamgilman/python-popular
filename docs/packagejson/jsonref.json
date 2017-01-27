@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.817298", "required_by": ["ramlfications", "invenio-openaire", "invenio-records", "cap-schemas", "yadage-schemas", "invenio-opendefinition"], "requires": [], "package": "jsonref"}

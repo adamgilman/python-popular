@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.121112", "required_by": ["django-heroku-memcacheify"], "requires": ["pylibmc"], "package": "django-pylibmc"}

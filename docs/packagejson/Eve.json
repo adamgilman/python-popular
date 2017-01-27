@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.314664", "required_by": ["Eve-Elastic", "Eve-docs", "eve-peewee", "Superdesk-Server", "Eve-SQLAlchemy", "alignak_backend", "Eve-Mongoengine"], "requires": ["cerberus", "events", "simplejson", "werkzeug", "markupsafe", "jinja2", "itsdangerous", "flask", "pymongo", "flask-pymongo"], "package": "Eve"}

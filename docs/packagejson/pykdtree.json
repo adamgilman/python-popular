@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.780334", "required_by": ["trollflow_sat", "py-sphviewer", "satpy", "pytroll_collectors"], "requires": ["numpy"], "package": "pykdtree"}

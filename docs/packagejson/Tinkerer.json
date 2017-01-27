@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.296314", "required_by": ["Twinkerer"], "requires": ["Jinja2", "Sphinx", "Babel", "pyquery"], "package": "Tinkerer"}

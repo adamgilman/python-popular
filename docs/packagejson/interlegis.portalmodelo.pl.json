@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.988516", "required_by": ["interlegis.portalmodelo.policy"], "requires": ["collective.z3cform.datagridfield", "collective.z3cform.datetimewidget", "five.grok", "interlegis.portalmodelo.api", "plone.api", "plone.app.contentmenu", "relations"], "package": "interlegis.portalmodelo.pl"}

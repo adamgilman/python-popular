@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.102252", "required_by": ["fio_prestashop", "trytond_prestashop"], "requires": ["requests", "lxml"], "package": "pystashop"}

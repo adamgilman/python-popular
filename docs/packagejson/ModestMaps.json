@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.098094", "required_by": ["Hillup", "Bloch", "TileStache", "Dymo", "django-geojson-tiles"], "requires": ["PIL"], "package": "ModestMaps"}

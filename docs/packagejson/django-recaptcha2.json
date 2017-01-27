@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.205537", "required_by": ["django-textbin"], "requires": ["Django", "requests"], "package": "django-recaptcha2"}

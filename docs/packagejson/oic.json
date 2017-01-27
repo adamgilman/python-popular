@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.997926", "required_by": ["ags_client", "pyop", "SATOSA", "Flask-pyoidc", "django-oidc"], "requires": ["requests", "pycryptodomex", "pyjwkest", "mako", "beaker", "alabaster", "pyOpenSSL", "future", "six", "responses", "testfixtures"], "package": "oic"}

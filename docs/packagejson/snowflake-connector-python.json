@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.879966", "required_by": ["snowflake-sqlalchemy"], "requires": ["boto3", "botocore", "future", "six", "pytz", "pycryptodome", "pyOpenSSL", "cffi", "cryptography", "pyasn1", "pyasn1-modules", "ijson"], "package": "snowflake-connector-python"}

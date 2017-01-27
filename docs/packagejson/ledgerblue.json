@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.419919", "required_by": ["trezor_agent"], "requires": ["hidapi", "pycrypto", "future", "ecpy", "pillow"], "package": "ledgerblue"}

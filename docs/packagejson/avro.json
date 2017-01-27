@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.871819", "required_by": ["PyHBase", "avro_codec", "titus", "Smap", "Zone"], "requires": [], "package": "avro"}

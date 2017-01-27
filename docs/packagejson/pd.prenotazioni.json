@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.747311", "required_by": ["pd.plonedemografico"], "requires": ["Plone", "plone.app.contentrules", "setuptools", "collective.contentrules.mailfromfield", "pd.contentrules.sms", "plone.api", "rg.prenotazioni", "z3c.pdftemplate"], "package": "pd.prenotazioni"}

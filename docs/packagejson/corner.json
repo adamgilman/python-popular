@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.852142", "required_by": ["isochrones", "soif", "kglib", "ExoSOFTmodel", "gullikson-scripts", "ExoSOFT", "threeML", "MCres", "NPTFit", "fitting_utilities"], "requires": ["numpy", "matplotlib"], "package": "corner"}

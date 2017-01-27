@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.998991", "required_by": ["z3c.formdemo"], "requires": ["setuptools", "zope.i18nmessageid", "zope.schema"], "package": "z3c.csvvocabulary"}

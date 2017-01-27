@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.754054", "required_by": ["contrail-api-cli-extra", "bottle-pycassa", "agamemnon", "CassandraJsonMapper", "testing.cassandra"], "requires": [], "package": "pycassa"}

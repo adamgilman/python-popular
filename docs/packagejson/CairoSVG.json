@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.585639", "required_by": ["score.svg", "pandoc-gpp", "django-amazon-price-monitor", "CDS", "templado", "BuildbotEightStatusShields"], "requires": ["cairocffi", "lxml", "cssselect", "pillow", "tinycss"], "package": "CairoSVG"}

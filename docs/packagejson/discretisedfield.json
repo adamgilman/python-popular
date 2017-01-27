@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.671541", "required_by": ["oommfc", "micromagneticmodel"], "requires": ["joommfutil", "matplotlib"], "package": "discretisedfield"}

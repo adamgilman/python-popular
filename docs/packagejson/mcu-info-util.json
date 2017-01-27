@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.055907", "required_by": ["python-build-system"], "requires": ["six", "cmsis-svd"], "package": "mcu-info-util"}

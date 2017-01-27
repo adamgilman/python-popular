@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.100750", "required_by": ["frida-runner"], "requires": ["colorama", "prompt-toolkit", "pygments"], "package": "frida"}

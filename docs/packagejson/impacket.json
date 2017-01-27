@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.174410", "required_by": ["wmic", "boofuzz", "pywerview"], "requires": ["pycrypto", "pyasn1"], "package": "impacket"}

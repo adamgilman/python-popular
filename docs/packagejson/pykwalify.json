@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.643183", "required_by": ["kliko", "pyconverge", "nuts", "hitchtest"], "requires": ["docopt", "PyYAML", "python-dateutil"], "package": "pykwalify"}

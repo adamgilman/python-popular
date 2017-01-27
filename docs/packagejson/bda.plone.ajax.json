@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.038706", "required_by": ["collective.gmaplocation"], "requires": ["setuptools", "Plone", "plone.app.jquerytools", "bdajax"], "package": "bda.plone.ajax"}

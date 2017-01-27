@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.291777", "required_by": ["gpsdio-nmea-driver", "gpsdio-sort", "gpsdio-density"], "requires": ["click", "click-plugins", "msgpack-python", "newlinejson", "python-dateutil", "str2type", "six", "ujson"], "package": "gpsdio"}

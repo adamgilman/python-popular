@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.691662", "required_by": ["flask-login-openerp"], "requires": ["Flask"], "package": "Flask-OpenERP"}

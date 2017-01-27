@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.714742", "required_by": ["collective.multifilesextender"], "requires": ["setuptools"], "package": "archetypes.multifile"}

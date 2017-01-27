@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.858134", "required_by": ["tsgettoolbox", "hspfbintoolbox", "swmmtoolbox", "wdmtoolbox"], "requires": ["pandas", "python-dateutil", "mando", "matplotlib", "rst2ansi", "scipy"], "package": "tstoolbox"}

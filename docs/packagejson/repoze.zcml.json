@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.721886", "required_by": ["pydataportability.discovery", "repoze.workflow", "Khan"], "requires": ["setuptools", "zope.component", "zope.configuration"], "package": "repoze.zcml"}

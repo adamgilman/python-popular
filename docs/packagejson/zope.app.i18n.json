@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.635847", "required_by": ["zope.app.locking", "zope.app.locking", "collective.themesitesetup", "zope.app.zcmlfiles", "z3c.widget", "zcontact", "zope.app.pythonpage", "collective.recipe.bluebream", "ztfy.webapp", "zope.app.workflow", "collective.singing"], "requires": [], "package": "zope.app.i18n"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.632381", "required_by": ["djangocms-responsive-wrapper"], "requires": ["django-appconf", "six"], "package": "django-responsive2"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.041074", "required_by": ["sorinaso.recipe.redis", "sact.recipe.postgresql"], "requires": ["zc.buildout", "setuptools", "hexagonit.recipe.download"], "package": "hexagonit.recipe.cmmi"}

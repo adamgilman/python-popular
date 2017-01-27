@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.971143", "required_by": ["stacker_blueprints"], "requires": ["troposphere", "boto3", "PyYAML", "awacs", "colorama", "formic"], "package": "stacker"}

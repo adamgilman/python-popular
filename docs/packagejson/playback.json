@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.362589", "required_by": ["fastforward"], "requires": ["fabric", "ecdsa", "markupsafe", "paramiko", "jinja2", "PyYAML", "setuptools", "pycrypto", "tqdm"], "package": "playback"}

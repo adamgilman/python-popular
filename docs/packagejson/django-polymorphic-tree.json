@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.144821", "required_by": ["django-conman", "django-fluent-pages"], "requires": ["django-polymorphic", "django-mptt", "django-tag-parser", "future"], "package": "django-polymorphic-tree"}

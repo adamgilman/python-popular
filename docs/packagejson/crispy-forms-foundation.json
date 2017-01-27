@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.073199", "required_by": ["django-datebook", "PO-Projects", "crispy-forms-foundation-demo", "emencia-django-forum", "emencia-django-bazar", "djangotribune", "sveedocuments"], "requires": ["django-crispy-forms"], "package": "crispy-forms-foundation"}

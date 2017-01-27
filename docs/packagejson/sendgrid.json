@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.978440", "required_by": ["django-sendgrid-parse", "fh-django-sendgrid-gae", "django-simple-forum", "watchlist", "koalasendgrid", "sendgrid-django", "sendgrid-mail", "megserver", "longboard", "sendgrid-python"], "requires": [], "package": "sendgrid"}

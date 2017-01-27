@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.191170", "required_by": ["horae.workflow", "ztfy.workflow", "getpaid.core", "getpaid.pxpay"], "requires": ["setuptools", "zope.interface", "zope.component", "but", "ZODB3", "zope.event", "zope.security", "zope.annotation", "zope.lifecycleevent"], "package": "hurry.workflow"}

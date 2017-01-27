@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.916877", "required_by": ["django_i18nize"], "requires": ["requests"], "package": "i18nize"}

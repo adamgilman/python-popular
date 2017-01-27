@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.075436", "required_by": ["ftw.solr"], "requires": ["setuptools", "plone.app.contentlisting"], "package": "plone.app.search"}

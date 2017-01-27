@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.950264", "required_by": ["cellprofiler"], "requires": ["numpy", "pillow", "scikit-image", "scipy"], "package": "centrosome"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.747879", "required_by": ["jubakit", "embedded_jubatus"], "requires": ["msgpack-rpc-python"], "package": "jubatus"}

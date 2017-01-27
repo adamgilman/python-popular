@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.693057", "required_by": ["Flask-FlatPages-Pandoc", "Jalapeno", "flekky", "ford.py", "getolaf", "furozun"], "requires": ["Flask", "PyYAML", "Markdown"], "package": "Flask-FlatPages"}

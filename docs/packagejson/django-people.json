@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.889494", "required_by": ["django-multilingual-news", "django-multilingual-orgs", "django-multilingual-initiatives"], "requires": ["Django", "django-libs", "django-filer", "django-cms", "Pillow", "django-hvad", "django-localized-names"], "package": "django-people"}

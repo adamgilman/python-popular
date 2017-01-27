@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.761606", "required_by": ["sparc.testing", "sparc.git"], "requires": ["setuptools", "pyaml", "zope.interface", "zope.component", "zope.schema", "sparc.proxy"], "package": "sparc.configuration"}

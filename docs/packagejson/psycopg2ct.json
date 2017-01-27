@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.877722", "required_by": ["pgsql_wrapper"], "requires": [], "package": "psycopg2ct"}

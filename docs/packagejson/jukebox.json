@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.156261", "required_by": ["jukebox-shout", "jukebox-live-indexer", "jukebox-mpg123"], "requires": ["Django", "mutagen", "django-social-auth", "djangorestframework", "simplejson", "South"], "package": "jukebox"}

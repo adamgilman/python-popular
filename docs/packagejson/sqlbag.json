@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.719203", "required_by": ["migra"], "requires": ["pathlib", "six", "sqlalchemy"], "package": "sqlbag"}

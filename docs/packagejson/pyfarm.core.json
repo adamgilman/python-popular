@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.825072", "required_by": ["pyfarm.jobtypes", "pyfarm.master"], "requires": ["colorama", "logutils", "PyYaml"], "package": "pyfarm.core"}

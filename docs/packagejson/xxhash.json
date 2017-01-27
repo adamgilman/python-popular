@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.194064", "required_by": ["bitwrap_pnml", "django-hmin", "disk_dict", "django-niji", "magistral", "npmln", "django-vimeo", "csample"], "requires": ["nose"], "package": "xxhash"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.041451", "required_by": ["collective.elasticindex", "usshapes", "trytond_elastic_search", "openlabs_party_elasticsearch", "agamemnon", "tahoe", "ScrapyEs", "gocept.amqparchive", "fio_party_elasticsearch", "HelloShopply"], "requires": ["urllib3", "six"], "package": "pyes"}

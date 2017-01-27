@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.070917", "required_by": ["horae.layout", "horae.planning", "horae.calendar", "horae.datetime", "grokui.base", "ztfy.webapp", "horae.autocomplete", "horae.dashboard"], "requires": ["setuptools", "fanstatic", "zope.component"], "package": "zope.fanstatic"}

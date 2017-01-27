@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.731983", "required_by": ["fobi-phonenumber", "django-secure-auth", "django-simple-shop", "fluentcms-contactform", "django-twilio", "django-authy", "django-otp-sms", "django-oscar-mpesa", "django-twilio-sms-models"], "requires": ["babel"], "package": "django-phonenumber-field"}

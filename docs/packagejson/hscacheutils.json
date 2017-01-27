@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.982390", "required_by": ["asset_bender"], "requires": ["python-memcached", "Django", "django-cache-utils"], "package": "hscacheutils"}

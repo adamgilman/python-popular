@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.238833", "required_by": ["openerp-mrp-operations", "openerp-sale-mrp", "openerp-mrp-byproduct", "openerp-mrp-repair", "openerp-stock-no-autopicking"], "requires": ["openerp-product", "openerp-procurement", "openerp-stock", "openerp-resource", "openerp-purchase", "openerp-process"], "package": "openerp-mrp"}

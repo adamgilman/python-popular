@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.625941", "required_by": ["touchdown", "pgctl", "yaul", "ontology-alchemy", "django-no-lazy-queries", "turnip", "raven", "opentracing_instrumentation"], "requires": [], "package": "contextlib2"}

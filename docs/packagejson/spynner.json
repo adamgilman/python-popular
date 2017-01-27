@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.025102", "required_by": ["lahman_updater", "pyliterature"], "requires": ["six", "beautifulsoup4", "unittest2", "pyquery", "autopy", "setuptools"], "package": "spynner"}

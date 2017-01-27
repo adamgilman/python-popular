@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.860105", "required_by": ["packagedb-cli", "Flask-FAS", "fedmsg_meta_fedora_infrastructure"], "requires": ["munch", "kitchen", "requests", "beautifulsoup4", "urllib3", "six", "lockfile"], "package": "python-fedora"}

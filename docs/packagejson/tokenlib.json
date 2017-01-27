@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.816960", "required_by": ["pyramid_hawkauth", "repoze.who.plugins.macauth", "pyramid_macauth", "repoze.who.plugins.hawkauth"], "requires": [], "package": "tokenlib"}

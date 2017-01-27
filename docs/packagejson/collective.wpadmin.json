@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.957603", "required_by": ["cirb.blog"], "requires": ["setuptools", "collective.configviews", "collective.js.jqueryui", "collective.js.datatables", "collective.quickupload", "plone.api", "plone.formwidget.namedfile", "plone.namedfile"], "package": "collective.wpadmin"}

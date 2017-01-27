@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.506866", "required_by": ["tspetl", "tspfb", "meterplugin"], "requires": ["requests", "six", "python-dateutil"], "package": "tspapi"}

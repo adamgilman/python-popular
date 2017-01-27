@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.753949", "required_by": ["brasil.gov.agenda", "collective.contentalerts", "collective.azipfele", "brasil.gov.temas", "slc.xliff", "appeus.theme", "wc.pageturner", "collective.documentviewer", "collective.atomrss", "collective.filemeta", "collective.dms.basecontent"], "requires": [], "package": "plone.app.contenttypes"}

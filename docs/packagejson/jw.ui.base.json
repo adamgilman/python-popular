@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.331988", "required_by": ["jw.ui.tk", "jw.eventview"], "requires": ["setuptools", "future", "zope.interface"], "package": "jw.ui.base"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.795734", "required_by": ["django-sentry"], "requires": ["django-templatetag-sugar"], "package": "django-paging"}

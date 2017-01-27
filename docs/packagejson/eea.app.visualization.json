@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.776234", "required_by": ["eea.daviz", "eea.exhibit", "eea.googlecharts"], "requires": ["setuptools", "python-dateutil", "plone.i18n", "z3c.autoinclude", "eea.jquery", "eventlet"], "package": "eea.app.visualization"}

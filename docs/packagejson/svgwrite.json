@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.228376", "required_by": ["modelr", "Luna", "moveit", "rugplot", "drawm", "piecemaker", "frankensvg", "calysto", "python-gantt", "svgpathtools", "gelutils", "msprime", "OpenGlider", "Cnc25D", "pyveplot"], "requires": ["pyparsing"], "package": "svgwrite"}

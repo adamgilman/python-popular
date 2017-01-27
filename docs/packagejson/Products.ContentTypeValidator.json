@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.868229", "required_by": ["raptus.article.flash", "raptus.article.media"], "requires": ["setuptools"], "package": "Products.ContentTypeValidator"}

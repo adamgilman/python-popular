@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.375156", "required_by": ["miniadt", "testrail", "eventsourcing", "PGPy", "HTTPolice", "quickdoc", "graphene-sqlalchemy", "django-viewflow", "graphene-pynamodb", "Medea", "eli5", "datacube", "pandas-bamboo", "Pydap", "graphene-django", "mergedict", "django-modelhint"], "requires": ["six"], "package": "singledispatch"}

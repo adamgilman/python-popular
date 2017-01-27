@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.010378", "required_by": ["collective.local.workspace", "collective.local.sendto"], "requires": ["setuptools"], "package": "collective.local.userlisting"}

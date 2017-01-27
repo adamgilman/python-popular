@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.878820", "required_by": ["stackem", "gammacap", "snpy", "PynPoint-exoplanet", "pysysp", "purr", "phoebe", "photopipe", "pysca", "Barak", "ugali", "TomograPy", "xicam", "sourcery", "mountwizzard", "pyscanfcs", "astro-pyxis", "pymoresane", "MLZ", "SOLARNET"], "requires": ["d2to1", "stsci.distutils"], "package": "pyfits"}

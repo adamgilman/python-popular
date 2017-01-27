@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.709274", "required_by": ["pd.prenotazioni", "pd.contentrules.sms"], "requires": ["setuptools", "Products.DataGridField", "collective.contentrules.mailfromfield", "collective.fontawesome", "plone.api", "pyinter", "quintagroup.formlib.captcha"], "package": "rg.prenotazioni"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.623939", "required_by": ["falconpb"], "requires": ["protobuf"], "package": "protobuf-to-dict"}

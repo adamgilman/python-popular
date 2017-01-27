@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.212686", "required_by": ["raptus.headerfader", "raptus.article.header"], "requires": ["setuptools", "plone.app.imaging", "raptus.backgroundsize"], "package": "raptus.header"}

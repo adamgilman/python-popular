@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.978255", "required_by": ["djedi-cms-jinja2"], "requires": ["six", "content-io", "simplejson"], "package": "djedi-cms"}

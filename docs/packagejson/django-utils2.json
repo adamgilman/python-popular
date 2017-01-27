@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.873734", "required_by": ["django-admin-generator"], "requires": ["python-utils", "anyjson", "six"], "package": "django-utils2"}

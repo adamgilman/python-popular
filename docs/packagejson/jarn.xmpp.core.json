@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.045203", "required_by": ["jarn.xmpp.collaboration"], "requires": ["setuptools", "BeautifulSoup", "plone.app.registry", "plone.app.z3cform", "jarn.xmpp.twisted", "jarn.jsi18n"], "package": "jarn.xmpp.core"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.721452", "required_by": ["deepthoughtapi"], "requires": ["deepthought", "requests"], "package": "deepthoughthttp"}

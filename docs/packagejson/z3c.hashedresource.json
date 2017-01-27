@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.132502", "required_by": ["five.hashedresource", "megrok.resource"], "requires": ["setuptools", "z3c.noop", "zope.app.publisher", "zope.component", "zope.interface", "zope.publisher"], "package": "z3c.hashedresource"}

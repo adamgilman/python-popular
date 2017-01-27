@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.637453", "required_by": ["softoy.handler", "softoy.webpage"], "requires": ["softoy.htmltags", "formencode"], "package": "softoy.widgets"}

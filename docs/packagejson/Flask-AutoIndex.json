@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.249809", "required_by": ["Internet-in-a-Box", "infi.app_repo"], "requires": ["Flask", "Flask-Silk", "future"], "package": "Flask-AutoIndex"}

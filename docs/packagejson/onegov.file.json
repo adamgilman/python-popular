@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.961321", "required_by": ["onegov.org"], "requires": ["onegov.core", "filedepot", "lxml", "more.transaction", "pillow", "python-magic", "sqlalchemy", "sqlalchemy-utils", "webob"], "package": "onegov.file"}

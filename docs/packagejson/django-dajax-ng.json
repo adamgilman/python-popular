@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.035157", "required_by": ["jmb.core"], "requires": ["django-dajaxice-ng"], "package": "django-dajax-ng"}

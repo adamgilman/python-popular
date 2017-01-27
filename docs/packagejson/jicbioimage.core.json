@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.760427", "required_by": ["jicbioimage.illustrate", "jicbioimage.transform", "jicbioimage.segment"], "requires": ["numpy", "scipy", "scikit-image"], "package": "jicbioimage.core"}

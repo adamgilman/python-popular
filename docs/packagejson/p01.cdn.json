@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.354663", "required_by": ["p01.editor"], "requires": ["setuptools", "lxml", "z3c.zrtresource", "zope.component", "zope.configuration", "zope.contenttype", "zope.i18n", "zope.i18nmessageid", "zope.interface", "zope.location", "zope.proxy", "zope.publisher", "zope.schema", "zope.security", "zope.site", "zope.traversing"], "package": "p01.cdn"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.283123", "required_by": ["nodeconductor"], "requires": ["django-admin-tools", "future"], "package": "django-fluent-dashboard"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.165753", "required_by": ["ftw.contentpage", "simplelayout.ui.base", "ftw.billboard", "ftw.file", "ftw.workspace", "ftw.blog"], "requires": ["ftw.upgrade", "setuptools", "Plone"], "package": "ftw.colorbox"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.838645", "required_by": ["agx.generator.pyegg", "agx.transform.xmi2uml"], "requires": ["setuptools", "node", "plumber", "zope.interface"], "package": "node.ext.uml"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.518473", "required_by": ["Products.PloneGetPaid", "getpaid.pxpay"], "requires": ["setuptools", "getpaid.core"], "package": "getpaid.wizard"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.052791", "required_by": ["bamboo.pantrybell", "bamboo.scaffold"], "requires": ["statsd"], "package": "rhaptos2.common"}

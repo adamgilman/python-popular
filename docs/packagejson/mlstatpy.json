@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.372910", "required_by": ["actuariat_python", "ensae_teaching_cs"], "requires": ["numpy"], "package": "mlstatpy"}

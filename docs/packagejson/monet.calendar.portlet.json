@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.778288", "required_by": ["monet.calendar.star"], "requires": ["setuptools", "monet.calendar.event", "monet.calendar.extensions"], "package": "monet.calendar.portlet"}

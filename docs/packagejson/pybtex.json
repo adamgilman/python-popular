@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.785395", "required_by": ["bib2web", "pycldf", "bibolamazi", "betterbib", "topicexplorer", "CITeX", "pyglottolog", "refmanage"], "requires": ["PyYAML", "latexcodec"], "package": "pybtex"}

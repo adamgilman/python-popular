@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.242465", "required_by": ["invenio-db"], "requires": ["alembic", "Flask", "Flask-SQLAlchemy", "SQLAlchemy"], "package": "Flask-Alembic"}

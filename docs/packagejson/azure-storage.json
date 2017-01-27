@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.626706", "required_by": ["azure-storage-logging", "aqs_sweeper", "Flask-Azure-Storage", "django-azure-storage", "blobxfer", "msgen", "azure", "Flask-Imagine-AzureAdapter", "scrapy-feedexporter-azure-blob", "azrcmd"], "requires": [], "package": "azure-storage"}

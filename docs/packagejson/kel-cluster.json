@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.773972", "required_by": ["kelctl"], "requires": ["cryptography", "google-api-python-client", "Jinja2", "pykube", "PyYAML"], "package": "kel-cluster"}

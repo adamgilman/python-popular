@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.106070", "required_by": ["icemac.ab.importer", "gocept.reference", "zope.app.zopeappgenerations", "zope.app.generations", "ztfy.scheduler"], "requires": ["setuptools", "transaction", "zope.component", "zope.interface", "zope.processlifetime"], "package": "zope.generations"}

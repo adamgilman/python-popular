@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.793245", "required_by": ["django-celery-with-couchdb", "tractdb", "picas", "mpcouch", "crawley-dev", "hypercouch", "TweetBase", "couchdbhelper", "huSoftM", "ryu-faucet", "couchdb-auditor", "ScrapyCouchDB", "celery-with-couchdb", "lingo", "openag", "couchdb-session"], "requires": [], "package": "couchdb"}

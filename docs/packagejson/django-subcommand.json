@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.745807", "required_by": ["django-spine"], "requires": ["inflection", "django-generate-scaffold"], "package": "django-subcommand"}

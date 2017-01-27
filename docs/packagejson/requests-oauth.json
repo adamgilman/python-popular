@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.789603", "required_by": ["identi", "withings", "django-embed", "twitterspawn", "salesking", "link-py", "python-etsy", "flixpy"], "requires": ["requests"], "package": "requests-oauth"}

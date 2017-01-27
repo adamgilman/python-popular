@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.937688", "required_by": ["odoo9-addon-web_selenium", "setuptools-odoo"], "requires": ["setuptools-odoo"], "package": "setuptools-odoo"}

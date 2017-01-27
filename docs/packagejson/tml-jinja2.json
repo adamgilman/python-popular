@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.638654", "required_by": ["flask-tml"], "requires": ["tml[pylibmc"], "package": "tml-jinja2"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.644130", "required_by": ["transmogrify.extract"], "requires": ["collective.transmogrifier", "setuptools", "z3c.autoinclude", "zc.recipe.egg"], "package": "mr.migrator"}

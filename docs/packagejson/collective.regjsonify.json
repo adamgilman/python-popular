@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.963366", "required_by": ["rer.cookieconsent", "collective.externalizelink"], "requires": ["setuptools", "plone.registry", "zope.schema"], "package": "collective.regjsonify"}

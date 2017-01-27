@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.748839", "required_by": ["sqre-github-snapshot"], "requires": ["github3.py", "uritemplate.py", "requests", "urllib3", "progressbar2", "GitPython", "MapGitConfig"], "package": "sqre-codekit"}

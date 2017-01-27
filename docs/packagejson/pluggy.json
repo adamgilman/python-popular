@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.598254", "required_by": ["service-platform", "sslack", "jsonresolver", "tox", "tox-plus"], "requires": [], "package": "pluggy"}

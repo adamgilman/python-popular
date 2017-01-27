@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.870011", "required_by": ["stacks-contentgroup", "stacks-featuredlink", "stacks-image", "stacks-page", "stacks-embed", "feincms3-images"], "requires": ["Pillow"], "package": "django-versatileimagefield"}

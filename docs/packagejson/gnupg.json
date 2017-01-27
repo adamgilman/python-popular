@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.783566", "required_by": ["wok-hooks", "figgypy", "kryptomime", "EncryptedGmailBackup", "otw", "bootstrap_salt"], "requires": [], "package": "gnupg"}

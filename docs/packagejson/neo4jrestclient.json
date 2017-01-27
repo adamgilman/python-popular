@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.405838", "required_by": ["provneo4j", "neo4django", "ipython-cypher", "Sextant", "neodjango"], "requires": ["requests"], "package": "neo4jrestclient"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.489662", "required_by": ["ztfy.sendit"], "requires": ["setuptools", "pillow", "z3c.form", "z3c.template", "zope.annotation", "zope.component", "zope.dublincore", "zope.i18nmessageid", "zope.interface", "zope.schema", "ztfy.cache", "ztfy.jqueryui", "ztfy.skin", "ztfy.utils"], "package": "ztfy.captcha"}

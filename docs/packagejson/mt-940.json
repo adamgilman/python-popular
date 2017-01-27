@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.019058", "required_by": ["fints", "croesus", "pretix"], "requires": ["setuptools", "pytest-runner"], "package": "mt-940"}

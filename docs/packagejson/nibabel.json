@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.909720", "required_by": ["nltools", "surfdist", "qap", "cvu", "sfDM", "cortex", "PyNIT", "popeye", "niftianon", "fsutils", "pyneurovault", "neuropythy", "ttoz", "neural-fmri", "bss", "ielu", "cfflib", "hcpre", "pybraincompare", "neurosynth", "artbrain", "neuropower", "pysurfer"], "requires": [], "package": "nibabel"}

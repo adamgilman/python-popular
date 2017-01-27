@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.050354", "required_by": ["motorengine_sibbay", "LightMagic", "torsession", "mongomotormodel", "motorengine", "moth", "madmin", "asphalt-mongodb", "kpages", "botstory", "proauth2", "Caesium", "qmongohelper", "tornado_async_odm", "mingus-rest-framework", "mongomotor", "rwdb"], "requires": ["pymongo"], "package": "motor"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.980054", "required_by": ["antispoofing.fusion_faceverif", "antispoofing.optflow", "bob.db.multispectral_spoof", "bob.thesis.ichingo2015", "bob.db.verapalm"], "requires": ["bob.extension"], "package": "bob.db.base"}

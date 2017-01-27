@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.760309", "required_by": ["goverlap"], "requires": ["pandas", "ebs", "docopt", "joblib", "bioservices"], "package": "biomartian"}

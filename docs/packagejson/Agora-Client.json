@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.081890", "required_by": ["Agora-Service-Provider", "Agora-Stoa-Client", "sdh-curator-py", "Agora-Fragment", "Agora-Stoa", "SDH-Curator"], "requires": ["requests", "rdflib", "blessings", "futures", "click"], "package": "Agora-Client"}

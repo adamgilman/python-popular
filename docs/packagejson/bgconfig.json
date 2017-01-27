@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.788179", "required_by": ["bgdata", "bgreference"], "requires": ["configobj"], "package": "bgconfig"}

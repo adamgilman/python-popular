@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.436922", "required_by": ["flask_frink"], "requires": ["schematics", "rethinkdb", "inflection", "future"], "package": "frink"}

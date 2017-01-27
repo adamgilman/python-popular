@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.796322", "required_by": ["django-change-email", "django-password-policies"], "requires": [], "package": "django-easysettings"}

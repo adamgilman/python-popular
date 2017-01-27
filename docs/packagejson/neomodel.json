@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.016796", "required_by": ["mock-neomodel", "neoapi", "lribeiro.cherrypy.authorizer.neomodel", "Caliope_Odisea"], "requires": ["neo4j-driver", "pytz"], "package": "neomodel"}

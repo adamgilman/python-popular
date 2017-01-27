@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.577922", "required_by": ["phiplot", "graphiit"], "requires": ["numpy", "scipy", "pyemd", "joblib", "psutil", "marbl-python", "pymongo", "pyyaml", "redis"], "package": "pyphi"}

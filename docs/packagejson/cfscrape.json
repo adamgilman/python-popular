@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.889490", "required_by": ["imageboard-dl", "nyaa-cli", "putlocker", "tek-utils", "pytorrentz", "pyepvp", "fundoshi"], "requires": ["Js2Py", "requests"], "package": "cfscrape"}

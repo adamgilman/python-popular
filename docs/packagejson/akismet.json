@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.357669", "required_by": ["django-akismet-comments", "csdjango.contactform", "typepadapp-moderation", "collective.akismet"], "requires": [], "package": "akismet"}

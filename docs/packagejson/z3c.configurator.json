@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.672215", "required_by": ["ice.control", "mypypi", "zamplugin.authenticator", "lovely.tag"], "requires": ["setuptools", "zope.component", "zope.i18nmessageid", "zope.interface", "zope.schema"], "package": "z3c.configurator"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.649120", "required_by": ["cryptoconditions", "pytoxns", "slashlock", "opencanary-correlator", "deadlock", "unmessage", "django-analytics-kits", "sstash", "Fanery", "django-shared-session", "gem-migrator", "pyramid_nacl_session"], "requires": [], "package": "PyNaCl"}

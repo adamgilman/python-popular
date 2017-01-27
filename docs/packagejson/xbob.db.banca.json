@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.792191", "required_by": ["xfacereclib.paper.BeFIT2012", "estimate.gender"], "requires": ["setuptools", "six", "bob", "xbob.db.verification.utils"], "package": "xbob.db.banca"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.787205", "required_by": ["collective.fsexternalmethod", "Products.DCWorkflow"], "requires": ["setuptools", "AccessControl", "Acquisition", "ExtensionClass", "Persistence", "ZODB", "Zope2"], "package": "Products.ExternalMethod"}

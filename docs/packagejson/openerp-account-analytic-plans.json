@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.759409", "required_by": ["openerp-purchase-analytic-plans", "openerp-sale-analytic-plans"], "requires": ["openerp-account", "openerp-account-analytic-default"], "package": "openerp-account-analytic-plans"}

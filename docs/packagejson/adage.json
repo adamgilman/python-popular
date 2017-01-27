@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.834874", "required_by": ["yadage"], "requires": ["networkx", "pydot2", "pygraphviz", "pydotplus"], "package": "adage"}

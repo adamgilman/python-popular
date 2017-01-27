@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.825606", "required_by": ["aristotle-metadata-registry", "medlemssys"], "requires": ["Django", "django-reversion"], "package": "django-reversion-compare"}

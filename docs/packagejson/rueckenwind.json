@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.425798", "required_by": ["madmin"], "requires": ["tornado", "jinja2", "babel", "argcomplete", "configobj", "chardet", "pytz", "PyYAML", "future"], "package": "rueckenwind"}

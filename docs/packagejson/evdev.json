@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.760901", "required_by": ["approxeng.input", "inputexec", "triangula", "gamepadinfo", "pypowermate", "Mopidy-EvtDev"], "requires": [], "package": "evdev"}

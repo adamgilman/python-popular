@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.747125", "required_by": ["scrapy-streamitem", "dblogger", "dossier.store", "dossier.fc"], "requires": ["cbor", "lxml", "000", "000", "thrift"], "package": "streamcorpus"}

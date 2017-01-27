@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.828546", "required_by": ["pybossa-pbs", "MICC", "redrover", "maelstrom-py", "agile"], "requires": ["setuptools", "python-termstyle", "colorama"], "package": "rednose"}

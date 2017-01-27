@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.091450", "required_by": ["dedupe-variable-person"], "requires": ["probablepeople", "parseratorvariable", "future"], "package": "dedupe-variable-name"}

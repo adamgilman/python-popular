@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.154611", "required_by": ["cmsplugin_oembed", "wagtail_embed_videos", "paperclip"], "requires": ["requests", "Django"], "package": "django-embed-video"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.860990", "required_by": ["django-verified-email"], "requires": ["Django", "PyYAML", "Markdown", "html2text", "six"], "package": "django-ogmios"}

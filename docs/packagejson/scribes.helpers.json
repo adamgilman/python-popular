@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.885114", "required_by": ["scribes.editor.remove-trigger-area", "scribes.file.goto-dir", "scribes.editor.shortcut-manager", "scribes.python.rope", "scribes.edit.complete_like_eclipse"], "requires": ["gsignals"], "package": "scribes.helpers"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.182046", "required_by": ["engineering-calculator"], "requires": ["six", "pytest-runner"], "package": "quantiphy"}

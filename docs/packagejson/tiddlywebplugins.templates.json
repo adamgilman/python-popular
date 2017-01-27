@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.201227", "required_by": ["tiddlywebplugins.docs", "tiddlywebplugins.tiddlyspace", "tiddlywebplugins.simplewiki", "tiddlywebplugins.wimporter", "tiddlywebplugins.register", "tiddlywebplugins.manifestopheles", "tiddlywebplugins.hoster"], "requires": ["setuptools", "tiddlyweb", "Jinja2"], "package": "tiddlywebplugins.templates"}

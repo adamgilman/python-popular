@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.472198", "required_by": ["vnccollab.zimbra"], "requires": ["setuptools", "plone.z3cform", "collective.jqueryui"], "package": "collective.z3cform.datepicker"}

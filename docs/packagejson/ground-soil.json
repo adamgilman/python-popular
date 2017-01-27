@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.600577", "required_by": ["django-eggplant", "beanstalk-stack"], "requires": ["Fabric", "Jinja2", "six"], "package": "ground-soil"}

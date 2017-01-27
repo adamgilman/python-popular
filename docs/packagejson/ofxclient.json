@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.898784", "required_by": ["ledger-autosync", "ofxmate"], "requires": ["argparse", "keyring", "lxml", "ofxhome", "ofxparse", "beautifulsoup4"], "package": "ofxclient"}

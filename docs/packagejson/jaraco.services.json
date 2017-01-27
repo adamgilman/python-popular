@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.320799", "required_by": ["jaraco.test", "jaraco.postgres"], "requires": ["six", "portend", "path.py", "jaraco.timing", "jaraco.classes"], "package": "jaraco.services"}

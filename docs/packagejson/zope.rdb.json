@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.672601", "required_by": ["zope.psycopgda", "mysqldbda", "zope.app.sqlexpr", "dm.zope.reseller", "zope.app.sqlscript"], "requires": ["setuptools", "transaction", "ZODB3", "zope.container", "zope.interface", "zope.i18nmessageid", "zope.security", "zope.configuration", "zope.container", "zope.schema", "zope.thread"], "package": "zope.rdb"}

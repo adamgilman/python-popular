@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.991501", "required_by": ["pinax-stripe", "pandapay", "djangoshop-stripe", "frasco-stripe", "django-senex-shop", "paython", "collective.stripe", "django-stripe-payments", "django-quagga", "mezzanine-donate", "bull", "Flask-Stripe", "flask-itemshop", "pretix", "fio_payment_gateway_stripe"], "requires": [], "package": "stripe"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.957090", "required_by": ["django-skylark", "ftr", "func-inventory-notifier", "uoftscrapers", "word2html", "sadi", "readembedability", "django-pummel", "SMPy", "xmldirector.dita", "buildingspy"], "requires": [], "package": "pytidylib"}

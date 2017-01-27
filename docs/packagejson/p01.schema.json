@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.882223", "required_by": ["j01.form"], "requires": ["setuptools", "zope.i18nmessageid", "zope.i18n", "zope.interface", "zope.schema"], "package": "p01.schema"}

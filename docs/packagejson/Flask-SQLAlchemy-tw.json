@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.119479", "required_by": ["Flask-Migrate-tw"], "requires": ["Flask", "SQLAlchemy"], "package": "Flask-SQLAlchemy-tw"}

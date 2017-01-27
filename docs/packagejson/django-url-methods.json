@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.861148", "required_by": ["redsolutioncms.django-model-url", "redsolutioncms.django-trusted-html"], "requires": [], "package": "django-url-methods"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.707341", "required_by": ["yoyo-migrations"], "requires": ["nose", "coverage"], "package": "iniherit"}

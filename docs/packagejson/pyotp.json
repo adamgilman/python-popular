@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.467068", "required_by": ["django-secure-auth", "PyAuth", "round", "resin-sdk", "iotp", "droll"], "requires": [], "package": "pyotp"}

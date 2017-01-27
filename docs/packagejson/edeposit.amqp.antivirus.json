@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.063476", "required_by": ["edeposit.amqp.meta"], "requires": ["setuptools", "sh", "pyClamd"], "package": "edeposit.amqp.antivirus"}

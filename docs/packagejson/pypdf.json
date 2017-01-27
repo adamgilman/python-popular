@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.405720", "required_by": ["django-arquea", "pyjon.reports", "zopyx.convert2"], "requires": [], "package": "pypdf"}

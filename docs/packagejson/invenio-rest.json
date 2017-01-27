@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.994074", "required_by": ["invenio-csl-rest", "invenio-records-rest", "invenio-accounts-rest"], "requires": ["Flask", "Flask-Limiter"], "package": "invenio-rest"}

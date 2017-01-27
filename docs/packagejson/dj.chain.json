@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.217109", "required_by": ["lck.django"], "requires": ["django", "six", "null"], "package": "dj.chain"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.029598", "required_by": ["redturtle.maps.portlet"], "requires": ["setuptools", "Products.Maps"], "package": "redturtle.maps.core"}

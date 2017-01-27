@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.957868", "required_by": ["repoze.what-quickstart"], "requires": ["repoze.who", "sqlalchemy"], "package": "repoze.who.plugins.sa"}

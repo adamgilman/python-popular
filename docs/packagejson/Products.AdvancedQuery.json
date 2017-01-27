@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.050821", "required_by": ["Products.BastionLedger", "gomobile.mobile", "collective.tablepage", "Products.CalendarX", "Products.csvreplicata", "slc.aggregation", "ageliaco.tracker", "collective.contacts", "collective.portlets.lineage", "vnccollab.theme", "collective.chimpfeed"], "requires": ["setuptools"], "package": "Products.AdvancedQuery"}

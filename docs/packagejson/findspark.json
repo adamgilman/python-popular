@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.459919", "required_by": ["nose2-spark", "spark-testing-base", "pytest-spark", "sparkhpc", "python_moztelemetry", "imnet"], "requires": [], "package": "findspark"}

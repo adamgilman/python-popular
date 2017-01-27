@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.442131", "required_by": ["jenkins-ghp", "xl-helper", "jenkins-epo", "bamboo.scaffold", "salsita-gitflow", "miura", "jenkinsreport", "jenks"], "requires": ["requests", "pytz"], "package": "jenkinsapi"}

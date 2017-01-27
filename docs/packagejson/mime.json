@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.252233", "required_by": ["doc2text", "linguist"], "requires": ["future"], "package": "mime"}

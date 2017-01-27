@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.380086", "required_by": ["lisa-plugins-shopping", "lisa-plugins-wifiled", "lisa-plugins-test"], "requires": ["pip", "djangorestframework", "django", "mysqlclient", "django-rest-swagger", "stevedore", "colorlog", "six", "kombu", "requests", "cookiecutter", "mistune", "django-compressor", "django-libsass"], "package": "lisa-api"}

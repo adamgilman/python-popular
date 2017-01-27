@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.215245", "required_by": ["django-mimemail", "latex2edx", "pyjsiocompile", "django-improved-inlines", "parseli", "ebdata", "springerdl", "twittcher", "lyricaly", "scrapr", "hocr", "goose-extractor", "django-openportfolio", "webrunner", "collective.skinny", "slickdeals", "wootoff", "pyteaser"], "requires": [], "package": "beautifulsoup"}

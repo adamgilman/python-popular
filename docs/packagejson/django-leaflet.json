@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.819827", "required_by": ["mapentity", "django-user-map", "geoshape-geonode", "safe-geonode"], "requires": ["Django"], "package": "django-leaflet"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.872747", "required_by": ["collective.recipe.bluebream", "ztfy.webapp", "lovely.tag"], "requires": ["setuptools", "zope.annotation", "zope.app.authentication", "zope.app.component", "zope.copypastemove", "zope.dublincore", "zope.generations"], "package": "zope.app.zopeappgenerations"}

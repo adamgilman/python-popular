@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.791983", "required_by": ["workbench", "pyrekall"], "requires": ["rekall-core", "ipython"], "package": "rekall"}

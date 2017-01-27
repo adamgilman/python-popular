@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.096978", "required_by": ["silva.core.smi"], "requires": ["setuptools", "martian", "zope.browser", "zope.interface", "zope.component", "grokcore.component", "grokcore.view", "zeam.form.base", "zeam.form.ztk"], "package": "zeam.form.autofields"}

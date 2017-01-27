@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.151138", "required_by": ["invenio-communities", "invenio-sipstore", "zenodo-accessrequests", "invenio-accounts-rest", "invenio-orcid", "invenio-github", "invenio-webhooks", "invenio-admin", "invenio-base"], "requires": ["Flask", "Flask-Alembic", "Flask-SQLAlchemy", "SQLAlchemy", "SQLAlchemy-Utils"], "package": "invenio-db"}

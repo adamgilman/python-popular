@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.809756", "required_by": ["kabaret.gui", "kabaret.studio"], "requires": ["pyro4", "kabaret"], "package": "kabaret.core"}

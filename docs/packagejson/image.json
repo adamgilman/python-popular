@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.683822", "required_by": ["django-shop-richcatalog", "django-shop-richproduct", "python-vipaccess", "shisensho"], "requires": ["pillow", "django"], "package": "image"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.013447", "required_by": ["vnccollab.portal"], "requires": ["setuptools"], "package": "collective.bulksharing"}

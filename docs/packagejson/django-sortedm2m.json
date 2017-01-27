@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.974851", "required_by": ["django-sortedm2m-filter-horizontal-widget", "django-ditto", "django-fortunecookie", "django-sortedone2many", "django-sorted-autocomplete-m2m", "django-mediastore"], "requires": [], "package": "django-sortedm2m"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.878286", "required_by": ["z3c.recipe.paster", "collective.recipe.bluebream", "ztfy.webapp", "zope.app.testing", "grokcore.startup"], "requires": ["setuptools", "zope.publisher", "zope.app.appsetup", "zope.app.publication"], "package": "zope.app.debug"}

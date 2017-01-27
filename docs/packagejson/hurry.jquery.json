@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.513123", "required_by": ["hurry.jqplot", "hurry.jquerytools", "hurry.jquerylayout", "hurry.slimbox", "hurry.jqueryutils", "hurry.jqueryform", "hurry.jqueryui", "hurry.jgrowl", "hurry.jqgrid", "hurry.jstree", "hurry.datatables"], "requires": ["setuptools", "hurry.resource"], "package": "hurry.jquery"}

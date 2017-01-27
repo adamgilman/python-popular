@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.660734", "required_by": ["jenkins_tools", "rosci", "ros-job_generation", "ros-groovy-job-generation", "rosrelease"], "requires": ["nose"], "package": "rosdep"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.688609", "required_by": ["fio_shipping_endicia", "trytond_endicia_integration"], "requires": ["lxml"], "package": "endicia"}

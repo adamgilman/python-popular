@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.167239", "required_by": ["sync_music"], "requires": ["numpy", "matplotlib", "scipy", "sklearn", "hmmlearn", "simplejson", "eyed3"], "package": "audiotools"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.664493", "required_by": ["django-djmongo"], "requires": ["pymongo"], "package": "jdt"}

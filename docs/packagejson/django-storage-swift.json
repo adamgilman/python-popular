@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.475395", "required_by": ["munch-storage-swift"], "requires": ["python-swiftclient", "python-keystoneclient", "six", "python-magic"], "package": "django-storage-swift"}

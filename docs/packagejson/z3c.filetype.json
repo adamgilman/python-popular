@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.477539", "required_by": ["z3c.extfile"], "requires": ["setuptools", "zope.cachedescriptors", "zope.component", "zope.contenttype", "zope.event", "zope.i18nmessageid", "zope.interface", "zope.lifecycleevent", "zope.proxy", "zope.schema", "zope.size"], "package": "z3c.filetype"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.051225", "required_by": ["django-glitter-news", "django-simple-forums"], "requires": ["django"], "package": "django-admin-sortable"}

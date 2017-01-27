@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.960375", "required_by": ["virtstrap-npm", "virtstrap-bundler-and-npm", "virtstrap-custom-script", "virtstrap-sample-plugin", "virtstrap-ruby-bundler"], "requires": ["virtstrap-core"], "package": "virtstrap-local"}

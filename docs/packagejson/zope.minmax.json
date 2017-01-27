@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.704628", "required_by": ["plone.app.async", "zope.session", "zope.app.session", "zc.async"], "requires": ["persistent", "setuptools", "zope.interface"], "package": "zope.minmax"}

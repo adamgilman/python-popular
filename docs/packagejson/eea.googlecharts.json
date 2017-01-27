@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.762747", "required_by": ["eea.daviz"], "requires": ["setuptools", "lxml", "eea.converter", "eea.app.visualization", "eea.icons", "collective.js.underscore", "eventlet"], "package": "eea.googlecharts"}

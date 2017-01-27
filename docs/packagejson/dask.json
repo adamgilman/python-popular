@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.802563", "required_by": ["dask.mesos", "gcMapExplorer", "xicam", "PyHum", "chemlab"], "requires": [], "package": "dask"}

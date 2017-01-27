@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.626943", "required_by": ["arstecnica.raccoon.autobahn", "kogniserver", "autobahntestsuite", "autobahn"], "requires": ["six"], "package": "txaio"}

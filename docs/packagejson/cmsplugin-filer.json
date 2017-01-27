@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.099417", "required_by": ["djangocms-calltoaction", "djangocms-blog", "djangocms-revealjs", "djangocms-css-background", "djangocms-widgetbox", "django-cratis-filer", "cmsplugin-bootstrap", "djangocms-blog-martin"], "requires": [], "package": "cmsplugin-filer"}

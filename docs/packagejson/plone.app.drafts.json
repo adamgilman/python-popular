@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.811191", "required_by": ["plone.app.mosaic"], "requires": ["setuptools", "ZODB3", "zope.interface", "zope.component", "zope.schema", "zope.annotation", "plone.app.uuid", "plone.behavior", "Zope2"], "package": "plone.app.drafts"}

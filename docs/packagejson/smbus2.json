@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.797781", "required_by": ["RPi.bme280", "axp209", "luma.core", "ssd1306"], "requires": [], "package": "smbus2"}

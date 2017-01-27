@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.189831", "required_by": ["UW-RestClients", "django-bmemcached"], "requires": ["six"], "package": "python-binary-memcached"}

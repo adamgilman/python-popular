@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.772512", "required_by": ["sf-babel", "sf-mail", "sf-uploader", "userbase"], "requires": ["logbook", "werkzeug", "ConfigParser", "argparse", "jinja2"], "package": "starflyer"}

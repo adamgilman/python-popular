@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.172494", "required_by": ["chainer-cuda-deps", "scatnetgpu"], "requires": ["mako", "numpy", "pycuda"], "package": "scikit-cuda"}

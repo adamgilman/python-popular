@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.044629", "required_by": ["sparc.testing", "corejet.testrunner", "zc.recipe.testrunner", "plone.app.robotframework", "tranchitella.recipe.testrunner", "collective.xmltestreport", "collective.funkload", "z3c.traverser"], "requires": [], "package": "zope.testrunner"}

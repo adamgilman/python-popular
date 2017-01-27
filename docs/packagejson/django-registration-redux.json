@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.388075", "required_by": ["peer", "cssocialprofile", "cssocialuser"], "requires": [], "package": "django-registration-redux"}

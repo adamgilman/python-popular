@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.772664", "required_by": ["jaraco.email", "openpack", "jaraco.text", "recapturedocs", "jaraco.financial"], "requires": ["jaraco.text", "jaraco.classes", "six"], "package": "jaraco.collections"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.961802", "required_by": ["langacore.kit.i18n", "langacore.kit.django"], "requires": ["distribute", "lockfile"], "package": "langacore.kit.common"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.192872", "required_by": ["ztfy.ldap"], "requires": ["pbr"], "package": "ldappool"}

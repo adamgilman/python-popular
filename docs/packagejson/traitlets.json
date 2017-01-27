@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.073052", "required_by": ["steno3d", "nbsphinx", "pyopen", "jgscm", "corpkit", "clijockey", "word2color", "octogrid", "straitlets", "numtraits", "LDTk", "sparqlkernel", "cord", "restfulContentManager"], "requires": [], "package": "traitlets"}

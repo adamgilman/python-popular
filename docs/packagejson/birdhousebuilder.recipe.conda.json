@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.198843", "required_by": ["birdhousebuilder.recipe.postgres", "birdhousebuilder.recipe.adagucserver", "birdhousebuilder.recipe.r", "birdhousebuilder.recipe.thredds", "birdhousebuilder.recipe.pycsw"], "requires": [], "package": "birdhousebuilder.recipe.conda"}

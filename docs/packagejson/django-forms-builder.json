@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.755680", "required_by": ["cmsplugin-forms-builder", "cyclope3", "fluentcms-forms-builder"], "requires": ["sphinx-me", "unidecode", "django-email-extras", "django", "future"], "package": "django-forms-builder"}

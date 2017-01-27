@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.764434", "required_by": ["pycdep", "pyscrambler", "query-selector", "dmengine"], "requires": ["setuptools"], "package": "oset"}

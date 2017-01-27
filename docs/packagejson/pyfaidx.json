@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.354254", "required_by": ["motif-scraper", "svviz", "whatshap", "bioepic", "BioUtil", "gepyto", "CNVkit", "varlens", "cooler", "snpflip", "ngg2"], "requires": ["six", "setuptools"], "package": "pyfaidx"}

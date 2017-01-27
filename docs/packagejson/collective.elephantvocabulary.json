@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.940291", "required_by": ["collective.listusers", "collective.contact.plonegroup"], "requires": ["setuptools", "zope.interface", "zope.component", "zope.schema"], "package": "collective.elephantvocabulary"}

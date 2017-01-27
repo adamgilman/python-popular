@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.919655", "required_by": ["plone.app.caching", "Products.TinyMCE", "plone.resource"], "requires": ["setuptools"], "package": "plone.caching"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.891768", "required_by": ["Flask-Mitten", "invenio-accounts"], "requires": ["Flask", "simplekv", "werkzeug", "itsdangerous", "six"], "package": "Flask-KVSession"}

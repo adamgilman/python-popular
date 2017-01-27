@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.698760", "required_by": ["sovrin", "sovrin-client", "sovrin-dev-test1", "sovrin-dev-test2"], "requires": ["Charm-Crypto", "lazy-object-proxy", "base58"], "package": "anoncreds"}

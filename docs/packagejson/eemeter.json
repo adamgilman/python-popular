@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.970083", "required_by": ["thermostat"], "requires": ["holidays", "lxml", "numpy", "scipy", "pandas", "patsy", "pytz", "requests", "scikit-learn", "statsmodels", "SQLAlchemy"], "package": "eemeter"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.654523", "required_by": ["ftw.keywordoverlay", "ftw.usermanagement"], "requires": ["setuptools", "ftw.upgrade"], "package": "collective.js.ui.multiselect"}

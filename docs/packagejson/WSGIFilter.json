@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.930792", "required_by": ["Deliverance.Rewrite", "repoze.slicer", "Deliverance"], "requires": ["Paste", "HTTPEncode", "webob"], "package": "WSGIFilter"}

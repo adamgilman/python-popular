@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.313980", "required_by": ["csrbuilder", "certbuilder", "ocspbuilder", "django-ca", "oscrypto", "certvalidator", "crlbuilder"], "requires": [], "package": "asn1crypto"}

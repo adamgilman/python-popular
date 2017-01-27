@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.477536", "required_by": ["rackspace-glanceclient"], "requires": ["python-novaclient"], "package": "rackspace-auth-openstack"}

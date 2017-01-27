@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.730774", "required_by": ["KegElements", "KegLogin", "KegBouncer"], "requires": ["appdirs", "BlazeUtils", "blinker", "Click", "Flask", "Flask-SQLAlchemy", "pathlib", "six"], "package": "Keg"}

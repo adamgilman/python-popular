@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.672134", "required_by": ["cabot_alert_telegram", "notifymetools"], "requires": ["requests", "six"], "package": "pyTelegramBotAPI"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.060145", "required_by": ["cielo24cli"], "requires": ["versiontools", "pyyaml"], "package": "compago"}

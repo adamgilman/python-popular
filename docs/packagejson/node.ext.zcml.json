@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.198778", "required_by": ["agx.generator.zca"], "requires": ["setuptools", "node.ext.xml", "node.ext.directory"], "package": "node.ext.zcml"}

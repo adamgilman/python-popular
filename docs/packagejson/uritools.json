@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.775602", "required_by": ["invenio-oauthclient", "Mopidy-Podcast", "consular", "Mopidy-Local-Images", "Mopidy-InternetArchive", "Mopidy-dLeyna", "marathon-acme", "Mopidy-BeetsLocal", "Mopidy-Local-SQLite"], "requires": [], "package": "uritools"}

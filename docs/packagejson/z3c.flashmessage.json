@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.107461", "required_by": ["asm.cmsui", "grokcore.message", "grokui.admin"], "requires": ["setuptools", "ZODB", "zope.interface", "zope.schema", "zope.session"], "package": "z3c.flashmessage"}

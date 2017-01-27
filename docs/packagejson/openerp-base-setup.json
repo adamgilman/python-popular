@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.231492", "required_by": ["openerp-hr", "openerp-auth-signup", "openerp-association", "openerp-account", "openerp-project", "openerp-marketing", "openerp-knowledge", "openerp-mail", "openerp-event", "openerp-crm", "openerp-auth-oauth"], "requires": [], "package": "openerp-base-setup"}

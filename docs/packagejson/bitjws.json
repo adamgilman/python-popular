@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.198714", "required_by": ["Flask-bitjws", "bravado-bitjws"], "requires": ["base58", "secp256k1"], "package": "bitjws"}

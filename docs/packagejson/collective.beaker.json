@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.879183", "required_by": ["Products.BeakerSessionDataManager", "cs.auth.twitter"], "requires": ["setuptools", "Beaker", "zope.interface", "zope.component", "Zope2", "zope.publisher"], "package": "collective.beaker"}

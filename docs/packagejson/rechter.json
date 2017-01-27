@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.842113", "required_by": ["staat", "slachtoffer", "gvd", "huisarts"], "requires": ["beautifulsoup4", "sleekxmpp", "feedparser"], "package": "rechter"}

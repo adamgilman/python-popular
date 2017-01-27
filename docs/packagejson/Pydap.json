@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.906587", "required_by": ["AVISO", "biofloat"], "requires": ["numpy", "singledispatch", "Webob", "Jinja2", "docopt", "gunicorn", "six", "mechanicalsoup"], "package": "Pydap"}

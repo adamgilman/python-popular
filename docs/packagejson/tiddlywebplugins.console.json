@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.070656", "required_by": ["tiddlywebwiki"], "requires": ["setuptools", "tiddlyweb", "tiddlywebplugins.pkgstore", "tiddlywebplugins.imaker", "tiddlywebplugins.status", "httpexceptor"], "package": "tiddlywebplugins.console"}

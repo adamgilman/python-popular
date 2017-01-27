@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.988527", "required_by": ["getpaid.SalesforcePloneFormGenAdapter"], "requires": ["setuptools", "beatbox", "Products.salesforcebaseconnector", "Products.PloneFormGen", "Products.DataGridField", "Products.TALESField"], "package": "Products.salesforcepfgadapter"}

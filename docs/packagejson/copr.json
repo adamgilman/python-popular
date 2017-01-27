@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.682005", "required_by": ["copr-cli"], "requires": ["marshmallow", "requests", "requests-toolbelt", "six"], "package": "copr"}

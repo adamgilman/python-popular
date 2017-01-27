@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.286123", "required_by": ["nti.transactions", "slowlog", "repozitory", "zperfmetrics", "RelStorage", "repoze.pgtextindex"], "requires": ["setuptools"], "package": "perfmetrics"}

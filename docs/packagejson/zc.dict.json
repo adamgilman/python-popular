@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.513059", "required_by": ["eea.daviz", "zc.async"], "requires": ["setuptools", "zope.interface", "ZODB3", "zc.blist"], "package": "zc.dict"}

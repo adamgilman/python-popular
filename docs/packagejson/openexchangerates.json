@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.332325", "required_by": ["django-simple-currencies", "django-exchange"], "requires": ["requests"], "package": "openexchangerates"}

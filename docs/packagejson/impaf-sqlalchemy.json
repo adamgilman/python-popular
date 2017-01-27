@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.626222", "required_by": ["impaf-auth"], "requires": ["impaf", "SQLAlchemy"], "package": "impaf-sqlalchemy"}

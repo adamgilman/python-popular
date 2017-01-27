@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.262246", "required_by": ["oi"], "requires": ["msgpack-python", "nanomsg", "nose"], "package": "nanoservice"}

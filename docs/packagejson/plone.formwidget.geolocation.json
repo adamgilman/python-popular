@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.245237", "required_by": ["collective.maplocbehavior", "collective.geolocationbehavior"], "requires": ["plone.patternslib", "setuptools", "z3c.form"], "package": "plone.formwidget.geolocation"}

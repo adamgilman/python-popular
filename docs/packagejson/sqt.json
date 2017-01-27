@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.081352", "required_by": ["igdiscover"], "requires": ["pysam", "cutadapt", "matplotlib", "seaborn", "xopen"], "package": "sqt"}

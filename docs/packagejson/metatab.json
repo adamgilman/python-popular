@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.123556", "required_by": ["metatab_server"], "requires": ["six", "unicodecsv", "pyyaml", "datapackage", "rowgenerators"], "package": "metatab"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.902965", "required_by": ["flake8", "flake8-todo", "python-ta", "flake8-import-order", "polysquare-setuptools-lint"], "requires": [], "package": "pycodestyle"}

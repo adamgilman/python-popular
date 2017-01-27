@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.800288", "required_by": ["plone.app.kss", "Products.Gloworm"], "requires": ["setuptools", "plone.uuid"], "package": "archetypes.kss"}

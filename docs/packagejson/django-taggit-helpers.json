@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.705257", "required_by": ["djangocms-lab-publications"], "requires": ["django", "django-taggit"], "package": "django-taggit-helpers"}

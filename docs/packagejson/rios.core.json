@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.479996", "required_by": ["rios.conversion"], "requires": ["six", "colander", "pyyaml"], "package": "rios.core"}

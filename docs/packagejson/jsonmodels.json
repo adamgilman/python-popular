@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.879094", "required_by": ["tinykit"], "requires": ["python-dateutil", "six"], "package": "jsonmodels"}

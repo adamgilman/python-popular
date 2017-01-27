@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.987073", "required_by": ["ploy_ezjail", "ploy_ec2", "ploy_virtualbox", "ploy_ansible", "ploy_fabric"], "requires": ["lazy", "paramiko", "setuptools"], "package": "ploy"}

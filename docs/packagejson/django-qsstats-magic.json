@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.288759", "required_by": ["OpenREM", "django-bigbrother"], "requires": ["dateutil"], "package": "django-qsstats-magic"}

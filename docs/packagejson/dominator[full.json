@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.199661", "required_by": ["obedient.powny", "obedient.elk", "obedient.elasticsearch", "obedient.zookeeper"], "requires": [], "package": "dominator[full"}

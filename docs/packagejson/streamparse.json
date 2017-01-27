@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.690742", "required_by": ["birding"], "requires": ["fabric3", "jinja2", "requests", "prettytable", "six", "simplejson", "pystorm", "thriftpy", "ruamel.yaml"], "package": "streamparse"}

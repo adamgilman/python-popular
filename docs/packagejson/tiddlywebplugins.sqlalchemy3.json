@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.836160", "required_by": ["tiddlywebplugins.postgresql", "tiddlywebplugins.mysql3", "tiddlywebplugins.tiddlyspace"], "requires": ["setuptools", "tiddlyweb", "sqlalchemy", "pyparsing"], "package": "tiddlywebplugins.sqlalchemy3"}

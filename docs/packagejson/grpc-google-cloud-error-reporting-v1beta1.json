@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.780171", "required_by": ["gapic-google-cloud-error-reporting-v1beta1"], "requires": ["oauth2client", "grpcio", "googleapis-common-protos[grpc"], "package": "grpc-google-cloud-error-reporting-v1beta1"}

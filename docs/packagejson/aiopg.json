@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.278133", "required_by": ["tcrudge", "pulsar-postgresql", "cauldron", "chilero_pg"], "requires": ["psycopg2"], "package": "aiopg"}

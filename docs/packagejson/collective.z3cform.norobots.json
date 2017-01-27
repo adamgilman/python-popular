@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.584911", "required_by": ["collective.contentrules.subscription", "collective.pfg.norobots"], "requires": ["setuptools", "plone.app.z3cform", "plone.app.registry"], "package": "collective.z3cform.norobots"}

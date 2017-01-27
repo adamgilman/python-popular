@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.191979", "required_by": ["oe_utils", "python-blogengine", "wurstball-rss"], "requires": ["lxml", "python-dateutil"], "package": "feedgen"}

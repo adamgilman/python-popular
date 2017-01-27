@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.496746", "required_by": ["django-facebook-pages-statistic", "django-facebook-photos", "django-facebook-posts"], "requires": ["django-facebook-api", "simplejson"], "package": "django-facebook-pages"}

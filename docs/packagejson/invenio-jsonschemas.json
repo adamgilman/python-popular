@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.799352", "required_by": ["invenio-openaire", "invenio-sipstore", "invenio-marc21", "invenio-opendefinition", "invenio-base"], "requires": [], "package": "invenio-jsonschemas"}

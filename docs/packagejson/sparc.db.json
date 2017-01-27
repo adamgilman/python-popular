@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.942180", "required_by": ["sparc.cache", "sparc.apps.cache"], "requires": ["setuptools", "SQLAlchemy", "z3c.saconfig", "sparc.common"], "package": "sparc.db"}

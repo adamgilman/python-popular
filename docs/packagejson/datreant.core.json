@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.850869", "required_by": ["datreant.data", "mdsynthesis"], "requires": ["asciitree", "pathlib2", "scandir", "six", "fuzzywuzzy"], "package": "datreant.core"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.689431", "required_by": ["Marisol", "signpdf", "nbbrowserpdf", "savefig", "gerbil", "stereo", "gpgmailencrypt"], "requires": [], "package": "pypdf2"}

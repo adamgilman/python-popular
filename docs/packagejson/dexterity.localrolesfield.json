@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.767498", "required_by": ["collective.task"], "requires": ["Products.CMFCore", "collective.z3cform.datagridfield", "dexterity.localroles", "five.grok", "plone.api", "plone.app.dexterity", "setuptools", "z3c.unconfigure"], "package": "dexterity.localrolesfield"}

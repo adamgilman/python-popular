@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.947130", "required_by": ["babble.client"], "requires": ["setuptools", "python-dateutil", "lxml", "simplejson", "zope2"], "package": "babble.server"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.226942", "required_by": ["aristotle-metadata-registry", "django-multipleformwizard", "django-procmail", "django-otp-sms", "TabImport", "xadmin", "pretix", "django_th", "django-simple-quiz"], "requires": ["Django"], "package": "django-formtools"}

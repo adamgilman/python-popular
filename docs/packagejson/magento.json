@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.108623", "required_by": ["trytond_magento"], "requires": ["suds"], "package": "magento"}

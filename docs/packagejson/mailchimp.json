@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.716552", "required_by": ["raptus.mailchimp", "NewsChimp", "django-user2mailchimp", "taiga-contrib-mailchimp-subscription"], "requires": ["requests", "docopt"], "package": "mailchimp"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.475244", "required_by": ["tomcom.browsers.tccountries"], "requires": ["setuptools", "Zope2", "z3c.autoinclude"], "package": "tomcom.patch.getbrowser"}

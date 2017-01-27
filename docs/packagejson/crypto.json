@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.711575", "required_by": ["up7marks", "xssh", "censusprotocollib", "Ibe"], "requires": ["Naked", "shellescape"], "package": "crypto"}

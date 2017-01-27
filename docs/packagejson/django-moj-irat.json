@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.306261", "required_by": ["django-gov"], "requires": ["Django", "requests"], "package": "django-moj-irat"}

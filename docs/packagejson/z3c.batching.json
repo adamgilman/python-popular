@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.813205", "required_by": ["zamplugin.sitemanager", "zamplugin.sitemanager", "megrok.z3cform.crud", "z3c.table"], "requires": ["setuptools", "zope.interface", "zope.schema"], "package": "z3c.batching"}

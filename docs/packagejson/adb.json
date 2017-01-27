@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.847972", "required_by": ["firetv"], "requires": ["libusb1", "python-gflags", "M2Crypto"], "package": "adb"}

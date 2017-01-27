@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.812661", "required_by": ["transmogrify.dexterity", "ftw.inflator", "quintagroup.transmogrifier", "transmogrify.wppolls", "wasgehtengine.import"], "requires": ["setuptools", "collective.transmogrifier", "plone.uuid"], "package": "plone.app.transmogrifier"}

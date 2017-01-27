@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.957998", "required_by": ["openerp-portal"], "requires": ["openerp-core", "openerp-mail"], "package": "openerp-share"}

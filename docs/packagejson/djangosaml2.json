@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.469531", "required_by": ["peer", "nodeconductor-saml2"], "requires": ["pysaml2", "defusedxml"], "package": "djangosaml2"}

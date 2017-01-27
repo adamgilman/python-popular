@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.950060", "required_by": ["pilbox", "django-postgres-fuzzycount", "django-socketio", "django-shotgun", "Drum", "hg-github", "django-overextends", "django-email-extras", "django-forms-builder", "gunicorn-console", "Gnotty", "hot-redis", "django-gnupg-mails"], "requires": [], "package": "sphinx-me"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.533418", "required_by": ["stateplane", "Neighborhoodize", "gj2ascii", "fio_taxa", "constructive_geometries", "ncdjango", "etl2osm", "fionautil", "svgis", "GeobricksGISVector", "mapchete", "pandarus", "s2g", "fio-buffer", "makesurface", "idq-geo", "GeodesicLinesToGIS"], "requires": [], "package": "fiona"}

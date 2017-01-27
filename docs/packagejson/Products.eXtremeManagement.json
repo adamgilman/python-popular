@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.737100", "required_by": ["xm.theme", "xm.charting"], "requires": ["setuptools", "xm.booking", "xm.portlets", "xm.tracker", "xm.charting", "kss.plugin.yuidnd", "kss.plugin.cns", "Products.contentmigration", "Products.Poi", "pygooglechart", "collective.autopermission", "zope.app.content"], "package": "Products.eXtremeManagement"}

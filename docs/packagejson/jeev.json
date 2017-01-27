@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.047179", "required_by": ["jeev-modules"], "requires": ["certifi", "coloredlogs", "cssselect", "Flask", "geopy", "gevent", "greenlet", "humanfriendly", "itsdangerous", "Jinja2", "lxml", "MarkupSafe", "pytz", "requests", "six", "slackclient", "websocket-client", "Werkzeug", "wheel"], "package": "jeev"}

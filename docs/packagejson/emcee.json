@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.094159", "required_by": ["SEDkit", "scraps", "isochrones", "snpy", "soif", "kglib", "ExoSOFTmodel", "gullikson-scripts", "lenstools", "phoebe", "ExoSOFT", "ugali", "threeML", "VESPA", "mtd", "fitting_utilities"], "requires": ["numpy"], "package": "emcee"}

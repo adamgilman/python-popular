@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.912605", "required_by": ["walt-common", "automodel", "INGInious", "pystuck", "ProgressNotifier", "idalink", "walt-client", "Kuyruk-Manager", "stitches", "walt-node", "automodel-server", "fbtest"], "requires": ["plumbum"], "package": "rpyc"}

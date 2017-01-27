@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.477448", "required_by": ["agx.dev"], "requires": ["setuptools", "agx.transform.xmi2uml"], "package": "agx.generator.uml"}

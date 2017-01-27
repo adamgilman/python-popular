@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.915232", "required_by": ["textminer", "mqueue", "metaweb"], "requires": ["decorated", "pyyaml"], "package": "loggingd"}

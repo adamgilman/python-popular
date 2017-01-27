@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.818311", "required_by": ["zephyr-seis", "em_examples"], "requires": ["numpy", "scipy", "cython", "ipython", "matplotlib", "properties[math"], "package": "SimPEG"}

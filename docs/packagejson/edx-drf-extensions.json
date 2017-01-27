@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.919490", "required_by": ["edx-organizations"], "requires": ["django", "djangorestframework", "djangorestframework-jwt", "python-dateutil", "requests"], "package": "edx-drf-extensions"}

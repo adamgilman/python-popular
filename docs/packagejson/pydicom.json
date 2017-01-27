@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.210816", "required_by": ["pypx", "opendxmc", "pysegbase", "pydiq", "OpenREM", "dicompyler-core", "ndar_unpack", "py_bonemat_abaqus", "pytrip98", "pylinac", "neural-fmri", "padre", "hcpre", "pybraincompare", "dcm-spec-tools"], "requires": [], "package": "pydicom"}

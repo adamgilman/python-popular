@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.783006", "required_by": ["verktyg-sqlalchemy", "verktyg-server"], "requires": ["werkzeug"], "package": "verktyg"}

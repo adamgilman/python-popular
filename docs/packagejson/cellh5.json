@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.652345", "required_by": ["cellprofiler"], "requires": ["h5py", "hmmlearn", "lxml", "matplotlib", "numpy", "pandas", "scikit-learn", "scipy"], "package": "cellh5"}

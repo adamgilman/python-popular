@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.759300", "required_by": ["Nereid"], "requires": ["WTForms"], "package": "wtforms-recaptcha"}

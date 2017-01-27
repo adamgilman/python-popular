@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.069227", "required_by": ["Products.signalstack", "mr.freeze", "Products.signalstackLogger"], "requires": ["setuptools", "zope.publisher", "threadframe"], "package": "z3c.deadlockdebugger"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.941660", "required_by": ["plone.api", "collective.contact.core", "Solgema.RichMenu"], "requires": ["setuptools", "plone.app.intid", "plone.app.relationfield"], "package": "plone.app.linkintegrity"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.758149", "required_by": ["datapipe"], "requires": ["Django", "psycopg2"], "package": "django-pgjsonb"}

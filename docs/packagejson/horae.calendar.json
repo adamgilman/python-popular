@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.219779", "required_by": ["horae.planning"], "requires": ["setuptools", "grok", "fanstatic", "zope.fanstatic", "horae.core", "horae.layout"], "package": "horae.calendar"}

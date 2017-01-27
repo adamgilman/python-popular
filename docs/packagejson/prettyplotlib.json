@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.250397", "required_by": ["lmj.plot"], "requires": ["matplotlib", "brewer2mpl"], "package": "prettyplotlib"}

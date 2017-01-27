@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.671450", "required_by": ["menhir.contenttype.document"], "requires": ["fanstatic", "grokcore.view", "js.jquery", "js.tinymce", "setuptools", "zeam.form.base", "zeam.form.ztk", "zope.interface"], "package": "dolmen.widget.tinymce"}

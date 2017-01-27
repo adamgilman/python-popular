@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.247572", "required_by": ["Products.PluggableAuthService"], "requires": ["setuptools", "Zope2", "Products.GenericSetup"], "package": "Products.PluginRegistry"}

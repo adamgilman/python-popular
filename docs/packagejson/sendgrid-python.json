@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.651120", "required_by": ["makosg"], "requires": ["sendgrid"], "package": "sendgrid-python"}

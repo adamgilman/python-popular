@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.410366", "required_by": ["invenio-communities", "invenio-previewer", "cernopendata-theme", "invenio-theme", "CDS", "invenio-github", "invenio-base"], "requires": ["Babel", "Flask-Assets", "Flask-Collect", "Flask", "node-semver", "speaklater", "webassets"], "package": "invenio-assets"}

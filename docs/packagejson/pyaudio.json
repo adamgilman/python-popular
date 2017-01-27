@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.451539", "required_by": ["my_clock", "hotword_detection", "constant_listener", "HeyAthena", "remorse", "chirpsdk", "dragonfire", "audioppm", "demodocus", "expy", "Hear", "pygsr", "deep_throat", "lsr"], "requires": [], "package": "pyaudio"}

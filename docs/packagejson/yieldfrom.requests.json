@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.906570", "required_by": ["yieldfrom.botocore"], "requires": ["chardet", "yieldfrom.http.client", "yieldfrom.urllib3", "setuptools"], "package": "yieldfrom.requests"}

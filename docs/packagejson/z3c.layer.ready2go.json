@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.475789", "required_by": ["zamplugin.sitemanager", "mypypi", "zam.api", "p01.zmi"], "requires": ["setuptools", "z3c.form", "z3c.formui", "z3c.layer.pagelet", "zope.viewlet"], "package": "z3c.layer.ready2go"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.789493", "required_by": ["kploy"], "requires": ["requests", "PyYAML"], "package": "pyk"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.857348", "required_by": ["chameleon.html"], "requires": ["setuptools", "nose"], "package": "repoze.cssutils"}

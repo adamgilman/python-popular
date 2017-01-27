@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.238605", "required_by": ["collective.workspace", "ftw.participation", "collective.contact.widget", "collective.novate", "vnccollab.theme", "collective.z3cform.html5widgets", "collective.gtags", "collective.notices"], "requires": ["setuptools", "z3c.formwidget.query", "plone.z3cform"], "package": "plone.formwidget.autocomplete"}

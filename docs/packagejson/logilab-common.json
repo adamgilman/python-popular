@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.859311", "required_by": ["code_monkey", "pycrawler", "TwistedChecker", "blackbird", "siskin", "pylint-patcher", "pylint-common", "polysquare-setuptools-lint"], "requires": [], "package": "logilab-common"}

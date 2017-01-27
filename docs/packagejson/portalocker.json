@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.908066", "required_by": ["cs207rbtree", "kafkatos3", "functioncache", "wrench", "mpfhandler", "assetbuilder"], "requires": ["pytest-runner"], "package": "portalocker"}

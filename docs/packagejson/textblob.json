@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.510533", "required_by": ["textblob-de", "tlp", "lltk", "languageprocessing", "eslib", "django-textclassifier", "blancmange", "textblob-aptagger", "vexparser", "tbpaste", "wordfish", "pyConTextNLP", "wordgrapher", "textblob-fr", "starpicker"], "requires": [], "package": "textblob"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.639193", "required_by": ["django-env-overrides", "django-cas-dev-server", "django-donations"], "requires": ["django", "six"], "package": "django-environ"}

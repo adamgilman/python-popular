@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.801809", "required_by": ["rst2ipynb"], "requires": ["nbformat", "nbconvert", "ipython", "pandoc-attributes", "six"], "package": "notedown"}

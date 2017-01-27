@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.514908", "required_by": ["plone.mls.listing", "Products.ATMediaPage", "collective.videolink", "collective.prettyalbum", "medialog.popupworkflow"], "requires": ["setuptools"], "package": "collective.prettyphoto"}

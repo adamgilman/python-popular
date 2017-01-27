@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.854685", "required_by": ["BicycleDataProcessor"], "requires": ["numpy", "scipy", "matplotlib", "uncertainties", "yeadon", "DynamicistToolKit"], "package": "BicycleParameters"}

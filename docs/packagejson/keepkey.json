@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.131101", "required_by": ["trezor_agent"], "requires": ["ecdsa", "protobuf", "mnemonic", "hidapi"], "package": "keepkey"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.086439", "required_by": ["simpleais", "manifestor", "django-hookbox", "oic", "scutils", "dataduct", "concrete", "snp-pipeline", "flask-simple-alchemy", "flake8-isort", "collective.subscribemember"], "requires": [], "package": "testfixtures"}

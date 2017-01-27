@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.726566", "required_by": ["jw.mailfilter"], "requires": ["setuptools", "docutils", "sphinx"], "package": "sphinxjp.themes.dotted"}

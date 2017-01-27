@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.669536", "required_by": ["django-swingers", "django-flow"], "requires": ["redis"], "package": "django-redis-sessions"}

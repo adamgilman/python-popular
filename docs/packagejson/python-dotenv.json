@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.947007", "required_by": ["attendant", "ec2_deploy", "s3same", "datalake-common", "ethereum-alarm-clock-client", "mondo-python", "docker-console", "responsebot", "pytest-dotenv", "monzo", "osxstrap"], "requires": ["click"], "package": "python-dotenv"}

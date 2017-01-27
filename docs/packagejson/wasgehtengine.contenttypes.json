@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.275308", "required_by": ["wasgehtengine.policy", "wasgehtengine.import"], "requires": ["setuptools", "relations"], "package": "wasgehtengine.contenttypes"}

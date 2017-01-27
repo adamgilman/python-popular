@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.997556", "required_by": ["service-platform", "kozinaki", "fabtools-python", "ezhost", "vcdriver", "abed", "soda-pylib"], "requires": ["paramiko", "six"], "package": "Fabric3"}

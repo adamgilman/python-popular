@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.501280", "required_by": ["ityou.ESI"], "requires": ["setuptools", "ityou.esi.theme", "sqlalchemy", "stripogram", "BeautifulSoup", "psycopg2"], "package": "ityou.imessage"}

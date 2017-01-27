@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.471336", "required_by": ["Products.ATContentTypes", "plone.app.themeeditor", "plone.app.upgrade", "Products.Archetypes"], "requires": ["setuptools", "zope.interface", "zope.structuredtext", "zope.tales", "Products.CMFCore", "Products.GenericSetup", "Acquisition", "transaction", "Zope2"], "package": "Products.CMFFormController"}

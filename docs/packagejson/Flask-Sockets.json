@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.777179", "required_by": ["rekall_gui", "oozappa"], "requires": ["Flask", "gevent", "gevent-websocket"], "package": "Flask-Sockets"}

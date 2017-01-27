@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.625776", "required_by": ["BAPDatabase", "Products.SQLAlchemyDA"], "requires": ["setuptools", "SQLAlchemy", "zope.sqlalchemy", "zope.component", "zope.interface", "zope.testing", "zope.schema"], "package": "z3c.sqlalchemy"}

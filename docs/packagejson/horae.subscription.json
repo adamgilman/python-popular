@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.084313", "required_by": ["horae.notification"], "requires": ["setuptools", "grok", "horae.core", "horae.layout", "horae.ticketing"], "package": "horae.subscription"}

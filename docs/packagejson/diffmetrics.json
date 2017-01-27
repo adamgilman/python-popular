@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.264864", "required_by": ["hgdiffmetrics"], "requires": ["termcolor", "radon", "enum34", "flake8"], "package": "diffmetrics"}

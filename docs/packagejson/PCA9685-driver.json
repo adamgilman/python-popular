@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.850938", "required_by": ["PCA9685-driver-http"], "requires": ["smbus-cffi"], "package": "PCA9685-driver"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.652315", "required_by": ["pyf.componentized", "pyf.manager"], "requires": ["setuptools", "pyf.splitter"], "package": "pyf.warehouse"}

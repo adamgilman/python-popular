@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.748464", "required_by": ["zc.dict"], "requires": ["ZODB3", "setuptools", "zope.testing"], "package": "zc.blist"}

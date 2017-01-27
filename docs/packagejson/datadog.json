@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.630375", "required_by": ["datadog-logger", "Flask-Datadog", "ngi.notify.datadog", "DogPush", "LI-AWS-Deploy", "Meg-Tools", "python-panopticon", "cloud-compose-datadog", "fdjangodog"], "requires": [], "package": "datadog"}

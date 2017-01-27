@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.997146", "required_by": ["zeam.form.layout", "zeam.form.silva", "zeam.form.table"], "requires": ["grokcore.chameleon", "grokcore.component", "grokcore.view", "martian", "megrok.pagetemplate", "setuptools", "zeam.form.base", "zope.component", "zope.interface", "zope.publisher"], "package": "zeam.form.composed"}

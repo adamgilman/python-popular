@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.749590", "required_by": ["amazon_scraper", "kodai_modules", "koday_modules", "capybara", "koday_ontology_Processor"], "requires": ["bottlenose", "lxml", "python-dateutil"], "package": "python-amazon-simple-product-api"}

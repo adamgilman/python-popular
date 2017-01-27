@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.894596", "required_by": ["dbwipes"], "requires": ["psycopg2", "sqlalchemy", "numpy", "pyparsing"], "package": "scorpionsql"}

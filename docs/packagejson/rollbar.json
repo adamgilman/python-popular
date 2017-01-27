@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.988743", "required_by": ["flask-rollbar", "magic-xxl", "Django-api-base", "juicy-fruits", "webportfolio-extras"], "requires": ["requests", "six"], "package": "rollbar"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.409196", "required_by": ["monet.calendar.event"], "requires": ["setuptools", "collective.js.jqueryui", "Products.CMFPlone"], "package": "rt.calendarinandout"}

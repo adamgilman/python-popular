@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.943116", "required_by": ["pytroll_collectors"], "requires": ["numpy", "pyresample", "pyorbital"], "package": "pytroll-schedule"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.455566", "required_by": ["templer.plone.localcommands", "plone.app.themeeditor", "templer.dexterity"], "requires": ["setuptools", "templer.core", "templer.buildout", "templer.zope"], "package": "templer.plone"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.144049", "required_by": ["ChatExchange", "bandersnatch"], "requires": ["py"], "package": "pytest-capturelog"}

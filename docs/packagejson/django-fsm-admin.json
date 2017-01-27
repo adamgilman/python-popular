@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.328456", "required_by": ["django-shop"], "requires": ["Django", "django-fsm"], "package": "django-fsm-admin"}

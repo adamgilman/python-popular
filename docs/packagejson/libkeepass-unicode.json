@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.109574", "required_by": ["pykeepass"], "requires": ["lxml", "nose", "pycrypto", "colorama"], "package": "libkeepass-unicode"}

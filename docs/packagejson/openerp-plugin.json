@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.221559", "required_by": ["openerp-plugin-thunderbird", "openerp-plugin-outlook"], "requires": ["openerp-core"], "package": "openerp-plugin"}

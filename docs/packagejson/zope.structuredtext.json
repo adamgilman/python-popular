@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.503921", "required_by": ["Products.PortalTransforms", "Products.IssueDealer", "Products.CMFFormController", "zope.documenttemplate", "Products.PloneOrg", "StructuredText", "zope.app.renderer", "zope.renderer", "DocumentTemplate"], "requires": ["setuptools"], "package": "zope.structuredtext"}

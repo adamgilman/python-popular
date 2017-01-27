@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.997167", "required_by": ["collective.themesitesetup", "zope.app.security"], "requires": ["setuptools", "ZODB3", "zope.component", "zope.i18nmessageid", "zope.interface", "zope.location", "zope.security"], "package": "zope.app.localpermission"}

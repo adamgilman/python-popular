@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.870172", "required_by": ["quant"], "requires": ["argh", "mock", "numpy", "python-dateutil", "scipy", "six"], "package": "quantdsl"}

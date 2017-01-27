@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.657612", "required_by": ["pyEMMA"], "requires": ["numpy", "scipy", "msmtools"], "package": "thermotools"}

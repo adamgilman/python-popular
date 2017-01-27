@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.644492", "required_by": ["openerp-hr-timesheet", "openerp-account", "openerp-procurement", "openerp-mrp", "openerp-hr-holidays", "openerp-hr-timesheet-sheet", "openerp-product", "openerp-membership", "openerp-crm", "openerp-purchase", "openerp-resource"], "requires": ["openerp-web"], "package": "openerp-process"}

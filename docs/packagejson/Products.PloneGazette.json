@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.163901", "required_by": ["collective.discussionintegration.plonegazette"], "requires": ["Plone", "plone.dexterity", "Products.OrderableReferenceField", "plone.directives.form", "setuptools", "elementtree", "zope.i18nmessageid"], "package": "Products.PloneGazette"}

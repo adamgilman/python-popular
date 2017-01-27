@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.266123", "required_by": ["onegov.edu", "htwkimn.theme"], "requires": ["plone.app.theming", "Products.Archetypes", "Products.CMFCore", "collective.mtrsetup", "ftw.mobilenavigation", "ftw.slider", "ftw.upgrade", "setuptools", "plone.batching", "PyScss", "plone.api"], "package": "plonetheme.onegov"}

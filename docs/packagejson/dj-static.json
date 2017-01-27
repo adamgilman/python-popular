@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.378259", "required_by": ["swiftwind", "battlecat", "teamvault", "django-toolbelt", "seed-stage-based-messaging", "salmon", "django-girls", "django-ptree", "dj-tornado", "pretix"], "requires": ["static3"], "package": "dj-static"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.311240", "required_by": ["dblogger", "dossier.label", "dossier.web", "dossier.store"], "requires": ["yakonfig", "pyaccumulo", "pyyaml", "redis"], "package": "kvlayer"}

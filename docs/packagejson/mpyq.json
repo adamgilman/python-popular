@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.258693", "required_by": ["sc2replay-lib", "adjutant", "sc2reader"], "requires": ["argparse"], "package": "mpyq"}

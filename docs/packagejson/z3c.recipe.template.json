@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.625286", "required_by": ["erp5.recipe.cloudoooinstance"], "requires": ["setuptools", "zc.buildout"], "package": "z3c.recipe.template"}

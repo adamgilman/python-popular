@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.667533", "required_by": ["plone.protect", "collective.xdv", "Bumblebee", "collective.newrelic", "plone.app.blocks", "collective.tinymceportlets", "plone.app.theming"], "requires": ["setuptools", "lxml", "future"], "package": "repoze.xmliter"}

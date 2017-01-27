@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.377700", "required_by": ["z3c.resource"], "requires": ["setuptools", "zope.container", "zope.copypastemove", "zope.interface", "zope.location", "zope.proxy"], "package": "z3c.proxy"}

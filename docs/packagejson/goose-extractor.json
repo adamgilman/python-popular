@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.620173", "required_by": ["particle", "news-corpus-builder"], "requires": ["Pillow", "lxml", "cssselect", "jieba", "beautifulsoup", "nltk"], "package": "goose-extractor"}

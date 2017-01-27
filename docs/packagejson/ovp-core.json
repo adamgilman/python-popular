@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.688807", "required_by": ["ovp-uploads", "ovp-search", "ovp-users", "ovp-projects", "ovp-organizations"], "requires": ["Django", "djangorestframework", "codecov", "coverage", "django-vinaigrette"], "package": "ovp-core"}

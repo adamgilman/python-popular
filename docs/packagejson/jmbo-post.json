@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.688994", "required_by": ["mama-survey"], "requires": ["django-ckeditor", "jmbo", "beautifulsoup4"], "package": "jmbo-post"}

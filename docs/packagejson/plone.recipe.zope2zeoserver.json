@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.188702", "required_by": ["collective.recipe.zope2wsgi"], "requires": ["zc.buildout", "setuptools", "zc.recipe.egg"], "package": "plone.recipe.zope2zeoserver"}

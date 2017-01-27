@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.312416", "required_by": ["auto-adjust-display-brightness", "solpy", "pyhamtools", "vesper", "WhatsObservable", "tessdb", "phoebe", "eacal", "katpoint", "termtrack"], "requires": [], "package": "pyephem"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.556951", "required_by": ["openerp-hr-payroll"], "requires": ["openerp-hr", "openerp-base-calendar", "openerp-process", "openerp-resource"], "package": "openerp-hr-holidays"}

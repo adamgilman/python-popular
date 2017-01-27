@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.860802", "required_by": ["repoze.what-x509"], "requires": ["repoze.who", "python-dateutil"], "package": "repoze.who-x509"}

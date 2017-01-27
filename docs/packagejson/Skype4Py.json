@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.945181", "required_by": ["SmartyBot", "django-skypehub", "sevabot"], "requires": ["setuptools"], "package": "Skype4Py"}

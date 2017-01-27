@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.672410", "required_by": ["zope.app.apidoc", "ice.adverlet", "gocept.zope3instance"], "requires": ["setuptools", "zope.preference", "zope.app.tree"], "package": "zope.app.preference"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.691867", "required_by": ["wallaby-frontend-qt", "wallaby-plugin-pdfgenerator"], "requires": ["wallaby-plugin-couchdb", "wallaby-plugin-elasticsearch", "setuptools-git"], "package": "wallaby-base"}

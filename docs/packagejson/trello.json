@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.727692", "required_by": ["trolley", "django-trello-broker", "scrum-tools", "sentry-trello", "pytest-trello"], "requires": ["requests"], "package": "trello"}

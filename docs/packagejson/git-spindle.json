@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.087889", "required_by": ["hub"], "requires": ["github3.py", "whelk", "docopt"], "package": "git-spindle"}

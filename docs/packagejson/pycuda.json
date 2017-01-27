@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.042870", "required_by": ["scikit-cuda", "montblanc", "chainer-cuda-deps", "scatnetgpu", "cudatree", "pymoresane", "nervanagpu"], "requires": ["pytools", "pytest", "decorator", "appdirs"], "package": "pycuda"}

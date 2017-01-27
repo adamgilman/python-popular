@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.882875", "required_by": ["rbco.wfdocumentator", "prdg.plone.testing", "rbco.statcvswrapper", "rbco.cliprogram", "prdg.plone.util"], "requires": ["setuptools", "rbco.commandwrap"], "package": "prdg.util"}

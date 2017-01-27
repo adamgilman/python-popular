@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.540177", "required_by": ["pannenkoek"], "requires": ["numpy", "scipy", "cogent", "natsort", "matplotlib", "pynast", "qcli", "gdata", "biom-format", "emperor", "scikit-bio", "burrito-fillings", "pandas", "burrito", "qiime-default-reference"], "package": "qiime"}

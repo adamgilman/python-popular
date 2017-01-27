@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.857425", "required_by": ["openerp-account"], "requires": ["openerp-core", "openerp-email-template"], "package": "openerp-edi"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.938139", "required_by": ["zope.app.zcmlfiles", "Products.Silva", "Products.CMFBibliographyAT", "collective.recipe.bluebream", "ztfy.webapp", "slc.linguatools"], "requires": ["setuptools", "zope.component", "zope.interface", "zope.schema"], "package": "zope.app.schema"}

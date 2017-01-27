@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.830960", "required_by": ["xbob.paper.example", "xbob.paper.jmlr2013"], "requires": ["setuptools", "bob"], "package": "xbob.db.mnist"}

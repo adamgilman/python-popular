@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.201771", "required_by": ["juju-query", "juju", "libcharmstore"], "requires": ["requests", "jujubundlelib"], "package": "theblues"}

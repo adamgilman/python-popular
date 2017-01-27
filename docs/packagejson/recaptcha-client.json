@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.249068", "required_by": ["django-mailmodel", "tw2.recaptcha", "bewype", "yafowil.widget.recaptcha", "django-recaptcha-mozilla", "django-recaptcha-form", "tw.recaptcha"], "requires": [], "package": "recaptcha-client"}

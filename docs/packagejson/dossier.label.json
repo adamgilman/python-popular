@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.723693", "required_by": ["dossier.web", "trec_dd"], "requires": ["cbor", "enum34", "kvlayer", "pyquchk", "pytest", "total-ordering", "yakonfig"], "package": "dossier.label"}

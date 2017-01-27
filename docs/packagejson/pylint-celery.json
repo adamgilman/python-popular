@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.144722", "required_by": ["edx-lint"], "requires": ["pylint", "astroid", "pylint-plugin-utils"], "package": "pylint-celery"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.493861", "required_by": ["Products.windowZ", "OpencoreRedirect"], "requires": ["setuptools", "five.formlib", "zope.component", "zope.formlib", "zope.interface", "zope.schema"], "package": "plone.fieldsets"}

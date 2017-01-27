@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.876245", "required_by": ["openerp-hr", "openerp-project", "openerp-mrp", "openerp-hr-holidays", "openerp-crm"], "requires": ["openerp-process"], "package": "openerp-resource"}

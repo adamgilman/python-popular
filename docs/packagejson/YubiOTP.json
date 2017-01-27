@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.935430", "required_by": ["django-otp-yubikey"], "requires": ["six", "pycrypto"], "package": "YubiOTP"}

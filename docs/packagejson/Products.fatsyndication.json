@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.555988", "required_by": ["p4a.plonevideoembed", "collective.blog.feeds", "humboldt.cmfbibliographyat", "quills.app", "Products.QuillsEnabled"], "requires": ["setuptools", "Products.basesyndication"], "package": "Products.fatsyndication"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.950204", "required_by": ["swallow", "algoliasearchasync", "mongo-doc-manager", "dekoruma_indexer", "p1-indexer", "algoliasearch-django", "lektor-algolia"], "requires": ["requests[security"], "package": "algoliasearch"}

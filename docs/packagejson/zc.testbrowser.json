@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.036889", "required_by": ["FuncBrows", "collective.anonymousbrowser", "gocept.paypal"], "requires": ["ClientForm", "mechanize", "setuptools", "simplejson", "zope.interface", "zope.schema"], "package": "zc.testbrowser"}

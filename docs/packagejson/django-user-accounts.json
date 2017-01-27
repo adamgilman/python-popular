@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.856620", "required_by": ["pinax-forums", "pinax-cohorts", "django-notification", "kaleo", "pinax-messages", "pinax-teams", "pinax-invitations"], "requires": ["django-appconf", "pytz"], "package": "django-user-accounts"}

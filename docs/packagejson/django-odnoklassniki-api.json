@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.121275", "required_by": ["django-odnoklassniki-photos", "django-odnoklassniki-discussions", "django-odnoklassniki-users", "django-odnoklassniki-groups"], "requires": ["django", "django-annoying", "django-picklefield", "django-social-api", "odnoklassniki", "simplejson", "pytz"], "package": "django-odnoklassniki-api"}

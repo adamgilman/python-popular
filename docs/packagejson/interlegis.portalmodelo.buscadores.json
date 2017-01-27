@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.864182", "required_by": ["interlegis.portalmodelo.policy"], "requires": ["plone.api", "plone.app.portlets", "plone.app.upgrade", "plone.portlets", "Products.CMFPlone", "Products.GenericSetup", "setuptools", "zope.i18nmessageid", "zope.interface"], "package": "interlegis.portalmodelo.buscadores"}

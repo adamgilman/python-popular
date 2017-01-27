@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.351361", "required_by": ["badgekit-api-client"], "requires": ["requests", "PyJWT"], "package": "requests-jwt"}

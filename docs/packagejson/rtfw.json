@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.865703", "required_by": ["platereader"], "requires": ["python-magic", "rtfunicode"], "package": "rtfw"}

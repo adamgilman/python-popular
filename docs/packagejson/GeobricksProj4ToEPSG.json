@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.679541", "required_by": ["GeobricksGISVector", "GeobricksGISRaster"], "requires": ["watchdog", "flask", "flask-cors", "argh"], "package": "GeobricksProj4ToEPSG"}

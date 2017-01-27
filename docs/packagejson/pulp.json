@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.908154", "required_by": ["coinor.grumpy", "coinor.dippy", "cno", "vn_core_nlp", "coinor.cuppy", "InfiniteJest", "ortoolpy", "four_color", "mypulp", "pyschedule", "pyDEA", "coinor.pulp", "pyrvm"], "requires": [], "package": "pulp"}

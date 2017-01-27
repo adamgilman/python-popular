@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.421463", "required_by": ["openerp-crm", "openerp-base-calendar"], "requires": ["openerp-core", "openerp-mail"], "package": "openerp-base-action-rule"}

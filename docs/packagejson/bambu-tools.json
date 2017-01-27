@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.612128", "required_by": ["socialcomments"], "requires": ["Django", "Markdown", "django-taggit", "oauth", "oauth2", "pyquery", "python-dateutil", "markdown", "requests", "sorl-thumbnail", "twitter"], "package": "bambu-tools"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.684506", "required_by": ["fuzzer", "angrop", "angr-management"], "requires": ["capstone", "networkx", "futures", "progressbar", "mulpyplexer", "cooldict", "ana", "archinfo", "pyvex", "claripy", "simuvex", "cle", "cachetools"], "package": "angr"}

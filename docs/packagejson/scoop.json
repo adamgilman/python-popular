@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.795192", "required_by": ["bluepyopt"], "requires": ["greenlet", "pyzmq", "argparse"], "package": "scoop"}

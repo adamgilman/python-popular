@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.674562", "required_by": ["NumTy", "RockPy", "Cache-Generator", "SigmaCommon", "TowelStuffPoskok", "remind-caldav", "AMP", "TowelStuff664", "ics2caldav"], "requires": ["vobject", "lxml", "nose", "coverage", "requests", "six"], "package": "caldav"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.636516", "required_by": ["acsone.recipe.odoo.pydev"], "requires": ["setuptools", "zc.recipe.egg", "zc.buildout", "pip"], "package": "anybox.recipe.odoo"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.908633", "required_by": ["collective.threecolorstheme", "aws.minisite"], "requires": ["setuptools", "archetypes.schemaextender", "Products.SmartColorWidget"], "package": "collective.phantasy"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.299462", "required_by": ["templer.localcommands", "inigo.templer", "ZopeSkel", "templer.zope", "templer.buildout", "tooth.paste", "kotti_paster", "templer.django-project-app", "templer.plone"], "requires": [], "package": "templer.core"}

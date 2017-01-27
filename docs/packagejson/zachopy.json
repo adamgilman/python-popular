@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.141563", "required_by": ["SPyFFI"], "requires": ["numpy", "astropy", "astroquery", "matplotlib", "scipy", "pyds9", "colormath", "parse"], "package": "zachopy"}

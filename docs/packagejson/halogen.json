@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.206472", "required_by": ["atilla"], "requires": ["isodate", "pytz", "six", "cached-property"], "package": "halogen"}

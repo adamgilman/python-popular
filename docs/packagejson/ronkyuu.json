@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.754713", "required_by": ["ninka"], "requires": ["requests", "beautifulsoup4", "mf2py", "html5lib"], "package": "ronkyuu"}

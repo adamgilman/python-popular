@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.883474", "required_by": ["bw2simple", "bw2all", "bw2restapi"], "requires": ["brightway2", "bw2analyzer"], "package": "bw2ui"}

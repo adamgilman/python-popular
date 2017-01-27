@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.593465", "required_by": ["pyramid_recaptcha", "pyramid_deform", "deform_foundation", "deform_autoneed", "deform_widget_dynatree", "deform_widget_jquery_option_tree", "deform-treepy", "pyramidion", "sweetpotatopie", "deform_bootstrap", "deform_jinja2"], "requires": [], "package": "deform"}

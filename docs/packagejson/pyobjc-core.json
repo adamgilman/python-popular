@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.390633", "required_by": ["scratch_nxt_extension", "pytest-osxnotify", "pymacds", "trial-osxnotifier", "rumps"], "requires": ["py2app", "pyobjc-framework-Cocoa"], "package": "pyobjc-core"}

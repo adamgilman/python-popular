@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.657895", "required_by": ["pyh3", "genonets", "lineagesim", "octogrid", "py2cytoscape", "PySCUBA", "neuropythy", "vcf2networks"], "requires": [], "package": "python-igraph"}

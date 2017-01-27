@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.441400", "required_by": ["agate-sql", "agate-lookup", "agate-remote", "csvkit", "agate-stats", "agate-excel", "agate-dbf", "bars"], "requires": ["six", "pytimeparse", "parsedatetime", "Babel", "isodate", "awesome-slugify", "leather"], "package": "agate"}

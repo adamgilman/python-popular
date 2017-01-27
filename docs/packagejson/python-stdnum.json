@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.310047", "required_by": ["django-stdnumfield", "vatnumber", "correos", "seantis.plonetools", "trytond_account_payment_sepa", "django-isbn-field", "trytond_party", "trytond_bank"], "requires": [], "package": "python-stdnum"}

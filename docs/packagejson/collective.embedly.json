@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.185678", "required_by": ["collective.tinymceplugins.embedly"], "requires": ["setuptools", "plone.app.registry"], "package": "collective.embedly"}

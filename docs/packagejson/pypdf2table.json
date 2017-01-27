@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.878067", "required_by": ["nsi.granulate"], "requires": ["setuptools", "BeautifulSoup"], "package": "pypdf2table"}

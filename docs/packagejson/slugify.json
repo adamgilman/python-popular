@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.824994", "required_by": ["redmine-cmd", "Localize_M", "fileclusters", "pumpwood-viewutils", "roetsjbaan", "django-djfiles", "liver"], "requires": [], "package": "slugify"}

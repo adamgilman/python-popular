@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.430086", "required_by": ["shinkenplugins.plugins.ceilometer", "nodeconductor-openstack"], "requires": ["pbr"], "package": "python-ceilometerclient"}

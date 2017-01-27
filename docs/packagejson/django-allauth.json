@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.866240", "required_by": ["django-hackref", "django-mailman3", "djangoapps-company", "django-rauthall", "djangoapps-lunch", "django-allauth-djrill", "django-allauth-bootstrap", "crypto-allauth", "django-allauth-adfs", "django-rforum", "tai5-uan5_gian5-gi2_phing5-tai5", "django-allauth-intersis"], "requires": [], "package": "django-allauth"}

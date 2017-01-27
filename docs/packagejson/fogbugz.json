@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.725477", "required_by": ["django-auth-fogbugz", "sentry-fogbugz", "fogbugz-orm", "fbcli"], "requires": ["BeautifulSoup4", "lxml", "six"], "package": "fogbugz"}

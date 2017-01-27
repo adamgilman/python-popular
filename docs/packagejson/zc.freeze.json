@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.369927", "required_by": ["zc.vault"], "requires": ["pytz", "rwproperty", "setuptools", "zc.copy", "ZODB3", "zope.annotation", "zope.cachedescriptors", "zope.component", "zope.event", "zope.interface", "zope.locking"], "package": "zc.freeze"}

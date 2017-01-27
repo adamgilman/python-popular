@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.342881", "required_by": ["helga-versionone"], "requires": ["testtools", "iso8601", "python-ntlm"], "package": "v1pysdk-unofficial"}

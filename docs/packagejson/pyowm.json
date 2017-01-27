@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.329081", "required_by": ["tspetl", "i3weather", "decision_tree_for_hems_recommendations", "openweathermap-cli", "django-pyowm"], "requires": [], "package": "pyowm"}

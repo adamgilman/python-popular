@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.101580", "required_by": ["bamboo-data", "Clutch", "ulif.openoffice", "BloodhoundLabs", "Pylons", "blueberry", "kforge", "comboloader", "TaskTracker", "frame", "gibe", "consent", "gracie", "bamboo-server", "hamster-rc", "induction"], "requires": ["six", "repoze.lru"], "package": "Routes"}

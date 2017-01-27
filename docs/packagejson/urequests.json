@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.562431", "required_by": ["cachingutil", "robotframework-testmanagement", "networkutil"], "requires": [], "package": "urequests"}

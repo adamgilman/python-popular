@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.567023", "required_by": ["edx-oauth2-provider", "edx-organizations"], "requires": ["shortuuid"], "package": "edx-django-oauth2-provider"}

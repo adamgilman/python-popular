@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.646756", "required_by": ["django_compress_react", "pybald", "bottle-react", "sphinxcontrib-jsx"], "requires": ["PyExecJS"], "package": "PyReact"}

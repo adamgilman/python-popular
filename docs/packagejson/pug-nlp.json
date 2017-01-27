@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.282780", "required_by": ["pug-ann", "pug-invest", "pug", "pug-dj"], "requires": ["six", "setuptools", "pyscaffold"], "package": "pug-nlp"}

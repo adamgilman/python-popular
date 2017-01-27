@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.946298", "required_by": ["graphene"], "requires": ["six", "graphql-core", "promise"], "package": "graphql-relay"}

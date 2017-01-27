@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.968788", "required_by": ["Mopidy-Spotify-Tunigo"], "requires": ["requests", "setuptools"], "package": "tunigo"}

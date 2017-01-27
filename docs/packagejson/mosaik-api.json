@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.993838", "required_by": ["mosaik-zmq", "mosaik-pypower", "mosaik-csv", "mosaik-hdf5", "mosaik", "mosaik-householdsim", "mosaik-web"], "requires": ["docopt", "simpy", "simpy.io"], "package": "mosaik-api"}

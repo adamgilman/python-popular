@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.472057", "required_by": ["sqlalchemy-pervasive", "vertica-sqlalchemy-0.2", "virtuoso", "pySage300", "aioodbc", "pyvertica", "WebtrendsQT", "metzoo_opc", "rattail_locsms", "peewee_mssqlserv", "v7py", "database-connection", "azuremonitor", "pytakes", "sqlalchemy_exasol", "django-pyodbc"], "requires": [], "package": "pyodbc"}

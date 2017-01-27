@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.953555", "required_by": ["collective.installedpackages", "ftw.raven", "foy-python", "collective.stomach", "g-pypi", "releasetools", "eea.eggmonkey", "django-eggnog"], "requires": ["setuptools"], "package": "yolk"}

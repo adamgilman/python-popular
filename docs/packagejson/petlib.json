@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.543930", "required_by": ["sphinxmix", "bplib"], "requires": ["cffi", "pycparser", "future", "pytest", "paver", "pytest-cov", "msgpack-python"], "package": "petlib"}

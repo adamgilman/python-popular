@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.689140", "required_by": ["zope.app.server", "gocept.ooodocma", "PyOpenWorm", "zopeproject", "ZServer", "vice.outbound", "zope.app.appsetup", "ZEO", "haufe.selenium"], "requires": ["ZConfig", "setuptools"], "package": "zdaemon"}

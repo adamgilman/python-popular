@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.490162", "required_by": ["RPiMCP23S17", "max7301", "RpiScratchIO", "mcp3008", "python-pyparts", "max7219", "luma.core", "ssd1306"], "requires": [], "package": "spidev"}

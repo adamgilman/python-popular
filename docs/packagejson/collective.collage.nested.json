@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.634218", "required_by": ["collective.collage.megamenu"], "requires": ["setuptools", "Products.Collage"], "package": "collective.collage.nested"}

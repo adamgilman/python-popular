@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.069923", "required_by": ["planterbox-webdriver"], "requires": ["nose2", "mock"], "package": "planterbox"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.352382", "required_by": ["cloudmanager-micropython-esp8266"], "requires": ["pyserial"], "package": "esptool"}

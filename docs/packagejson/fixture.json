@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.466251", "required_by": ["pyfspot", "fixture-yaml", "tahoe"], "requires": ["six"], "package": "fixture"}

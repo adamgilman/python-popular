@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.993286", "required_by": ["z3c.formjs", "z3c.rest", "alchemist.traversal"], "requires": ["zope.testrunner", "eggtestinfo"], "package": "z3c.traverser"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.083484", "required_by": ["django-scaffold", "aldryn-categories", "finch-cms", "django-pagetree", "django-account-balances", "django-eca-catalogue", "django-shop-richproduct", "django-yacon", "wagtail", "django-widgy"], "requires": ["Django"], "package": "django-treebeard"}

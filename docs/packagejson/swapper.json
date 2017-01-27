@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.725209", "required_by": ["fluentcms-campaign", "wq.db", "Django-ResaX", "django-users-plus", "imagestore", "django-cities"], "requires": [], "package": "swapper"}

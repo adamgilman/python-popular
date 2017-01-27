@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.313421", "required_by": ["beantool", "beanstalktop", "django-beanstalk", "mixpanel_django", "webcrawl", "walleclient", "tiddlywebplugins.dispatcher", "bell", "django-celery-with-beanstalk", "RunnerBean", "azuki", "tiddlywebplugins.jsondispatcher", "iCrawl"], "requires": [], "package": "beanstalkc"}

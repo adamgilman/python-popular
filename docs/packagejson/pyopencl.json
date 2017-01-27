@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.112647", "required_by": ["pygis", "alpaca-variant-caller", "nengo_ocl", "peanut", "pytocl", "openre", "pynoise", "sigprocge", "eaftest", "PyRQA", "biobeam"], "requires": ["numpy", "pytools", "pytest", "decorator", "cffi", "appdirs", "six"], "package": "pyopencl"}

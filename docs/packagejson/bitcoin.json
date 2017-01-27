@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.692615", "required_by": ["transactions", "keychain", "bitiverse", "pybitcoin", "c_secp256k1", "ecdsa_recover", "assemblycoins", "virtualchain", "blockcypher", "crypto-allauth", "pyspool", "moneywagon", "3d-wallet-generator"], "requires": [], "package": "bitcoin"}

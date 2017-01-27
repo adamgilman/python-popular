@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.923538", "required_by": ["fuckitdb", "python-jira-analysis", "mETL", "pd2gs", "gspreadwrapper", "ep-spread-sheet", "magicstr", "siskin", "somutils", "python-gspreaddict", "por.models", "tai5-uan5_gian5-gi2_phing5-tai5", "butterdb"], "requires": ["requests"], "package": "gspread"}

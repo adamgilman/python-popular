@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.684247", "required_by": ["checklists"], "requires": ["django"], "package": "django-admin-enhancer"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.213592", "required_by": ["collective.z3cform.rolefield"], "requires": ["setuptools", "zope.component", "zope.schema"], "package": "zope.schemaevent"}

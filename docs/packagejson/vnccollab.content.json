@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.958413", "required_by": ["vnccollab.theme", "vnccollab.portal"], "requires": ["setuptools", "five.grok", "plone.api", "simplejson", "plone.app.jquery", "raptus.autocompletewidget", "collective.customizablePersonalizeForm"], "package": "vnccollab.content"}

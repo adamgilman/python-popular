@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.949538", "required_by": ["pyramid-notebook", "s3nb", "bdbcontrib"], "requires": [], "package": "ipython[notebook"}

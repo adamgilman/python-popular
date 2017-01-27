@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.840478", "required_by": ["django-voter", "django-blogs"], "requires": ["django", "postmarkup"], "package": "django-misc"}

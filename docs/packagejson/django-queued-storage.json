@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.886537", "required_by": ["django-encode"], "requires": ["six", "django-celery", "django-appconf"], "package": "django-queued-storage"}

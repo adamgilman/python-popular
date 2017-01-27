@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.975740", "required_by": ["couchdiscover", "aimmo", "pyrkube", "kel-cluster"], "requires": ["requests", "requests-oauthlib", "PyYAML", "six", "tzlocal", "oauth2client"], "package": "pykube"}

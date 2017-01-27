@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.583275", "required_by": ["transport-carbon", "TwitterGeoPics", "get-weather-data"], "requires": ["requests"], "package": "pygeocoder"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.761901", "required_by": ["clld-glottologfamily-plugin"], "requires": ["sqlalchemy", "six", "beautifulsoup4", "requests", "AppDirs", "purl", "rdflib", "uritemplate", "html5lib"], "package": "clldclient"}

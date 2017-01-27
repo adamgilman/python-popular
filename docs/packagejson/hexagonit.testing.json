@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.315530", "required_by": ["hexagonit.portletroles", "collective.portlet.contentsearch"], "requires": ["manuel", "mock", "plone.app.testing", "plone.testing", "setuptools", "unittest2"], "package": "hexagonit.testing"}

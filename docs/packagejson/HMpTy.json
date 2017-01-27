@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.789065", "required_by": ["HMpTy", "breaker", "marshallEngine", "qub-sherlock"], "requires": ["pyyaml", "HMpTy", "fundamentals", "docopt", "astrocalc"], "package": "HMpTy"}

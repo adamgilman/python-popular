@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.918360", "required_by": ["onegov.org"], "requires": ["onegov.core", "csscompressor", "pyscss"], "package": "onegov.foundation"}

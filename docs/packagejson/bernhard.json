@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.046647", "required_by": ["ceilometer-riemann", "riemann_wrapper", "pyriem", "django-riemann", "elogging", "riemann-runit"], "requires": ["protobuf"], "package": "bernhard"}

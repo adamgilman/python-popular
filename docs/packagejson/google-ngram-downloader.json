@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.334373", "required_by": ["fowler.corpora"], "requires": ["opster", "py", "requests"], "package": "google-ngram-downloader"}

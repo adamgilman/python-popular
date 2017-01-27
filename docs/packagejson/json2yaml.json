@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.745144", "required_by": ["zone2gandi"], "requires": ["pyyaml", "pyaml", "docopt"], "package": "json2yaml"}

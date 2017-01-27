@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.784888", "required_by": ["django_layers"], "requires": ["setuptools", "pytest"], "package": "twotest"}

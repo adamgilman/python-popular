@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.338652", "required_by": ["twentytab-customadmin"], "requires": ["Django", "django-appconf"], "package": "twentytab-sortable"}

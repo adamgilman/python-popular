@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.970516", "required_by": ["collective.geo.mapwidget", "collective.geo.leaflet", "collective.geo.geopoint", "ftw.geo", "collective.geo.json", "collective.geo.exif", "seantis.dir.base", "collective.geo.mapcontent"], "requires": ["setuptools", "Products.CMFCore", "plone.app.registry", "plone.app.z3cform"], "package": "collective.geo.settings"}

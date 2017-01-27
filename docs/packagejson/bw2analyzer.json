@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.644160", "required_by": ["bw2ui", "bw2all"], "requires": ["brightway2", "bw2data", "numpy", "requests", "scipy"], "package": "bw2analyzer"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.075728", "required_by": ["ligament-sftp", "ecosynth", "manifest-ingest", "xicam", "cerda", "transfer_lib"], "requires": ["paramiko"], "package": "pysftp"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.942815", "required_by": ["turnip", "txpkgupload"], "requires": ["gmpy", "pyasn1", "pycrypto", "setuptools", "Twisted", "zope.component", "zope.event", "zope.interface"], "package": "lazr.sshserver"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.083992", "required_by": ["puppetboard", "check_puppetdb_node", "pypuppetdb_daily_report"], "requires": ["requests"], "package": "pypuppetdb"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.356813", "required_by": ["zamplugin.sitemanager", "zope.app.zcmlfiles", "z3c.layer.minimal", "z3c.rest", "z3c.layer", "zope.app.session"], "requires": ["setuptools", "zope.interface", "zope.publisher", "zope.container", "zope.filerepresentation"], "package": "zope.app.http"}

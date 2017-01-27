@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.897794", "required_by": ["ckanext-syndicate", "rdf-to-html", "ckanapi-exporter"], "requires": ["setuptools", "docopt", "requests"], "package": "ckanapi"}

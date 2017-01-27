@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.912778", "required_by": ["django-representatives-votes"], "requires": ["django", "ijson"], "package": "django-representatives"}

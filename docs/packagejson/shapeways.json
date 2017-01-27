@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.375759", "required_by": ["swuploader"], "requires": ["oauthlib", "requests-oauthlib"], "package": "shapeways"}

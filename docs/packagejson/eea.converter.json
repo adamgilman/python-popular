@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.553161", "required_by": ["eea.epub", "eea.pdf", "eea.googlecharts"], "requires": ["setuptools", "kv", "PyPDF2", "Pillow", "Products.statusmessages", "plone.stringinterp"], "package": "eea.converter"}

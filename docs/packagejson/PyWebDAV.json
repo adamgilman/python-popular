@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.372080", "required_by": ["trytond_calendar_todo", "trytond_calendar_scheduling", "openerp-document-webdav", "trytond_webdav", "trytond_calendar", "trytond_party_vcarddav"], "requires": [], "package": "PyWebDAV"}

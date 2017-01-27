@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.886185", "required_by": ["cs.queues"], "requires": ["cs.excutils", "cs.logutils", "cs.obj", "cs.py.stack"], "package": "cs.resources"}

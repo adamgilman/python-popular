@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.763210", "required_by": ["polysquare-setuptools-lint"], "requires": ["jobstamps", "parmap", "Whoosh"], "package": "polysquare-generic-file-linter"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.577961", "required_by": ["slc.seminarportal", "Products.GoPantsPockets", "Products.PloneOntology"], "requires": ["setuptools"], "package": "Products.Relations"}

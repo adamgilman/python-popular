@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.983671", "required_by": ["django_plop"], "requires": ["tornado", "six"], "package": "plop"}

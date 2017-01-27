@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.080327", "required_by": ["zamplugin.sitemanager", "z3c.jsontree"], "requires": ["setuptools", "zope.publisher", "zope.viewlet", "z3c.xmlhttp"], "package": "z3c.jsonrpcproxy"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.896645", "required_by": ["mattd.plugins.mplayer", "mattd.plugins.taskwarrior"], "requires": ["python-daemon"], "package": "mattd.core"}

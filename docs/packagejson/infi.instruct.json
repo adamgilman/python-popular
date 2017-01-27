@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.669075", "required_by": ["infi.sgutils", "infi.run_as", "infi.storagemodel", "infi.diskmanagement", "infi.wioctl", "infi.winver", "infi.devicemanager", "infi.multipathtools", "infi.winapi.file_version_information"], "requires": ["infi.exceptools", "setuptools"], "package": "infi.instruct"}

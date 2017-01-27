@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.927189", "required_by": ["codepy", "loo.py"], "requires": ["pytools", "numpy"], "package": "cgen"}

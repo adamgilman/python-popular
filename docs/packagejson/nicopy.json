@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.839815", "required_by": ["gazeru"], "requires": ["requests", "lxml", "beautifulsoup4"], "package": "nicopy"}

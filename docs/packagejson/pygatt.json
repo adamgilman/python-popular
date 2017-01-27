@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.634053", "required_by": ["apidou", "safecast_tracker"], "requires": ["pyserial", "enum34"], "package": "pygatt"}

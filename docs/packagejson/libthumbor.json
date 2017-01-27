@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.530670", "required_by": ["thumbor-web", "tornado_thumbor_url", "django-thumborize", "thumbor"], "requires": [], "package": "libthumbor"}

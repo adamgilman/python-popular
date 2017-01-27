@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.817650", "required_by": ["ftw.contentpage", "simplelayout.portlet.dropzone", "htwkimn.theme", "ftw.book", "ftwbook.graphicblock", "simplelayout.types.flowplayerblock"], "requires": ["Plone", "setuptools", "archetypes.schemaextender", "simplelayout.ui.base", "simplelayout.ui.dragndrop"], "package": "simplelayout.base"}

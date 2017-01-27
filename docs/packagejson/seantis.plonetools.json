@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.289328", "required_by": ["seantis.dir.contacts", "seantis.dir.council", "seantis.dir.roadworks", "seantis.cover.people", "seantis.dir.base"], "requires": ["Plone", "plone.api", "plone.app.dexterity", "plone.directives.form", "python-stdnum", "five.grok", "colour"], "package": "seantis.plonetools"}

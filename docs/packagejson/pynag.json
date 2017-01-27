@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.641852", "required_by": ["adagios", "nago", "nagator", "check_nscp", "health_monitoring_plugins"], "requires": ["unittest2"], "package": "pynag"}

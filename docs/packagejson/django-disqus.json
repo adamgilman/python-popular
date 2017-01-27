@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.656262", "required_by": ["django-yaba", "statirator"], "requires": ["Django", "mock"], "package": "django-disqus"}

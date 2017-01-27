@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.728520", "required_by": ["django-rest-swagger-docstring", "django-gov", "lisa-api", "cyclosible", "railguns", "django-speach-synthesizer", "mezzanine-api", "pyreststore"], "requires": ["coreapi", "openapi-codec", "djangorestframework", "simplejson"], "package": "django-rest-swagger"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.710935", "required_by": ["django-yubikey-admin", "django_yubico", "onegov.user"], "requires": ["requests"], "package": "yubico-client"}

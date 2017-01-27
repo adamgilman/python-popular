@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.247958", "required_by": ["icemac.recurrence", "icemac.ab.calendar"], "requires": ["setuptools", "zope.component", "zope.i18nmessageid", "zope.interface", "zope.schema"], "package": "gocept.month"}

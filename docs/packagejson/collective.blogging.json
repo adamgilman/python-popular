@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.664671", "required_by": ["collective.bloggingmaps"], "requires": ["setuptools", "z3c.autoinclude", "archetypes.schemaextender", "archetypes.markerfield", "plone.indexer", "plone.app.jquerytools", "Products.ATReferenceBrowserWidget"], "package": "collective.blogging"}

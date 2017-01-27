@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.898432", "required_by": ["openerp-hr-timesheet"], "requires": ["openerp-hr"], "package": "openerp-hr-attendance"}

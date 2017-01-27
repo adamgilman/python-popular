@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.391204", "required_by": ["plone.contentratings"], "requires": ["setuptools", "zope.app.content", "zope.componentvocabulary", "zope.container"], "package": "contentratings"}

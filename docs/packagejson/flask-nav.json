@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.790934", "required_by": ["idq"], "requires": ["flask", "visitor", "dominate"], "package": "flask-nav"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.748799", "required_by": ["z3c.hashedresource"], "requires": ["setuptools", "zope.component", "zope.interface", "zope.publisher", "zope.traversing"], "package": "z3c.noop"}

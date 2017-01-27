@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.633270", "required_by": ["gp.recipe.node", "tl.buildout_gtk", "cellml.recipe.api", "collective.recipe.cmmi", "z3c.recipe.staticlxml", "plone.recipe.varnish", "iw.recipe.pound", "tl.buildout_apache", "collective.recipe.lasso", "plone.recipe.pound", "plone.recipe.apache"], "requires": ["zc.buildout", "setuptools"], "package": "zc.recipe.cmmi"}

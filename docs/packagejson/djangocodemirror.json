@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.451512", "required_by": ["PO-Projects", "emencia-django-bazar", "emencia-cms-snippet", "sveedocuments"], "requires": ["Django"], "package": "djangocodemirror"}

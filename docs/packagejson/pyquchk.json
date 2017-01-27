@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.531562", "required_by": ["dossier.label"], "requires": ["six", "decorator"], "package": "pyquchk"}

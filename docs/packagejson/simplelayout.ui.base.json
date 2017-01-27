@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.757674", "required_by": ["ftw.contentpage", "simplelayout.base"], "requires": ["Plone", "setuptools", "ftw.colorbox", "z3c.json"], "package": "simplelayout.ui.base"}

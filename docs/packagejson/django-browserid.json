@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.745348", "required_by": ["django-mongo-auth", "django-swingers"], "requires": ["requests"], "package": "django-browserid"}

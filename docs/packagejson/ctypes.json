@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.725478", "required_by": ["archiwe", "keystone-engine", "tacocapstone", "mdsplus-alpha", "hakmatak", "wmdlib", "gamma_index", "MDSplus", "capstone", "capstone-windows", "unicorn", "Extractor", "vmguestlib", "hackManager"], "requires": [], "package": "ctypes"}

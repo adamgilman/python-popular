@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.971869", "required_by": ["invoke-docker-flow", "invoke-tools", "sentinella", "Brian2", "pybinding"], "requires": [], "package": "py-cpuinfo"}

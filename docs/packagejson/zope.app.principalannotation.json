@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.104003", "required_by": ["zope.app.zcmlfiles", "collective.recipe.bluebream", "ztfy.webapp"], "requires": ["setuptools", "transaction", "zope.app.appsetup", "zope.processlifetime", "zope.principalannotation"], "package": "zope.app.principalannotation"}

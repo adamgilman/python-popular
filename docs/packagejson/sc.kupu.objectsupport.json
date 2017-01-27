@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.700336", "required_by": ["sc.apyb.pythonbrasil6"], "requires": ["setuptools", "Products.kupu"], "package": "sc.kupu.objectsupport"}

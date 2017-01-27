@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.111582", "required_by": ["corecluster", "corenode"], "requires": ["django", "requests", "simplejson", "netifaces", "netaddr"], "package": "corenetwork"}

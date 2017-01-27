@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.776462", "required_by": ["travis-runner", "srfp", "sunvosc", "remedy", "easycython", "neutron-beam", "jiraprinter", "pypeman"], "requires": ["funcsigs"], "package": "begins"}

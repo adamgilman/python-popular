@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.245889", "required_by": ["gocept.lms"], "requires": ["ZODB3", "decorator", "setuptools", "transaction", "zope.app.appsetup", "zope.app.server", "zope.app.wsgi", "zope.authentication", "zope.component", "zope.publisher", "zope.security", "zope.testing"], "package": "gocept.runner"}

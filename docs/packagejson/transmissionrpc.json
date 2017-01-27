@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.939180", "required_by": ["athena-artemis", "cistern", "trans-notify", "transmissionscripts", "snor", "django-podcast-client", "plutonium-plugin-output-transmission", "herald", "tvdosage", "torrentcatcher", "transmissiontransfer"], "requires": [], "package": "transmissionrpc"}

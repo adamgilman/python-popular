@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.954255", "required_by": ["constraints", "django-testscenarios"], "requires": ["pbr"], "package": "testscenarios"}

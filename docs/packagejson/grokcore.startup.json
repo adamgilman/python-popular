@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.558178", "required_by": ["horae.app"], "requires": ["setuptools", "zope.component", "zope.publisher", "zope.dottedname", "zope.app.wsgi", "zope.app.debug"], "package": "grokcore.startup"}

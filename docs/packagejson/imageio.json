@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.694314", "required_by": ["smqtk", "visvis", "emergenSEE", "xicam", "porespy", "whitewater", "cerda", "k2mosaic", "layback", "skylibs", "MyQR", "k2flix"], "requires": ["numpy", "pillow"], "package": "imageio"}

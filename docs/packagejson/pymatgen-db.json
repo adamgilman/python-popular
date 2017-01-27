@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.698673", "required_by": ["mpinterfaces"], "requires": ["pymatgen", "monty", "pymongo", "smoqe"], "package": "pymatgen-db"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.159528", "required_by": ["hscacheutils"], "requires": ["django", "memcached"], "package": "django-cache-utils"}

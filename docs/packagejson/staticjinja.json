@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.849354", "required_by": ["govlab-static-tools"], "requires": ["docopt", "easywatch", "jinja2"], "package": "staticjinja"}

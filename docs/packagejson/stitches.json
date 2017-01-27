@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.857130", "required_by": ["dva"], "requires": ["paramiko", "nose", "PyYAML", "plumbum", "rpyc"], "package": "stitches"}

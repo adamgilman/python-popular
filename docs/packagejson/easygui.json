@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.923292", "required_by": ["idigbio-media-appliance", "pandas-qt", "mp3fm", "RecPwr", "qtpandas", "Dragon_Module", "pandalone", "taskcluster_util", "panqt", "scikit-kinematics", "WillPy"], "requires": [], "package": "easygui"}

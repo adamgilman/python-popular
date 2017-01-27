@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.206972", "required_by": ["jupyterhub-systemdspawner", "lxdspawner", "jupyterhub-ldapauthenticator", "jupyterhub-kubespawner", "sudospawner", "sqlauthenticator"], "requires": [], "package": "jupyterhub"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.149253", "required_by": ["jaraco.persona", "fxa-python-client", "repoze.who.plugins.browserid", "pyramid_persona"], "requires": ["requests"], "package": "PyBrowserID"}

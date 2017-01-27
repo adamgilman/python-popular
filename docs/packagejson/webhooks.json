@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.120238", "required_by": ["dj-webhooks"], "requires": ["cached-property", "standardjson", "requests", "wrapt"], "package": "webhooks"}

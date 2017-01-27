@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.998689", "required_by": ["grok", "sw.grokcore.jsonp"], "requires": ["setuptools", "grokcore.component", "grokcore.security", "grokcore.view", "martian", "simplejson", "zope.component", "zope.interface", "zope.publisher"], "package": "grokcore.json"}

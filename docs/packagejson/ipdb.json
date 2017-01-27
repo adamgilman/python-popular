@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.844167", "required_by": ["debug", "djsailthru", "bobtemplates.fon", "seleniumbase", "LI-AWS-Deploy", "django-bulbs", "Fanery", "Meg-Tools", "cmdbot-evented", "blancmange", "django_localizejs_seo", "robpol86-pytest-ipdb", "iw.debug", "django-studiogdo", "ponytools"], "requires": ["ipython", "setuptools"], "package": "ipdb"}

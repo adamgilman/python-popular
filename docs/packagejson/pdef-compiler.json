@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.767514", "required_by": ["pdef-java", "pdef-python", "pdef-objc"], "requires": ["argparse", "jinja2", "ply", "PyYAML"], "package": "pdef-compiler"}

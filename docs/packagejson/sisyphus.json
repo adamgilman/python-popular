@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.887792", "required_by": ["django-sisyphus"], "requires": ["distribute", "pika", "wsgiref", "pytz", "croniter"], "package": "sisyphus"}

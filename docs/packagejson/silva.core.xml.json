@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.917650", "required_by": ["silva.app.news", "silva.app.page", "Products.SilvaFind", "silva.app.document", "Products.Silva", "silva.core.editor", "silva.core.contentlayout", "Products.SilvaExternalSources", "silva.system.utils"], "requires": ["five.grok", "setuptools"], "package": "silva.core.xml"}

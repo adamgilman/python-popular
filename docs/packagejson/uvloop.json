@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.627575", "required_by": ["awsgi", "tornado-uvloop", "aiorpc", "Sanic", "bayrell", "sorna-manager"], "requires": [], "package": "uvloop"}

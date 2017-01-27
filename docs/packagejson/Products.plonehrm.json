@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.806844", "required_by": ["plonehrm.jobperformance", "plonehrm.absence"], "requires": ["setuptools", "plonehrm.absence", "plonehrm.checklist", "plonehrm.contracts", "plonehrm.jobperformance", "plonehrm.notes", "plonehrm.notifications", "plonehrm.personaldata", "collective.autopermission"], "package": "Products.plonehrm"}

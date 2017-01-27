@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.788294", "required_by": ["task-indicator", "simpleais", "django-swingtime", "Pathomx", "django-qsstats-magic", "django-schedule-frinat", "debrfstats", "urlrap", "cheshire3", "Hinagiku", "gibe"], "requires": [], "package": "dateutil"}

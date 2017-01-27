@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.357511", "required_by": ["geoshape"], "requires": ["Django", "MapProxy", "PyYAML", "django-tastypie", "Shapely", "psutil"], "package": "django-tilebundler"}

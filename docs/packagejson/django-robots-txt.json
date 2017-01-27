@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.687296", "required_by": ["django-site-basics"], "requires": ["Django"], "package": "django-robots-txt"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.758660", "required_by": ["lava-scheduler", "lava-android"], "requires": ["Django", "django-restricted-resource", "django-staticfiles", "docutils", "lava-server", "linaro-dashboard-bundle", "linaro-django-pagination", "linaro-django-xmlrpc", "pygments", "south", "versiontools"], "package": "lava-dashboard"}

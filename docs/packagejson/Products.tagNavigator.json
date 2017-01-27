@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.018711", "required_by": ["collective.contentMapper"], "requires": ["setuptools"], "package": "Products.tagNavigator"}

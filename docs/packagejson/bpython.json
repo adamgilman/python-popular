@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.995070", "required_by": ["reckless", "pytest-bpdb", "flask-shell-bpython", "pyramid_bpython_curses", "pyramid_bpython"], "requires": ["pygments", "requests", "curtsies", "greenlet", "six"], "package": "bpython"}

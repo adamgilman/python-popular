@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.274288", "required_by": ["insights"], "requires": ["beautifulsoup4", "blist", "Cython", "ystockquote", "numpy", "schematics", "schema", "python-dateutil", "pytz", "PyYAML", "Quandl", "dna", "six", "zipline", "pandas"], "package": "intuition"}

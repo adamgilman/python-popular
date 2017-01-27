@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.270973", "required_by": ["openerp-project", "openerp-project-issue", "openerp-hr-recruitment", "openerp-crm", "openerp-base-calendar"], "requires": ["openerp-core"], "package": "openerp-base-status"}

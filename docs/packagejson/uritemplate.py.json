@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.307321", "required_by": ["statico", "octogrid", "sqre-codekit", "githubcli", "GitflowDennis", "esgprep", "sqre-github-snapshot", "xgitberg", "google-api-python-client-uritemplate", "gitberg"], "requires": [], "package": "uritemplate.py"}

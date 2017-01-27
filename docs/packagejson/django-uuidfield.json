@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.098332", "required_by": ["django-formapi", "wagtailinvoices", "django-milcam", "django-adworks", "tinyblog", "django-db-queue", "django-crocodoc"], "requires": ["django"], "package": "django-uuidfield"}

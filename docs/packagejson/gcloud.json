@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.076722", "required_by": ["gcloud_taskqueue", "gcloud-requests", "jgscm", "django-gcloud-storage", "django-gstorage", "mysqlbinlog2gpubsub", "django-gcs"], "requires": [], "package": "gcloud"}

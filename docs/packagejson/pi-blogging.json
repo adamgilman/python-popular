@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.756177", "required_by": ["pi-annotations"], "requires": ["Django", "django-classy-tags", "html5lib", "django-mptt", "django-sekizai", "six", "django-ckeditor"], "package": "pi-blogging"}

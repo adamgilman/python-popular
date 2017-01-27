@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.865490", "required_by": ["sysutils", "pyad", "pywincmdtheme", "startmenu_snapshot", "visio2pdf", "winpexpect", "Flask-SAPB1", "pypi_redirect", "winspeech", "RCFast", "gyagp", "baanlib", "pygoogleearth", "MicroApacheMonitor", "pywinservicemanager", "py_win_keyboard_layout", "kerberos-sspi"], "requires": [], "package": "pywin32"}

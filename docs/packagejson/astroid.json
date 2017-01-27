@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.118976", "required_by": ["wps-remote", "electric", "pyplantuml", "code_monkey", "requirements-detector", "pycrawler", "scrypture", "siskin", "pylint-celery", "pylint-plugin-utils", "pylint_web2py2", "pylint-common"], "requires": [], "package": "astroid"}

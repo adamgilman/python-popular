@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.025396", "required_by": ["pyannote.db.gameofthrones", "pyannote.generators", "pyannote.db.etape", "pyannote.db.repere", "pyannote.audio", "pyannote.db.odessa.ami", "pyannote.db.prism"], "requires": ["pyYAML", "tqdm"], "package": "pyannote.database"}

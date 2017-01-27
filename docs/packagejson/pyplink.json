@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.316953", "required_by": ["forward"], "requires": ["numpy", "pandas", "six"], "package": "pyplink"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.611831", "required_by": ["invenio-oauthclient", "invenio-accounts"], "requires": ["Flask", "Flask-Login", "Flask-Mail", "Flask-Principal", "Flask-WTF", "itsdangerous", "passlib"], "package": "Flask-Security-Fork"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.986247", "required_by": ["flask_tlsauth", "django_tlsauth"], "requires": ["M2Crypto", "pyOpenSSL", "pyasn1", "pyspkac"], "package": "tlsauth"}

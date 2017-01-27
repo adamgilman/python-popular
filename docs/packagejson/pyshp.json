@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.834540", "required_by": ["twilight", "pycoast", "PyFVCOM", "OQToolsUI", "openquake.engine", "spiderosm", "swmmio", "geo_frac_analysis", "geo-sampling", "seissuite", "megadex", "termtrack", "seis-suite"], "requires": [], "package": "pyshp"}

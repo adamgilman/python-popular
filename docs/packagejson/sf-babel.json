@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.736755", "required_by": ["userbase"], "requires": ["starflyer", "Babel", "pytz", "speaklater", "Jinja2"], "package": "sf-babel"}

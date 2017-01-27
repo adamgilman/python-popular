@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.741211", "required_by": ["django-timberjack"], "requires": ["Django", "mongoengine"], "package": "django-mongo-connection"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.689301", "required_by": ["irs", "Mopidy-Iris", "pbl", "Mopidy-Spotmop", "lightsout", "musicnow", "spotifytracker", "Mopidy-Spotify-Web", "musicrepair"], "requires": ["requests"], "package": "spotipy"}

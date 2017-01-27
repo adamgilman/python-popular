@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.056087", "required_by": ["invewrapper"], "requires": ["virtualenv", "virtualenv-clone", "setuptools", "pythonz-bd"], "package": "pew"}

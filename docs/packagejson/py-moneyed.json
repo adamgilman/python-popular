@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.358930", "required_by": ["django-congo", "django-currency-exchange", "django-hordak", "django-sofort", "collective.behavior.price", "pyStock", "django-donations"], "requires": [], "package": "py-moneyed"}

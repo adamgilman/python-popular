@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.941159", "required_by": ["eea.epub", "eea.pdf"], "requires": ["setuptools", "Products.CMFCore", "collective.monkeypatcher"], "package": "eea.downloads"}

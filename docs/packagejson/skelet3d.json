@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.021351", "required_by": ["quantan"], "requires": ["numpy", "scipy", "wget"], "package": "skelet3d"}

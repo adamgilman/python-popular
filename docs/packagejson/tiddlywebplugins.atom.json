@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.246328", "required_by": ["tiddlywebplugins.tiddlyspace", "tiddlywebwiki"], "requires": ["setuptools", "tiddlyweb", "feedgenerator"], "package": "tiddlywebplugins.atom"}

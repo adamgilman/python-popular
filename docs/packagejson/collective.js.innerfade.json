@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.009318", "required_by": ["collective.collage.innerfade"], "requires": ["setuptools", "plone.app.imaging"], "package": "collective.js.innerfade"}

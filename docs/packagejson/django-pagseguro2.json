@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.885888", "required_by": ["django-oscar-pagseguro"], "requires": ["Django", "six", "requests", "httpretty", "python-dateutil", "xmltodict"], "package": "django-pagseguro2"}

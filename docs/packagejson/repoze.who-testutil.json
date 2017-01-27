@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.115759", "required_by": ["repoze.what"], "requires": ["repoze.who", "zope.interface", "Paste", "PasteDeploy"], "package": "repoze.who-testutil"}

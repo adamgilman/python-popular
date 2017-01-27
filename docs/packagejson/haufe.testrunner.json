@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.644035", "required_by": ["haufe.testrunner.ui"], "requires": ["setuptools", "SQLAlchemy"], "package": "haufe.testrunner"}

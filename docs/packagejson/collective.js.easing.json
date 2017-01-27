@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.055654", "required_by": ["collective.fancyboxgallery"], "requires": ["setuptools"], "package": "collective.js.easing"}

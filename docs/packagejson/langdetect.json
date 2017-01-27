@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.511227", "required_by": ["metadoc", "news-please", "pysmap", "topicexplorer", "sapreprocessor", "sapl", "nltokeniz", "doxhund", "nlnormaliz"], "requires": ["six"], "package": "langdetect"}

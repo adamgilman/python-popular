@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.674495", "required_by": ["cmsplugin-filer-gallery"], "requires": ["django-categories", "django-filer"], "package": "django-filer-gallery"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.058991", "required_by": ["silva.core.cache"], "requires": ["Beaker", "repoze.lru"], "package": "infrae.cache"}

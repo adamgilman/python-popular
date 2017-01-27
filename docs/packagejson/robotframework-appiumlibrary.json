@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.321542", "required_by": ["robotframework-extendedappiumlibrary"], "requires": ["decorator", "robotframework", "docutils", "Appium-Python-Client", "selenium", "mock", "sauceclient", "pytest-cov", "pytest-xdist", "pytest-pythonpath"], "package": "robotframework-appiumlibrary"}

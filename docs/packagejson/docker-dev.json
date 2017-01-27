@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.770807", "required_by": ["docker-dev-python"], "requires": ["click", "PyYAML"], "package": "docker-dev"}

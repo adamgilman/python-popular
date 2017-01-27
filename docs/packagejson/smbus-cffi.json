@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.833063", "required_by": ["PCA9685-driver", "mpu6050-raspberrypi", "FGPIO", "mod-oled-128x64", "rpisensors", "Sagan"], "requires": [], "package": "smbus-cffi"}

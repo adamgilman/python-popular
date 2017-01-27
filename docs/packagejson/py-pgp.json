@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.986440", "required_by": ["keybaseio-api"], "requires": ["python-magic", "pycrypto", "six", "requests", "zope.interface", "pgpdump3"], "package": "py-pgp"}

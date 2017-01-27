@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.878436", "required_by": ["scikit-survival", "qqpat", "maxrect", "ncvx", "cvxstoc", "hiscore", "scsprox", "dccp"], "requires": ["ecos", "scs", "multiprocess", "fastcache", "six", "toolz", "numpy", "scipy", "CVXcanon"], "package": "cvxpy"}

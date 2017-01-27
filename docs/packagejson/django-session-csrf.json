@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.833106", "required_by": ["django-session-csrf-cookie", "django-csrf-session"], "requires": [], "package": "django-session-csrf"}

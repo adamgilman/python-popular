@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.648878", "required_by": ["krux-boto", "krux-scheduler", "krux-redis"], "requires": ["Sphinx", "Jinja2", "Pygments", "docutils", "kruxstatsd", "statsd", "argparse", "GitPython", "simplejson", "tornado", "lockfile", "pygerduty", "async", "fudge", "gitdb", "smmap"], "package": "krux-stdlib"}

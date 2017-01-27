@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.882127", "required_by": ["simplelayout.ui.base", "zamplugin.sitemanager", "p01.testbrowser", "ztfy.blog", "z3c.jsonrpc", "s01.client", "ztfy.skin", "ztfy.thesaurus", "z3c.jsontree", "ztfy.myams"], "requires": ["setuptools", "zope.component"], "package": "z3c.json"}

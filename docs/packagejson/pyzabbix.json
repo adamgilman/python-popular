@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.895312", "required_by": ["swk_zabbix", "dbaas_zabbix", "zbx-dashboard", "nodeconductor-zabbix", "tsuru-hcaas"], "requires": ["requests"], "package": "pyzabbix"}

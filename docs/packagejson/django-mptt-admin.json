@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.369698", "required_by": ["django-glitter", "blanc-basic-pages"], "requires": ["django-mptt", "six"], "package": "django-mptt-admin"}

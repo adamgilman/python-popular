@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.803941", "required_by": ["django-forms-builder"], "requires": ["python-gnupg", "sphinx-me"], "package": "django-email-extras"}

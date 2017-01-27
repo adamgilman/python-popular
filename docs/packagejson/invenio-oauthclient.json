@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.893045", "required_by": ["invenio-orcid"], "requires": ["Flask-BabelEx", "Flask-Breadcrumbs", "Flask-Login", "Flask-OAuthlib", "Flask-Security-Fork", "Flask", "blinker", "cryptography", "invenio-accounts", "invenio-mail", "six", "sqlalchemy-utils", "uritools"], "package": "invenio-oauthclient"}

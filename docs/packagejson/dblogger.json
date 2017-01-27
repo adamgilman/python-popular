@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.265385", "required_by": ["rejester", "coordinate", "dossier.web"], "requires": ["logutils", "tblib", "yakonfig", "kvlayer", "streamcorpus", "python-dateutil"], "package": "dblogger"}

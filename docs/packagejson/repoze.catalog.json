@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.394267", "required_by": ["souper", "collective.documentviewer", "graphagus", "indexedzodb", "w20e.pycms_news", "repoze.pgtextindex"], "requires": [], "package": "repoze.catalog"}

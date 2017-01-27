@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.156959", "required_by": ["stis_cti"], "requires": ["pyyaml", "numpy", "astropy", "stistools"], "package": "refstis"}

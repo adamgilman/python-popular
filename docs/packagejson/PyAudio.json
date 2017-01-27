@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.005730", "required_by": ["slowclap", "auditok", "cis-jarvis", "speechtotext", "TranscriptBot", "SmartyBot", "microphone", "audiotrans", "AccelBrainBeat", "python-voicetext"], "requires": [], "package": "PyAudio"}

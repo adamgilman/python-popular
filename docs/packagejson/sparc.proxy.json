@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.576339", "required_by": ["sparc.configuration"], "requires": ["setuptools", "zope.interface", "zope.component", "zope.proxy"], "package": "sparc.proxy"}

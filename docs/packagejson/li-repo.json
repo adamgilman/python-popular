@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.027717", "required_by": ["li-api-flask", "li-pagador", "li-testing"], "requires": ["distribute", "Django", "jsonfield", "psycopg2", "django-mptt", "unidecode", "boto", "django-mptt", "li-common", "django-cache-machine", "tldextract"], "package": "li-repo"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.090217", "required_by": ["django-datebook", "PO-Projects", "Gestus", "emencia-django-forum", "emencia-django-bazar", "sveeaccounts", "sveedocuments"], "requires": ["Django"], "package": "autobreadcrumbs"}

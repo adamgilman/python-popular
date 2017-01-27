@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.973569", "required_by": ["CI_CloudConnector", "pysmhs", "midas", "CI_LocalConnector"], "requires": [], "package": "pymodbus"}

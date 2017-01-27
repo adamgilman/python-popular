@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.929507", "required_by": ["django-ripozo", "ripozo-oasis", "ripozo-sqlalchemy", "flask-ripozo", "ripozo-cassandra"], "requires": ["six"], "package": "ripozo"}

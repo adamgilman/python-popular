@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.089932", "required_by": ["qam", "affinitic.zamqp", "django-littlebro"], "requires": ["anyjson", "amqplib"], "package": "carrot"}

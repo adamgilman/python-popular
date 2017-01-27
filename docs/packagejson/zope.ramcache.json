@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.582033", "required_by": ["plone.memoize", "plone.app.upgrade", "zope.app.cache", "ztfy.cache", "affinitic.caching"], "requires": ["persistent", "setuptools", "zope.interface", "zope.location", "zope.testing"], "package": "zope.ramcache"}

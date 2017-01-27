@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.280887", "required_by": ["eea.facetednavigation", "eea.faceted.tool", "eea.alchemy"], "requires": ["setuptools"], "package": "eea.faceted.vocabularies"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.204049", "required_by": ["ityou.ESI"], "requires": ["setuptools", "ityou.esi.theme", "BeautifulSoup", "sqlalchemy", "stripogram", "psycopg2", "five.grok"], "package": "ityou.astream"}

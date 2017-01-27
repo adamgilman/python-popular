@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.673602", "required_by": ["Products.IntelliDateTime", "yafowil.widget.datetime"], "requires": ["setuptools", "zope.interface"], "package": "bda.intellidatetime"}

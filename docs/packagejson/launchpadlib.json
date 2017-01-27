@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.385257", "required_by": ["charm-tools", "lp-helpers", "lpdistutils", "oops_datedir_repo", "bzr-pqm", "irc-pyhole", "launchpadtools", "plone.releaser", "esteele.manager"], "requires": ["httplib2", "keyring", "lazr.restfulclient", "lazr.uri", "oauth", "setuptools", "testresources", "wadllib"], "package": "launchpadlib"}

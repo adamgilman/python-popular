@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.909749", "required_by": ["dolmen.app.layout", "grok", "megrok.layout", "dolmen.forms.base", "grokui.base", "dolmen.app.viewselector"], "requires": ["setuptools", "grokcore.component", "z3c.flashmessage", "zope.component", "zope.traversing"], "package": "grokcore.message"}

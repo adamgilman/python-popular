@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.861176", "required_by": ["ageliaco.tracker"], "requires": ["setuptools", "Plone", "plone.behavior", "plone.registry", "plone.app.registry", "plone.z3cform", "z3c.form", "plone.formwidget.autocomplete", "plone.directives.form", "zope.schema", "zope.interface", "zope.component", "rwproperty"], "package": "collective.gtags"}

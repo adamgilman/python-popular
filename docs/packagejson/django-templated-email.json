@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.296656", "required_by": ["django-registration-fc", "django-contact-form-fc", "django-confirmanager", "django-password-reset-fc"], "requires": [], "package": "django-templated-email"}

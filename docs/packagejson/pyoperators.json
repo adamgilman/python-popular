@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.940525", "required_by": ["pysimulators", "qubic"], "requires": ["numpy", "scipy"], "package": "pyoperators"}

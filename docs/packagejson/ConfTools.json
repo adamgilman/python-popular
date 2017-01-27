@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.781467", "required_by": ["PyVehicles", "comptests"], "requires": ["PyYAML", "PyContracts"], "package": "ConfTools"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.959272", "required_by": ["mccabe-console-script", "wps-remote", "flake8", "electric", "rssmailer", "pylint-mccabe", "flint-mccabe", "tvdosage", "pytest-mccabe", "polysquare-setuptools-lint"], "requires": ["pytest-runner"], "package": "mccabe"}

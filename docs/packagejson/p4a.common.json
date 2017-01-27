@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.477277", "required_by": ["p4a.audio", "slc.aggregation", "slc.publications", "archetypes.recurringdate", "p4a.calendar", "p4a.plonecalendar"], "requires": ["setuptools", "python-dateutil"], "package": "p4a.common"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.686392", "required_by": ["onegov.edu"], "requires": ["ftw.upgrade", "plone.formwidget.contenttree", "plone.formwidget.namedfile", "plone.namedfile", "setuptools", "plone.app.dexterity", "plone.directives.form", "plone.app.relationfield", "plone.autoform", "plone.behavior"], "package": "ftw.subsite"}

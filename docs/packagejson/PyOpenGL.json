@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.701147", "required_by": ["Sill-E-Scope", "mogli", "pomsets-gui", "mujoco-py", "PyNgine", "wasabi-scenegraph", "pygmi", "xicam", "rainbowalga", "zgl", "openlut", "nupic_studio", "edubeam", "pg", "OpenGLContext-full"], "requires": [], "package": "PyOpenGL"}

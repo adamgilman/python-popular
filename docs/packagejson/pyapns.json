@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.299380", "required_by": ["PushFactory"], "requires": ["Twisted", "pyOpenSSL"], "package": "pyapns"}

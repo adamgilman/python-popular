@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.911576", "required_by": ["agx.generator.zca", "agx.generator.sql"], "requires": ["setuptools", "node.ext.template", "node.ext.python", "node.ext.uml", "agx.transform.uml2fs"], "package": "agx.generator.pyegg"}

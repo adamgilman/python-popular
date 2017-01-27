@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.908998", "required_by": ["inqbus.ocf.agents"], "requires": ["setuptools"], "package": "inqbus.ocf.generic"}

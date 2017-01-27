@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.775238", "required_by": ["django-trackmodels-xls-ritual", "arcanelab-ouroboros"], "requires": ["Django", "dateutils"], "package": "django-trackmodels-ritual"}

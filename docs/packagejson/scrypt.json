@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.532392", "required_by": ["py-utilities", "TripleSec", "mpw", "visionarypm", "bts", "Flask-Scrypt", "django-opqpwd", "deadlock", "registrar", "pybip38", "Fanery", "mailpile-leap-adapter", "pwm", "txscrypt", "bitcoinlib", "steem"], "requires": [], "package": "scrypt"}

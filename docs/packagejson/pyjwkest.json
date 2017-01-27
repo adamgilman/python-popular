@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.752351", "required_by": ["python-taiga", "drf-oidc-auth", "oic", "google-endpoints-api-management", "django-oidc-auth", "django-oidc-provider", "signed-http-req", "Flask-JWE", "SATOSA"], "requires": ["pycryptodomex", "requests", "six", "future"], "package": "pyjwkest"}

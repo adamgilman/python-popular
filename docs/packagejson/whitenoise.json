@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.255111", "required_by": ["wazimap", "django-rednoise", "iotdasboard", "hellowebapp-deploy", "seed-control-interface-service", "seed-identity-store", "seed-control-interface", "medlemssys", "seed-service-rating"], "requires": [], "package": "whitenoise"}

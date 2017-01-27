@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.368109", "required_by": ["devpi-rss", "devpi-semantic-ui", "devpi"], "requires": ["Whoosh", "beautifulsoup4", "defusedxml", "devpi-server", "devpi-common", "docutils", "pygments", "pyramid", "pyramid-chameleon", "readme-renderer"], "package": "devpi-web"}

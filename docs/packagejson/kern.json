@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.210170", "required_by": ["wtfbot", "vrijvan", "koning", "igz", "aangifte", "justitie"], "requires": ["beautifulsoup4", "sleekxmpp", "feedparser"], "package": "kern"}

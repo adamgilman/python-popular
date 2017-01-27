@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.180251", "required_by": ["pinax-teams"], "requires": ["django-appconf", "django-user-accounts"], "package": "pinax-invitations"}

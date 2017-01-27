@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.755169", "required_by": ["bst.pygasus.demo"], "requires": ["setuptools", "bst.pygasus.wsgi", "bst.pygasus.resources", "bst.pygasus.scaffolding", "bst.pygasus.datamanager", "bst.pygasus.security", "bst.pygasus.i18n", "js.extjs", "martian", "grokcore.component", "zope.interface", "Genshi"], "package": "bst.pygasus.core"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.430057", "required_by": ["cs.board"], "requires": ["setuptools", "Products.PluggableAuthService", "ZSI"], "package": "z3c.soap"}

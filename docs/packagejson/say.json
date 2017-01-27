@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.348771", "required_by": ["codefurther", "show"], "requires": ["six", "options", "simplere", "mementos", "ansicolors"], "package": "say"}

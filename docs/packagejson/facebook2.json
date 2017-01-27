@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.946967", "required_by": ["django-facebook2"], "requires": ["requests"], "package": "facebook2"}

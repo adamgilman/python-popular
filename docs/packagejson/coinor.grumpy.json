@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.766643", "required_by": ["coinor.cuppy"], "requires": ["coinor.gimpy", "pulp"], "package": "coinor.grumpy"}

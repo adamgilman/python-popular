@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.847144", "required_by": ["django-lfs"], "requires": ["setuptools", "django-countries"], "package": "django-postal"}

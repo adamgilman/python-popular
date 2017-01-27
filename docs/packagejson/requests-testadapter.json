@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.636779", "required_by": ["setlr"], "requires": ["requests", "six"], "package": "requests-testadapter"}

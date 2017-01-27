@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.762529", "required_by": ["simplegeo-places"], "requires": ["httplib2", "oauth2", "pyutil[jsonutil"], "package": "simplegeo-shared"}

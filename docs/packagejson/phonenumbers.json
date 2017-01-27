@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.977180", "required_by": ["digani", "django-secure-auth", "goldman", "pnmatcher", "django-phonenumber-filter", "collective.z3cform.phonewidget", "simplesms", "tz-trout", "ea", "digPhoneExtractor", "sw-python-utils", "penny", "numparse164", "rolodexer"], "requires": [], "package": "phonenumbers"}

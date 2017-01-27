@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.023937", "required_by": ["doorman", "docker-build-tool", "project_generator_definitions", "ovirt", "qubic", "pyannote.database", "malleefowl", "pit", "yamlradio", "hatenagraph"], "requires": [], "package": "pyYAML"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.023787", "required_by": ["trollflow_sat", "pytroll_collectors"], "requires": ["numpy", "pyresample"], "package": "mpop"}

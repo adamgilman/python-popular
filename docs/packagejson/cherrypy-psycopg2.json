@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.732808", "required_by": ["cherrypy-psycopg2-crud"], "requires": ["CherryPy", "psycopg2"], "package": "cherrypy-psycopg2"}

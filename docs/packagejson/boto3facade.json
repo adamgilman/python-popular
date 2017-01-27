@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.083304", "required_by": ["s3keyring", "humilis"], "requires": ["click", "boto3", "inflection", "requests", "configparser"], "package": "boto3facade"}

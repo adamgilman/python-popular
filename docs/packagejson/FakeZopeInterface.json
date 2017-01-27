@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.193505", "required_by": ["Products.PurgeMissingObjectInterfaces"], "requires": ["setuptools"], "package": "FakeZopeInterface"}

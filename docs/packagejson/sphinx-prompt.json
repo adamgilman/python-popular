@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.302390", "required_by": ["documenteer"], "requires": ["Sphinx", "pygments"], "package": "sphinx-prompt"}

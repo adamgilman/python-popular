@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.945934", "required_by": ["ikwi", "dj-git", "git-orm", "gien", "Evariste", "repoman-scm", "git-covdiff", "erucli", "turnip", "gitdict", "Tamia", "crumb", "praekelt-python-gitmodel", "git-whatsup", "gitimport", "github-pages-publish"], "requires": ["cffi", "six"], "package": "pygit2"}

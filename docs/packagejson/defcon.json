@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.862967", "required_by": ["glyphsLib", "ufo2ft", "defconQt", "trufont", "MutatorMath", "fontmake"], "requires": ["fonttools", "ufoLib"], "package": "defcon"}

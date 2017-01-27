@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.772572", "required_by": ["openerp-l10n-be-hr-payroll", "openerp-l10n-fr-hr-payroll", "openerp-l10n-in-hr-payroll", "openerp-hr-payroll-account"], "requires": ["openerp-hr", "openerp-hr-contract", "openerp-hr-holidays", "openerp-decimal-precision"], "package": "openerp-hr-payroll"}

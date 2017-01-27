@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.810911", "required_by": ["p01.sampledata"], "requires": ["setuptools", "p01.util", "zope.i18n", "zope.i18nmessageid"], "package": "p01.vocabulary.language"}

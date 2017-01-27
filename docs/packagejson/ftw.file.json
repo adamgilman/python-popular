@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.896311", "required_by": ["ftw.workspace"], "requires": ["Plone", "setuptools", "ftw.journal", "plone.app.registry", "ftw.upgrade", "ftw.calendarwidget", "ftw.profilehook", "Pillow", "ftw.colorbox", "plone.api", "plone.batching"], "package": "ftw.file"}

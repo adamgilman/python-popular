@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.869247", "required_by": ["cmsplugin-blog-seo-addons"], "requires": ["django-cms", "simple-translation", "djangocms-utils", "django-tagging", "django-missing"], "package": "cmsplugin-blog"}

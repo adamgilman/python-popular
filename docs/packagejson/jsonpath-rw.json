@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.722227", "required_by": ["marcx", "cloudmunch-cli", "django-dynamic-scraper", "st2client", "siskin", "commcare-export", "pyflightdata", "digPhoneExtractor", "superss", "httsleep"], "requires": ["ply", "decorator", "six"], "package": "jsonpath-rw"}

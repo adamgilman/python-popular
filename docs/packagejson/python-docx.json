@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.091847", "required_by": ["hidash", "pygauss", "owasp-skf", "md2docx", "megadex", "taco.py", "off2txt", "docxtpl", "getbib", "django-story-builder"], "requires": [], "package": "python-docx"}

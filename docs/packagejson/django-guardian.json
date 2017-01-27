@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.252959", "required_by": ["django-intranet", "django-groups-manager", "resolwe", "django-swingers", "djero", "vitriolic", "fileclusters", "kii", "geoshape-geonode", "vdw", "varify", "cyclosible", "django-guardianpie", "django-cognizance", "djangoautoconf"], "requires": ["six"], "package": "django-guardian"}

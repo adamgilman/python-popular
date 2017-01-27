@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.827511", "required_by": ["nflx-genie-client"], "requires": ["future", "nose", "tox"], "package": "pyconfigurator"}

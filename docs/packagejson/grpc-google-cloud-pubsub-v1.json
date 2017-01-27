@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.716436", "required_by": ["gapic-google-cloud-pubsub-v1"], "requires": ["oauth2client", "grpcio", "googleapis-common-protos[grpc"], "package": "grpc-google-cloud-pubsub-v1"}

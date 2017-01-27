@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.854919", "required_by": ["keras-rtst", "keras-tqdm", "HoleCardHandicapper", "tankbuster", "Kregistrar", "keras-adversarial", "keras-vgg-buddy", "neural-image-analogies"], "requires": ["theano", "pyyaml", "six"], "package": "Keras"}

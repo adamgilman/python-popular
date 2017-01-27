@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.777759", "required_by": ["spyck"], "requires": ["httplib2"], "package": "aylien-apiclient"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.161415", "required_by": ["swiftwind", "django-disbi", "django-account-keeping", "django-arquea", "openunipay", "django_access_logs", "django-happymailer", "djangoautoconf"], "requires": ["tablib", "diff-match-patch"], "package": "django-import-export"}

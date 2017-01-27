@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.180785", "required_by": ["ws_docutils", "wheelwright", "OfflineDoc", "zot4rst", "edeposit.amqp.pdfgen", "attowiki", "tgapp-flatpages"], "requires": [], "package": "rst2pdf"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.736167", "required_by": ["Yelpy"], "requires": ["httplib2"], "package": "oauth2-utf8"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.979739", "required_by": ["django-shop-braintree", "djbraintree", "wagtailinvoices", "tivix-django-braintree", "pyramid_braintree", "satchmo-braintree", "cartridge-braintree", "btnamespace"], "requires": ["requests"], "package": "braintree"}

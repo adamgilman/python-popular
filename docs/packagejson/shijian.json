@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.382137", "required_by": ["abstraction", "shijian", "distributed_wellbeing", "python_sentinel", "pyprel", "datavision", "propyte", "deep_throat"], "requires": ["numpy", "pyprel", "scipy", "shijian"], "package": "shijian"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.904217", "required_by": ["collective.cart.shopping", "collective.cart.shipping"], "requires": ["plone.behavior", "setuptools"], "package": "collective.behavior.vat"}

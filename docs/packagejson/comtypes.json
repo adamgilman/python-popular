@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.935089", "required_by": ["pywinauto", "win32wifi", "xlwings", "wmdlib", "mz", "infi.wmi", "UISoup", "pykinect2", "jaraco.video", "pyeviews"], "requires": [], "package": "comtypes"}

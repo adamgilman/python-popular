@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.274394", "required_by": ["sdlib_v0.8", "PytSite", "li-api-flask", "sdlib_v0.9", "Flask-uWSGI-WebSocket", "makechat", "sdlib_v1.1", "alignak_webui", "varify", "dossier.web", "home", "alignak_backend", "sdlib_v1.0", "stuff-proxy", "archelond", "django-flow"], "requires": [], "package": "uwsgi"}

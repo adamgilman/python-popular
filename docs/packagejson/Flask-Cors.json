@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.332897", "required_by": ["electric", "mmmbop", "infi.app_repo", "flarecast-service", "fabric_remote", "alerta-server"], "requires": [], "package": "Flask-Cors"}

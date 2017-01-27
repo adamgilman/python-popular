@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.083650", "required_by": ["softwarefabrica.django.drilldown", "softwarefabrica.django.common", "softwarefabrica.django.director", "softwarefabrica.django.wiki", "softwarefabrica.django.crud"], "requires": ["setuptools", "django", "sflib", "softwarefabrica.django.utils"], "package": "softwarefabrica.django.forms"}

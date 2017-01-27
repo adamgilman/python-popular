@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.758396", "required_by": ["cmsplugin_gallery", "cmsplugin_gallery_filer"], "requires": ["django-admin-jqueryui"], "package": "django-inline-ordering"}

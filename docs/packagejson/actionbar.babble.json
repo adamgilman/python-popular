@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.863910", "required_by": ["babble.demo"], "requires": ["setuptools", "babble.client", "actionbar.panel"], "package": "actionbar.babble"}

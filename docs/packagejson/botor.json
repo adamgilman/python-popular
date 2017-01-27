@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.381834", "required_by": ["bozor"], "requires": ["boto3", "boto", "joblib"], "package": "botor"}

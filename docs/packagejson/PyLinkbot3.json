@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.824541", "required_by": ["linkbot-jig-programmer", "linkbot_firmware_updater", "linkbot-serialid-tool"], "requires": ["PyRibbonBridge", "PySfp", "websockets"], "package": "PyLinkbot3"}

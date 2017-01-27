@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.790565", "required_by": ["migrations4neo", "mETL", "Flask-Neo4j", "workbench", "ribbon-graph", "neoapi", "neo4jupyter", "congredi", "neo4j-decorators", "neolixir", "cycli"], "requires": [], "package": "py2neo"}

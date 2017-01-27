@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.529681", "required_by": ["alchemist.security", "alchemist.audit", "alchemist.traversal", "alchemist.ui"], "requires": ["setuptools", "transaction", "SQLAlchemy"], "package": "ore.alchemist"}

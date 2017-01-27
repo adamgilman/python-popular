@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.068348", "required_by": ["interlegis.intranetmodelo.policy"], "requires": ["setuptools", "BeautifulSoup", "Twisted", "wokkel", "Products.UserAndGroupSelectionWidget", "jarn.jsi18n"], "package": "collective.xmpp.core"}

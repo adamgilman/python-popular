@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.604200", "required_by": ["minitage.core"], "requires": ["iniparse", "setuptools", "minitage.paste", "ordereddict", "setuptools"], "package": "minitage"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.420749", "required_by": ["django-facebook-pages", "django-facebook-pages-statistic", "django-facebook-photos", "django-facebook-applications", "django-facebook-users", "django-facebook-posts"], "requires": ["django", "django-annoying", "django-social-api", "facebook-sdk", "python-dateutil"], "package": "django-facebook-api"}

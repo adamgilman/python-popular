@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.490257", "required_by": ["iow", "deblur", "gneiss", "phylotoast", "topeology", "burrito-fillings", "sourcetracker", "omicexperiment", "qiime"], "requires": ["lockfile", "CacheControl", "decorator", "IPython", "matplotlib", "natsort", "numpy", "pandas", "scipy", "nose"], "package": "scikit-bio"}

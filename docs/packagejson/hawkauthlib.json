@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.054779", "required_by": ["pyramid_hawkauth", "repoze.who.plugins.hawkauth"], "requires": ["webob"], "package": "hawkauthlib"}

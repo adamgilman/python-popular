@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.713337", "required_by": ["rsl.jsonrpc10", "rsl.http", "rsl.mime", "rsl.soap11", "rsl.wsdl1", "rsl.xsd"], "requires": ["zope.interface", "setuptools"], "package": "rsl"}

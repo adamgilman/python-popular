@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.759540", "required_by": ["morepath-sqlalchemy", "onegov.file"], "requires": ["setuptools", "morepath", "transaction"], "package": "more.transaction"}

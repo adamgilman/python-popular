@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.936403", "required_by": ["fteproxy"], "requires": ["setuptools", "PyCrypto", "Twisted", "argparse", "pyptlib", "pyyaml"], "package": "obfsproxy"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.926533", "required_by": ["livescript", "CoffeeScript", "PyReact", "Presser", "sphinxcontrib-jsx", "tjst", "UgliPyJS", "Flask-Espresso", "pyepvp", "django-nodebow", "cfscrapefork"], "requires": ["six"], "package": "PyExecJS"}

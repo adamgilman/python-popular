@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.181704", "required_by": ["negotiator-guest", "negotiator-host"], "requires": ["executor", "humanfriendly"], "package": "negotiator-common"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.223324", "required_by": ["crosscompute-types"], "requires": ["crosscompute", "crosscompute-table", "six"], "package": "crosscompute-geotable"}

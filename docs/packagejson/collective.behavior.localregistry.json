@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.502285", "required_by": ["collective.behavior.localdiazo", "sc.microsite", "collective.behavior.localskin"], "requires": ["plone.app.registry", "plone.behavior", "plone.registry", "Products.CMFCore", "setuptools", "zope.component", "zope.event", "zope.i18nmessageid", "zope.interface"], "package": "collective.behavior.localregistry"}

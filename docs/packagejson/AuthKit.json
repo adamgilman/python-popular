@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.920160", "required_by": ["SimpleSite", "SimpleSiteTemplate", "BlueChips"], "requires": ["Paste", "nose", "PasteDeploy", "Beaker", "PasteScript", "python-openid", "elementtree", "decorator", "WebOb"], "package": "AuthKit"}

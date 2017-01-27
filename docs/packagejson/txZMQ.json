@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.229482", "required_by": ["txpinky", "moksha.hub", "zmqfirewall"], "requires": ["Twisted", "pyzmq"], "package": "txZMQ"}

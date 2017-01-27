@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.048967", "required_by": ["plone.app.theming"], "requires": ["plone.resource", "setuptools", "zope.component", "zope.interface", "zope.publisher", "zope.schema", "Zope2"], "package": "plone.resourceeditor"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.512634", "required_by": ["celery-tracker", "bundle-celery"], "requires": ["celery", "tornado"], "package": "celerymon"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.200657", "required_by": ["ftw.blueprints", "wasgehtengine.import"], "requires": ["setuptools", "collective.transmogrifier", "plone.app.textfield", "plone.app.transmogrifier", "plone.dexterity", "plone.namedfile", "plone.supermodel", "plone.uuid", "z3c.form"], "package": "transmogrify.dexterity"}

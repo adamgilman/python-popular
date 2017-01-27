@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.237527", "required_by": ["sporestack", "qrplatba-fpdf", "edeposit.amqp.pdfgen", "boat", "2fa", "pypartypix"], "requires": [], "package": "pyqrcode"}

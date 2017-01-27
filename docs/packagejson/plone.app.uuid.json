@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.723750", "required_by": ["plonesocial.microblog", "aws.authrss", "plone.api", "plone.multilingual", "plone.app.drafts", "plone.app.discussion", "collective.ckeditor"], "requires": ["setuptools", "plone.uuid", "plone.indexer", "zope.publisher", "zope.interface"], "package": "plone.app.uuid"}

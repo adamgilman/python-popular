@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.926967", "required_by": ["launchpadlib"], "requires": ["setuptools", "lazr.uri"], "package": "wadllib"}

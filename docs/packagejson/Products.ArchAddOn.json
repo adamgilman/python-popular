@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.818170", "required_by": ["Products.PloneServicesCenter", "Products.PloneSoftwareCenter"], "requires": ["setuptools", "Plone"], "package": "Products.ArchAddOn"}

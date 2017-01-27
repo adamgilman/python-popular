@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.706601", "required_by": ["node.ext.template", "node.ext.python", "node.ext.zcml", "agx.transform.uml2fs"], "requires": ["setuptools", "node", "plumber", "zope.interface"], "package": "node.ext.directory"}

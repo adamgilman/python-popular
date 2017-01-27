@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.111191", "required_by": ["plone.app.layout"], "requires": ["Acquisition", "Products.GenericSetup", "ZODB3", "Zope2", "plone.app.vocabularies", "setuptools", "zope.component", "zope.contentprovider", "zope.interface", "zope.site", "zope.viewlet"], "package": "plone.app.viewletmanager"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.731942", "required_by": ["vacation", "eemeter", "bdateutil", "businesstimedelta"], "requires": ["python-dateutil"], "package": "holidays"}

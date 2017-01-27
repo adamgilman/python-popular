@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.307876", "required_by": ["collective.markitup", "collective.ckeditor"], "requires": ["setuptools", "collective.quickupload"], "package": "collective.plonefinder"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.736717", "required_by": ["ensae_teaching_cs"], "requires": ["pyquickhelper", "pycryptodomex"], "package": "pymmails"}

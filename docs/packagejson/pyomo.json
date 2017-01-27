@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.015110", "required_by": ["oemof", "pypsa", "minpower", "calliope"], "requires": [], "package": "pyomo"}

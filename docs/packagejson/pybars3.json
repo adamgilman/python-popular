@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.897236", "required_by": ["SshSysMon", "djangobars", "aio_pybars", "django-ddp", "collective.handlebars"], "requires": ["PyMeta3"], "package": "pybars3"}

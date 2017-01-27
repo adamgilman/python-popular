@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.474918", "required_by": ["django-dynamic-structure", "django-park-keeper", "park-worker-p2"], "requires": ["pycrypto", "requests", "beautifulsoup4", "phonenumbers"], "package": "sw-python-utils"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.773548", "required_by": ["django-wbc", "mapentity", "django-user-map", "webuildcity", "geometalab.drf-utm-zone-info"], "requires": [], "package": "djangorestframework-gis"}

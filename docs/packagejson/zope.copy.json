@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.953707", "required_by": ["zope.copypastemove", "z3c.blobfile", "zc.copy", "dolmen.blob", "Products.CMFEditions", "p01.remote"], "requires": ["setuptools", "zope.interface"], "package": "zope.copy"}

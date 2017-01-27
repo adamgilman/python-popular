@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.570805", "required_by": ["pyf.components.adapters.reordering", "pyf.componentized", "pyf.manager"], "requires": ["setuptools", "pyjon.utils", "pyf.transport"], "package": "pyf.dataflow"}

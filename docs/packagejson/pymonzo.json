@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.628984", "required_by": ["monz"], "requires": ["python-dateutil", "requests", "requests-oauthlib", "six"], "package": "pymonzo"}

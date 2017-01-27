@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.845431", "required_by": ["keas.pbpersist"], "requires": ["setuptools", "protobuf"], "package": "keas.pbstate"}

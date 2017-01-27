@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.247274", "required_by": ["syncano", "lovely.pyrest", "smolder", "django-bigbuild", "madame", "quantgo-cli", "salesking", "kotti_mapreduce", "Flask-Validictory", "nymms", "aiohttp-jrpc", "hexagonit.virtualgallery"], "requires": [], "package": "validictory"}

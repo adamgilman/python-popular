@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.208750", "required_by": ["Products.ATContentTypes", "plone.app.upgrade", "Products.Archetypes"], "requires": ["Products.CMFCore", "Products.GenericSetup", "Zope2", "plone.folder", "setuptools", "plone.app.layout"], "package": "plone.app.folder"}

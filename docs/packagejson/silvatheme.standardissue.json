@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.503005", "required_by": ["silva.demo.contentlayout", "Products.Silva"], "requires": ["setuptools", "grokcore.chameleon", "silva.core.conf", "silva.core.interfaces", "silva.core.layout", "zeam.form.silva", "zope.cachedescriptors", "zope.traversing"], "package": "silvatheme.standardissue"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.925576", "required_by": ["casexml", "repoze.what.plugins.couchdbkit", "chooh", "couch-named-python", "collect", "ctable", "receiver", "django-docfield-couchdb", "pytest-couchdbkit", "habitat"], "requires": [], "package": "couchdbkit"}

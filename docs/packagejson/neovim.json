@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.297078", "required_by": ["ribosome", "neovim-remote", "neovim-gui", "nvimex", "pytknvim", "tryp-nvim"], "requires": ["msgpack-python"], "package": "neovim"}

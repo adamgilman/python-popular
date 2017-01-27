@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.879573", "required_by": ["SilentDune-Server", "cabot"], "requires": ["django-celery", "redis"], "package": "django-celery-with-redis"}

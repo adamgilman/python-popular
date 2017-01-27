@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.263965", "required_by": ["jw.badipsrbl", "jw.emerge_update", "jw.backup", "jw.mailfilter"], "requires": ["setuptools", "PyYAML", "six", "future"], "package": "jw.util"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.632281", "required_by": ["zope.app.apidoc", "zope.app.zcmlfiles", "collective.recipe.bluebream", "ztfy.webapp", "zope.app.rotterdam", "ztfy.zmi", "wc.worldcookeryskin", "zope.app.boston"], "requires": ["setuptools", "zope.component", "zope.interface", "zope.publisher"], "package": "zope.app.basicskin"}

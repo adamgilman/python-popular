@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.273382", "required_by": ["ps.plone.mlstiles", "pspolicy.homes4.base", "customer.krainrealestate", "ps.plone.mls"], "requires": ["setuptools", "Pillow", "collective.autopermission", "collective.prettyphoto", "mls.apiclient", "plone.api"], "package": "plone.mls.listing"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.581479", "required_by": ["relay.mesos"], "requires": ["argcomplete", "blessings", "futures", "importlib", "kazoo", "mesos.interface", "ordereddict", "prettytable", "protobuf", "requests"], "package": "mesos.cli"}

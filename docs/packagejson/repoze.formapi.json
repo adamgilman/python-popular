@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.638073", "required_by": ["vudo.cmf", "cornerstone.browser"], "requires": ["setuptools"], "package": "repoze.formapi"}

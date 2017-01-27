@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.379338", "required_by": ["django-cccontact", "django-rforum", "django-feedback-form"], "requires": ["Django", "lockfile"], "package": "django-mailer"}

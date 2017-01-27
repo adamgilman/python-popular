@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.139818", "required_by": ["gomobile.mobile", "five.caching", "collective.skinny"], "requires": ["setuptools", "zope.event", "zope.interface", "zope.security"], "package": "plone.postpublicationhook"}

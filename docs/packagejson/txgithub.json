@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.239924", "required_by": ["chevah-buildbot-configuration-builder"], "requires": ["twisted", "pyopenssl"], "package": "txgithub"}

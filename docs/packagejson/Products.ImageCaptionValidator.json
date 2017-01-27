@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.280102", "required_by": ["Products.EnhancedNewsItemImage"], "requires": ["setuptools"], "package": "Products.ImageCaptionValidator"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.482945", "required_by": ["Pi-Control-Service", "Pi-Broadcast-Service"], "requires": ["PyYAML", "RPi.GPIO"], "package": "Pi-Pin-Manager"}

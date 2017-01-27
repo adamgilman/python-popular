@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.918891", "required_by": ["invenio-communities", "invenio-previewer", "invenio-records-rest", "invenio-openaire", "invenio-sipstore", "zenodo-accessrequests", "invenio-records-ui", "invenio-opendefinition", "invenio-oaiserver", "invenio-base"], "requires": ["Flask-BabelEx", "Flask"], "package": "invenio-pidstore"}

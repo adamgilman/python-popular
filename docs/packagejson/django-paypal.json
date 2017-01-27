@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.103733", "required_by": ["django-lfs", "django-shop-paypal"], "requires": ["Django", "six", "requests", "pytz"], "package": "django-paypal"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.795936", "required_by": ["wok-hooks"], "requires": ["Jinja2", "Markdown", "PyYAML", "Pygments", "docutils", "awesome-slugify", "pytest"], "package": "wok"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.106396", "required_by": ["factotum", "tsuru-circus", "circus-web", "powerhose", "vhostino"], "requires": ["iowait", "psutil", "pyzmq", "tornado"], "package": "circus"}

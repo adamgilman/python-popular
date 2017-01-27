@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.625530", "required_by": ["tiddlywebplugins.tiddlyspace", "tiddlywebplugins.hoster"], "requires": ["setuptools", "tiddlyweb", "httpexceptor", "python-openid"], "package": "tiddlywebplugins.openid2"}

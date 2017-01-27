@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.572356", "required_by": ["django-vkontakte-board", "django-vkontakte-photos", "django-vkontakte-polls", "django-vkontakte-wall", "django-vkontakte-groups-migration"], "requires": ["python-dateutil", "django-vkontakte-api", "django-vkontakte-places"], "package": "django-vkontakte-users"}

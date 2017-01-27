@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.241000", "required_by": ["celery_tryton", "trytond_sentry", "redis_tryton", "trytond_encrypted_field", "flask_tryton", "triton", "tryton-restful"], "requires": ["lxml", "relatorio", "Genshi", "python-dateutil", "polib", "python-sql", "werkzeug", "wrapt"], "package": "trytond"}

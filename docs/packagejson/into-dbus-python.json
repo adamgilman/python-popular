@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.222508", "required_by": ["stratisd-client-dbus"], "requires": ["dbus-signature-pyparsing", "dbus-python"], "package": "into-dbus-python"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.897669", "required_by": ["li-repo", "django_hstore_flattenfields"], "requires": [], "package": "django-cache-machine"}

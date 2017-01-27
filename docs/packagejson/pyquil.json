@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.722054", "required_by": ["quantum-grove"], "requires": ["requests", "numpy", "scipy"], "package": "pyquil"}

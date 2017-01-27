@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.842072", "required_by": ["django-uwsgi-admin2"], "requires": ["Django"], "package": "django-admin-utils"}

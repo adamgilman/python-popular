@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.198711", "required_by": ["storjrpcudp", "clinacl", "pytest-expect", "txpinky", "razmq", "pylogger", "saltpack", "rpcudp", "pyspider", "weblocust"], "requires": [], "package": "u-msgpack-python"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.985433", "required_by": ["zope.app.zcmlfiles", "z3c.layer.minimal"], "requires": ["setuptools", "zope.interface", "zope.publisher", "zope.authentication", "zope.browser", "zope.browserpage", "zope.component", "zope.security"], "package": "zope.app.exception"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.447893", "required_by": ["maec-to-stix"], "requires": ["lxml", "mixbox", "cybox"], "package": "maec"}

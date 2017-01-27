@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.066887", "required_by": ["gplayproxy"], "requires": ["requests", "protobuf", "ndg-httpsclient", "androguard", "clint", "pyasn1"], "package": "GPlayCli"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.768287", "required_by": ["django-shop-netaxept"], "requires": ["suds", "Django"], "package": "django-netaxept"}

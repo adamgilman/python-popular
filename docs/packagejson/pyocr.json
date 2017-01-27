@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.805284", "required_by": ["pdf-image-to-text", "masecret", "paperwork"], "requires": ["Pillow", "six"], "package": "pyocr"}

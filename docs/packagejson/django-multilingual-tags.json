@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.974139", "required_by": ["django-multilingual-news", "django-media-library"], "requires": ["django"], "package": "django-multilingual-tags"}

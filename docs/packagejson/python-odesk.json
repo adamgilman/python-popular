@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.470364", "required_by": ["Flask-oDesk"], "requires": ["oauth2", "urllib3", "httplib2.system-ca-certs-locater"], "package": "python-odesk"}

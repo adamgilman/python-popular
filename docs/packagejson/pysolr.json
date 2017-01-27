@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.862873", "required_by": ["watson-developer-cloud", "bird-feeder", "tweeql2solr", "django-hhypermap", "django-registry", "scrapysolr", "solr-to-es", "htrc-feature-reader", "django-councilmatic", "malleefowl", "bebop"], "requires": ["requests"], "package": "pysolr"}

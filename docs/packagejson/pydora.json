@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.907766", "required_by": ["Mopidy-Pandora"], "requires": ["pycrypto", "requests"], "package": "pydora"}

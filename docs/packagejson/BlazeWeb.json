@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.039169", "required_by": ["CommonBWC", "TemplatingBWC", "AuthBWC", "SQLAlchemyBWC", "DataGridBWC", "AuditBWC"], "requires": ["WebTest", "ScriptTest", "docutils"], "package": "BlazeWeb"}

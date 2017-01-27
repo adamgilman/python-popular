@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.773889", "required_by": ["agalma"], "requires": ["biopython", "dendropy", "docutils", "lxml", "matplotlib", "networkx", "numpy", "wget"], "package": "biolite"}

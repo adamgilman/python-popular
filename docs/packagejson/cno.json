@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.052726", "required_by": ["msdas"], "requires": ["numpy", "matplotlib", "scipy", "networkx", "pandas", "bioservices", "pygraphviz", "colormap", "biokit", "pulp", "numexpr", "wrapt", "easydev", "bottleneck", "lxml"], "package": "cno"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.040146", "required_by": ["collective.monitor"], "requires": ["setuptools", "zc.monitor", "zc.z3monitor", "ZODB3", "zope.component", "zope.processlifetime"], "package": "five.z2monitor"}

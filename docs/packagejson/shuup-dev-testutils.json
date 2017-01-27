@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.847395", "required_by": ["shuup-jsonapi", "shuup-ucoms", "shuup-attrim"], "requires": ["shuup", "shuup-dev-utils"], "package": "shuup-dev-testutils"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.887261", "required_by": ["django_contactform_bootstrap", "peer", "django-ratelimit9", "wagtailformblocks", "jmbo-contact", "django-captcha-admin", "wagtail-django-recaptcha", "django-users-plus", "olhoneles"], "requires": ["django"], "package": "django-recaptcha"}

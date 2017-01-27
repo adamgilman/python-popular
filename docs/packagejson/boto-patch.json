@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.660305", "required_by": ["django-s3-storage-patched"], "requires": [], "package": "boto-patch"}

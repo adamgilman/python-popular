@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.913404", "required_by": ["icemac.addressbook", "gocept.lms"], "requires": ["ZODB3", "setuptools", "transaction", "zope.annotation", "zope.component", "zope.container", "zope.deferredimport", "zope.generations", "zope.interface", "zope.schema", "zope.site", "zope.traversing"], "package": "gocept.reference"}

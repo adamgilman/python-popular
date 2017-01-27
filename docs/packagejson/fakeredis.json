@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.327758", "required_by": ["django-diffs", "Larry"], "requires": ["redis"], "package": "fakeredis"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.538981", "required_by": ["interlegis.portalmodelo.api", "sc.pfg.brazilianfields"], "requires": ["setuptools", "collective.brasil.vocab"], "package": "Products.BrFieldsAndWidgets"}

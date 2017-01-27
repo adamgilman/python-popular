@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.969845", "required_by": ["Fleepy", "varsity", "guate.division-politica", "montblanc", "checkmate-api", "currencycloud", "pageviewapi", "sefara", "logit", "darkskypy", "whisker", "hypercube", "wishbone", "Tarkus", "pytest-scenario", "sqlalchemy-fp", "ceacoest", "sym2num", "pydiagram"], "requires": [], "package": "attrdict"}

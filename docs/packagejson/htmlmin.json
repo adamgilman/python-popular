@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.126203", "required_by": ["storytracker", "PytSite", "buccaneer", "pelican-minification", "jidoka", "bucket3", "frasco-angular", "pyramid-htmlmin", "Beetle-Htmlmin", "Flask-HTMLmin", "pelican-minify", "flask-optimize", "jinja2-htmlmin"], "requires": [], "package": "htmlmin"}

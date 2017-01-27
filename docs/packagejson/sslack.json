@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.968422", "required_by": ["sslack_cli"], "requires": ["pytest", "pluggy"], "package": "sslack"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.086325", "required_by": ["WTForms-Alchemy"], "requires": ["WTForms", "six", "validators", "intervals"], "package": "WTForms-Components"}

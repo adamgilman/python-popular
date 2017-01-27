@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.890922", "required_by": ["facehugger"], "requires": ["cv2", "cv", "numpy", "scipy", "pygame", "pil"], "package": "SimpleCV"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.720663", "required_by": ["collective.plonetruegallery", "collective.eeafaceted.collectionwidget", "Products.ATContentTypes", "collective.portlet.calendar", "collective.typecriterion"], "requires": ["setuptools", "plone.app.dexterity", "plone.app.contentmenu", "plone.formwidget.querystring"], "package": "plone.app.collection"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.909959", "required_by": ["groundwork-web"], "requires": ["groundwork", "sqlalchemy", "sphinx", "gitpython"], "package": "groundwork-database"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.301349", "required_by": ["linkbot-jig-programmer", "linkbot_firmware_updater"], "requires": ["pyserial"], "package": "pystk500v2"}

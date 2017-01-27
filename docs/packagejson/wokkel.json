@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.930368", "required_by": ["Ibid", "Turk", "jarn.xmpp.twisted", "idavoll", "brutal", "brutal-ng", "mimir", "collective.xmpp.core", "Watson"], "requires": ["Twisted", "python-dateutil"], "package": "wokkel"}

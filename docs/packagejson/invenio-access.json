@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.870703", "required_by": ["invenio-communities", "zenodo-accessrequests", "invenio-accounts-rest", "CDS"], "requires": ["Flask", "invenio-accounts", "six"], "package": "invenio-access"}

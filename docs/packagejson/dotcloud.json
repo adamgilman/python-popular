@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.256181", "required_by": ["skypipe", "django-deployer"], "requires": ["argparse", "requests", "colorama"], "package": "dotcloud"}

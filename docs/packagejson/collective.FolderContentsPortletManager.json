@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.150980", "required_by": ["collective.leadmedia"], "requires": ["setuptools"], "package": "collective.FolderContentsPortletManager"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.655488", "required_by": ["django-data-schema", "django-query-builder-pebble", "django-query-builder", "django-localized-recurrence"], "requires": ["pytz", "python-dateutil"], "package": "fleming"}

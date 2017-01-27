@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.705120", "required_by": ["sentry-riemann", "supermann", "mannhunter", "riemann-runit"], "requires": ["click", "protobuf"], "package": "riemann-client"}

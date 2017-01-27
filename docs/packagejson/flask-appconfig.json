@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.916058", "required_by": ["ecstatic", "scrypture"], "requires": ["flask", "six", "click"], "package": "flask-appconfig"}

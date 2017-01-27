@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.764128", "required_by": ["dolmen.thumbnailer", "dolmen.content"], "requires": ["setuptools", "zope.schema", "zope.interface"], "package": "dolmen.field"}

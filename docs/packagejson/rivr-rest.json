@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.408986", "required_by": ["rivr-rest-peewee"], "requires": ["rivr", "uritemplate", "negotiator"], "package": "rivr-rest"}

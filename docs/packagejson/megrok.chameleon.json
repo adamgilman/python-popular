@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.361738", "required_by": ["silva.pageactions.base", "menhir.contenttype.photoalbum", "silva.pageactions.printfriendly", "silva.pageactions.pdf", "silva.pageactions.mailpdf"], "requires": ["setuptools", "grokcore.component", "grokcore.view", "Chameleon", "z3c.pt"], "package": "megrok.chameleon"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.165850", "required_by": ["xmla", "olap.rest"], "requires": ["zope.interface", "zope.schema"], "package": "olap"}

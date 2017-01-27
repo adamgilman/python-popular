@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.059098", "required_by": ["cputil"], "requires": ["webob", "six"], "package": "bugsnag"}

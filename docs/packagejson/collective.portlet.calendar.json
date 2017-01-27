@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.596369", "required_by": ["brasil.gov.agenda"], "requires": ["plone.app.collection", "plone.app.portlets", "plone.memoize", "plone.portlets", "Products.CMFCore", "Products.GenericSetup", "setuptools", "zope.component", "zope.interface", "zope.schema"], "package": "collective.portlet.calendar"}

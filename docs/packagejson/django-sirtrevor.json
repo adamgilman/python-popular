@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.169907", "required_by": ["django-conman", "django-sirtrevor-file"], "requires": ["markdown2", "django-appconf", "django", "six"], "package": "django-sirtrevor"}

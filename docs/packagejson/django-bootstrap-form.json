@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.701219", "required_by": ["django-direct", "django-contact-form-bootstrap", "django-user-map", "django-allauth-bootstrap", "turpial-sessions", "varify", "seed-control-interface", "django-djmongo", "fabric-bolt", "django-providerregistry", "djangoautoconf"], "requires": ["django"], "package": "django-bootstrap-form"}

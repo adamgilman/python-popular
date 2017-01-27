@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.331415", "required_by": ["crud_filters"], "requires": ["djangorestframework"], "package": "djangorestframework-expiring-authtoken"}

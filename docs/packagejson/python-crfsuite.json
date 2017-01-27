@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.197632", "required_by": ["sklearn-crfsuite", "companyparser", "crfst", "usaddress", "ChemDataExtractor", "estnltk", "probablepeople"], "requires": [], "package": "python-crfsuite"}

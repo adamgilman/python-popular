@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.559318", "required_by": ["domovoi", "chalice_view"], "requires": ["click", "botocore", "virtualenv", "typing"], "package": "chalice"}

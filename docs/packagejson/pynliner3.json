@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.959444", "required_by": ["django-inlinecss"], "requires": ["BeautifulSoup4", "cssutils"], "package": "pynliner3"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.804128", "required_by": ["hyperbmp"], "requires": ["WebOb", "Paste", "PasteScript", "Tempita", "sven", "setuptools", "docutils"], "package": "svenweb"}

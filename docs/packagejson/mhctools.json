@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.746424", "required_by": ["vaxrank", "topiary", "varlens"], "requires": ["numpy", "pandas", "varcode", "pyensembl", "six", "sercol", "mhcnames"], "package": "mhctools"}

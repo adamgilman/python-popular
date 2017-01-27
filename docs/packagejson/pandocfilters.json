@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.764474", "required_by": ["rst2ipynb", "pandoc-zotxt", "pandoc-numbering", "pandoc-latex-barcode", "pandoc-shortcaption", "better_doc_tool", "pandoc-attributes", "pandoc-listof", "pandoc-latex-environment", "pandoc-internal-references"], "requires": [], "package": "pandocfilters"}

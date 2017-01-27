@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.512249", "required_by": ["plone.app.blocks", "plone.app.theming", "lektor-diazotheme"], "requires": ["setuptools", "lxml", "cssselect", "future", "six"], "package": "diazo"}

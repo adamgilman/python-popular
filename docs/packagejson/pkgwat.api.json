@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.732542", "required_by": ["pkgwat.cli", "gnome-shell-search-fedora-packages"], "requires": ["six", "requests"], "package": "pkgwat.api"}

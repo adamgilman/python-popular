@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.329560", "required_by": ["bambu-blog"], "requires": ["Django", "requests"], "package": "bambu-oembed"}

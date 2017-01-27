@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.966530", "required_by": ["zope.app.fssync", "asm.cmsui", "zope.app.zcmlfiles", "falkolab.ext3.direct", "z3c.securitytool", "collective.recipe.bluebream", "ztfy.webapp", "lovely.tag", "z3c.formdemo"], "requires": ["setuptools", "zope.container", "zope.site", "zope.app.content"], "package": "zope.app.folder"}

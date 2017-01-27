@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.118325", "required_by": ["opensesame-extension-osf"], "requires": ["qtpy", "arrow", "humanize", "python-fileinspector", "requests-oauthlib", "qtawesome"], "package": "python-qosf"}

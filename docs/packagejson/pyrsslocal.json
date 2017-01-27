@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.377433", "required_by": ["actuariat_python", "ensae_projects", "ensae_teaching_cs"], "requires": ["pyquickhelper", "pyensae", "feedparser"], "package": "pyrsslocal"}

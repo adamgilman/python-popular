@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.498067", "required_by": ["openerp-account", "openerp-report-intrastat", "openerp-project", "openerp-procurement", "openerp-mrp", "openerp-account-anglo-saxon", "openerp-stock", "openerp-membership"], "requires": ["openerp-core", "openerp-process", "openerp-decimal-precision", "openerp-mail"], "package": "openerp-product"}

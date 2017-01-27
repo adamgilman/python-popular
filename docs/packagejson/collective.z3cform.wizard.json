@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.010654", "required_by": ["collective.megaphone"], "requires": ["setuptools", "plone.z3cform", "Products.statusmessages", "Zope2"], "package": "collective.z3cform.wizard"}

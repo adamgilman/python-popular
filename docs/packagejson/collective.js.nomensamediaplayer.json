@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.827573", "required_by": ["collective.videoanysurfer"], "requires": ["setuptools", "collective.swfobject", "collective.js.jqueryui"], "package": "collective.js.nomensamediaplayer"}

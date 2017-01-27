@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.028234", "required_by": ["dbt"], "requires": ["greenlet", "requests", "pycontracts", "celery", "gevent", "redis", "six"], "package": "snowplow-tracker"}

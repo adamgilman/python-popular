@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.365348", "required_by": ["ligament-sftp", "ligament-jinja", "ligament-scss", "ligament-markdown", "ligament-coffeescript"], "requires": ["watchdog", "colorama"], "package": "ligament"}

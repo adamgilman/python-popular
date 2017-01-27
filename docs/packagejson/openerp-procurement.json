@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.551198", "required_by": ["openerp-stock-location", "openerp-mrp-jit", "openerp-mrp", "openerp-sale-stock", "openerp-purchase"], "requires": ["openerp-core", "openerp-process", "openerp-product", "openerp-stock"], "package": "openerp-procurement"}

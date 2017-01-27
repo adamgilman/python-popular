@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.627976", "required_by": ["bst.pygasus.core"], "requires": ["setuptools", "fanstatic", "zope.i18n", "python-gettext"], "package": "bst.pygasus.i18n"}

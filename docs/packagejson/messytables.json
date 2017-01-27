@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.943212", "required_by": ["xypath", "messy2sql", "messytables-jts"], "requires": ["xlrd", "python-magic", "chardet", "python-dateutil", "lxml", "requests", "html5lib", "json-table-schema"], "package": "messytables"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.476840", "required_by": ["PyPaPi", "zope.app.wfmc"], "requires": ["setuptools", "zope.component", "ZODB3", "zope.cachedescriptors"], "package": "zope.wfmc"}

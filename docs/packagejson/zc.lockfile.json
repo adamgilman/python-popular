@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.782089", "required_by": ["gocept.lockd", "ztfy.lock", "PyOpenWorm", "yg.lockfile", "collective.dancing", "van.reposync", "RelStorage", "lxxl", "z3c.pypimirror", "pypimirror", "ztfy.scheduler", "DirectoryStorage", "ZEO", "collective.singing"], "requires": [], "package": "zc.lockfile"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.770930", "required_by": ["Flask-Bitmapist"], "requires": ["redis", "python-dateutil", "future", "Mako"], "package": "bitmapist"}

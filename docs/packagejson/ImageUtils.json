@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.854457", "required_by": ["igrep", "yafowil.widget.image"], "requires": ["PIL"], "package": "ImageUtils"}

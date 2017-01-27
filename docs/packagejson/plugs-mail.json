@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.984388", "required_by": ["plugs-auth"], "requires": ["plugs-core", "django-post-office", "cssselect"], "package": "plugs-mail"}

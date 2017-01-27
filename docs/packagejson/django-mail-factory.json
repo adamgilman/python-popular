@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.873912", "required_by": ["django-mailfactory-extras"], "requires": ["html2text"], "package": "django-mail-factory"}

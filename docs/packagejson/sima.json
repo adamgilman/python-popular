@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.812107", "required_by": ["roibuddy"], "requires": ["numpy", "scipy", "scikit-image", "shapely", "scikit-learn", "pillow", "future"], "package": "sima"}

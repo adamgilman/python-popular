@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.914008", "required_by": ["onkyoqt"], "requires": ["docopt", "netifaces"], "package": "onkyo-eiscp"}

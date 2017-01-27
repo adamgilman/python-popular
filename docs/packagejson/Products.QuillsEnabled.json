@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.893183", "required_by": ["Products.QuillsEnabledRemoteBlogging"], "requires": ["setuptools", "quills.app", "Products.basesyndication", "Products.fatsyndication"], "package": "Products.QuillsEnabled"}

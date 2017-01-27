@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.293361", "required_by": ["python-operative", "pyformat", "portia2code", "Flask-Scaffold", "wepay-signer", "pysd", "django_localizejs_seo", "pre_commit_hooks", "skyzyx-set-game-demo"], "requires": [], "package": "autopep8"}

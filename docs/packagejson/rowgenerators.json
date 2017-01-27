@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.795773", "required_by": ["metatab"], "requires": ["fs", "boto", "requests", "petl", "livestats", "filelock"], "package": "rowgenerators"}

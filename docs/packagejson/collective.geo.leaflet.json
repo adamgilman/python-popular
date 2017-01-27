@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.966979", "required_by": ["collective.geo.faceted"], "requires": ["plone.api", "setuptools", "collective.geo.settings", "collective.geo.geographer", "collective.geo.mapwidget", "collective.geo.behaviour", "collective.js.leaflet", "collective.geo.contentlocations", "collective.geo.json"], "package": "collective.geo.leaflet"}

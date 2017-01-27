@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.299688", "required_by": ["zamplugin.sitemanager", "zopeproject", "vice.outbound", "zw.schema", "zc.vault", "ztfy.webapp", "lovely.tag", "z3c.iplocation", "getpaid.report"], "requires": ["setuptools", "zope.intid", "zope.security", "zope.traversing"], "package": "zope.app.intid"}

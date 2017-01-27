@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.666278", "required_by": ["ptestpypi", "balanced-ach"], "requires": ["certifi", "chardet", "requests"], "package": "wac"}

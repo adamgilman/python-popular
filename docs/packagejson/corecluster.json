@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.669767", "required_by": ["coretalk", "coredhcp"], "requires": ["corenetwork", "django-timedeltafield", "redis"], "package": "corecluster"}

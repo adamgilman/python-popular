@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.707184", "required_by": ["wasgehtengine.policy"], "requires": ["setuptools", "wasgehtengine.contenttypes", "collective.transmogrifier", "transmogrify.dexterity", "transmogrify.xmlsource", "transmogrify.pathsorter", "plone.app.transmogrifier", "html5lib", "requests", "chardet"], "package": "wasgehtengine.import"}

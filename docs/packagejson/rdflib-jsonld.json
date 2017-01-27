@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.400294", "required_by": ["hyperspace", "ld4apps", "kleio", "schema-salad", "setlr", "SeasObjects_for_Python", "ferenda", "ontospy", "xwot-yadp", "nidmviewer", "xgitberg", "SNOMEDToOWL"], "requires": ["rdflib"], "package": "rdflib-jsonld"}

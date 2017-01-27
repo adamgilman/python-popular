@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.011961", "required_by": ["z3c.recipe.depgraph", "gtkeggdeps"], "requires": ["setuptools"], "package": "tl.eggdeps"}

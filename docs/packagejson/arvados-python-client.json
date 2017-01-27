@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.809287", "required_by": ["arvados-cwl-runner", "arvados-node-manager", "arvados-pam", "arvados_fuse"], "requires": ["google-api-python-client", "oauth2client", "ciso8601", "httplib2", "pycurl", "python-gflags", "setuptools", "ws4py", "ruamel.yaml"], "package": "arvados-python-client"}

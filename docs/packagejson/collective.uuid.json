@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.842760", "required_by": ["vice.outbound"], "requires": ["setuptools", "collective.baseid", "uuid"], "package": "collective.uuid"}

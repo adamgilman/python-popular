@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.517066", "required_by": ["tweeql2solr"], "requires": ["tweepy", "pyparsing", "sqlalchemy", "ordereddict", "geopy"], "package": "tweeql"}

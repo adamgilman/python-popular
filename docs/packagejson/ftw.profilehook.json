@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.273359", "required_by": ["ftw.contentpage", "ftw.billboard", "ftw.file", "ftw.inflator", "ftw.blog", "ftw.book", "ftw.gopip", "collective.lastmodifier", "ftw.bridge.client", "ftw.events", "ftw.permissionmanager", "ftw.redirector"], "requires": ["Plone", "setuptools"], "package": "ftw.profilehook"}

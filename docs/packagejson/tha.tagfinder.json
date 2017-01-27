@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.988207", "required_by": ["sdistmaker", "tha.taglist", "tha.sdistmaker"], "requires": ["setuptools"], "package": "tha.tagfinder"}

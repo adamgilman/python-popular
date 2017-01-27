@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.080949", "required_by": ["django-rest-issues", "django-fluent-comments", "django-threadedcomments", "django-bogofilter", "django-blog-zinnia"], "requires": ["Django"], "package": "django-contrib-comments"}

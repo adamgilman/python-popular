@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.830667", "required_by": ["parsel", "crawl-frontier", "portia2code", "formasaurus", "frontera", "summary-extraction", "autopager", "scrapely"], "requires": ["six"], "package": "w3lib"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.691955", "required_by": ["dicom2fem", "quantan"], "requires": ["numpy", "scipy", "pydicom"], "package": "pysegbase"}

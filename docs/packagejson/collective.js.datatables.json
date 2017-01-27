@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.655999", "required_by": ["collective.listusers", "collective.localrolesdatatables", "collective.readitlater", "comuneimola.compensi", "collective.pfg.soup", "collective.table", "collective.wpadmin", "collective.portlet.group", "iwwb.eventlist"], "requires": [], "package": "collective.js.datatables"}

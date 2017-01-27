@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.253242", "required_by": ["cchen224-ec2"], "requires": ["requests", "six"], "package": "foursquare"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.453253", "required_by": ["fragapy", "django-carrousel", "django-adminhelp", "django-nupages", "django-joyride", "django-responsive-dashboard"], "requires": ["Django", "setuptools"], "package": "django-positions"}

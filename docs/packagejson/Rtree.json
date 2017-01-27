@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.063315", "required_by": ["zgeo.spatialindex", "collective.geo.index", "pandarus", "OSMnx", "geotweet", "zgeo.wfs"], "requires": ["setuptools"], "package": "Rtree"}

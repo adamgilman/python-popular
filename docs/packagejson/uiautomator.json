@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.752646", "required_by": ["uiautomatorplug", "magneto", "robotframework-uiautomatorlibrary"], "requires": ["urllib3"], "package": "uiautomator"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.056107", "required_by": ["wazimap", "vumi-go", "django-pipeline-forgiving", "o2w_web", "libsasscompiler", "DjangoExtrasKarumi", "spud", "django-pipeline-browserify", "django-docviewer", "django-pipejam", "rapid-router", "o2w_cms", "django-spine", "django-pipeline-eco", "molly"], "requires": [], "package": "django-pipeline"}

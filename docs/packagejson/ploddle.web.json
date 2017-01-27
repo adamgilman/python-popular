@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.840390", "required_by": ["ploddle"], "requires": ["pymongo", "pyramid"], "package": "ploddle.web"}

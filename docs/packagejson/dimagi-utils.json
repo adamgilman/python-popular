@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.892653", "required_by": ["couchforms", "casexml", "couchexport", "pillowtop", "receiver", "pillowfluff"], "requires": ["jsonobject-couchdbkit", "django", "django-redis", "mock", "openpyxl", "Pillow", "python-dateutil", "pytz", "simplejson", "unittest2", "celery", "django-devserver"], "package": "dimagi-utils"}

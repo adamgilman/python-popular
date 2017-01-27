@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.897311", "required_by": ["pyobjc-framework-CoreLocation"], "requires": ["py2app", "pyobjc-framework-Cocoa", "pyobjc-framework-CoreLocation"], "package": "pyobjc-framework-CoreLocation"}

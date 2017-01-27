@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.983356", "required_by": ["launch-control", "IXOpenIDClient", "nodeconductor-auth-openid"], "requires": [], "package": "django-openid-auth"}

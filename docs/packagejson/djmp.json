@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.766344", "required_by": ["django-registry"], "requires": ["Django", "MapProxy", "PyYAML", "django-tastypie", "Shapely", "psutil", "pyproj"], "package": "djmp"}

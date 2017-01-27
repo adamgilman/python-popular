@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.803556", "required_by": ["SQLAuthStorePlugin", "TracPwAuth", "TracDjangoAuth", "TracIMAPAuth", "HtBlowfishStorePlugin", "TracLDAPAuth", "ClueMapperSecure"], "requires": ["Genshi", "Trac"], "package": "TracAccountManager"}

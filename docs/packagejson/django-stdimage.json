@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.166058", "required_by": ["django-sponsors"], "requires": ["pillow", "progressbar2"], "package": "django-stdimage"}

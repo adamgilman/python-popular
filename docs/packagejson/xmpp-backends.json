@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.003911", "required_by": ["django-xmpp-backends"], "requires": ["six"], "package": "xmpp-backends"}

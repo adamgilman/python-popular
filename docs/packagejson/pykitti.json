@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.307901", "required_by": ["kitti2bag"], "requires": ["numpy", "matplotlib"], "package": "pykitti"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.824905", "required_by": ["mirror.pfg"], "requires": ["setuptools", "SQLAlchemy", "zope.sqlalchemy", "zope.component", "zope.event", "zope.schema"], "package": "ore.contentmirror"}

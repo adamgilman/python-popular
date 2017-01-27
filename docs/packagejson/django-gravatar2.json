@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.195272", "required_by": ["teamvault", "django-mailman3", "dartcms"], "requires": [], "package": "django-gravatar2"}

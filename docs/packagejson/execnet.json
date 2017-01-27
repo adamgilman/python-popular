@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.573211", "required_by": ["fowler.corpora", "ploy_ansible", "rk", "pytest-cache", "inmanta", "pytest-xdist", "batou", "bu", "mr.awsome.ansible"], "requires": ["apipkg"], "package": "execnet"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.333624", "required_by": ["django-direct"], "requires": ["dnspython", "python-ldap", "pyopenssl", "cryptography", "requests"], "package": "getdc"}

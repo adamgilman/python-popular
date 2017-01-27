@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.826604", "required_by": ["dsmsfilepackager"], "requires": ["paramiko"], "package": "sftpsyncer"}

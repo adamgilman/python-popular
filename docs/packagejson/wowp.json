@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.869353", "required_by": ["chagallpy"], "requires": ["decorator", "future", "networkx", "nose", "six"], "package": "wowp"}

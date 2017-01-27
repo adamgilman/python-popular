@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.270514", "required_by": ["falcon-api"], "requires": ["coreapi", "werkzeug", "jinja2", "uritemplate"], "package": "api-star"}

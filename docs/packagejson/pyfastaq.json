@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.502664", "required_by": ["bio_assembly_refinement", "farm_blast", "pymummer", "circlator", "iva", "ariba"], "requires": [], "package": "pyfastaq"}

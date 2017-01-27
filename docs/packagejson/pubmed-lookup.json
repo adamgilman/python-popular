@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.974356", "required_by": ["djangocms-lab-publications"], "requires": ["biopython", "xmltodict"], "package": "pubmed-lookup"}

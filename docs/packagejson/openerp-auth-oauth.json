@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.472465", "required_by": ["openerp-auth-oauth-signup"], "requires": ["openerp-core", "openerp-web", "openerp-base-setup"], "package": "openerp-auth-oauth"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.522583", "required_by": ["Fulfil-Shop", "glb"], "requires": ["Flask", "redis"], "package": "Flask-Redis"}

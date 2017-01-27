@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.843202", "required_by": ["Products.PloneOrg"], "requires": ["setuptools", "Products.PloneFormGen", "Products.ContentWellPortlets", "collective.portlet.collectionmultiview", "plone.i18n"], "package": "ploneorg.kudobounty"}

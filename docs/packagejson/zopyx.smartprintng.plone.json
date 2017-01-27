@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.059145", "required_by": ["zopyx.authoring"], "requires": ["setuptools", "BeautifulSoup", "zopyx.smartprintng.client", "zopyx.convert2", "lxml", "uuid", "Pillow", "archetypes.schemaextender", "unittest2"], "package": "zopyx.smartprintng.plone"}

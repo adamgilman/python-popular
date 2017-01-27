@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.652920", "required_by": ["microcosm_daemon", "microcosm-flask", "microcosm_pubsub", "microcosm-dynamodb"], "requires": ["loggly-python-handler", "microcosm", "python-json-logger", "requests[security"], "package": "microcosm-logging"}

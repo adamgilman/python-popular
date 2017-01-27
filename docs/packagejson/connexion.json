@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.744642", "required_by": ["flarecast-service"], "requires": ["clickclick", "flask", "jsonschema", "PyYAML", "requests", "six", "strict-rfc3339", "swagger-spec-validator"], "package": "connexion"}

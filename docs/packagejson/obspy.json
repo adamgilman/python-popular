@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.901611", "required_by": ["pisces-db", "pyflex", "obspyh5", "pytomo3d", "pyseries", "EQcorrscan"], "requires": [], "package": "obspy"}

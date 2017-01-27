@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.760016", "required_by": ["plonetheme.bootstrap"], "requires": ["setuptools", "plone.app.jquery"], "package": "collective.js.bootstrap"}

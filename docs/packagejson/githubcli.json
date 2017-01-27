@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.244390", "required_by": ["awesome-aws"], "requires": ["click", "docopt", "tabulate", "colorama", "Pillow", "requests", "uritemplate.py"], "package": "githubcli"}

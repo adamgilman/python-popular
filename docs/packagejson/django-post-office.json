@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.067236", "required_by": ["django-rest-issues", "plugs-mail", "django-shop"], "requires": [], "package": "django-post-office"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.895328", "required_by": ["zeam.form.silva"], "requires": ["grokcore.component", "grokcore.chameleon", "megrok.pagetemplate", "setuptools", "zeam.form.base", "zeam.form.composed", "zeam.utils.batch", "zope.component", "zope.interface", "zope.i18nmessageid"], "package": "zeam.form.table"}

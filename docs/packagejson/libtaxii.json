@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.637673", "required_by": ["cti-toolkit", "taxii-services"], "requires": ["lxml", "python-dateutil", "six"], "package": "libtaxii"}

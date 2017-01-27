@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.841427", "required_by": ["collective.local.workspace", "collective.local.addgroup"], "requires": ["setuptools", "plone.app.users", "plone.app.workflow"], "package": "collective.local.adduser"}

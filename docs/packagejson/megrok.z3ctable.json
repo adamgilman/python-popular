@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.635175", "required_by": ["dolmen.app.container", "megrok.z3cform.tabular"], "requires": ["grokcore.component", "grokcore.layout", "grokcore.view", "martian", "setuptools", "z3c.table", "zope.component", "zope.publisher"], "package": "megrok.z3ctable"}

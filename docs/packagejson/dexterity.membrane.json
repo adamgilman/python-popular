@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.921790", "required_by": ["ploneintranet", "collective.contact.membrane"], "requires": ["Products.CMFPlone", "Products.membrane", "bcrypt", "collective.indexing", "plone.app.dexterity", "plone.app.referenceablebehavior", "setuptools", "zope.deprecation"], "package": "dexterity.membrane"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.116169", "required_by": ["interlegis.portalmodelo.policy"], "requires": ["plone.app.theming", "plone.theme", "Products.GenericSetup", "setuptools", "zope.component", "zope.interface", "z3c.jbot"], "package": "interlegis.portalmodelo.theme"}

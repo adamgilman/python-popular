@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.801161", "required_by": ["flask-paypal", "nodeconductor-paypal", "djangoshop-paypal", "pretix"], "requires": ["requests", "six", "pyopenssl"], "package": "paypalrestsdk"}

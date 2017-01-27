@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.780239", "required_by": ["Zambi", "pymangrove", "behave_cli", "kloudi", "C3"], "requires": ["Jinja2", "boto", "httpretty", "requests", "xmltodict", "six", "werkzeug", "pytz", "python-dateutil"], "package": "moto"}

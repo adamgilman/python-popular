@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.481184", "required_by": ["sas", "ctypeslib2", "cxx2rs", "crange"], "requires": ["libclang"], "package": "clang"}

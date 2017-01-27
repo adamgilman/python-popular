@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.319314", "required_by": ["SQLAlchemy-Searchable", "palvin", "invenio-files-rest", "PostgreSQL-Audit", "WTForms-Alchemy", "piecash", "sqlalchemy_json_api", "invenio-db", "SQLAlchemy-i18n", "lymph-sqlalchemy", "etlalchemy", "stellar", "ShelfCMS"], "requires": ["six", "SQLAlchemy"], "package": "SQLAlchemy-Utils"}

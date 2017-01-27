@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.025564", "required_by": ["seishub.plugins.seismology", "seishub.plugins.exupery"], "requires": [], "package": "obspy.mseed"}

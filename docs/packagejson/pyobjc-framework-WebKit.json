@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.813457", "required_by": ["pyobjc-framework-WebKit"], "requires": ["py2app", "pyobjc-framework-Cocoa", "pyobjc-framework-WebKit"], "package": "pyobjc-framework-WebKit"}

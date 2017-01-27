@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.779658", "required_by": ["django-geojson-tiles"], "requires": ["ModestMaps", "simplejson", "Werkzeug", "Pillow"], "package": "TileStache"}

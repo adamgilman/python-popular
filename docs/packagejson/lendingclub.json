@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.689851", "required_by": ["lcinvestor"], "requires": ["requests", "beautifulsoup4", "html5lib", "pybars"], "package": "lendingclub"}

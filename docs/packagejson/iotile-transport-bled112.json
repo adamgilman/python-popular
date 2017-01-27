@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.390524", "required_by": ["iotile-gateway"], "requires": ["iotile-core", "pyserial"], "package": "iotile-transport-bled112"}

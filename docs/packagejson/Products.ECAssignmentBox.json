@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.823332", "required_by": ["Products.ECGraphBox", "Products.ECAutoAssessmentBox"], "requires": ["setuptools"], "package": "Products.ECAssignmentBox"}

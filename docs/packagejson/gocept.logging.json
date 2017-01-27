@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.883022", "required_by": ["ws.ddns"], "requires": ["setuptools"], "package": "gocept.logging"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.703781", "required_by": ["wq.db"], "requires": ["Django", "pystache"], "package": "django-mustache"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.854903", "required_by": ["redturtle.portletpage.views", "vs.dashboardmanager", "wmowonen.theme"], "requires": ["setuptools", "Products.CMFPlone", "plone.portlets", "plone.app.portlets", "archetypes.configure"], "package": "collective.portletpage"}

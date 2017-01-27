@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.948982", "required_by": ["slc.cleanwordpastedtext", "collective.opensearch", "collective.transform.kml"], "requires": ["lxml", "six"], "package": "htmllaundry"}

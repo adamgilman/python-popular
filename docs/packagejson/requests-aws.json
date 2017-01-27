@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.313302", "required_by": ["httpie-aws-auth", "rgwadmin", "cabu"], "requires": ["requests"], "package": "requests-aws"}

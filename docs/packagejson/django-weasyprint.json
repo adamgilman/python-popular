@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.033570", "required_by": ["mapentity", "django-arquea"], "requires": ["django", "WeasyPrint"], "package": "django-weasyprint"}

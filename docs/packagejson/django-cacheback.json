@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.670043", "required_by": ["django-popularity-mixin"], "requires": ["django"], "package": "django-cacheback"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.981667", "required_by": ["longtang"], "requires": ["audioread", "requests"], "package": "pyacoustid"}

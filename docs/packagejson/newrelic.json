@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.740547", "required_by": ["mythicals", "django-newrelic-extensions", "django-healthcheck", "magic-xxl", "juicy-fruits", "collective.newrelic", "materiality.commons", "webportfolio-extras", "recapturedocs"], "requires": [], "package": "newrelic"}

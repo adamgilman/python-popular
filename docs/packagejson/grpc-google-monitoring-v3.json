@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.485108", "required_by": ["gapic-google-monitoring-v3"], "requires": ["oauth2client", "grpcio", "googleapis-common-protos[grpc"], "package": "grpc-google-monitoring-v3"}

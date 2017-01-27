@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.069425", "required_by": ["ftw.publisher.sender", "ftw.publisher.receiver"], "requires": ["AccessControl", "Products.Archetypes", "Products.CMFCore", "ZConfig", "ZODB3", "Zope2", "plone.app.blob", "plone.portlets", "setuptools", "zope.component", "zope.dottedname", "zope.i18nmessageid", "zope.interface"], "package": "ftw.publisher.core"}

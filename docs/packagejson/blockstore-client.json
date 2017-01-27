@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.886382", "required_by": ["blockstore", "registrar"], "requires": ["boto", "basicrpc", "virtualchain", "protocoin"], "package": "blockstore-client"}

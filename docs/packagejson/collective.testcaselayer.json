@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.280475", "required_by": ["collective.synchronisedworkflow", "seantis.dir.council", "seantis.dir.roadworks", "collective.fourohfour", "experimental.atrefspeedup", "collective.alias"], "requires": ["setuptools", "zope.testing", "collective.monkeypatcher"], "package": "collective.testcaselayer"}

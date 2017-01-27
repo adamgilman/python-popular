@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.269031", "required_by": ["zinnia-to-puput"], "requires": ["beautifulsoup4", "django-contrib-comments", "django-mptt", "django-tagging", "django-xmlrpc", "mots-vides", "pillow", "pyparsing", "pytz", "regex"], "package": "django-blog-zinnia"}

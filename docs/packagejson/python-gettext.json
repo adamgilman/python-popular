@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.060551", "required_by": ["cc.gettext", "Products.PlacelessTranslationService", "bst.pygasus.i18n", "pymget", "cc.licenserdf", "alignak_webui", "chamonix", "van.potomo", "dm.zope.reseller", "zest.pocompile"], "requires": [], "package": "python-gettext"}

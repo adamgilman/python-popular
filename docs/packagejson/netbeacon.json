@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.835682", "required_by": ["clipsync"], "requires": ["netifaces"], "package": "netbeacon"}

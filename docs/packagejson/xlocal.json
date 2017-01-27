@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.803351", "required_by": ["codd"], "requires": ["pytest-cache", "pytest", "pep8"], "package": "xlocal"}

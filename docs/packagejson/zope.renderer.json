@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.186870", "required_by": ["zope.apidoc"], "requires": ["setuptools", "docutils", "roman", "zope.component", "zope.configuration", "zope.i18nmessageid", "zope.interface", "zope.publisher", "zope.schema", "zope.structuredtext"], "package": "zope.renderer"}

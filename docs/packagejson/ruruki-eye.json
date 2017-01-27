@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.295556", "required_by": ["funnel-web"], "requires": ["ruruki", "flask", "flask-cors"], "package": "ruruki-eye"}

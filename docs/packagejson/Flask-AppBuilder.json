@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.393039", "required_by": ["fab-addon-audit"], "requires": ["colorama", "click", "Flask", "Flask-Babel", "Flask-Login", "Flask-OpenID", "Flask-SQLAlchemy", "Flask-WTF"], "package": "Flask-AppBuilder"}

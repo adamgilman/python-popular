@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.680491", "required_by": ["django-wordpress-rest"], "requires": ["Django"], "package": "django-after-response"}

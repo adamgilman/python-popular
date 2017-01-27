@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.955698", "required_by": ["anastasia", "permabots", "dirvishbot", "telegram-send", "telebotty", "telegram-pi-bot", "microbot", "django-telegrambot", "jabbergram", "ownbot", "py_support", "adminbot", "digimat.telegram", "django-telegram-bot", "mr_bot"], "requires": [], "package": "python-telegram-bot"}

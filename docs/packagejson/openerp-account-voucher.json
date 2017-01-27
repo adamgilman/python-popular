@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.616783", "required_by": ["openerp-account-accountant", "openerp-account-check-writing", "openerp-account-payment", "openerp-sale", "openerp-l10n-be-coda", "openerp-hr-expense"], "requires": ["openerp-account"], "package": "openerp-account-voucher"}

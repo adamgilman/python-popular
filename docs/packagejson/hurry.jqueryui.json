@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.746641", "required_by": ["hurry.jquerylayout", "hurry.jqgrid"], "requires": ["setuptools", "hurry.resource", "hurry.jquery"], "package": "hurry.jqueryui"}

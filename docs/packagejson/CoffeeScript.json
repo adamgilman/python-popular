@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.585734", "required_by": ["eco", "flask-coffee2js", "weppy-Assets", "jidoka", "fixxd", "grace", "django-sassy-coffee", "ligament-coffeescript", "django-assets-toolkit"], "requires": ["PyExecJS"], "package": "CoffeeScript"}

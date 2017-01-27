@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.704831", "required_by": ["plone.mls.listing", "ps.plone.mls"], "requires": ["setuptools", "requests"], "package": "mls.apiclient"}

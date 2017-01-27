@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.265951", "required_by": ["behaving", "catsnap", "pp.core", "aeroport", "jasmine-splinter-runner", "pyfunct", "codeedu", "invenio-client", "redrover", "esgf-test-suite", "salad", "mh-ui-testing", "browler", "pytest-splinter"], "requires": ["selenium"], "package": "splinter"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.088618", "required_by": ["sqla_declarative", "tw2.jit", "tw2.jqplugins.jqgrid"], "requires": ["tw2.forms", "tw2.dynforms", "sqlalchemy", "zope.sqlalchemy"], "package": "tw2.sqla"}

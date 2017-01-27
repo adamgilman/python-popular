@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.542332", "required_by": ["answeroid", "voicetools", "wol", "HeyAthena", "AthenaVoice", "wolfansweroid", "pmxbot-wolframalpha", "WillPy"], "requires": ["six", "xmltodict", "jaraco.itertools"], "package": "wolframalpha"}

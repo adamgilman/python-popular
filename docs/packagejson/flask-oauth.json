@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.494485", "required_by": ["trytond_nereid_auth_linkedin", "trytond_nereid_auth_github"], "requires": [], "package": "flask-oauth"}

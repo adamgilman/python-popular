@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.296939", "required_by": ["opendxmc", "pygauss", "PyGSP", "sphaira", "biodocks", "omgl", "glue-vispy-viewers", "PyOpenGL_game", "qtplot", "glfw-cffi"], "requires": [], "package": "pyopengl"}

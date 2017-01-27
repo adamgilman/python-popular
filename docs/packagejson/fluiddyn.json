@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.029047", "required_by": ["fluidimage", "fluidsim", "pymanip", "fluidlab"], "requires": ["numpy", "matplotlib", "psutil", "future"], "package": "fluiddyn"}

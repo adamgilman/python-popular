@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.879521", "required_by": ["encarne"], "requires": ["terminaltables", "daemonize", "colorclass"], "package": "pueue"}

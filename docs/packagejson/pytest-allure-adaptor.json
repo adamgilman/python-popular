@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.911883", "required_by": ["nose-allure-plugin", "robotframework-allurereport"], "requires": ["lxml", "pytest", "namedlist", "six"], "package": "pytest-allure-adaptor"}

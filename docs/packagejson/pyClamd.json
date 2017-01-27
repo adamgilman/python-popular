@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.715114", "required_by": ["django-clamav-upload", "edeposit.amqp.antivirus"], "requires": [], "package": "pyClamd"}

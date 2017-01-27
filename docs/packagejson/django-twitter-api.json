@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.031559", "required_by": ["django-twitter-relations-history"], "requires": ["django", "django-annoying", "django-picklefield", "django-m2m-history", "django-oauth-tokens", "django-m2m-history", "tweepy"], "package": "django-twitter-api"}

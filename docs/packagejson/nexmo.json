@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.358180", "required_by": ["QTPyLib", "django-nexmo"], "requires": ["requests", "PyJWT", "cryptography"], "package": "nexmo"}

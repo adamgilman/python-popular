@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.393909", "required_by": ["silva.core.editor"], "requires": ["fanstatic", "setuptools"], "package": "js.ckeditor"}

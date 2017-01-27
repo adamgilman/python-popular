@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.775481", "required_by": ["sentry", "django-countries-field", "django-mptt-acl"], "requires": ["Django", "six"], "package": "django-bitfield"}

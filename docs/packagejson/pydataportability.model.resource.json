@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.695166", "required_by": ["pydataportability.discovery", "pydataportability.xrd"], "requires": ["setuptools", "zope.interface"], "package": "pydataportability.model.resource"}

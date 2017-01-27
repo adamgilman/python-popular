@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.362806", "required_by": ["catan-spectator"], "requires": ["hexgrid", "catanlog", "undoredo"], "package": "catan"}

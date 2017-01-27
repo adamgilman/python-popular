@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.713807", "required_by": ["z3c.boston", "ztfy.blog", "z3c.menu", "z3c.formjsdemo", "zcontact", "z3c.rotterdam", "z3c.skin.pagelet"], "requires": ["setuptools", "zope.viewlet", "zope.deferredimport"], "package": "z3c.viewlet"}

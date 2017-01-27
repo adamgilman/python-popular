@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.297892", "required_by": ["katdal"], "requires": ["numpy", "pyephem"], "package": "katpoint"}

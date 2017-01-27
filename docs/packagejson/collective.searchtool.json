@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.548208", "required_by": ["archetypes.searchwidget"], "requires": ["setuptools", "plone.z3cform"], "package": "collective.searchtool"}

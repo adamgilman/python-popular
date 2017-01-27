@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.280571", "required_by": ["plonetheme.zm", "Products.DateRecurringIndex", "collective.venue"], "requires": ["setuptools", "python-dateutil", "pytz", "zope.component", "zope.interface"], "package": "plone.event"}

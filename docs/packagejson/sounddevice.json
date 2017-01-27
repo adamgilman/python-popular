@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.710279", "required_by": ["aupyom", "TranscriptBot", "sunvosc", "music_sampler"], "requires": ["CFFI"], "package": "sounddevice"}

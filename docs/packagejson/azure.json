@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.091535", "required_by": ["cloudengine", "kozinaki", "docker-storm", "django-azure-storage2", "simpleazure", "alx", "azuremonitor"], "requires": ["azure-mgmt", "azure-batch", "azure-servicebus", "azure-storage", "azure-servicemanagement-legacy"], "package": "azure"}

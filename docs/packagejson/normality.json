@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.087186", "required_by": ["fiscalmodel", "countrynames", "jtssql", "cronosparser", "typecast", "jsongraph", "babbage", "jsonmapping", "googlesheets", "fingerprints", "dataset"], "requires": ["six", "chardet"], "package": "normality"}

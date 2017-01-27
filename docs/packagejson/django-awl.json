@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.136104", "required_by": ["django-dform"], "requires": ["Django", "wrench"], "package": "django-awl"}

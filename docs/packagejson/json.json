@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.915383", "required_by": ["yfinanceapi", "task-indicator", "jsonrpc_wrapper", "shapelets", "FileWaveAPI", "swarmclient", "aneel", "recommendy", "teamlab", "logline", "Repack", "PYroMat", "rlda", "pushio", "dataTAD", "megaplan", "abstrys-toolkit", "Spidy", "geojoin"], "requires": [], "package": "json"}

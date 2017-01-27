@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.315669", "required_by": ["Eggcelerator", "s3_cmd_website", "quanthub", "micropress"], "requires": ["python-dateutil", "python-magic"], "package": "s3cmd"}

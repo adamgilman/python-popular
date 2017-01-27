@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.729222", "required_by": ["ClueBzrServer", "oerpenv", "lp-helpers", "lpdistutils", "launchpad-buildd", "anybox.buildbot.openerp", "bzr-pqm", "wheeljack", "odooenv", "MCREPOGEN", "lava-dev-tool", "bzrsync"], "requires": [], "package": "bzr"}

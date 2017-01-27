@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.528062", "required_by": ["sploitego"], "requires": ["mr.bob", "argparse", "flask", "Twisted", "safedexml"], "package": "canari"}

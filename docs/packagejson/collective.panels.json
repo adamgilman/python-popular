@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.939413", "required_by": ["quintagroup.megamenu", "collective.portlet.carousel"], "requires": ["setuptools", "plone.app.portlets"], "package": "collective.panels"}

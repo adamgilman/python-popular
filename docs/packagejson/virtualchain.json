@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.121267", "required_by": ["blockstack", "blockstore", "blockstack-server", "blockstack-client", "blockstack-core", "blockstore-client"], "requires": ["pybitcoin", "bitcoin", "utilitybelt", "protocoin", "simplejson"], "package": "virtualchain"}

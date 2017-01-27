@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.282065", "required_by": ["ClueReleaseManager.paste"], "requires": ["setuptools", "SQLAlchemy", "repoze.who", "Werkzeug", "Jinja2", "docutils"], "package": "ClueReleaseManager"}

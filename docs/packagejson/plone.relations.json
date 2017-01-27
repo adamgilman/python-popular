@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.016897", "required_by": ["plone.app.relations"], "requires": ["setuptools", "zc.relationship", "five.intid", "zope.container", "zope.intid", "zope.lifecycleevent", "zope.site", "Zope2"], "package": "plone.relations"}

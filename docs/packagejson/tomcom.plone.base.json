@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.598028", "required_by": ["tomcom.plone.easyvoc", "tomcom.plone.csssort", "tomcom.plone.jssort"], "requires": ["setuptools", "jarn.jsi18n", "tomcom.plone.ptregistry", "tomcom.plone.fontawesome", "tomcom.plone.bootstrap"], "package": "tomcom.plone.base"}

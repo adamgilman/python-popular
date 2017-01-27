@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.164670", "required_by": ["betamax-matchers", "betamax-serializers"], "requires": ["requests"], "package": "betamax"}

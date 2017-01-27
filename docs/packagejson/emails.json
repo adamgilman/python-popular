@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.652875", "required_by": ["intercity-tickets", "flask-emails"], "requires": ["cssutils", "lxml", "chardet", "python-dateutil", "requests", "premailer"], "package": "emails"}

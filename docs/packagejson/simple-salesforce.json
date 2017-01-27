@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.181112", "required_by": ["salesforce-bulkipy"], "requires": ["requests[security"], "package": "simple-salesforce"}

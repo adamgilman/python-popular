@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.598433", "required_by": ["ia-markov", "helga-markovify", "markov-novel"], "requires": ["unidecode"], "package": "markovify"}

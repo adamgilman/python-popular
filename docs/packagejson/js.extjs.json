@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.044657", "required_by": ["bst.pygasus.core", "bst.pygasus.resources"], "requires": ["fanstatic", "setuptools"], "package": "js.extjs"}

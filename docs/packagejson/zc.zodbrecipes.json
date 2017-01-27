@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.286559", "required_by": ["gocept.zeoraid"], "requires": ["zc.buildout", "setuptools", "six", "zc.recipe.egg", "ZConfig"], "package": "zc.zodbrecipes"}

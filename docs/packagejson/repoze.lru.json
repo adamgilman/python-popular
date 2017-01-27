@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.521066", "required_by": ["birding", "reg", "mobi.caching", "Internet-in-a-Box", "storm-drpc-client", "jsonpublish", "Routes", "kliko", "etiquetando", "yahi", "ines", "pybald-routes", "TurboGears2", "infrae.cache", "version-manager", "abclinuxuapi", "pesto"], "requires": [], "package": "repoze.lru"}

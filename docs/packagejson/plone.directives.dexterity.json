@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.266764", "required_by": ["collective.filepreviewbehavior", "ploneintranet", "plone.multilingualbehavior", "s17.taskmanager"], "requires": ["setuptools", "five.grok", "plone.dexterity", "plone.directives.form", "zope.deferredimport"], "package": "plone.directives.dexterity"}

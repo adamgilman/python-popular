@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.886864", "required_by": ["rejester", "coordinate", "dblogger", "dossier.label", "dossier.web", "dossier.store", "kvlayer", "kvlayer_mysql"], "requires": ["pyyaml", "six"], "package": "yakonfig"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.185016", "required_by": ["quokka-flask-mongoengine", "flask-admin-lite", "SwearJar", "idq", "poff", "pasture", "acitoolkit", "Flask-Generic-Views", "flask-boilerplate-utils", "abel-airflow", "muxi", "flaskckeditor", "trytond_nereid", "flask-zeus"], "requires": [], "package": "flask-wtf"}

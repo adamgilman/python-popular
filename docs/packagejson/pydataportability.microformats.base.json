@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.463461", "required_by": ["pydataportability.microformats.hcard", "pydataportability.microformats.xfn", "pydataportability.examples"], "requires": ["setuptools", "zope.component", "elementtree"], "package": "pydataportability.microformats.base"}

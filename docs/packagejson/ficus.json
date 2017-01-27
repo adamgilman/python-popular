@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.887252", "required_by": ["dammit", "shmlast"], "requires": ["nose", "matplotlib", "nose-capturestderr"], "package": "ficus"}

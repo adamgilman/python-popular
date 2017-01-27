@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.982355", "required_by": ["ctable"], "requires": ["jsonobject-couchdbkit", "pillowtop", "dimagi-utils", "pytz", "SQLAlchemy", "alembic"], "package": "pillowfluff"}

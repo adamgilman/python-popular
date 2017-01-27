@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.717753", "required_by": ["sentry", "django-paging", "django-taggit-templatetags", "qgis-plugins", "django-sentry"], "requires": [], "package": "django-templatetag-sugar"}

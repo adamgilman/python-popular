@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.657378", "required_by": ["KegElements", "Flask-Simple-Serializer", "flask-wtf-alchemy-utils", "Flask-Marcos", "ShelfCMS"], "requires": ["SQLAlchemy", "WTForms", "WTForms-Components", "SQLAlchemy-Utils", "six"], "package": "WTForms-Alchemy"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.799821", "required_by": ["collective.transform.docbook"], "requires": ["nose", "BeautifulSoup", "lxml"], "package": "html2docbook"}

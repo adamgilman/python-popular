@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.770105", "required_by": ["Products.PloneOrg", "Products.eXtremeManagement"], "requires": ["setuptools", "Products.CMFPlone", "Products.AddRemoveWidget", "Products.DataGridField", "collective.watcherlist", "plone.app.blob", "plone.namedfile"], "package": "Products.Poi"}

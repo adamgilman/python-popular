@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.265271", "required_by": ["epigrass", "logtools", "redturtle.entiterritoriali"], "requires": ["SQLAlchemy"], "package": "sqlsoup"}

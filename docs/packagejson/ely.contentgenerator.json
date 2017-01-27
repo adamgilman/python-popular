@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.898093", "required_by": ["ely.contentgenerator"], "requires": ["setuptools", "ely.contentgenerator", "elementtree"], "package": "ely.contentgenerator"}

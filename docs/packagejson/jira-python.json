@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.977957", "required_by": ["python-jira-analysis", "kaichu", "rss2jira", "jira_clt", "githubsurvivor", "kafka-dev-tools"], "requires": [], "package": "jira-python"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.007290", "required_by": ["donkey-make", "aio_yamlconfig", "trafaret_validator", "behave-rest", "trafaret-config", "django-happymailer", "Flask-MongoSet"], "requires": [], "package": "trafaret"}

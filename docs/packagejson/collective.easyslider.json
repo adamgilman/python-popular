@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.560523", "required_by": ["collective.collage.easyslider", "sc.apyb.pythonbrasil6"], "requires": ["setuptools", "plone.app.z3cform"], "package": "collective.easyslider"}

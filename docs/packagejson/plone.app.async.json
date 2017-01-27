@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.862027", "required_by": ["eea.sparql", "ploneintranet", "eea.epub", "collective.cron", "eea.pdf", "collective.transcode.star"], "requires": ["setuptools", "zc.async", "zc.monitor", "zc.z3monitor", "five.intid", "zope.keyreference", "rwproperty", "simplejson", "zope.minmax"], "package": "plone.app.async"}

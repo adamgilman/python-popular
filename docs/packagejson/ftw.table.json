@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.733418", "required_by": ["ftw.contentpage", "ftw.publisher.sender", "izug.ticketbox", "ftw.tabbedview", "ftw.usermanagement", "ftw.notification.base"], "requires": ["Plone", "five.globalrequest", "ftw.upgrade", "setuptools"], "package": "ftw.table"}

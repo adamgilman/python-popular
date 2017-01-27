@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.891358", "required_by": ["pymal", "requests-middleware", "PySolarized"], "requires": ["requests"], "package": "httpcache"}

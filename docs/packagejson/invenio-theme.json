@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.647027", "required_by": ["cernopendata-theme", "invenio-base"], "requires": ["Flask", "Flask-BabelEx", "Flask-Breadcrumbs", "Flask-Menu", "invenio-assets", "invenio-i18n", "jsmin"], "package": "invenio-theme"}

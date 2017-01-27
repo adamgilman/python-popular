@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.956307", "required_by": ["pypugly", "zerotk.clikit"], "requires": ["six", "jaraco.windows", "zerotk.reraiseit"], "package": "zerotk.easyfs"}

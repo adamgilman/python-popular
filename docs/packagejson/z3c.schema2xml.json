@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.701966", "required_by": ["z3c.relationfieldui"], "requires": ["setuptools", "lxml", "grokcore.component", "zc.sourcefactory"], "package": "z3c.schema2xml"}

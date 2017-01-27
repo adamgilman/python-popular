@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.106944", "required_by": ["izug.ticketbox", "ftw.poodle"], "requires": ["Plone", "setuptools", "StoneageHTML", "BeautifulSoup", "ftw.journal", "ftw.notification.base"], "package": "ftw.notification.email"}

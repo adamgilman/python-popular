@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.856506", "required_by": ["pyobjc-framework-PreferencePanes"], "requires": ["py2app", "pyobjc-framework-Cocoa", "pyobjc-framework-PreferencePanes"], "package": "pyobjc-framework-PreferencePanes"}

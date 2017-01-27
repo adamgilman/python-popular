@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.437553", "required_by": ["agx.generator.dexterity"], "requires": ["setuptools", "agx.generator.zca", "agx.generator.buildout"], "package": "agx.generator.plone"}

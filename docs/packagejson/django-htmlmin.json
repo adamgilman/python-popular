@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.877347", "required_by": ["dry", "trackdeps", "django-swingers", "django-constant-contact", "django-smartspaceless", "railguns"], "requires": ["beautifulsoup4", "html5lib"], "package": "django-htmlmin"}

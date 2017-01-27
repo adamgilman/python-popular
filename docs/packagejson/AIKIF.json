@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.434180", "required_by": ["lifepim"], "requires": ["nose", "flask", "flask-httpauth", "flask-restful", "requests", "beautifulsoup4", "Pillow", "noise", "xlrd", "pyyaml", "psutil", "pycrypto"], "package": "AIKIF"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.020453", "required_by": ["medialog.mascutheme", "medialog.maritheme", "medialog.subskins", "Products.PloneTableless", "plonetheme.corporatevira"], "requires": ["setuptools"], "package": "plonetheme.classic"}

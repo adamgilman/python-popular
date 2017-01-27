@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.719962", "required_by": ["casexml", "receiver"], "requires": ["jsonobject-couchdbkit", "couchexport", "dimagi-utils", "django", "lxml", "restkit"], "package": "couchforms"}

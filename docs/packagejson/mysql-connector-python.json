@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.725154", "required_by": ["pyactiverecord", "mysql-autodoc", "DBcm", "miniorm", "sqlrest", "Pylatte", "jtalks-cicd", "TreeDB", "cloudstack-marvin", "GLAMS", "sentry-turbosms", "kvlayer_mysql"], "requires": [], "package": "mysql-connector-python"}

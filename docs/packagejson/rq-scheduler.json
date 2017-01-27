@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.659192", "required_by": ["django-redis-secure", "django_schedulermanager", "rq-scheduler-dashboard", "Flask-RQ2"], "requires": ["rq", "croniter"], "package": "rq-scheduler"}

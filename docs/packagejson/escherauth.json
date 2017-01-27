@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.794493", "required_by": ["httpie-ems-auth-p3", "httpie-ems-auth", "httpie-escher-auth"], "requires": ["requests"], "package": "escherauth"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.978550", "required_by": ["git-up-all"], "requires": ["GitPython", "colorama", "termcolor", "click", "six"], "package": "git-up"}

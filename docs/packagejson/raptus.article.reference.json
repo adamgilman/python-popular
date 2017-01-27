@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.015941", "required_by": ["raptus.article.default"], "requires": ["setuptools", "archetypes.schemaextender", "raptus.article.nesting"], "package": "raptus.article.reference"}

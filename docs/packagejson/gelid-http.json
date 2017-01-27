@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.190599", "required_by": ["gelid", "python-proxyip"], "requires": ["chardet"], "package": "gelid-http"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.027582", "required_by": ["Products.IntelliDateTime", "collective.pfg.soup"], "requires": ["setuptools", "pytz", "zope.interface"], "package": "bda.calendar.base"}

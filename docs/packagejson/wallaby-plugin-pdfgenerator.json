@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.303867", "required_by": ["wallaby-app-crm"], "requires": ["wallaby-base", "Cheetah"], "package": "wallaby-plugin-pdfgenerator"}

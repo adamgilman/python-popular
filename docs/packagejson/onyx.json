@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.868591", "required_by": ["agora.bloomberg"], "requires": ["onyx.core", "numpy", "scipy", "apscheduler", "argh", "tornado", "sqlalchemy"], "package": "onyx"}

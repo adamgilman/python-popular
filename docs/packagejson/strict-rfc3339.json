@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.926435", "required_by": ["Flask-Potion", "persist-stitch", "google-endpoints-api-management", "post-qa", "connexion", "activitystreams", "ocds-extension-tester", "nxsugarpy", "alchemyjsonschema", "skygear", "habitat"], "requires": [], "package": "strict-rfc3339"}

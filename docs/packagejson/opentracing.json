@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:39.263513", "required_by": ["django_opentracing", "jaeger-client", "basictracer", "opentracing_instrumentation", "Flask-OpenTracing"], "requires": ["futures"], "package": "opentracing"}

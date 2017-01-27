@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.689285", "required_by": ["sense2vec", "thinc", "spacy"], "requires": ["cymem"], "package": "preshed"}

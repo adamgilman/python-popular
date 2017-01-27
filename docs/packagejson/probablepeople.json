@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.783820", "required_by": ["inmatelocator", "dedupe-variable-name"], "requires": ["python-crfsuite", "probableparsing", "future", "doublemetaphone"], "package": "probablepeople"}

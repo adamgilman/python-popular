@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.337807", "required_by": ["clipsync", "array_to_latex", "passotp", "zenhest"], "requires": ["pyperclip"], "package": "clipboard"}

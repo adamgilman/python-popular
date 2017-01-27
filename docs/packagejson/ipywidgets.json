@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.672871", "required_by": ["notebookism-chicago", "sparkmagic", "mobilechelonian", "isambard", "qexpy", "em_examples", "hdijupyterutils", "stomatadetector", "genepattern-notebook", "snorkel_ie", "jupyter_sphinx", "calysto", "simplex-ext", "paramnb", "yuuno", "autovizwidget"], "requires": [], "package": "ipywidgets"}

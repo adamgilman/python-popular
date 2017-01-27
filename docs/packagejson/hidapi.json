@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.865460", "required_by": ["pymlab", "electric", "btchip-python", "plover", "trezor_agent", "ledgerblue", "python-u2flib-host", "keepkey", "CO2meter", "mcp2210", "clewareADC", "msikeys"], "requires": ["setuptools"], "package": "hidapi"}

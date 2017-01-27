@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.045001", "required_by": ["invenio-base"], "requires": ["Flask", "Flask-BabelEx", "dojson", "elasticsearch", "elasticsearch-dsl", "invenio-pidstore", "invenio-query-parser", "invenio-records", "invenio-search", "lxml", "marshmallow", "webargs"], "package": "invenio-oaiserver"}

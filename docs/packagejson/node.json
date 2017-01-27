@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.076082", "required_by": ["node.ext.template", "node.ext.uml", "yafowil", "agx.core", "pas.plugins.ldap", "node.ext.ugm", "node.ext.zodb", "collective.teaser", "node.ext.xml", "node.ext.directory"], "requires": ["setuptools", "odict", "plumber", "zope.lifecycleevent", "zope.deprecation", "zope.component"], "package": "node"}

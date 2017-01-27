@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:28.950072", "required_by": ["PyMeteostation"], "requires": ["hidapi"], "package": "pymlab"}

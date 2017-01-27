@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.385187", "required_by": ["pyperry"], "requires": ["erlastic", "insight-bert"], "package": "insight-bertrpc"}

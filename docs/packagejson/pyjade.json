@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.090906", "required_by": ["gdbgui", "Spray", "Yass", "Flask-TwitterBootstrap", "marcopolo-deployer", "marcobootstrap.backend", "jademagic", "FlaskEx", "yatank-online"], "requires": ["six"], "package": "pyjade"}

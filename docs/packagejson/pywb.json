@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.964407", "required_by": ["ipwb"], "requires": ["six", "chardet", "requests", "redis", "jinja2", "surt", "brotlipy", "pyyaml", "watchdog", "webencodings"], "package": "pywb"}

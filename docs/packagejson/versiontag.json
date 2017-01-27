@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.076048", "required_by": ["django-oscar-cch", "django-oscar-wfrs", "django-oscar-cybersource", "instrumented-soap", "django-oscar-bundles", "django-exact-target", "django-oscar-bluelight", "django-ups-tnt", "django-oscar-api-checkout"], "requires": [], "package": "versiontag"}

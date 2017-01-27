@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.874452", "required_by": ["tno.euphorie"], "requires": ["Plone", "Zope2", "AccessControl", "Products.PasswordResetTool", "Products.membrane", "collective.indexing", "SQLAlchemy", "decorator", "py-bcrypt", "five.grok"], "package": "Euphorie"}

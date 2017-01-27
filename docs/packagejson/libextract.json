@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.270414", "required_by": ["metadoc"], "requires": ["lxml", "statscounter"], "package": "libextract"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.310364", "required_by": ["testrepository", "fixtures2", "rabbitfixture", "lazr.batchnavigator", "pgbouncer", "zope_fixtures", "daemonfixture", "djangofixture", "txlongpollfixture", "treeshape"], "requires": ["pbr"], "package": "fixtures"}

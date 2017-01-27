@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.742679", "required_by": ["reddcoin-electrum-server", "x84", "Legobot", "pyborg", "thealot", "Py-IrcBot", "irc-pyhole", "basebot", "wishbone_input_irc", "irccat3", "mtirc", "Gnotty", "loads", "pugbot_ng", "pytwitcherapi", "cobe", "HanabIRC", "mediorc", "kaoz", "gitnotifs", "giotto"], "requires": [], "package": "irc"}

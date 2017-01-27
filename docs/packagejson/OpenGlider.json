@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.477195", "required_by": ["freecad_glider"], "requires": ["dxfwrite", "ezodf2", "svgwrite", "numpy", "ezdxf"], "package": "OpenGlider"}

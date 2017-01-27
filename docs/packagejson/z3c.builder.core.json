@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.760069", "required_by": ["z3c.feature.zope", "z3c.feature.core", "z3c.boiler"], "requires": [], "package": "z3c.builder.core"}

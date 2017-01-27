@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.905504", "required_by": ["screen-recording", "pyobjc-framework-Quartz"], "requires": ["py2app", "pyobjc-framework-Cocoa", "pyobjc-framework-Quartz"], "package": "pyobjc-framework-Quartz"}

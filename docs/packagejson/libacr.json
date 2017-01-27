@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.606950", "required_by": ["acr"], "requires": ["feedparser", "tw.jquery", "tw.dynforms", "BeautifulSoup", "PIL", "sprox", "turbomail", "TurboGears2", "Babel", "SQLAlchemy", "zope.sqlalchemy", "repoze.tm2"], "package": "libacr"}

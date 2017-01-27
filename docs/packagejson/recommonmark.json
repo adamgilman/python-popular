@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.058223", "required_by": ["sphinxcontrib-apiblueprint", "isambard", "jupyter-sphinx-theme", "pypond", "db4sphinx", "readthedocs-build"], "requires": ["commonmark", "docutils"], "package": "recommonmark"}

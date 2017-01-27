@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.432204", "required_by": ["Flask-Imagine-GoogleAdapter", "Flask-Imagine-S3Adapter", "Flask-Imagine-AzureAdapter", "Flask-Imagine-RackspaceAdapter"], "requires": ["Flask", "itsdangerous", "Pillow", "six"], "package": "Flask-Imagine"}

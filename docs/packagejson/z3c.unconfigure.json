@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.588711", "required_by": ["ftw.solr", "pspolicy.homes4.base", "collective.videolink", "dexterity.localrolesfield", "collective.portletmetadata", "edeposit.user", "platocdp.policy", "collective.venue"], "requires": ["setuptools", "zope.configuration", "zope.component"], "package": "z3c.unconfigure"}

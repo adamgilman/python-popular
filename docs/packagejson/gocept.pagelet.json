@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.592999", "required_by": ["icemac.addressbook"], "requires": ["setuptools", "zope.interface", "zope.component", "zope.publisher", "zope.viewlet", "z3c.template", "z3c.pagelet", "zope.browsermenu", "zope.browserpage"], "package": "gocept.pagelet"}

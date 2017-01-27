@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.049926", "required_by": ["varify"], "requires": ["django", "south", "python-memcached", "coverage", "rq", "django-rq", "psycopg2", "avocado", "modeltree", "django-objectset", "django-sts", "django-reversion", "django-guardian", "diff-match-patch", "pyvcf"], "package": "vdw"}

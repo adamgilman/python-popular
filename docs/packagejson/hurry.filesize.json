@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.751365", "required_by": ["ussclicore", "xmldirector.plonecore", "replayer", "vkd", "python3-wget", "rvo", "zopyx.existdb", "ipynbcompress", "linsharecli"], "requires": ["setuptools"], "package": "hurry.filesize"}

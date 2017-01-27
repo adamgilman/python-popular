@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.734744", "required_by": ["ribosome", "series", "tek-utils", "proteome", "golgi", "tek", "myo"], "requires": ["fn", "toolz", "lenses"], "package": "amino"}

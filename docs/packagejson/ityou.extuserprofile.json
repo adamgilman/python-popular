@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.516288", "required_by": ["ityou.ESI"], "requires": ["setuptools", "ityou.esi.theme", "plone.api", "sqlalchemy", "psycopg2", "collective.monkeypatcher", "collective.monkeypatcherpanel", "collective.js.jqueryui"], "package": "ityou.extuserprofile"}

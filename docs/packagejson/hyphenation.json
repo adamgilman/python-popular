@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.372537", "required_by": ["scriptrender"], "requires": ["setuptools", "guesslanguage"], "package": "hyphenation"}

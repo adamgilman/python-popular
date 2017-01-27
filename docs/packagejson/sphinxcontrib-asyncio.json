@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.931662", "required_by": ["aiospamc"], "requires": ["sphinx"], "package": "sphinxcontrib-asyncio"}

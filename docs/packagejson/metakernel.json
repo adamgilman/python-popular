@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.436911", "required_by": ["calysto_processing", "metakernel_echo", "metakernel_bash", "calysto_scheme", "skulpt_python", "gmplnotebook", "calysto_prolog", "metakernel_python", "SAS_kernel", "calysto_chatbot", "calysto", "metakernel", "gnuplot_kernel"], "requires": ["metakernel"], "package": "metakernel"}

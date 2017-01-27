@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.607828", "required_by": ["akamaikickstart", "akcli"], "requires": ["requests", "pyopenssl", "ndg-httpsclient", "pyasn1", "urllib3"], "package": "edgegrid-python"}

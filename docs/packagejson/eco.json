@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.346410", "required_by": ["django-spine", "django-pipeline-eco"], "requires": ["CoffeeScript", "six"], "package": "eco"}

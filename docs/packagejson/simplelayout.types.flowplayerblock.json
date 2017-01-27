@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.901217", "required_by": ["onegov.edu"], "requires": ["setuptools", "simplelayout.base", "collective.flowplayer", "ftw.upgrade"], "package": "simplelayout.types.flowplayerblock"}

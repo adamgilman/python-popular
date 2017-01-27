@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:36.086585", "required_by": ["repoze.bfg.htmlpage", "repoze.bfg.layouts"], "requires": ["setuptools", "chameleon.core", "lxml", "repoze.cssutils", "zope.component", "zope.i18n", "zope.interface"], "package": "chameleon.html"}

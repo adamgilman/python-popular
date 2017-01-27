@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.068858", "required_by": ["saba"], "requires": ["numpy", "six"], "package": "sherpa"}

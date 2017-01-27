@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.170545", "required_by": ["Mopidy-Youtube", "amp-player", "django-youtube-thumbnail", "YtbDwn", "audioscrape", "gideonai", "ytdown", "mps-youtube", "youtube-audio-downloader", "mashdown"], "requires": [], "package": "pafy"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.865472", "required_by": ["roboticia-horse", "heol-humanoid", "roboticia-first", "poppy-4dof-arm-mini", "poppy-torso", "poppy-ergo"], "requires": ["pypot", "bottle", "tornado", "ikpy"], "package": "poppy-creature"}

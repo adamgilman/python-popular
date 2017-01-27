@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.564251", "required_by": ["pyemir", "megaradrp"], "requires": ["numpy"], "package": "numina"}

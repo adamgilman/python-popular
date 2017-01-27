@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.897104", "required_by": ["hitchpostgres", "hitchnode", "hitchelasticsearch", "hitchmemcache", "hitchhttp", "hitchmysql", "hitchcli", "hitchrabbit", "hitchs3", "hitchpython"], "requires": ["click", "jinja2", "pyyaml", "ipython", "colorama", "psutil", "patool", "pykwalify", "unixpackage", "path.py", "commandlib"], "package": "hitchtest"}

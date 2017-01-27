@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.535408", "required_by": ["nose-traggr"], "requires": ["requests"], "package": "traggr-api-client"}

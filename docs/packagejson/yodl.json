@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.335669", "required_by": ["docker-compose-swarm-mode"], "requires": ["PyYAML"], "package": "yodl"}

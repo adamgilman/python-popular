@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.943106", "required_by": ["elephant", "NeuroUnits", "OpenElectrophy", "spykeutils", "semantic", "sciunit", "django-unitology", "exodata", "terapy", "pyfas", "gnodeclient", "python-odmltables", "neo", "OECPy", "pyhis", "pycse", "rabacus"], "requires": ["python", "numpy"], "package": "quantities"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.744297", "required_by": ["beard-server"], "requires": ["jellyfish", "numpy", "scipy", "scikit-learn", "six", "unidecode"], "package": "beard"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.004969", "required_by": ["Eve-ElasticSearch", "eReuse-DeviceHub", "Eve-Statsd", "eve-auth-jwt", "Superdesk-Core"], "requires": [], "package": "eve"}

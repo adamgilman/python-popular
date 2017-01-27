@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:31.812698", "required_by": ["Flask-Locale", "Flask-BabelEx", "aiohttp-babel", "Flask-ICU", "Flask-BabelPkg", "Tornado-Babel", "pltk", "sf-babel", "Flask-BabelPlus", "frasco", "Flask-Babeled", "Nereid", "onyxbabel", "Flask-Babel2", "trytond_nereid", "tw2.core", "invenio-assets", "palmer"], "requires": [], "package": "speaklater"}

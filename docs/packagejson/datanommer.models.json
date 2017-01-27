@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:25.206474", "required_by": ["datanommer.commands", "datanommer.consumer", "fmn.web", "datanommer"], "requires": ["sqlalchemy", "fedmsg", "alembic"], "package": "datanommer.models"}

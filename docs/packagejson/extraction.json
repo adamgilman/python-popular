@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:24.780696", "required_by": ["summary-extraction"], "requires": ["beautifulsoup4", "html5lib"], "package": "extraction"}

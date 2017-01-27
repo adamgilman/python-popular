@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.406326", "required_by": ["fermipy", "skyarea", "mwdust", "breaker", "dustmaps", "ugali", "dmsky", "PAL2", "NPTFit", "hpproj", "drizzlib", "qubic", "MLZ", "SWHT"], "requires": [], "package": "healpy"}

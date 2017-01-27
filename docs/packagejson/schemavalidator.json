@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:30.739390", "required_by": ["shampoo"], "requires": ["jsonschema", "requests"], "package": "schemavalidator"}

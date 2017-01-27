@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.436344", "required_by": ["trezor_agent", "stellar-py", "stellar-base"], "requires": [], "package": "ed25519"}

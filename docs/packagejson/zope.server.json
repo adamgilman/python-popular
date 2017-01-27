@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.887319", "required_by": ["zope.app.server", "zc.zkzopeserver", "zc.zservertracelog", "txpkgupload"], "requires": ["setuptools", "zope.interface", "zope.publisher", "zope.security"], "package": "zope.server"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.838976", "required_by": ["openapscontrib.predict", "openapscontrib.glucosetools", "openapscontrib.mmhistorytools"], "requires": [], "package": "openaps"}

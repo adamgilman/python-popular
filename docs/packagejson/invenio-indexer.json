@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.899428", "required_by": ["invenio-communities", "invenio-openaire", "invenio-opendefinition", "invenio-base"], "requires": ["Flask", "Flask-CeleryExt", "invenio-records", "invenio-search", "pytz"], "package": "invenio-indexer"}

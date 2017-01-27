@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.091676", "required_by": ["varify"], "requires": ["pytz", "rq", "Django"], "package": "django-rq-dashboard"}

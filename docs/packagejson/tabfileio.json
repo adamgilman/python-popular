@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:35.095512", "required_by": ["tsviewer"], "requires": ["numpy", "xlrd", "xlwt", "openpyxl", "h5py"], "package": "tabfileio"}

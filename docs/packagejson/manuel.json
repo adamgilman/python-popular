@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.149255", "required_by": ["docsix", "tl.testing", "zc.recipe.macro", "hexagonit.testing", "bobodoctestumentation", "hexagonit.portletstyle", "zc.wsgidriver", "manuelpi.fakemodule", "hexagonit.virtualgallery"], "requires": ["setuptools", "six"], "package": "manuel"}

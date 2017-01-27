@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.813138", "required_by": ["graf-errorfill"], "requires": ["matplotlib", "configobj", "future"], "package": "mpltools"}

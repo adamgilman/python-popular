@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.699874", "required_by": ["tahoe"], "requires": ["umemcache"], "package": "python-ultramemcached"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:38.847409", "required_by": ["maec-to-stix", "cti-toolkit", "misp-stix-converter", "stix", "maec"], "requires": ["lxml", "mixbox", "python-dateutil"], "package": "cybox"}

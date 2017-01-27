@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:34.733965", "required_by": ["ftw.notification.email", "collective.dancing"], "requires": ["setuptools", "BeautifulSoup", "cssutils"], "package": "StoneageHTML"}

@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:26.898507", "required_by": ["dipole_error", "phoebe", "threeML", "BicycleParameters"], "requires": [], "package": "uncertainties"}

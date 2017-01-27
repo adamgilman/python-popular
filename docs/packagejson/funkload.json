@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:33.150355", "required_by": ["wight", "anybox.funkload.openerp", "funkload-friendly", "rockload", "benchmaster", "collective.funkload"], "requires": ["webunit", "docutils", "setuptools"], "package": "funkload"}

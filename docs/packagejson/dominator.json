@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:32.179426", "required_by": ["obedient.exim", "obedient.gns"], "requires": ["docker-py", "mako", "colorama", "click", "mergedict", "tabloid"], "package": "dominator"}

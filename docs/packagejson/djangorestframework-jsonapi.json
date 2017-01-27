@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:29.167838", "required_by": ["shuup-jsonapi"], "requires": ["inflection", "djangorestframework", "django"], "package": "djangorestframework-jsonapi"}

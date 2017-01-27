@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:27.797643", "required_by": ["cuav", "dronekit-textmessaging", "flyingrhino", "dronekit", "droneapi"], "requires": [], "package": "pymavlink"}

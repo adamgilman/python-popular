@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.718874", "required_by": ["silva.pageactions.pdf"], "requires": ["setuptools", "silva.core.views", "silva.pageactions.base", "five.grok", "megrok.chameleon"], "package": "silva.pageactions.printfriendly"}

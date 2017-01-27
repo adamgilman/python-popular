@@ -1,0 +1,1 @@
+{"generated_at": "2017-01-27T09:37:37.913136", "required_by": ["django-in-request-cache", "django-vcs-watch"], "requires": [], "package": "django-globals"}
