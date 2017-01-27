@@ -73,7 +73,7 @@
                     
                     li_replace = "";
                     for (var p in data['required_by']){
-                        li_replace += "<li><a href='/package/?"+data['required_by'][p]+"'>"+data['required_by'][p]+"</li>"
+                        li_replace += "<li><a href='{{site.url}}/package/?"+data['required_by'][p]+"'>"+data['required_by'][p]+"</li>"
                     }
                     template = template.replace("%LI%", li_replace);
 
