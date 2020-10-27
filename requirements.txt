@@ -3,7 +3,7 @@ backports-abc==0.5
 backports.ssl-match-hostname==3.5.0.1
 certifi==2016.9.26
 cffi==1.9.1
-cryptography==1.7.1
+cryptography==3.2
 docutils==0.13.1
 enum34==1.1.6
 idna==2.2
